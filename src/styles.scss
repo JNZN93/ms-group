@@ -274,7 +274,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar {
   margin-bottom: 0;
-  background-color: #ffffff04;
+  background-color: #000000e7;
   padding: 20px 0;
 }
 
@@ -461,6 +461,9 @@ a:hover, a:active, a:focus {
 .project-item img {
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
+  object-fit: cover;
+  width: 600px;
+  height: 400px;
 }
 .project-item:hover img {
   transform: scale(1.1);
