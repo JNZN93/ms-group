@@ -88,7 +88,7 @@ p {
   font-weight: normal;
   letter-spacing: 0.5px;
   padding: 0 25px;
-  background: #4dc47d;
+  background: #c38a25;
   border-radius: 1px;
   -webkit-transition: -webkit-transform 0.3s;
   -moz-transition: -moz-transform 0.3s;
@@ -261,7 +261,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar {
   margin-bottom: 0;
-  background-color: #ffffff;
+  background-color: #ffffff09;
   padding: 20px 0;
 }
 
@@ -269,6 +269,7 @@ a:hover, a:active, a:focus {
   color: #ffffff;
   font-weight: normal;
   font-size: 25px;
+  padding: 0 !important;
 
   img {
     width: 100px;
@@ -327,7 +328,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-  background: #000000;
+  background: #ffffff;
   border-color: transparent;
 }
 
