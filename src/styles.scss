@@ -72,6 +72,7 @@ p {
 
 .section-btn a,
 .section-btn button {
+  margin-right: 12px;
   line-height: 45px;
   -webkit-perspective: 1000px;
   -moz-perspective: 1000px;
@@ -88,7 +89,10 @@ p {
   font-weight: normal;
   letter-spacing: 0.5px;
   padding: 0 25px;
-  background: #c38a25;
+  width: 200px;
+  text-align: center;
+  background: #2a5668;
+  margin-bottom: 12px;
   border-radius: 1px;
   -webkit-transition: -webkit-transform 0.3s;
   -moz-transition: -moz-transform 0.3s;
@@ -108,7 +112,7 @@ p {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #000000;
+  background: #c38a25;
   border-radius: 1px;
   color: #ffffff;
   padding: 0 25px;
@@ -139,12 +143,21 @@ p {
 
 .csstransforms3d .section-btn button:hover span::before,
 .csstransforms3d .section-btn button:hover span::before {
-  background: #000000;  
+  background: #c38a25;  
+}
+
+@media(max-width:453px) {
+  .section-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
 }
 
 
 /*---------------------------------------
-  GENERAL               
+  GENERAL              
 -----------------------------------------*/
 
 html{
@@ -292,7 +305,7 @@ a:hover, a:active, a:focus {
 .custom-navbar .navbar-nav > li > a:hover,
 .custom-navbar .navbar-nav > li > a:focus {
   background-color: transparent;
-  color: #5a5a5a;
+  color: #c38a25;
 }
 
 .custom-navbar .navbar-nav li a:after {
