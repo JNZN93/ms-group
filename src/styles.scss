@@ -234,7 +234,7 @@ a:hover, a:active, a:focus {
   flex-flow: row nowrap;
   justify-content: center;
   align-items: center;
-  background: none repeat scroll 0 0 #ffffff;
+  background: none repeat scroll 0 0 #000000;
 }
 
 .spinner {
@@ -274,7 +274,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar {
   margin-bottom: 0;
-  background-color: #ffffff09;
+  background-color: #ffffff04;
   padding: 20px 0;
 }
 
@@ -350,7 +350,7 @@ a:hover, a:active, a:focus {
     background: 0 0; 
   }
   .custom-navbar.top-nav-collapse {
-    background: #4dc47d;
+    background-color: #000000e7;
     padding: 15px 0;
   }
 }
