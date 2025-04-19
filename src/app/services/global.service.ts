@@ -1,4 +1,10 @@
-const products = [
+import { Injectable } from '@angular/core';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class GlobalService {
+  products = [
     {
       brand: "Somero",
       products: [
@@ -322,3 +328,8 @@ const products = [
     }
   ];
 
+
+  constructor() { }
+
+  
+}
