@@ -1,8 +1,9 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
+import { AboutComponent } from "../about/about.component";
 
 @Component({
   selector: 'app-hero-section',
-  imports: [],
+  imports: [AboutComponent],
   templateUrl: './hero-section.component.html',
   styleUrl: './hero-section.component.scss'
 })
