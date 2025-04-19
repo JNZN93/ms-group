@@ -11,6 +11,7 @@ export class GlobalService {
         {
           name: "S-485 Laser Screed",
           image: "images/hersteller/somero/somero1.jpg",
+          description: "Kompakter Laser Screed für kleinere bis mittlere Flächen mit hoher Ebenheit.",
           models: [
             {
               code: "S485-GX390",
@@ -28,6 +29,7 @@ export class GlobalService {
         {
           name: "S-22EZ Laser Screed",
           image: "images/hersteller/somero/somero2.jpg",
+          description: "Hochleistungs-Screed für große Betonflächen mit effizienter Steuerung und präziser Nivellierung.",
           models: [
             {
               code: "S22EZ-KD1000",
@@ -45,6 +47,7 @@ export class GlobalService {
         {
           name: "CopperHead XD 3.0",
           image: "images/hersteller/somero/somero3.jpg",
+          description: "Leichtes und wendiges Modell für schmale Bereiche und kleine Baustellen.",
           models: [
             {
               code: "CHXD3-H390",
@@ -62,6 +65,7 @@ export class GlobalService {
         {
           name: "S-158C Laser Screed",
           image: "images/hersteller/somero/somero4.jpg",
+          description: "Leistungsstarke Maschine für große Betonflächen – ideal für industrielle Projekte.",
           models: [
             {
               code: "S158C-D902",
@@ -79,6 +83,7 @@ export class GlobalService {
         {
           name: "Mini Screed C",
           image: "images/hersteller/somero/somero5.jpg",
+          description: "Kompakte Lösung für präzises Arbeiten in engen Räumen mit manueller Bedienung.",
           models: [
             {
               code: "MSC-G390",
@@ -96,6 +101,7 @@ export class GlobalService {
         {
           name: "S-10A Laser Screed",
           image: "images/hersteller/somero/somero2.jpg",
+          description: "Kraftvolles Modell für mittlere bis große Flächen – elektrisch gestartet für mehr Komfort.",
           models: [
             {
               code: "S10A-K1005",
@@ -118,6 +124,7 @@ export class GlobalService {
         {
           name: "BT900 Ride-On Trowel",
           image: "images/hersteller/barikell/barikell1.jpg",
+          description: "Fahrbare Glättmaschine für professionelles Finish großer Flächen – kraftvoll und komfortabel.",
           models: [
             {
               code: "BT900-H",
@@ -135,6 +142,7 @@ export class GlobalService {
         {
           name: "BT1200 Twin Rotor",
           image: "images/hersteller/barikell/barikell2.jpg",
+          description: "Zwillingsrotor-Glätter für maximale Flächenleistung mit kraftvollem Dieselantrieb.",
           models: [
             {
               code: "BT1200-KD",
@@ -152,6 +160,7 @@ export class GlobalService {
         {
           name: "BT75 Walk-Behind",
           image: "images/hersteller/barikell/barikell3.jpg",
+          description: "Handgeführte Maschine für mittlere Flächen – zuverlässig und einfach zu bedienen.",
           models: [
             {
               code: "BT75-GX270",
@@ -169,6 +178,7 @@ export class GlobalService {
         {
           name: "BT60 Walk-Behind",
           image: "images/hersteller/barikell/barikell4.jpg",
+          description: "Kleine, robuste Glättmaschine für enge und schwer zugängliche Bereiche.",
           models: [
             {
               code: "BT60-GX200",
@@ -186,6 +196,7 @@ export class GlobalService {
         {
           name: "BT100 Dual Trowel",
           image: "images/hersteller/barikell/barikell1.jpg",
+          description: "Doppelteller-Glättmaschine für professionelle Ergebnisse bei mittleren bis großen Flächen.",
           models: [
             {
               code: "BT100-KH",
@@ -203,6 +214,7 @@ export class GlobalService {
         {
           name: "BT Compact Ride-On",
           image: "images/hersteller/barikell/barikell2.jpg",
+          description: "Kompakte Aufsitzmaschine für exaktes Arbeiten auf engem Raum – ideal für Innenbereiche.",
           models: [
             {
               code: "BTC-HG390",
@@ -225,6 +237,7 @@ export class GlobalService {
         {
           name: "CRT36 Ride-On Trowel",
           image: "images/hersteller/husqvarna/husqvarna1.webp",
+          description: "Komfortable Aufsitz-Glättmaschine mit starkem Motor für großflächige Arbeiten.",
           models: [
             {
               code: "CRT36-GX690",
@@ -242,6 +255,7 @@ export class GlobalService {
         {
           name: "CRT48 Power Trowel",
           image: "images/hersteller/husqvarna/husqvarna2.webp",
+          description: "Leistungsstarke Lösung für hohe Produktivität auf Großbaustellen mit Dieselantrieb.",
           models: [
             {
               code: "CRT48-KD750",
@@ -259,6 +273,7 @@ export class GlobalService {
         {
           name: "CT48 Walk-Behind",
           image: "images/hersteller/husqvarna/husqvarna3.webp",
+          description: "Robuste Maschine mit großem Rotordurchmesser für effizientes Arbeiten.",
           models: [
             {
               code: "CT48-GX390",
@@ -276,6 +291,7 @@ export class GlobalService {
         {
           name: "CT36 Walk-Behind",
           image: "images/hersteller/husqvarna/husqvarna2.webp",
+          description: "Kompakte handgeführte Glättmaschine für kleinere bis mittlere Flächen.",
           models: [
             {
               code: "CT36-GX270",
@@ -293,6 +309,7 @@ export class GlobalService {
         {
           name: "BG375 Trowel",
           image: "images/hersteller/husqvarna/husqvarna1.webp",
+          description: "Einsteigerfreundlich, leicht und wendig – ideal für kleine Flächen und Reparaturarbeiten.",
           models: [
             {
               code: "BG375-GX200",
@@ -310,6 +327,7 @@ export class GlobalService {
         {
           name: "CRT60 Hydraulic Trowel",
           image: "images/hersteller/husqvarna/husqvarna3.webp",
+          description: "Hydraulisch betriebene High-End-Glättmaschine für industrielle Anforderungen.",
           models: [
             {
               code: "CRT60-HYD-KD1000",

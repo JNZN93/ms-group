@@ -1,0 +1,68 @@
+section {
+    width: 100%;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.karte {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 16px;
+    width: 300px;
+    height: 500px;
+    /* feste Höhe für ALLE Karten */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.karte-content {
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    /* wie viele Zeilen du erlaubst */
+    -webkit-box-orient: vertical;
+
+    p {
+        font-size: 14px;
+    }
+}
+
+.karte img {
+    max-width: 100%;
+    border-radius: 8px;
+    height: 180px;
+    object-fit: cover;
+    margin-bottom: 12px;
+}
+
+.karte-footer {
+    margin-top: 16px;
+}
+
+.karte button {
+    margin-top: 10px;
+    background: #c38a25;
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 100%;
+}
+
+.karte button:hover {
+    background: #c0903d;
+}

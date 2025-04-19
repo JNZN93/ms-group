@@ -1,1 +1,16 @@
-
+<section>
+    @for (product of this.globalService.products[0].products; track $index) {
+      <div class="karte">
+        <img [src]="product.image" />
+        <div class="karte-content">
+          <h2>{{ product.name }}</h2>
+          <p>{{ product.description }}</p>
+        </div>
+        <div class="karte-footer">
+          <h3>Preis Anfragen</h3>
+          <button>Kaufen</button>
+        </div>
+      </div>
+    }
+  </section>
+  
