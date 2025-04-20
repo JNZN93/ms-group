@@ -18,7 +18,7 @@ export class ProductPageComponent {
   brandProducts: any[] = [];
   selectedProduct: any = null;
   selectedVariant: string = '';
-
+  quantity: number = 1;
 
   constructor(
     public globalService:GlobalService,
@@ -42,7 +42,6 @@ export class ProductPageComponent {
   }
 
   openModal(product:any) {
-    console.log(product)
     this.selectedProduct = product;
     this.selectedVariant = product.models?.[0] || null; // ← erstes Modell vorauswählen
     $('#myModal').modal('show');
@@ -55,6 +54,29 @@ export class ProductPageComponent {
 
   get selectedModel() {
     return this.selectedProduct?.models.find((m:any) => m.code === this.selectedVariant);
+  }
+
+  decreaseQuantity() {
+    if (this.quantity == 0) {
+      return;
+    }
+      this.quantity -= 1
+  }
+
+  increaseQuantity() {
+    this.quantity += 1
+  }
+
+  resetQuantity() {
+    this.quantity = 1;
+  }
+
+  addToCart(selectedModel:string, quantity:number):void {
+    console.log(selectedModel, quantity)
+    // Add to Cart Logic todo
+    localStorage.setItem('cartItems', selectedModel)
+    // quantity leeren
+    this.quantity = 1;
   }
   
 

@@ -23,6 +23,50 @@ export class GlobalService {
               start: "Manual",
               fuel_type: "Gasoline",
               weight_kg: 120
+            },
+            {
+              code: "S485-GX420",
+              engine: "Honda GX420",
+              rotor_diameter_cm: 95,
+              blade_count: 5,
+              output_speed_rpm: 160,
+              power_hp: 14,
+              start: "Manual",
+              fuel_type: "Gasoline",
+              weight_kg: 130
+            },
+            {
+              code: "S485-GX530",
+              engine: "Honda GX530",
+              rotor_diameter_cm: 100,
+              blade_count: 5,
+              output_speed_rpm: 170,
+              power_hp: 16,
+              start: "Electric",
+              fuel_type: "Gasoline",
+              weight_kg: 140
+            },
+            {
+              code: "S485-GX610",
+              engine: "Honda GX610",
+              rotor_diameter_cm: 105,
+              blade_count: 6,
+              output_speed_rpm: 180,
+              power_hp: 18,
+              start: "Electric",
+              fuel_type: "Gasoline",
+              weight_kg: 150
+            },
+            {
+              code: "S485-GX660",
+              engine: "Honda GX660",
+              rotor_diameter_cm: 110,
+              blade_count: 6,
+              output_speed_rpm: 190,
+              power_hp: 20,
+              start: "Electric",
+              fuel_type: "Gasoline",
+              weight_kg: 160
             }
           ]
         },
@@ -41,8 +85,64 @@ export class GlobalService {
               start: "Electric",
               fuel_type: "Diesel",
               weight_kg: 1450
+            },
+            {
+              code: "S22EZ-KD2000",
+              engine: "Kubota D1105",
+              rotor_diameter_cm: 125,
+              blade_count: 6,
+              output_speed_rpm: 135,
+              power_hp: 26.5,
+              start: "Electric",
+              fuel_type: "Diesel",
+              weight_kg: 1500
+            },
+            {
+              code: "S22EZ-KD3000",
+              engine: "Kubota D1503",
+              rotor_diameter_cm: 130,
+              blade_count: 7,
+              output_speed_rpm: 140,
+              power_hp: 30.0,
+              start: "Electric",
+              fuel_type: "Diesel",
+              weight_kg: 1600
+            },
+            {
+              code: "S22EZ-KD4000",
+              engine: "Kubota D1503",
+              rotor_diameter_cm: 135,
+              blade_count: 8,
+              output_speed_rpm: 145,
+              power_hp: 32.0,
+              start: "Electric",
+              fuel_type: "Diesel",
+              weight_kg: 1700
+            },
+            {
+              code: "S22EZ-KD5000",
+              engine: "Kubota V1505",
+              rotor_diameter_cm: 140,
+              blade_count: 9,
+              output_speed_rpm: 150,
+              power_hp: 35.0,
+              start: "Electric",
+              fuel_type: "Diesel",
+              weight_kg: 1800
+            },
+            {
+              code: "S22EZ-KD6000",
+              engine: "Kubota V1505",
+              rotor_diameter_cm: 145,
+              blade_count: 10,
+              output_speed_rpm: 155,
+              power_hp: 38.5,
+              start: "Electric",
+              fuel_type: "Diesel",
+              weight_kg: 1900
             }
           ]
+          
         },
         {
           name: "CopperHead XD 3.0",

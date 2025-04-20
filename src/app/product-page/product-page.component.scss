@@ -73,3 +73,35 @@ section {
     margin: 5% auto;
   }
   
+ 
+  /* Flexbox Layout für die Menge und den Warenkorb-Button */
+/* Flexbox Layout für die Menge und den Warenkorb-Button */
+.d-flex {
+    display: flex;
+  }
+  
+  .align-items-center {
+    align-items: center;
+  }
+  
+  .justify-content-between {
+    justify-content: space-between;
+  }
+  
+  .quantity-controls button,
+  .quantity-controls input {
+    width: 70px; /* Gleiche Breite wie die Buttons */
+    height: 40px; /* Gleiche Höhe wie die Buttons */
+    text-align: center; /* Text im Input zentrieren */
+  }
+  
+  .quantity-controls input {
+    -webkit-appearance: none; /* Verhindert die Standardanzeige von Input-Feldern in einigen Browsern */
+    -moz-appearance: textfield; /* Für Firefox */
+  }
+  
+  .btn {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
