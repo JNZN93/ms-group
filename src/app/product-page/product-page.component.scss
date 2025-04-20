@@ -66,3 +66,10 @@ section {
 .karte button:hover {
     background: #c0903d;
 }
+
+.modal-fullscreen-custom {
+    max-width: 100%;
+    width: 60vw; /* oder 100vw, wenn wirklich full */
+    margin: 5% auto;
+  }
+  
