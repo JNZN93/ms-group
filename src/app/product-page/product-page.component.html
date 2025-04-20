@@ -1,15 +1,18 @@
 <section>
-    @for (product of this.globalService.products[0].products; track $index) {
+  @if (brandProducts.length > 0) {
+    @for (product of brandProducts; track $index) {
       <div class="karte">
         <img [src]="product.image" />
         <div class="karte-content">
           <h2>{{ product.name }}</h2>
-          <p>{{ product.description }}</p>
+          <p>{{ product.description || 'Kein Beschreibungstext verfügbar.' }}</p>
         </div>
         <div class="karte-footer">
           <button>Details</button>
         </div>
       </div>
     }
-  </section>
-  
+  } @else {
+    <p>Keine Produkte für "{{ selectedBrand }}" gefunden.</p>
+  }
+</section>
