@@ -1,0 +1,140 @@
+/* Container */
+.cart-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 24px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+  .cart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .close-button {
+    width: 100%;
+    text-align: end;
+    background: none;
+    border: none;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #888;
+  }
+  
+  .close-button:hover {
+    color: #d00;
+  }
+  
+  
+  /* Überschrift */
+  .cart-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 24px;
+  }
+  
+  /* Einzelnes Cart Item */
+  .cart-item {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+  }
+  
+  /* Produktbild */
+  .item-image {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-right: 16px;
+  }
+  
+  /* Produktdetails */
+  .item-details {
+    flex: 1;
+  }
+  
+  .item-name {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+  }
+  
+  .item-price {
+    color: #666;
+    margin: 4px 0;
+  }
+  
+  /* Anzahl ändern */
+  .item-quantity {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+  }
+  
+  .item-quantity button {
+    width: 30px;
+    height: 30px;
+    background-color: #eee;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .item-quantity span {
+    margin: 0 10px;
+    width: 30px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  /* Entfernen-Button */
+  .remove-button {
+    background: none;
+    border: none;
+    color: #d00;
+    cursor: pointer;
+    margin-left: 12px;
+    font-weight: bold;
+  }
+  
+  .remove-button:hover {
+    text-decoration: underline;
+  }
+  
+  /* Gesamtpreis & Kasse */
+  .cart-total {
+    text-align: right;
+    margin-top: 32px;
+  }
+  
+  .checkout-button {
+    margin-top: 12px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .checkout-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Wenn leer */
+  .empty-message {
+    text-align: center;
+    color: #888;
+    font-size: 16px;
+  }
+  

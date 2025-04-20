@@ -3,3 +3,21 @@
 .nav-center {
     align-items: center;
 }
+
+.nav-link {
+    cursor: pointer;
+}
+
+.cart-overlay {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 400px;
+    height: 100%;
+    background-color: #fff;
+    box-shadow: -4px 0 12px rgba(0,0,0,0.2);
+    z-index: 1031;
+    padding: 20px;
+    overflow-y: auto;
+  }
+  
