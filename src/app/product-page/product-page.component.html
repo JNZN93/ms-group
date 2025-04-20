@@ -31,37 +31,43 @@
 
       <div class="modal-body">
         <div class="row">
-          <!-- Bild -->
-          <div class="col-md-5">
-            <img style="width: 300px; height: 200px;" src="{{selectedProduct?.image}}" alt="Produktbild" class="img-fluid">
-          </div>
+            <!-- Bild -->
+            <div class="col-md-5">
+              <img style="width: 300px; height: 200px;" src="{{selectedProduct?.image}}" alt="Produktbild" class="img-fluid">
+            </div>
 
-          <!-- Beschreibung & Auswahl -->
-          <div class="col-md-7">
-            <p>
-              {{selectedProduct?.description}}
-            </p>
+            <!-- Beschreibung & Auswahl -->
+            <div class="col-md-7">
+              <p>
+                {{selectedProduct?.description}}
+              </p>
 
-            <!-- Drop Down Variante-->
-            @if (selectedProduct?.models?.length) {
-              <div class="form-group">
-                <label for="produktVariante">Variante auswählen:</label>
-                <select class="form-control" id="produktVariante" [(ngModel)]="selectedVariant" name="produktVariante">
-                  @for (model of selectedProduct.models; track model.code) {
-                    <option [ngValue]="model">
-                      {{ model.code }}
-                    </option>
-                  }
-                </select>
+              <!-- Drop Down Variante-->
+              @if (selectedProduct?.models?.length) {
+                <div class="form-group">
+                  <label for="produktVariante">Variante auswählen:</label>
+                  <select class="form-control" id="produktVariante" [(ngModel)]="selectedVariant" name="produktVariante" (change)="resetQuantity()">
+                    @for (model of selectedProduct.models; track model.code) {
+                      <option [ngValue]="model">
+                        {{ model.code }}
+                      </option>
+                    }
+                  </select>
+                </div>
+              }
+              
+          <!-- Menge anpassen und Warenkorb-Button nebeneinander -->
+          <div class="d-flex align-items-center justify-content-between mt-3">
+              <div class="quantity-controls d-flex align-items-center">
+                <button class="btn btn-secondary" (click)="decreaseQuantity()">-</button>
+                <input type="number" class="form-control mx-2" [(ngModel)]="quantity" [min]="1" />
+                <button class="btn btn-secondary" (click)="increaseQuantity()">+</button>
+                <button class="btn btn-success" (click)="addToCart(selectedVariant, quantity)">
+                  <i class="fa fa-shopping-cart"></i> 
+                </button>
               </div>
-            }
-            
-
-            <!-- In den Warenkorb Button -->
-            <button class="btn btn-success mt-2">
-              <i class="fa fa-shopping-cart"></i> In den Warenkorb
-            </button>
           </div>
+            </div>
         </div>
 
         <!-- Tabelle zu den Modellen -->
