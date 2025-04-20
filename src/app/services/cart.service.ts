@@ -12,35 +12,22 @@ export interface CartItem {
   providedIn: 'root'
 })
 export class CartService {
-  private items: CartItem[] = [{
-    id: 1,
-    name: 'Laptop',
-    price: 999.99,
-    image: 'https://via.placeholder.com/80x80?text=Laptop',
-    quantity: 1,
-  },
-  {
-    id: 2,
-    name: 'Smartphone',
-    price: 499.99,
-    image: 'https://via.placeholder.com/80x80?text=Smartphone',
-    quantity: 2,
-  },
-  {
-    id: 3,
-    name: 'Kopfhörer',
-    price: 79.99,
-    image: 'https://via.placeholder.com/80x80?text=Kopfhörer',
-    quantity: 1,
-  },
-  {
-    id: 4,
-    name: 'Smartwatch',
-    price: 199.99,
-    image: 'https://via.placeholder.com/80x80?text=Smartwatch',
-    quantity: 1,
-  }
+  private storageKey = 'cartItems';
+  private items: CartItem[] = [
 ];
+
+constructor() {
+  this.loadFromStorage();
+}
+
+private saveToStorage() {
+  localStorage.setItem(this.storageKey, JSON.stringify(this.items));
+}
+
+private loadFromStorage() {
+  const saved = localStorage.getItem(this.storageKey);
+  this.items = saved ? JSON.parse(saved) : [];
+}
 
   getItems(): CartItem[] {
     return this.items;
@@ -53,19 +40,23 @@ export class CartService {
     } else {
       this.items.push({ ...item });
     }
+    this.saveToStorage();
   }
 
   removeItem(itemId: number) {
     this.items = this.items.filter(i => i.id !== itemId);
+    this.saveToStorage();
   }
 
   updateQuantity(itemId: number, quantity: number) {
     const item = this.items.find(i => i.id === itemId);
     if (item) item.quantity = quantity;
+    this.saveToStorage();
   }
 
   clearCart() {
     this.items = [];
+    this.saveToStorage();
   }
 
   getTotal(): number {
