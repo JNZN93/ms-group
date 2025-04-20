@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { GlobalService } from '../services/global.service';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-product-page',
@@ -8,8 +9,28 @@ import { GlobalService } from '../services/global.service';
   styleUrl: './product-page.component.scss'
 })
 export class ProductPageComponent {
-  constructor(public globalService:GlobalService) {
+  selectedBrand: string = '';
+  brandProducts: any[] = [];
 
+  constructor(
+    public globalService:GlobalService,
+    private route: ActivatedRoute
+  ) {
+
+  }
+
+  ngOnInit(): void {
+    this.route.paramMap.subscribe(params => {
+      this.selectedBrand = params.get('brand') || '';
+      this.filterProducts();
+    });
+  }
+
+  filterProducts() {
+    const brandData = this.globalService.products.find(
+      p => p.brand.toLowerCase() === this.selectedBrand.toLowerCase()
+    );
+    this.brandProducts = brandData ? brandData.products : [];
   }
 
 
