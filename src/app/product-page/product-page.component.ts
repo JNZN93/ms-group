@@ -2,6 +2,8 @@ import { Component } from '@angular/core';
 import { GlobalService } from '../services/global.service';
 import { ActivatedRoute } from '@angular/router';
 
+declare var $: any;
+
 @Component({
   selector: 'app-product-page',
   imports: [],
@@ -31,6 +33,14 @@ export class ProductPageComponent {
       p => p.brand.toLowerCase() === this.selectedBrand.toLowerCase()
     );
     this.brandProducts = brandData ? brandData.products : [];
+  }
+
+  openModal() {
+    $('#myModal').modal('show');
+  }
+
+  closeModal() {
+    $('#myModal').modal('hide');
   }
 
 

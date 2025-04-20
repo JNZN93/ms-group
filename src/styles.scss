@@ -222,7 +222,7 @@ a:hover, a:active, a:focus {
 /*---------------------------------------
   PRE LOADER              
 -----------------------------------------*/
-
+/*
 .preloader {
   position: fixed;
   top: 0;
@@ -236,6 +236,8 @@ a:hover, a:active, a:focus {
   align-items: center;
   background: none repeat scroll 0 0 #000000;
 }
+*/
+
 
 .spinner {
   border: 1px solid transparent;
@@ -702,7 +704,6 @@ footer .copyright-text {
 
   .project-info {
     padding: 4em 0;
-    background-color: red;
   }
 
   footer {
