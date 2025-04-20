@@ -5,6 +5,7 @@ import { HeroSectionComponent } from "./hero-section/hero-section.component";
 import { FooterComponent } from "./footer/footer.component";
 
 
+
 @Component({
   selector: 'app-root',
   imports: [RouterOutlet, NavbarComponent, HeroSectionComponent, FooterComponent],

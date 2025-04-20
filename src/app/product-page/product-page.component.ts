@@ -1,18 +1,24 @@
 import { Component } from '@angular/core';
 import { GlobalService } from '../services/global.service';
 import { ActivatedRoute } from '@angular/router';
+import { FormsModule } from '@angular/forms';
+import { CommonModule } from '@angular/common';
+
 
 declare var $: any;
 
 @Component({
   selector: 'app-product-page',
-  imports: [],
+  imports: [FormsModule, CommonModule],
   templateUrl: './product-page.component.html',
   styleUrl: './product-page.component.scss'
 })
 export class ProductPageComponent {
   selectedBrand: string = '';
   brandProducts: any[] = [];
+  selectedProduct: any = null;
+  selectedVariant: string = '';
+
 
   constructor(
     public globalService:GlobalService,
@@ -29,19 +35,28 @@ export class ProductPageComponent {
   }
 
   filterProducts() {
-    const brandData = this.globalService.products.find(
+    const brandData = this.globalService.manufactors.find(
       p => p.brand.toLowerCase() === this.selectedBrand.toLowerCase()
     );
     this.brandProducts = brandData ? brandData.products : [];
   }
 
-  openModal() {
+  openModal(product:any) {
+    console.log(product)
+    this.selectedProduct = product;
+    this.selectedVariant = product.models?.[0] || null; // ← erstes Modell vorauswählen
     $('#myModal').modal('show');
   }
 
-  closeModal() {
+  closeModal():void {
+    this.selectedProduct = null;
     $('#myModal').modal('hide');
   }
+
+  get selectedModel() {
+    return this.selectedProduct?.models.find((m:any) => m.code === this.selectedVariant);
+  }
+  
 
 
 }

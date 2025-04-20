@@ -9,7 +9,7 @@
         </div>
         <div class="karte-footer">
           <h3>Preis Anfragen</h3>
-          <button (click)="openModal()">Details</button>
+          <button (click)="openModal(product)">Details</button>
         </div>
       </div>
     }
@@ -23,7 +23,7 @@
   <div class="modal-dialog modal-fullscreen-custom" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Produktname XYZ</h5>
+        <h5 class="modal-title">{{selectedProduct?.name}}</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Schließen">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -33,25 +33,29 @@
         <div class="row">
           <!-- Bild -->
           <div class="col-md-5">
-            <img src="images/hersteller/barikell/barikell1.jpg" alt="Produktbild" class="img-fluid">
+            <img style="width: 300px; height: 200px;" src="{{selectedProduct?.image}}" alt="Produktbild" class="img-fluid">
           </div>
 
           <!-- Beschreibung & Auswahl -->
           <div class="col-md-7">
             <p>
-              Hier steht die ausführliche Beschreibung des Produkts. Du kannst hier Features, Materialien,
-              Vorteile usw. aufzählen.
+              {{selectedProduct?.description}}
             </p>
 
-            <!-- Varianten Dropdown -->
-            <div class="form-group">
-              <label for="produktVariante">Variante auswählen:</label>
-              <select class="form-control" id="produktVariante">
-                <option>Modell A</option>
-                <option>Modell B</option>
-                <option>Modell C</option>
-              </select>
-            </div>
+            <!-- Drop Down Variante-->
+            @if (selectedProduct?.models?.length) {
+              <div class="form-group">
+                <label for="produktVariante">Variante auswählen:</label>
+                <select class="form-control" id="produktVariante" [(ngModel)]="selectedVariant" name="produktVariante">
+                  @for (model of selectedProduct.models; track model.code) {
+                    <option [ngValue]="model">
+                      {{ model.code }}
+                    </option>
+                  }
+                </select>
+              </div>
+            }
+            
 
             <!-- In den Warenkorb Button -->
             <button class="btn btn-success mt-2">
@@ -64,38 +68,40 @@
         <hr class="my-4">
 
         <h5>Modellübersicht</h5>
-        <div class="table-responsive">
+        <div class="table-responsive" *ngIf="selectedProduct?.models?.length">
           <table class="table table-bordered table-striped model-table">
             <thead class="thead-dark">
               <tr>
-                <th>Modell</th>
-                <th>Gewicht</th>
-                <th>Farbe</th>
-                <th>Größe</th>
+                <th>Modell-Code</th>
+                <th>Motor</th>
+                <th>Rotordurchmesser (cm)</th>
+                <th>Klingenanzahl</th>
+                <th>Ausgangsdrehzahl (RPM)</th>
+                <th>Leistung (PS)</th>
+                <th>Start</th>
+                <th>Kraftstoff</th>
+                <th>Gewicht (kg)</th>
               </tr>
             </thead>
             <tbody>
-              <tr>
-                <td>Modell A</td>
-                <td>1,2 kg</td>
-                <td>Rot</td>
-                <td>M</td>
-              </tr>
-              <tr>
-                <td>Modell B</td>
-                <td>1,4 kg</td>
-                <td>Blau</td>
-                <td>L</td>
-              </tr>
-              <tr>
-                <td>Modell C</td>
-                <td>1,1 kg</td>
-                <td>Grau</td>
-                <td>S</td>
-              </tr>
+              @for (model of selectedProduct.models; track $index) {
+                <tr>
+                  <td>{{ model.code }}</td>
+                  <td>{{ model.engine }}</td>
+                  <td>{{ model.rotor_diameter_cm }}</td>
+                  <td>{{ model.blade_count }}</td>
+                  <td>{{ model.output_speed_rpm }}</td>
+                  <td>{{ model.power_hp }}</td>
+                  <td>{{ model.start }}</td>
+                  <td>{{ model.fuel_type }}</td>
+                  <td>{{ model.weight_kg }}</td>
+                </tr>
+              }
             </tbody>
           </table>
         </div>
+        
+
       </div>
 
       <div class="modal-footer">
