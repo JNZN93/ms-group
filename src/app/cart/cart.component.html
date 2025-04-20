@@ -8,11 +8,12 @@
       <div>
         @for (item of cartItems; track $index) {
           <div class="cart-item">
-            <img [src]="item.image" alt="{{ item.name }}" class="item-image" />
+            <img [src]="item.image" alt="{{ item.id }}" class="item-image" />
   
             <div class="item-details">
-              <h3 class="item-name">{{ item.name }}</h3>
-              <p class="item-price">€{{ item.price.toFixed(2) }}</p>
+              <h3 class="item-name">{{ item.id }}</h3>
+              
+              <!-- <p class="item-price">€{{ item.price.toFixed(2) }}</p> -->
   
               <div class="item-quantity">
                 <button (click)="decrease(item)">−</button>
@@ -26,7 +27,9 @@
         }
   
         <div class="cart-total">
-          <p>Gesamt: <strong>€{{ total.toFixed(2) }}</strong></p>
+
+          <!--<p>Gesamt: <strong>€{{ total.toFixed(2) }}</strong></p> -->
+
           <button class="checkout-button">Zur Kasse</button>
         </div>
       </div>

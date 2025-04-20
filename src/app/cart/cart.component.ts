@@ -38,8 +38,4 @@ export class CartComponent implements OnInit {
     this.close.emit();
   }
 
-  get total(): number {
-    return this.cartService.getTotal();
-  }
-
 }

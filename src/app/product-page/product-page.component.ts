@@ -3,6 +3,7 @@ import { GlobalService } from '../services/global.service';
 import { ActivatedRoute } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
+import { CartService, CartItem } from '../services/cart.service';
 
 
 declare var $: any;
@@ -22,7 +23,8 @@ export class ProductPageComponent {
 
   constructor(
     public globalService:GlobalService,
-    private route: ActivatedRoute
+    private route: ActivatedRoute,
+    public cartService: CartService,
   ) {
 
   }
@@ -71,14 +73,12 @@ export class ProductPageComponent {
     this.quantity = 1;
   }
 
-  addToCart(selectedModel:string, quantity:number):void {
-    console.log(selectedModel, quantity)
+  addToCart(selectedModel:string, quantity:number, item: CartItem):void {
+    console.log(selectedModel, quantity, item)
     // Add to Cart Logic todo
-    localStorage.setItem('cartItems', selectedModel)
+    this.cartService.addItem(item);
     // quantity leeren
     this.quantity = 1;
   }
   
-
-
 }

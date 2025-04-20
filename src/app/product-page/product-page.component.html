@@ -62,7 +62,7 @@
                 <button class="btn btn-secondary" (click)="decreaseQuantity()">-</button>
                 <input type="number" class="form-control mx-2" [(ngModel)]="quantity" [min]="1" />
                 <button class="btn btn-secondary" (click)="increaseQuantity()">+</button>
-                <button class="btn btn-success" (click)="addToCart(selectedVariant, quantity)">
+                <button class="btn btn-success" (click)="addToCart(selectedVariant, quantity, selectedProduct)">
                   <i class="fa fa-shopping-cart"></i> 
                 </button>
               </div>

@@ -1,11 +1,10 @@
 import { Injectable } from '@angular/core';
 
 export interface CartItem {
-  id: number;
-  name: string;
-  price: number;
+  id: string;
   quantity: number;
   image?: string;
+  model: string;
 }
 
 @Injectable({
@@ -43,12 +42,12 @@ private loadFromStorage() {
     this.saveToStorage();
   }
 
-  removeItem(itemId: number) {
+  removeItem(itemId: string) {
     this.items = this.items.filter(i => i.id !== itemId);
     this.saveToStorage();
   }
 
-  updateQuantity(itemId: number, quantity: number) {
+  updateQuantity(itemId: string, quantity: number) {
     const item = this.items.find(i => i.id === itemId);
     if (item) item.quantity = quantity;
     this.saveToStorage();
@@ -57,9 +56,5 @@ private loadFromStorage() {
   clearCart() {
     this.items = [];
     this.saveToStorage();
-  }
-
-  getTotal(): number {
-    return this.items.reduce((sum, item) => sum + item.price * item.quantity, 0);
   }
 }
