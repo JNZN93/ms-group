@@ -1,7 +1,7 @@
 <button class="close-button" (click)="closeCart()">×</button>
 <div class="cart-container">
     <div class="cart-header">
-      <h2 class="cart-title">🛒 Dein Warenkorb</h2>
+      <h2 class="cart-title">Dein Warenkorb</h2>
     </div>
   
     @if (cartItems.length > 0) {
@@ -11,8 +11,8 @@
             <img [src]="item.image" alt="{{ item.id }}" class="item-image" />
   
             <div class="item-details">
-              <h3 class="item-name">{{ item.id }}</h3>
-              
+              <h3 class="item-name">{{ item.name }}</h3>
+              <small class="item-name">{{ item.id }}</small>
               <!-- <p class="item-price">€{{ item.price.toFixed(2) }}</p> -->
   
               <div class="item-quantity">
@@ -30,7 +30,7 @@
 
           <!--<p>Gesamt: <strong>€{{ total.toFixed(2) }}</strong></p> -->
 
-          <button class="checkout-button">Zur Kasse</button>
+          <button class="checkout-button" (click)="sendOrderConfirmation()">Preis anfragen</button>
         </div>
       </div>
     } @else {

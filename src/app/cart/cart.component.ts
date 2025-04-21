@@ -38,4 +38,8 @@ export class CartComponent implements OnInit {
     this.close.emit();
   }
 
+  async sendOrderConfirmation() {
+    
+  }
+
 }
