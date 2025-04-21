@@ -34,6 +34,9 @@ export class ProductPageComponent {
       this.selectedBrand = params.get('brand') || '';
       this.filterProducts();
     });
+
+    
+    window.addEventListener('popstate', this.handlePopState);
   }
 
   filterProducts() {
@@ -46,6 +49,8 @@ export class ProductPageComponent {
   openModal(product:any) {
     this.selectedProduct = product;
     this.selectedVariant = product.models?.[0] || null; // ← erstes Modell vorauswählen
+    // URL ändern, damit Browser-Zurück funktioniert
+  history.pushState({ modal: true }, '', window.location.href + '#modal');
     $('#myModal').modal('show');
   }
 
@@ -88,4 +93,11 @@ export class ProductPageComponent {
     this.quantity = 1;
   }
   
+  handlePopState = (event: PopStateEvent): void => {
+    if (this.selectedProduct) {
+      this.closeModal();
+    }
+  };
+
+
 }
