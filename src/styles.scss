@@ -284,6 +284,7 @@ a:hover, a:active, a:focus {
   margin-bottom: 0;
   background-color: #000000e7;
   padding: 20px 0;
+  transition: background-color 0.3s ease;
 }
 
 .custom-navbar .navbar-brand {

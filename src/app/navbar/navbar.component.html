@@ -13,14 +13,22 @@
          </div>
           <!-- MENU LINKS -->
           <div class="collapse navbar-collapse">
-            <ul class="nav navbar-nav navbar-right">
+               <ul class="nav navbar-nav navbar-right">
                  <li><a href="#home" class="smoothScroll">Startseite</a></li>
                  <li><a href="#about" class="smoothScroll">Produkte</a></li>
-                 <li><a href="#team" class="smoothScroll">Unsere Partner</a></li>  
+                 <li><a href="#team" class="smoothScroll">Unsere Partner</a></li>
                  <li><a href="#contact" class="smoothScroll">Kontakt</a></li>
-                 <li><a (click)="toggleCart()" class="smoothScroll fa fa-shopping-cart nav-link"></a></li>
-            </ul>
-       </div>
+             
+                 <li class="cart-wrapper">
+                   <a (click)="toggleCart()" class="smoothScroll">
+                     <i class="fa fa-shopping-cart"></i>
+                     @if(this.cartService.items.length > 0) {
+                     <span class="badge cart-badge">{{ this.cartService.items.length }}</span>
+                     }
+                   </a>
+                 </li>
+               </ul>
+             </div>                    
 
   </div>
 </div>

@@ -13,7 +13,7 @@ export interface CartItem {
 })
 export class CartService {
   private storageKey = 'cartItems';
-  private items: CartItem[] = [
+  public items: CartItem[] = [
 ];
 
 constructor() {

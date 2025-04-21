@@ -21,4 +21,23 @@
     padding: 20px;
     overflow-y: auto;
   }
+
+  .cart-wrapper {
+    position: relative;
+
+    i{
+         cursor: pointer;
+    }
+  }
   
+  .cart-badge {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    background-color: #d9534f; /* Bootstrap "danger" */
+    color: white;
+    font-size: 9px;
+    padding: 3px 5px;
+    border-radius: 50%;
+    cursor: pointer;
+  }

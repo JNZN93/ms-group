@@ -2,6 +2,7 @@ import { Component, EventEmitter, OnInit, Output, inject } from '@angular/core';
 import { CartItem, CartService } from '../services/cart.service';
 import { FormsModule } from '@angular/forms';
 import { EmailService, Post } from '../services/email.service';
+import Swal from 'sweetalert2';
 
 @Component({
   selector: 'app-cart',
@@ -28,8 +29,15 @@ export class CartComponent implements OnInit {
 
   sendEmail() {
     this.emailService.createPost({products:this.cartItems, email: this.email, name: this.name}).subscribe({
-      next: (data) => (this.posts = data),
-      error: (err) => console.error('Fehler beim Laden:', err),
+      next: (data) => {
+        this.posts = data,
+        this.openSuccessAlert();
+        this.cartService.clearCart();
+        this.cartItems = [];
+      },
+      error: (err) => {
+        this.openErrorAlert();
+      },
     });
   }
 
@@ -68,5 +76,27 @@ export class CartComponent implements OnInit {
 
     this.closeOverlay();
   }
+
+    openSuccessAlert() {
+      Swal.fire({
+        position: 'center',
+        icon: 'success',
+        title: 'Anfrage erfolgreich abgesendet!',
+        showConfirmButton: false,
+        timer: 3000,
+        background: '#f5f5f5',
+      });
+    }
+
+    openErrorAlert() {
+      Swal.fire({
+        position: 'center',
+        icon: 'error',
+        title: 'Es ist ein Fehler aufgetreten',
+        showConfirmButton: false,
+        timer: 3000,
+        background: '#f5f5f5',
+      });
+    }
 
 }
