@@ -127,8 +127,7 @@ export class ProductPageComponent {
       icon: 'success',
       title: 'Zum Warenkorb hinzugefügt!',
       showConfirmButton: false,
-      timer: 2500,
-      timerProgressBar: true,
+      timer: 1500,
       background: '#f5f5f5',
     });
   }
