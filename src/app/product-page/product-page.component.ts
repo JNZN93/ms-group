@@ -56,7 +56,16 @@ export class ProductPageComponent {
 
   closeModal():void {
     this.selectedProduct = null;
+    const url = new URL(window.location.href);
+    console.log(url);
+    url.hash = ''; // Fragment entfernen
     $('#myModal').modal('hide');
+  }
+
+  removeHashFromUrl(): void {
+    const url = window.location.href.split('#')[0];
+    history.replaceState(null, '', url);
+    history.back();
   }
 
   get selectedModel() {

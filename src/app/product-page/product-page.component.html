@@ -23,7 +23,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title">{{selectedProduct?.name}}</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Schließen">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Schließen" (click)="removeHashFromUrl()">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
