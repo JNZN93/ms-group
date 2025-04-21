@@ -83,7 +83,7 @@ export class ProductPageComponent {
   }
 
   decreaseQuantity() {
-    if (this.quantity == 0) {
+    if (this.quantity == 1) {
       return;
     }
       this.quantity -= 1
@@ -105,10 +105,11 @@ export class ProductPageComponent {
       image: selectedProduct.image,
       model: selectedModel.code
     };
+    if(quantity < 1 ) {
+      item.quantity = 1;
+    }
     // Add to Cart Logic todo
     this.cartService.addItem(item);
-
-    //ALERT
     this.openSuccessAlert();
     // quantity leeren
     this.quantity = 1;
