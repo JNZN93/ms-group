@@ -146,13 +146,19 @@ p {
   background: #c38a25;  
 }
 
-@media(max-width:453px) {
+@media(max-width:459px) {
   .section-btn {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 }
+
+#home {
+  text-align: center;
+}
+
+
 }
 
 

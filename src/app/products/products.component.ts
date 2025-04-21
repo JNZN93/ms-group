@@ -18,6 +18,7 @@ export class ProductsComponent {
 
   navigateTo(brand:string):void{
     this.router.navigate(['/product-page', brand.toLowerCase()]);
+    window.scrollTo({ top: 100 , behavior: 'smooth' });
   }
 
 }

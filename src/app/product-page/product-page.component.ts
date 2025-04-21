@@ -4,6 +4,8 @@ import { ActivatedRoute } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import { CartService, CartItem } from '../services/cart.service';
+import { Router, NavigationEnd } from '@angular/router';
+import { filter } from 'rxjs/operators';
 
 
 declare var $: any;
@@ -25,7 +27,14 @@ export class ProductPageComponent {
     public globalService:GlobalService,
     private route: ActivatedRoute,
     public cartService: CartService,
+    private router: Router
   ) {
+
+    this.router.events.pipe(
+      filter(event => event instanceof NavigationEnd)
+    ).subscribe(() => {
+      window.scrollTo(0, 100); // <-- hier wird gescrollt
+    });
 
   }
 
