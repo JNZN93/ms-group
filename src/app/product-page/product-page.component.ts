@@ -73,10 +73,17 @@ export class ProductPageComponent {
     this.quantity = 1;
   }
 
-  addToCart(selectedModel:string, quantity:number, item: CartItem):void {
-    console.log(selectedModel, quantity, item)
+  addToCart(selectedModel:any, quantity:number, selectedProduct: any):void {
+    const item: CartItem = {
+      id: selectedModel.code,
+      quantity: quantity,
+      name: selectedProduct.name,
+      image: selectedProduct.image,
+      model: selectedModel.code
+    };
     // Add to Cart Logic todo
     this.cartService.addItem(item);
+
     // quantity leeren
     this.quantity = 1;
   }
