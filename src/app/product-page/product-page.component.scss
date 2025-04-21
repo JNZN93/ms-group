@@ -69,8 +69,14 @@ section {
 
 .modal-fullscreen-custom {
     max-width: 100%;
-    width: 60vw; /* oder 100vw, wenn wirklich full */
-    margin: 5% auto;
+    width: 70vw; /* oder 100vw, wenn wirklich full */
+    margin: 0 auto;
+  }
+
+  @media screen and (max-width: 768px) {
+    .modal-fullscreen-custom {
+      width: 100%;
+    }
   }
   
  
