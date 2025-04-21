@@ -6,6 +6,7 @@ import { CommonModule } from '@angular/common';
 import { CartService, CartItem } from '../services/cart.service';
 import { Router, NavigationEnd } from '@angular/router';
 import { filter } from 'rxjs/operators';
+import Swal from 'sweetalert2';
 
 
 declare var $: any;
@@ -107,6 +108,8 @@ export class ProductPageComponent {
     // Add to Cart Logic todo
     this.cartService.addItem(item);
 
+    //ALERT
+    this.openSuccessAlert();
     // quantity leeren
     this.quantity = 1;
   }
@@ -116,6 +119,19 @@ export class ProductPageComponent {
       this.closeModal();
     }
   };
+
+  openSuccessAlert() {
+    Swal.fire({
+      toast: true,
+      position: 'center',
+      icon: 'success',
+      title: 'Zum Warenkorb hinzugefügt!',
+      showConfirmButton: false,
+      timer: 2500,
+      timerProgressBar: true,
+      background: '#f5f5f5',
+    });
+  }
 
 
 }
