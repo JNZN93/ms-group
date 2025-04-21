@@ -77,34 +77,24 @@
           <table class="table table-bordered table-striped model-table">
             <thead class="thead-dark">
               <tr>
-                <th>Modell-Code</th>
-                <th>Motor</th>
-                <th>Rotordurchmesser (cm)</th>
-                <th>Klingenanzahl</th>
-                <th>Ausgangsdrehzahl (RPM)</th>
-                <th>Leistung (PS)</th>
-                <th>Start</th>
-                <th>Kraftstoff</th>
-                <th>Gewicht (kg)</th>
+                @for (key of getModelKeys(); track key) {
+                  <th>{{ formatKey(key) }}</th>
+                }
               </tr>
             </thead>
             <tbody>
               @for (model of selectedProduct.models; track $index) {
                 <tr>
-                  <td>{{ model.code }}</td>
-                  <td>{{ model.engine }}</td>
-                  <td>{{ model.rotor_diameter_cm }}</td>
-                  <td>{{ model.blade_count }}</td>
-                  <td>{{ model.output_speed_rpm }}</td>
-                  <td>{{ model.power_hp }}</td>
-                  <td>{{ model.start }}</td>
-                  <td>{{ model.fuel_type }}</td>
-                  <td>{{ model.weight_kg }}</td>
+                  @for (key of getModelKeys(); track key) {
+                    <td>{{ model[key] }}</td>
+                  }
                 </tr>
               }
             </tbody>
           </table>
         </div>
+        
+        
         
 
       </div>
