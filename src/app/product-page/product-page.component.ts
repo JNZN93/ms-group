@@ -117,5 +117,25 @@ export class ProductPageComponent {
     }
   };
 
+  getModelKeys(): string[] {
+    return this.selectedProduct?.models?.length ? Object.keys(this.selectedProduct.models[0]) : [];
+  }
+
+  formatKey(key: string): string {
+    const labels: Record<string, string> = {
+      code: 'Modell-Code',
+      engine: 'Motor',
+      rotor_diameter_cm: 'Rotordurchmesser (cm)',
+      blade_count: 'Klingenanzahl',
+      output_speed_rpm: 'Ausgangsdrehzahl (RPM)',
+      power_hp: 'Leistung (PS)',
+      start: 'Start',
+      fuel_type: 'Kraftstoff',
+      weight_kg: 'Gewicht (kg)'
+    };
+    return labels[key] ?? key;
+  }
+  
+
 
 }
