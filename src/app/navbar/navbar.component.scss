@@ -41,3 +41,10 @@
     border-radius: 50%;
     cursor: pointer;
   }
+
+  @media screen and (max-width:510px) {
+    .cart-overlay {
+      width: 100% !important;
+      min-width: unset;
+    }
+  }
