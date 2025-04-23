@@ -46,9 +46,9 @@
                 <div class="form-group">
                   <label for="produktVariante">Variante auswählen:</label>
                   <select class="form-control" id="produktVariante" [(ngModel)]="selectedVariant" name="produktVariante" (change)="resetQuantity()">
-                    @for (model of selectedProduct.models; track model.code) {
+                    @for (model of selectedProduct.models; track $index) {
                       <option [ngValue]="model">
-                        {{ model.code }}
+                        {{ getFirstValue(model) }}
                       </option>
                     }
                   </select>

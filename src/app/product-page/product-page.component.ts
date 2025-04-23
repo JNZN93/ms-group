@@ -151,5 +151,9 @@ export class ProductPageComponent {
     };
     return labels[key] ?? key;
   }
+
+  getFirstValue(obj: any): any {
+    return obj[Object.keys(obj)[0]];
+  }
   
 }
