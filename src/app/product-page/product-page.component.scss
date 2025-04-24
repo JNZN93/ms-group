@@ -7,6 +7,7 @@ section {
     gap: 12px;
     box-sizing: border-box;
     padding: 20px;
+    background: rgba(241, 241, 241, 0.186);
 }
 
 .karte {
@@ -16,12 +17,10 @@ section {
     border: 1px solid #ddd;
     border-radius: 10px;
     padding: 16px;
-    width: 300px;
-    height: 430px;
+    width: 280px;
+    height: 340px;
     /* feste Höhe für ALLE Karten */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    font-family: Arial, sans-serif;
     box-sizing: border-box;
 }
 
@@ -34,8 +33,17 @@ section {
     /* wie viele Zeilen du erlaubst */
     -webkit-box-orient: vertical;
 
+
     p {
         font-size: 14px;
+        color: rgb(170, 170, 170);
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #2c3e50;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 }
 
@@ -45,6 +53,7 @@ section {
     height: 140px;
     object-fit: contain;
     margin-bottom: 12px;
+    padding-top: 20px;
 }
 
 .karte-footer {
@@ -53,14 +62,14 @@ section {
 
 .karte button {
     margin-top: 10px;
-    background: #c38a25;
+    background: #3498db;
     color: white;
     border: none;
     padding: 10px 16px;
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
-    width: 100%;
+    width: 160px;
 }
 
 .karte button:hover {
