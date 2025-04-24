@@ -19,7 +19,6 @@
 }
 
 .close-button {
-  width: 100%;
   text-align: end;
   background: none;
   border: none;
@@ -31,6 +30,12 @@
 
 .close-button:hover {
   color: #d00;
+}
+
+.button-con {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
 }
 
 
