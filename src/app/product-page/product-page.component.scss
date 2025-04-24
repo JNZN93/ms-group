@@ -122,4 +122,9 @@ section {
     margin-left: 10px;
     margin-right: 10px;
   }
+
+  .modal-description p {
+    max-height: 200px !important;
+    overflow: auto !important;
+  }
   

@@ -9,212 +9,539 @@ export class GlobalService {
       brand: "Somero",
       products: [
         {
-          name: "S-485 Laser Screed",
-          image: "images/hersteller/somero/somero1.jpg",
-          description: "Kompakter Laser Screed für kleinere bis mittlere Flächen mit hoher Ebenheit.",
-          models: [
-            {
-              code: "S485-GX390",
-              engine: "Honda GX390",
-              rotor_diameter_cm: 90,
-              blade_count: 4,
-              output_speed_rpm: 150,
-              power_hp: 13,
-              start: "Manual",
-              fuel_type: "Gasoline",
-              weight_kg: 120
-            },
-            {
-              code: "S485-GX420",
-              engine: "Honda GX420",
-              rotor_diameter_cm: 95,
-              blade_count: 5,
-              output_speed_rpm: 160,
-              power_hp: 14,
-              start: "Manual",
-              fuel_type: "Gasoline",
-              weight_kg: 130
-            },
-            {
-              code: "S485-GX530",
-              engine: "Honda GX530",
-              rotor_diameter_cm: 100,
-              blade_count: 5,
-              output_speed_rpm: 170,
-              power_hp: 16,
-              start: "Electric",
-              fuel_type: "Gasoline",
-              weight_kg: 140
-            },
-            {
-              code: "S485-GX610",
-              engine: "Honda GX610",
-              rotor_diameter_cm: 105,
-              blade_count: 6,
-              output_speed_rpm: 180,
-              power_hp: 18,
-              start: "Electric",
-              fuel_type: "Gasoline",
-              weight_kg: 150
-            },
-            {
-              code: "S485-GX660",
-              engine: "Honda GX660",
-              rotor_diameter_cm: 110,
-              blade_count: 6,
-              output_speed_rpm: 190,
-              power_hp: 20,
-              start: "Electric",
-              fuel_type: "Gasoline",
-              weight_kg: 160
-            }
-          ]
+          "url": "https://www.somero.com/products/sts-11hc-topping-spreader/",
+          "image": "https://www.somero.com/wp-content/uploads/2025/04/Somero082724_346.jpg",
+          "name": "STS-11HC Topping Spreader",
+          "description_items": [
+            "6’ / 1.8m wide head",
+            "20’ / 6.1m boom length (23’ / 7m reach from tires)",
+            "Joystick control – propel, steer, boom, rotate, head loading & spread functions",
+            "Four-wheel drive",
+            "Two-wheel, Four-wheel, Crab steering modes",
+            "360-degree frame rotation",
+            "Kubota V3307 Stage 5 engine (74hp) / (55kw)",
+            "Automatic elevation control – keep head close to surface to reduce dust",
+            "Bulk bin dust suppression system",
+            "Auxiliary power unit",
+            "Right side camera",
+            "Weight 18,600 lbs | 8,437 kg (when empty)",
+            "Width 7’ 4” | 2.24 m (transport mode)",
+            "Length 17’ 4” | 5.28 m (transport mode)",
+            "Height 7′ 8″ | 2.36 m",
+            "Engine Kubota V3307 Stage 5 engine (74hp) / (55kw)",
+            "Self-Propelled 4-Wheel Drive w/ Hydraulic Motors",
+            "Spreader Head Width 6’ | 1.8 m",
+            "Steering Two-wheel, Four-wheel, Crab steering"
+          ],
+          "models": []
         },
         {
-          name: "S-22EZ Laser Screed",
-          image: "images/hersteller/somero/somero2.jpg",
-          description: "Hochleistungs-Screed für große Betonflächen mit effizienter Steuerung und präziser Nivellierung.",
-          models: [
-            {
-              code: "S22EZ-KD1000",
-              engine: "Kubota D1105",
-              rotor_diameter_cm: 120,
-              blade_count: 5,
-              output_speed_rpm: 130,
-              power_hp: 24.8,
-              start: "Electric",
-              fuel_type: "Diesel",
-              weight_kg: 1450
-            },
-            {
-              code: "S22EZ-KD2000",
-              engine: "Kubota D1105",
-              rotor_diameter_cm: 125,
-              blade_count: 6,
-              output_speed_rpm: 135,
-              power_hp: 26.5,
-              start: "Electric",
-              fuel_type: "Diesel",
-              weight_kg: 1500
-            },
-            {
-              code: "S22EZ-KD3000",
-              engine: "Kubota D1503",
-              rotor_diameter_cm: 130,
-              blade_count: 7,
-              output_speed_rpm: 140,
-              power_hp: 30.0,
-              start: "Electric",
-              fuel_type: "Diesel",
-              weight_kg: 1600
-            },
-            {
-              code: "S22EZ-KD4000",
-              engine: "Kubota D1503",
-              rotor_diameter_cm: 135,
-              blade_count: 8,
-              output_speed_rpm: 145,
-              power_hp: 32.0,
-              start: "Electric",
-              fuel_type: "Diesel",
-              weight_kg: 1700
-            },
-            {
-              code: "S22EZ-KD5000",
-              engine: "Kubota V1505",
-              rotor_diameter_cm: 140,
-              blade_count: 9,
-              output_speed_rpm: 150,
-              power_hp: 35.0,
-              start: "Electric",
-              fuel_type: "Diesel",
-              weight_kg: 1800
-            },
-            {
-              code: "S22EZ-KD6000",
-              engine: "Kubota V1505",
-              rotor_diameter_cm: 145,
-              blade_count: 10,
-              output_speed_rpm: 155,
-              power_hp: 38.5,
-              start: "Electric",
-              fuel_type: "Diesel",
-              weight_kg: 1900
-            }
-          ]
-          
+          "url": "https://www.somero.com/products/srs-4e-electric-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2025/04/SRS-4e_0001.png",
+          "name": "SRS-4e – Electric Laser Screed",
+          "description_items": [
+            "Long Lasting, 3-Phase 48 VAC electric motor – whisper quiet, emission-less operation",
+            "4-wheel drive for traction in any subgrade condition",
+            "Intelligent Steering uniquely rotates the tires to desired angle or direction for incredible maneuverability",
+            "Operator Selectable Steering includes 2-wheel, 4-wheel, and crab modes for the best maneuvering in any situation",
+            "Compact “no-nonsense” design with no lower frame saves weight, creates 360° visibility, thus improving worker safety",
+            "Utilizes the Somero® signature features such as Quick GradeSet System ® for fast 1-person set up, QuickPass, Soft Landing, Column Block protection, Head Self-Level-System, and more to maximize efficiency and quality with every pass",
+            "Conveniences include LED work lights, LCD display with build in diagnostics, choice of turf or lugged tires, independent auger and vibrator adjustability",
+            "Compatible with Somero ® 3-D Profiler System ®",
+            "Industry accredited Training via Somero Concrete Institute; Self-study LMS program with 24×7 access; and On-site options",
+            "Additional Options: Tool Box Storage, Pressure Washer, Laser Options, 3-D Profiler, Operator Sear, Silver or Gold Pars Kit (Bronze Kit Included), Annual Service Agreements, Extended Warranties",
+            "Weight 4,800 lbs | 2,177 kg",
+            "Length 14’9″ | 4.50 m (transport mode)",
+            "Height 5’5″ | 1.64m",
+            "Engine (Options) Vanguard 48V, 7kWh batteries (QTY 4)",
+            "Screed Head Width (Standard) 11’4″ | 3.45 m",
+            "Boom Length 18’ | 5.48m"
+          ],
+          "models": []
         },
         {
-          name: "CopperHead XD 3.0",
-          image: "images/hersteller/somero/somero3.jpg",
-          description: "Leichtes und wendiges Modell für schmale Bereiche und kleine Baustellen.",
-          models: [
-            {
-              code: "CHXD3-H390",
-              engine: "Honda GX390",
-              rotor_diameter_cm: 80,
-              blade_count: 4,
-              output_speed_rpm: 140,
-              power_hp: 13,
-              start: "Manual",
-              fuel_type: "Gasoline",
-              weight_kg: 100
-            }
-          ]
+          "url": "https://www.somero.com/products/skystrip-plywood-stripping-machine/",
+          "image": "https://www.somero.com/wp-content/uploads/2025/01/Sky_Strip_1.jpg",
+          "name": "SkyStrip Plywood Stripping Machine",
+          "description_items": [
+            "Remote-control operation - ScanReco Remote",
+            "Intelligent Steering adjusts steering angle to prevent stress and damage to components",
+            "Steering capabilities include 2 wheel, 4 wheel, and crab-style options",
+            "Reduces lost labor time due to injury in one the most injury prone activities in the shoring process, no overhead work and waist-high sheet handling.",
+            "Reduces material waste in the manual sheets stripping process by 50%, dropped sheets from manual process.",
+            "Reduced manpower needed in the sheet stripping process, sheet stripping can be managed by a single operator.",
+            "Jobsite safety is increased",
+            "Weight Total Weight 2,500 lbs / 1,113 kg w/ for lift attachment 2,700 lbs / 1,213 kg",
+            "Width 36\" / 91cm",
+            "Length 88\" / 214cm (transport length)",
+            "Height 45\" / 114cm",
+            "Engine (Options) Honda GX390"
+          ],
+          "models": []
         },
         {
-          name: "S-158C Laser Screed",
-          image: "images/hersteller/somero/somero4.jpg",
-          description: "Leistungsstarke Maschine für große Betonflächen – ideal für industrielle Projekte.",
-          models: [
-            {
-              code: "S158C-D902",
-              engine: "Kubota D902",
-              rotor_diameter_cm: 105,
-              blade_count: 5,
-              output_speed_rpm: 135,
-              power_hp: 22,
-              start: "Electric",
-              fuel_type: "Diesel",
-              weight_kg: 1300
-            }
-          ]
+          "url": "https://www.somero.com/products/srs-6s-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/08/SRS-6s-machine_360_013-scaled-1.jpg",
+          "name": "SRS-6S Laser Screed",
+          "description_items": [
+            "Head Shift means increased flexibility in positioning; utilization of proportional hydraulics allows for precise adjustments during operation.",
+            "12’ head that increases production.",
+            "Powerful 25hp Kubota diesel engine with Tier 4 Final compliant emissions; no D.E.F. or regeneration required",
+            "4-wheel drive for incredible traction in any subgrade condition.",
+            "Manual head rotation feature means no head removal for easy transportion and accessing projects.",
+            "Tilt assist for easy cleaning of the machine head.",
+            "Operator selectable self centering steering includes 2-wheel, 4-wheel, and crab modes for seamless maneuverability while driving sideways, eliminating the need to toggle between modes for repositioning.",
+            "Utilizes the Somero® signature features such as Quick GradeSet System ® for fast 1-person set up, QuickPass, Soft Landing, Column Block protection, Head Self-Level-System, and more to maximize efficiency and quality with every pass",
+            "Compatible with Somero ® 3-D Profiler System®",
+            "3 NEW drive modes for unparalleled maneuverability",
+            "Effortless movement with the ability to turn and maneuver in screed mode, improving overall efficiency and reducing repositioning time.",
+            "Weight 5,100 lbs | 2,336 kg",
+            "Width 6’ 2” | 1.9m",
+            "Length 19’11” | 6.07 m (transport mode)",
+            "Height 6’4″ | 1.8m",
+            "Engine (Options) Kubota V1505, 24.8 Hp Diesel",
+            "Screed Head Width (Standard) 13’3″ | 4m",
+            "Vibrator Width 12’ | 3.6m",
+            "Boom Length 18’ | 5.48m"
+          ],
+          "models": []
         },
         {
-          name: "Mini Screed C",
-          image: "images/hersteller/somero/somero5.jpg",
-          description: "Kompakte Lösung für präzises Arbeiten in engen Räumen mit manueller Bedienung.",
-          models: [
-            {
-              code: "MSC-G390",
-              engine: "Honda GX390",
-              rotor_diameter_cm: 85,
-              blade_count: 4,
-              output_speed_rpm: 150,
-              power_hp: 13,
-              start: "Manual",
-              fuel_type: "Gasoline",
-              weight_kg: 110
-            }
-          ]
+          "url": "https://www.somero.com/products/floor-levelness-system/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/Floor-Levelness-System.png",
+          "name": "Floor Levelness System",
+          "description_items": [
+            "TRAINING TOOL FOR NEW AND EXPERIENCED OPERATORS: New operators can learn proper techniques for stabilizer adjustment, head touchdowns, and boom speed. Continuous feedback is provided reinforcing concepts and alerting the operator.",
+            "MAXIMIZE LASER SCREED PERFORMANCE: Experienced operators can fine tune their techniques and know when to adjust valve speeds to optimize the screeding performance for that day’s productivity.",
+            "HELP ISOLATE ISSUES WITH FLOOR QUALITY: Floor quality can be challenging to understand because the floor is measured after all aspects of the pour are complete. Some processes before and after screeding can improve floor quality while others can lower it. The advantage of the Floor Levelness System® is that if the scoring system remains high then the screed is working well. Thus the question of what else has changed can be asked. This helps isolate changes from pour-to-pour to better understand what impacts floor quality."
+          ],
+          "models": []
         },
         {
-          name: "S-10A Laser Screed",
-          image: "images/hersteller/somero/somero2.jpg",
-          description: "Kraftvolles Modell für mittlere bis große Flächen – elektrisch gestartet für mehr Komfort.",
-          models: [
-            {
-              code: "S10A-K1005",
-              engine: "Kubota D1105",
-              rotor_diameter_cm: 100,
-              blade_count: 5,
-              output_speed_rpm: 145,
-              power_hp: 25,
-              start: "Electric",
-              fuel_type: "Diesel",
-              weight_kg: 1400
-            }
-          ]
+          "url": "https://www.somero.com/products/siteshape-system/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/siteshape1.jpg",
+          "name": "Siteshape System",
+          "description_items": [
+            "One-person operation",
+            "Provides quick set-up with laser screed.",
+            "Laser accuracy",
+            "Compatible with numerous grading equipment: graders, dozers, etc.",
+            "Increase productivity",
+            "Eliminate manpower",
+            "Dramatically improve concrete yields"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/3-d-concrete-profiler-system/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/3-D-Profiler.png",
+          "name": "3-D Concrete Profiler System",
+          "description_items": [
+            "Increased profitability",
+            "Automatic & accurate paving of contoured sites",
+            "Easy to learn & utilize",
+            "Trimble Business Center Integration",
+            "Compatible with several Somero® Laser Screed® models",
+            "Share with your motor grader, dozer, skid-steer or other grading machines"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/somero-line-dragon/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/products_photo_LineDragon.jpg",
+          "name": "Somero Line Dragon",
+          "description_items": [
+            "Remote-control operation utilizes simple AA batteries",
+            "Intelligent Steering adjusts steering angle to prevent stress and damage to components",
+            "Steering capabilities include two-wheel, four-wheel, and crab-style options",
+            "Load-sensing variable-displacement hydraulics provide optimal power",
+            "Return-to-center steering automatically realigns wheels",
+            "Conveniences include LED work lights, tie-down points for transport, and various clamping locations",
+            "Jobsite safety is increased",
+            "Toolbox, for remote storage",
+            "Quick access to the hydraulic manifold",
+            "Horn featured helps to eliminate hose pinching",
+            "Weight Puller: 1,150 lbs / 521.6 kg | Placer: 1,325 lbs / 601 kg",
+            "Width 51.5″ / 1.3 m",
+            "Length Puller: 73″ / 1.8 m | Placer: 75″ / 1.9 m",
+            "Height Puller: 41.5″ / 1.1 m | Placer: 44.5″ / 1.1 m",
+            "Ground Clearance 7″–7.25″ | 0.178-0.184 m",
+            "Steering Angle 180 deg.",
+            "Engine 11.7-hp / 8.7-kW Honda GX390",
+            "Tires Carlisle 18×8.5",
+            "Clamp Opening 8.5″ | 10.22 m"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/broom-cure-machine/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/broomcurehyrid.jpg",
+          "name": "Broom + Cure Machine",
+          "description_items": [
+            "Built on a hybrid of a S-15R (upper) and S-22EZ (lower) frame – performance and power to tackle all your paving jobs.",
+            "14’ proprietary broom + spray-bar + channel float head– precision-engineering to follow ACI curing guidelines",
+            "Designed space for 55-gallon drums – integrated materials-handling to keep spraying consistent and refills easy",
+            "Dual Sonic Tracer – technology from the laser screed world to ensure accurate head height during the broom and cure process",
+            "Somero’s proprietary Soft Landing and Self-Leveling System – patented technology that only our customers can benefit from to deliver smooth and consistent brooming to curing transitions",
+            "30-Gallon freshwater tank and hose – capacity to keep the head clean throughout the job",
+            "Weight 10,750 lbs / 4,876 kg",
+            "Width 7’ 2″  / 2.2 m",
+            "Length 28’ / 8.5 m (transport mode)",
+            "Height 7′ 4″ / 2.24 m",
+            "Engine Kubota D1803 Turbo 37.0 kW (49.6 hp) Tier 4 Diesel engine",
+            "Boom Length 20′ / 6.1 m",
+            "Head Width 14’ / 4.27 m"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/skyscreed-36/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/13-Sky-Creed0013-1.jpg",
+          "name": "Skyscreed 36",
+          "description_items": [
+            "36′ / 10.9m Knuckle Boom",
+            "8′ / 2.4m Floating Hydraulic Vibrator Screed Head",
+            "360° Machine Base/Screed Head Rotation",
+            "Set Up Jig",
+            "Auxiliary Power Unit",
+            "Column-Block Protection",
+            "On-board Pressure Washer",
+            "Lift Harness & Tag Line",
+            "OASIS Laser Control System",
+            "Somero Quick GradeSet System™",
+            "Patented Self Leveling System (SLS)",
+            "Wireless Remote Control",
+            "Programmable Quick Pass",
+            "Automatic Hydraulic Oil Warming",
+            "Storage",
+            "Positioning Buckets",
+            "Weight 10,400 lbs (4,717 kg)",
+            "Width 9′ 1″ (2.76 m) (transport mode)",
+            "Length 31′ (9.44 m) (transport mode)",
+            "Height 8′ 11″ (2.72 m) (transport mode)",
+            "Engine 57 HP Kubota (42.5 kW)",
+            "Screed Head Width 8′ (2.4 m)",
+            "Boom Length 36′ (10.97 m)"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/s-ps50-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/sps50_34view.jpg",
+          "name": "S-PS50 Laser Screed",
+          "description_items": [
+            "8′ Laser Screed Head",
+            "Hydraulic Head Rotation",
+            "Steering – 4-wheel (2-wheel, 4-wheel, crab-style)",
+            "Pressure Washer w/Hose Reel",
+            "Hydraulic Oil Warmup",
+            "Operator Heat Package",
+            "Upper Frame Side Storage",
+            "Weight 22,000 lbs | 9,979 kg",
+            "Width 7’ 3” | 2.21 m",
+            "Length 21’ 8” | 6.6 m (drive mode, boom in)",
+            "Height 8′ 2″ | 2.48 m",
+            "Ground Clearance 11″ (27.94cm)",
+            "Boom Length 50′ (15.24M)(four stage boom)",
+            "Engine (Standard) Kubota V3307 74Hp Tier 4f/Stage V’",
+            "Head 8′ (2.43m)"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/srs-4-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/Somero-SRS4-Concrete_Machine_A__0001.jpg",
+          "name": "SRS-4 Laser Screed",
+          "description_items": [
+            "No lower frame and streamlined “no-nonsense” design creates 360° visibility keeping the operator safe and the machine lightweight, meaning Job site safety is increased",
+            "Remote-control operation – ScanReco Remote",
+            "Intelligent Steering adjusts steering angle to prevent stress and damage to components",
+            "Steering capabilities include 2 wheel, 4 wheel, and crab-style options",
+            "Utilizes the Somero® signature Soft Landing feature, making every pass efficient and on-grade",
+            "Conveniences include LED work lights, optional seat and pressure-washer",
+            "Weight 4,400 lbs | 1,996 kg",
+            "Width 6’ 1” | 1.85m",
+            "Length 14’4″ | 4.35m (transport mode)",
+            "Height 5’5″ | 1.64m",
+            "Engine (Options) Kubota DH 902 T4f DieselKubota DH 972 T4f Propane",
+            "Screed Head Width (Standard) 10’ | 3.1m",
+            "Boom Length 18’ | 5.48m"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/s-10a-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/S-10A_Product-Image-1.jpg",
+          "name": "S-10A Laser Screed",
+          "description_items": [
+            "Improved floor quality",
+            "Increased profitability",
+            "Column Block Protection (optional)",
+            "OASIS Laser Control System",
+            "Operator positioned in center of machine for optimum 360 visibility",
+            "Compatible with the 3-D Profiler System®",
+            "Somero Quick GradeSet System™",
+            "Weight 3,402 kg | 7,500 lbs",
+            "Width 2 m | 6’ 8”",
+            "Length (Transport Mode) 7 m | 23’",
+            "Height 2.1 m | 6′ 10″",
+            "Engine (Standard) 26 kW Kubota | 35 HP Diesel",
+            "Screed Head Width (Standard) 3 m | 10’",
+            "Boom Length 6 m | 20’"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/s-15r-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/products_photo_S15R.jpg",
+          "name": "S-15R Laser Screed",
+          "description_items": [
+            "Improved floor quality",
+            "Increased profitability",
+            "Somero Quick GradeSet System™",
+            "OASIS Laser Control System",
+            "Column Block Protection",
+            "360º Machine Rotation with 2-wheel, 4-Wheel, and Crab Steering",
+            "LCD display screen with built in diagnostics",
+            "Compatible with the 3-D Profiler System®",
+            "Weight 9,650 lbs | 4,377 kg w/ 10’ | 3.0 m Screed Head",
+            "Width 6’ 6” | 2.0 m",
+            "Length 24’ 4” | 7.4 m w/ 10’/ 3.0 m Screed Head (transport mode)",
+            "Height 6′ 9″ | 2.1 m",
+            "Engine 44.3 HP | 33 kW Kubota V1505 Turbo Diesel",
+            "Screed Head Width (Standard) 10’ | 3.0 m",
+            "Screed Head Width (Optional) 8’ | 2.4m",
+            "Boom Length 20’ | 6.0 m"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/s-22ez-advanced-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/S-22EZ0003.jpg",
+          "name": "S-22EZ (Advanced) Laser Screed",
+          "description_items": [
+            "Full Color LCD Display w/ Integrated Diagnostics",
+            "EZ Clean Screed Head*",
+            "Head Transport Stands*",
+            "Column-Block Protection",
+            "Hydraulic Screed Head Rotation",
+            "360° Machine Rotation",
+            "Somero Quick GradeSet SystemTM",
+            "LED Work Lights & Compartment Lighting*",
+            "Built-In Storage",
+            "Automatic Throttle",
+            "Programmable Quick Pass",
+            "Illuminating Fuse Panel*",
+            "OASIS Laser Control System",
+            "Soft Landing",
+            "Weight 14,500 lbs | 6,577 kg (with 12′ | 3.7 m screed head)",
+            "Width 7’ 2” | 2.2 m",
+            "Length 27’ 10” | 8.4 m (transport mode)",
+            "Height 8′ 3″ | 2.5 m",
+            "Engine (Standard) 65 HP (48.5kW) Cummins, Turbo Diesel, Tier 4 Final 74 HP (55.4 kW) Kubota, Turbo Diesel, Stage 5*",
+            "Self-Propelled Standard",
+            "Screed Head Width (Standard) 14’7” (4.44 m)",
+            "Screed Head Width (Optional) 16’6” (5.02m)"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/s-28ez-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/s28ez_sideboom.jpg",
+          "name": "S-28EZ Laser Screed",
+          "description_items": [
+            "25 ft Telescopic 2-Stage Boom",
+            "Over 20 new design improvements for better quality screeding",
+            "Improved Engine Access and Serviceability",
+            "Optional rear remote camera",
+            "Optional remote control capability",
+            "Full Color LCD Display w/ Integrated Diagnostics",
+            "EZ Clean Screed Head*",
+            "Column-Block Protection",
+            "360° Machine Rotation",
+            "Head electronic load sensing",
+            "Improved SLS angle sensor",
+            "Hydraulic Pressure Washer (3,000 PSI/207 Bar) & Hose Reel*",
+            "Somero Quick GradeSet System™",
+            "LED Work Lights & Compartment Lighting*",
+            "Built-In Storage",
+            "Programmable Quick Pass",
+            "OASIS Laser Control System",
+            "Hydraulic Oil Pre-Heater",
+            "4-Wheel & Crab Steering",
+            "Operator Heat",
+            "Weight 18,000 lbs | 6,577 kg (with 12′ | 3.7 m screed head)",
+            "Width 7’ 3” | 2.2 m",
+            "Length 31’ 6” | 9.67 m (transport mode)",
+            "Height 8′ 9″ | 2.67 m",
+            "Engine (Standard) Kubota 74 Hp Stage 5 Engine",
+            "Self-Propelled Standard",
+            "Screed Head Width (Standard) 12’ | 3.7 m (standard)",
+            "Screed Head Width (Optional) 14’ | 4.3 mNote: width applies to vibrator component of the head"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/copperhead-xd-3-0/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/1-Copperhead0005-2.jpg",
+          "name": "Copperhead XD 3.0",
+          "description_items": [
+            "Improved floor quality",
+            "Increased profitability",
+            "Fewer worker injuries",
+            "Somero Quick GradeSet System™",
+            "Column Block Protection",
+            "CBSSR Laser Control System",
+            "Remote grade adjustments",
+            "Lightweight and easy to maneuver",
+            "Easy to set-up, break-down, and transport",
+            "Screeds flat, single or dual slopes",
+            "Also compatible with the Somero 3-D Profiler System®",
+            "Weight 850 lbs | 386 kg",
+            "Width 36” | 91 cm",
+            "Length 9’ | 2.7 m",
+            "Height 40″ | 1.1 m",
+            "Engine (Standard) 11.7 HP | 8.7  kW  Honda GX390",
+            "Engine (Optional) 10.3 HP | 6.7 kW Diesel Kohler KD440",
+            "Tires Moto (standard) | High-Float (optional)",
+            "Screed Head Width 10’ | 3.1 m",
+            "Screed Head Width (Optional) 8’ | 2.4 m"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/mini-screed-c/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/products_photo_MiniScreedC.jpg",
+          "name": "Mini Screed C",
+          "description_items": [
+            "Improved floor quality",
+            "Increased profitability",
+            "Column block protection",
+            "Lightweight and easy-to-maneuver",
+            "Easy to set-up, break-down, and clean",
+            "Fits easily in the bed of most pick-up trucks",
+            "CBSSR Laser Control System",
+            "Single & dual-slope capabilities",
+            "Auto-Leveling head",
+            "Compatible with the 3-D Profiler System®",
+            "Quick Grade Set System",
+            "Weight 546 lbs | 248 kg",
+            "Width 30.55” | 77.5 cm",
+            "Length 6’ 4” | 1.9 m",
+            "Height 3′ 7″ | 1.1 m",
+            "Engine 7.9 HP / 5.9 kW Honda GX240",
+            "Tires High-Float (standard) | Moto (optional)",
+            "Screed Head Width 6’8” | 2.0 m"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/s-158c-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/5-158-C_0000-1.jpg",
+          "name": "S-158C Laser Screed",
+          "description_items": [
+            "1-man screed crew",
+            "Screed in any direction",
+            "4-function operation",
+            "Automatic soft landing",
+            "Soft start vibrator",
+            "Quick pass",
+            "Suitable for various applications including chaired rebar, chaired mesh, heat tubes and ice rinks, etc.",
+            "Engine 15.5 kW | 20.8 hp Honda GX630",
+            "Propulsion 4-wheel drive with proportional joystick and valve driving hydraulic motors",
+            "Tires 30.48 cm | 80/100 x 21” motorcycle tire with aggressive treads",
+            "Length 2.96 m | 9’ 8”",
+            "Width 2.55 m | 8’ 4” total head width",
+            "Height 1.34 m | 4’ 4” without mast",
+            "Ground Clearance 0.27 m",
+            "Weight 658 kg | 1,450 lbs with Screed Head attached"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/s-940-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/products_photo_S940.jpg",
+          "name": "S-940 Laser Screed",
+          "description_items": [
+            "Improved floor quality",
+            "Increased profitability",
+            "Somero Quick GradeSet System™",
+            "Auger Screed Head can screed on Chaired Mesh, Chaired Rebar, Heat Tubes, some slab-on-deck and more.",
+            "Raking/Fine Grade Head for raking concrete, finish grading or spreading material (sand, stone, etc.).",
+            "Auto valve calibration for consistent, unsurpassed performance",
+            "Rotating head dollies (optional)",
+            "Works well with slump as low as 3 ½” / 8.9 cm",
+            "Compatible with the 3-D Profiler System®",
+            "OASIS Laser Control System",
+            "Column Block Protection",
+            "Weight 1775 lbs | 805 kg",
+            "Width (Transport Mode) 4’ 9” | 1.5 m",
+            "Length (With Screed Head) 11’ | 3.4 m",
+            "Height (Transport Mode) 5′ | 1.5 m",
+            "Engine (Standard) 22 HP | 16 kW Honda Gx690",
+            "Engine (Optional) Diesel 24.8 HP | 18 kW Kubota DH902",
+            "Ground Contact Pressure (Standard) 20.7 PSI | 141.7 kPa",
+            "Ground Contact Pressure (Optional) 8.3 PSI | 57.2 kPa",
+            "Self-Propelled 4-Wheel Drive w/ Hydraulic Motors",
+            "Screed Head Width (Standard) 8’ | 2.4 m",
+            "Screed Head Width (Optional) 10’ | 3 m",
+            "Raking/Grading Level (Optional) 9’ | 2.7 m"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/s-940e-electric-laser-screed/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/s940e-img-1.png",
+          "name": "S-940E Electric Laser Screed",
+          "description_items": [
+            "8 hours of run time",
+            "35,000 sq. feet on single charge* (3,250 sq m)",
+            "4 hours to full charge when using a 240v outlet",
+            "10 hours to full charge when using a 120v outlet",
+            "Utilizes rugged Li-ion batteries designed for construction equipment",
+            "Easy connection, charging, and swapping of batteries means streamlined maintenance, minimizing downtime",
+            "Maintains power and performance while reducing noise pollution and eliminating exhaust",
+            "User-friendly design makes for easy and safe operation, minimal training required",
+            "Long-term cost-effectiveness, reduced overall investment*performance may vary based on charging and jobsite conditions",
+            "Weight 1950 lbs / 885 kg",
+            "Width (Transport Mode) 4’ 9” | 1.5 m",
+            "Length (Transport Mode) 9’11” / 3.0 m",
+            "Height (Transport Mode) 4’8” / 1.5 m (without masts)",
+            "Battery Pack (3) 7 KWH Batteries at 48V",
+            "Self-Propelled 4-Wheel Drive w/ Hydraulic Motors",
+            "Raking/Grading Level (Optional) 9’ / 2.7 m",
+            "Screed Head Width (Standard) 11’ / 3 m",
+            "Vibrator Width 120″"
+          ],
+          "models": []
+        },
+        {
+          "url": "https://www.somero.com/products/s-485/",
+          "image": "https://www.somero.com/wp-content/uploads/2024/07/s485-img-1.png",
+          "name": "S-485 Laser Screed",
+          "description_items": [
+            "Improved floor quality",
+            "Increased profitability",
+            "Somero Quick Gradeset System®",
+            "Lightweight and versatile",
+            "Screeds on elevated slabs or on grade",
+            "Provides better performance in difficult applications, including chaired rebar or mesh, ice rinks, in-floor heat and freezer slabs",
+            "4 Wheel Drive",
+            "Column Block Protection",
+            "OASIS Laser Control System",
+            "Auto valve calibration for consistent, unsurpassed performance",
+            "Compatible with the 3-D Profiler System®",
+            "Screed more concrete with the 10’ (3m) hydraulic head... increase productivity by 20%",
+            "Hydraulic Vibrator is more responsive to all slump types... consistently delivers a quality floor",
+            "Weight 1,107 lbs | 502 kg",
+            "Width 8′ 4” | 2.5 m",
+            "Length 9’ | 2.7 m",
+            "Height 4′ 2″ | 1.3 m",
+            "Engine 20.8 HP | 15.5 kW HONDA GX630, Gasoline",
+            "Tires Moto (standard) | High-Float (optional)",
+            "10’ | 3 m8’ | 2.4 m6′ | 1.8 m Rake/Sub-Grade Head"
+          ],
+          "models": []
         }
       ]
     },
@@ -261,13 +588,6 @@ export class GlobalService {
             "Ø 1200 Art. 0849",
             "5-120 Art. 10159"
           ],
-          "models": []
-        },
-        {
-          "url": "https://www.barikell.it/wp-content/uploads/2019/05/arresto-centrifugo.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
           "models": []
         },
         {
@@ -565,13 +885,6 @@ export class GlobalService {
           ]
         },
         {
-          "url": "https://www.barikell.it/wp-content/uploads/2019/05/PALETTE-IN-TEFLON.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
-        },
-        {
           "url": "https://www.barikell.it/prodotto/frattazzi/",
           "name": "Frattazzi Floating",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
@@ -719,7 +1032,6 @@ export class GlobalService {
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/4489-STAGGIA-UN-MANICO-700x716.jpg",
           "description_items": [],
           "models": [
-            {},
             {
               "Art.": "4600",
               "Lunghezze m": "2.00",
@@ -743,8 +1055,6 @@ export class GlobalService {
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/4972-STAGGIA-2-MAN-PROF-2.5-700x508.jpg",
           "description_items": [],
           "models": [
-            {},
-            {},
             {
               "Articolo": "4976",
               "Lunghezza m": "2.00",
@@ -815,24 +1125,7 @@ export class GlobalService {
             {
               "Motore": "Scegli un'opzione 4 5Svuota",
               "Pale": null
-            },
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
+            }
           ]
         },
         {
@@ -840,36 +1133,21 @@ export class GlobalService {
           "name": "MK8-120HCS – Monster46 Inches",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
           "name": "MK8-90 HCS – Monster36 Inches",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/mk12-160hcs-64-inches/",
           "name": "MK12-160 HCS 64 Inches",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3384-MK-12_160-HCS-mini-028-700x353.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches/",
@@ -880,14 +1158,7 @@ export class GlobalService {
             {
               "Motore": "Scegli un'opzione 10 8Svuota",
               "Pale": null
-            },
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
+            }
           ]
         },
         {
@@ -899,14 +1170,7 @@ export class GlobalService {
             {
               "Motore": "Scegli un'opzione 10 8Svuota",
               "Pale": null
-            },
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
+            }
           ]
         },
         {
@@ -918,14 +1182,7 @@ export class GlobalService {
             {
               "Motore": "Scegli un'opzione 10 8Svuota",
               "Pale": null
-            },
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
+            }
           ]
         },
         {
@@ -933,75 +1190,35 @@ export class GlobalService {
           "name": "MK8-9036 Inches",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/ol-120hcs-46-inches/",
           "name": "OL-120 HCS46 Inches",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/OL-120HCS.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/ol-120-46-inches/",
           "name": "OL-12046 Inches",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3295G-INT-700x439.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/ol-90-36-inches/",
           "name": "OL-9036 Inches",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
           "name": "MK8-7530 Inches",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/giunti/",
@@ -1124,48 +1341,6 @@ export class GlobalService {
               "Diametro": "20 mm"
             }
           ]
-        },
-        {
-          "url": "https://www.barikell.it/wp-content/uploads/2020/06/ASPHALT-30.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
-        },
-        {
-          "url": "https://www.barikell.it/wp-content/uploads/2020/06/ASPHALT-20.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
-        },
-        {
-          "url": "https://www.barikell.it/wp-content/uploads/2020/06/FLOOR-30.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
-        },
-        {
-          "url": "https://www.barikell.it/wp-content/uploads/2019/05/FLOOR-20-scaled.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
-        },
-        {
-          "url": "https://www.barikell.it/wp-content/uploads/2020/06/FLOOR-10.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
-        },
-        {
-          "url": "https://www.barikell.it/wp-content/uploads/2019/11/FLOOR-6.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/medio-rendimento-cf2/",
@@ -1524,13 +1699,6 @@ export class GlobalService {
           ]
         },
         {
-          "url": "https://www.barikell.it/wp-content/uploads/2019/05/honda.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
-        },
-        {
           "url": "https://www.barikell.it/prodotto/fughe-per-rampe-2/",
           "name": "Fughe per rampe",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14102-mini-031-700x449.jpg",
@@ -1677,17 +1845,8 @@ export class GlobalService {
               "DIMENSIONI": "152X102",
               "RAGGIO": "13",
               "MANICO": "PLASTICA"
-            },
-            {},
-            {}
+            }
           ]
-        },
-        {
-          "url": "https://www.barikell.it/wp-content/uploads/2019/05/cazzuole-particolari.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/cazzuole-bordi-squadrati/",
@@ -1887,27 +2046,6 @@ export class GlobalService {
           ]
         },
         {
-          "url": "https://www.barikell.it/wp-content/uploads/2019/05/AGO-VIBRANTE-scaled.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
-        },
-        {
-          "url": "https://www.barikell.it/wp-content/uploads/2019/05/GUAINA-A-PALLONCINO.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
-        },
-        {
-          "url": "https://www.barikell.it/wp-content/uploads/2019/05/GUAINA.jpg",
-          "name": null,
-          "image": null,
-          "description_items": [],
-          "models": []
-        },
-        {
           "url": "https://www.barikell.it/prodotto/posa-guaina/",
           "name": "Posa guaina",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3650-CARRELLO-SVOLGIGUAINA-700x965.jpg",
@@ -1925,9 +2063,7 @@ export class GlobalService {
           "name": "Spolverine br 150",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3405-SPOLVERINA-BR150-700x786.jpg",
           "description_items": [],
-          "models": [
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/spolverine-br100/",
@@ -1952,14 +2088,7 @@ export class GlobalService {
             {
               "Motore": "Scegli un'opzione 4 6Svuota",
               "Pale": null
-            },
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
+            }
           ]
         },
         {
@@ -1971,15 +2100,7 @@ export class GlobalService {
             {
               "Motore": "Scegli un'opzione 4 6Svuota",
               "Pale": null
-            },
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
+            }
           ]
         },
         {
@@ -1987,28 +2108,14 @@ export class GlobalService {
           "name": "Moskito Sabbia cemento",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3043G-SABBIA-CEMENTO-mini-038-700x668.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/4-80-32-inches/",
           "name": "4-8032 Inches",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3093G-4-80-HEAVY-DUTY-mini-044-700x553.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/4-120-46-inches/",
@@ -2019,19 +2126,7 @@ export class GlobalService {
             {
               "Motore": "Scegli un'opzione 4 5Svuota",
               "Pale": null
-            },
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
+            }
           ]
         },
         {
@@ -2039,30 +2134,21 @@ export class GlobalService {
           "name": "Mp8-90Polish",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/mp8-75-polish/",
           "name": "Mp8-75Polish",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/polish-4-60/",
           "name": "4-60Polish",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3004-POLISHING-mini-010-700x629.jpg",
           "description_items": [],
-          "models": [
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
@@ -2097,10 +2183,7 @@ export class GlobalService {
           "name": "Fughe per rampe",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/vari/",
@@ -2119,14 +2202,7 @@ export class GlobalService {
           "name": "Cazzuole",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
@@ -2146,10 +2222,7 @@ export class GlobalService {
           "name": "Nasini per gradini",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/NASINO_3970.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/spazza-acqua-raschietti-rastrelli/",
@@ -2264,19 +2337,7 @@ export class GlobalService {
           "name": "Stagge ultralight in alluminio",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3900-STAGGIA-MT2-700x239.jpg",
           "description_items": [],
-          "models": [
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {},
-            {}
-          ]
+          "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",

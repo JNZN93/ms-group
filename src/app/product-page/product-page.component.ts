@@ -98,12 +98,13 @@ export class ProductPageComponent {
   }
 
   addToCart(selectedModel:any, quantity:number, selectedProduct: any):void {
+
     const item: CartItem = {
-      id: selectedModel.code,
+      id: selectedProduct.name,
       quantity: quantity,
       name: selectedProduct.name,
       image: selectedProduct.image,
-      model: selectedModel.code
+      model: selectedModel?.code ? selectedModel.code : 'Standard'
     };
     if(quantity < 1 ) {
       item.quantity = 1;

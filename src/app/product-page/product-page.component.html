@@ -1,11 +1,11 @@
-<section id="product-page">
+<section>
   @if (brandProducts.length > 0) {
     @for (product of brandProducts; track $index) {
       <div class="karte">
         <img [src]="product.image" />
         <div class="karte-content">
           <h2>{{ product.name }}</h2>
-          <p>{{ product.description || 'Kein Beschreibungstext verfügbar.' }}</p>
+          <p>{{ product.description_items || 'Kein Beschreibungstext verfügbar.' }}</p>
         </div>
         <div class="karte-footer">
           <button (click)="openModal(product)">Details</button>
@@ -36,9 +36,9 @@
             </div>
 
             <!-- Beschreibung & Auswahl -->
-            <div class="col-md-7">
+            <div class="col-md-7 modal-description">
               <p>
-                {{selectedProduct?.description}}
+                {{selectedProduct?.description_items}}
               </p>
 
               <!-- Drop Down Variante-->
@@ -46,11 +46,21 @@
                 <div class="form-group">
                   <label for="produktVariante">Variante auswählen:</label>
                   <select class="form-control" id="produktVariante" [(ngModel)]="selectedVariant" name="produktVariante" (change)="resetQuantity()">
+                    @if(selectedProduct.models.length == 0) {
+                      <option value="Standard">{{selectedProduct?.name}}</option>
+                  }
                     @for (model of selectedProduct.models; track $index) {
-                      <option [ngValue]="model">
-                        {{ getFirstValue(model) }}
-                      </option>
-                    }
+                        <option [ngValue]="model">
+                          {{ getFirstValue(model) }}
+                        </option>
+                      }
+                  </select>
+                </div>
+              } @else {
+                <div class="form-group">
+                  <label for="produktVariante">Variante auswählen:</label>
+                  <select class="form-control" id="produktVariante" [(ngModel)]="selectedVariant" name="produktVariante" (change)="resetQuantity()">
+                    <option [ngValue]="selectedVariant">{{selectedProduct?.name}}</option>
                   </select>
                 </div>
               }
