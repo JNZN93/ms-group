@@ -22,21 +22,21 @@
                         <h6 class="text-danger">E-mail must be valid and message must be longer than 1 character.</h6>
 
                         <div class="col-md-6 col-sm-6">
-                             <input type="text" class="form-control" id="cf-name" name="cf-name" placeholder="Name">
+                             <input type="text" class="form-control" id="cf-name" name="cf-name" placeholder="Name" [(ngModel)]="name">
                         </div>
 
                         <div class="col-md-6 col-sm-6">
-                             <input type="email" class="form-control" id="cf-email" name="cf-email" placeholder="Email Address">
+                             <input type="email" class="form-control" id="cf-email" name="cf-email" placeholder="Email Address" [(ngModel)]="email">
                         </div>
 
                         <div class="col-md-12 col-sm-12">
-                             <input type="text" class="form-control" id="cf-subject" name="subject" placeholder="Subject">
-                             <textarea class="form-control" rows="5" id="cf-message" name="cf-message" placeholder="Message"></textarea>
+                             <input type="text" class="form-control" id="cf-subject" name="subject" placeholder="Subject" [(ngModel)]="subject">
+                             <textarea class="form-control" rows="5" id="cf-message" name="cf-message" placeholder="Message" [(ngModel)]="message"></textarea>
                         </div>
 
                         <div class="col-md-offset-4 col-md-4 col-sm-offset-4 col-sm-4">
                              <div class="section-btn">
-                                  <button type="submit" class="form-control" id="cf-submit" name="submit"><span data-hover="Send Message">Send Message</span></button>
+                                  <button class="form-control" id="cf-submit" name="submit" (click)="sendEmail()"><span data-hover="Send Message">Send Message</span></button>
                              </div>
                         </div>
                    </form>

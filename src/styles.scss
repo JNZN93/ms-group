@@ -450,6 +450,7 @@ a:hover, a:active, a:focus {
   display: flex;
   justify-content: center; /* horizontal */
   align-items: center;     /* vertikal */
+  cursor: pointer;
 }
 
 .project-overlay {
