@@ -9,15 +9,15 @@
                    <span class="icon icon-bar"></span>
               </button>
               <!-- lOGO -->
-              <a href="#" class="navbar-brand"><img src="ms-logoo.png"></a>
+              <a routerLink="/" routerLinkActive="router-link-active"  class="navbar-brand"><img src="ms-logoo.png"></a>
          </div>
           <!-- MENU LINKS -->
           <div class="collapse navbar-collapse">
                <ul class="nav navbar-nav navbar-right">
-                 <li><a href="#home" class="smoothScroll">Startseite</a></li>
-                 <li><a href="#about" class="smoothScroll">Produkte</a></li>
-                 <li><a href="#team" class="smoothScroll">Unsere Partner</a></li>
-                 <li><a href="#contact" class="smoothScroll">Kontakt</a></li>
+                 <li><a routerLink="/" class="smoothScroll">Startseite</a></li>
+                 <li><a routerLink="/" fragment="about" class="smoothScroll">Über Uns</a></li>
+                 <li><a routerLink="/" fragment="project" class="smoothScroll">Produkte</a></li>
+                 <li><a routerLink="/" fragment="contact" class="smoothScroll">Kontakt</a></li>
              
                  <li class="cart-wrapper">
                    <a (click)="toggleCart()" class="smoothScroll">
