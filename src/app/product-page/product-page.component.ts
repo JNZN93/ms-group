@@ -47,6 +47,7 @@ export class ProductPageComponent {
 
     
     window.addEventListener('popstate', this.handlePopState);
+    window.scrollTo(0, 0);
   }
 
   filterProducts() {

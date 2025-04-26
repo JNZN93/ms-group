@@ -1,4 +1,4 @@
-import { Component, ElementRef, ViewChild } from '@angular/core';
+import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { AboutComponent } from "../about/about.component";
 
 @Component({
@@ -7,8 +7,13 @@ import { AboutComponent } from "../about/about.component";
   templateUrl: './hero-section.component.html',
   styleUrl: './hero-section.component.scss'
 })
-export class HeroSectionComponent {
+export class HeroSectionComponent implements OnInit {
+
   @ViewChild('videoPlayer') videoPlayer!: ElementRef<HTMLVideoElement>;
+
+  ngOnInit(): void {
+    window.scrollTo(0, 0);
+  }
 
   ngAfterViewInit() {
     const video = this.videoPlayer.nativeElement;
