@@ -502,28 +502,28 @@ export class GlobalService {
       products: [
         {
           "url": "https://www.barikell.it/prodotto/manico-lungo/",
-          "name": "Manico Lungo",
+          "name": "Langer Griff",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
           "description_items": [
-            "4-90 / 4-120 benzina Art. 1083",
-            "4-90 / 4-120 diesel Art. 1087",
-            "4-90 / 4-120 elettriche Art. 1746"
+            "4-90 / 4-120 Benzin Art. 1083",
+            "4-90 / 4-120 Diesel Art. 1087",
+            "4-90 / 4-120 Elektrisch Art. 1746"
           ],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/manico-pieghevole/",
-          "name": "Manico pieghevole",
+          "name": "Klappgriff",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
           "description_items": [
-            "4-90 / 4-120 benzina Art. 1744",
-            "4-90 / 4-120 elettriche Art. 1321"
+            "4-90 / 4-120 Benzin Art. 1744",
+            "4-90 / 4-120 Elektrisch Art. 1321"
           ],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
-          "name": "Cerchio di protezione apribile",
+          "name": "Öffnbarer Schutzring",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
           "description_items": [
             "Ø 900 Art. 1371",
@@ -533,7 +533,7 @@ export class GlobalService {
         },
         {
           "url": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
-          "name": "Cerchio stabilizzatore",
+          "name": "Stabilisierungsring",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
           "description_items": [
             "Ø 900 Art. 10112",
@@ -544,7 +544,7 @@ export class GlobalService {
         },
         {
           "url": "https://www.barikell.it/prodotto/gancio-sollevamento/",
-          "name": "Gancio sollevamento",
+          "name": "Hebehaken",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
           "description_items": [
             "4-60 / 4-75 Art. 1368",
@@ -554,7 +554,7 @@ export class GlobalService {
         },
         {
           "url": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
-          "name": "Manico corto quick pitch",
+          "name": "Kurzer Quick-Pitch-Griff",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
           "description_items": [
             "4-90 / 4-120 Art. 1242"
@@ -563,7 +563,7 @@ export class GlobalService {
         },
         {
           "url": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
-          "name": "Manico lungo quick pitch",
+          "name": "Langer Quick-Pitch-Griff",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
           "description_items": [
             "4-90 / 4-120 Art. 1244"
@@ -572,20 +572,20 @@ export class GlobalService {
         },
         {
           "url": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
-          "name": "Sistema di trasporto",
+          "name": "Transportsystem",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
           "description_items": [
-            "Art. 3129 – Sistema di trasporto mobile completo di due ruote per il trasporto di frattazzatrici 4-90 / 4-120",
-            "Art. 3130 – Solo attacco per sistema di trasporto mobile",
-            "Art. 3131 – Solo ruota per sistemi di trasporto",
-            "Art. 3132 – Solo attacco per sistema di sollevamento fisso",
-            "Art. 3133 – Sistema di trasporto fisso completo di due ruote per il trasporto di frattazzatrici 4-90 / 4-120"
+            "Art. 3129 – Mobiles Transportsystem komplett mit zwei Rädern für den Transport von 4-90 / 4-120 Betonfertigern",
+            "Art. 3130 – Nur Halterung für mobiles Transportsystem",
+            "Art. 3131 – Nur Rad für Transportsysteme",
+            "Art. 3132 – Nur Halterung für festes Transportsystem",
+            "Art. 3133 – Festes Transportsystem komplett mit zwei Rädern für den Transport von 4-90 / 4-120 Betonfertigern"
           ],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
-          "name": "Gancio di sollevamento (G)",
+          "name": "Hebehaken (G)",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
           "description_items": [
             "3392 – OL90 / MK8-75",
@@ -598,15 +598,8 @@ export class GlobalService {
           "models": []
         },
         {
-          "url": "https://www.barikell.it/prodotto/variatore-di-velocita-15/",
-          "name": "Alta velocità",
-          "image": "https://www.barikell.it/wp-content/uploads/2019/05/dashboard_5628701.png",
-          "description_items": [],
-          "models": []
-        },
-        {
           "url": "https://www.barikell.it/prodotto/telaio-di-protezione-apribile-a/",
-          "name": "Telaio di protezione apribile (A)",
+          "name": "Öffnbarer Schutzrahmen (A)",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/telaio-doppia.jpg",
           "description_items": [
             "1307 – OL90",
@@ -619,7 +612,7 @@ export class GlobalService {
         },
         {
           "url": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
-          "name": "Carrelli trasportatori",
+          "name": "Transportwagen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
           "description_items": [
             "3277 – OL90 / MK8-90 / MK10-90",
@@ -629,720 +622,720 @@ export class GlobalService {
         },
         {
           "url": "https://www.barikell.it/prodotto/palette/",
-          "name": "Palette finish",
+          "name": "Finish-Kelle",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/4200-PALETTE-MOSQUITO-mini-053-700x374.jpg",
           "description_items": [],
           "models": [
             {
               "Art.": "4200",
-              "Macchine compatibili": "Moskito 4-60",
-              "Peso Kg": "2,300"
+              "Kompatible Maschinen": "Moskito 4-60",
+              "Gewicht Kg": "2,300"
             },
             {
               "Art.": "4205",
-              "Macchine compatibili": "Moskito 6-60",
-              "Peso Kg": "3,240"
+              "Kompatible Maschinen": "Moskito 6-60",
+              "Gewicht Kg": "3,240"
             },
             {
               "Art.": "4210",
-              "Macchine compatibili": "Moskito 6-60 tipo vecchio",
-              "Peso Kg": "2,686"
+              "Kompatible Maschinen": "Moskito 6-60 alter Typ",
+              "Gewicht Kg": "2,686"
             },
             {
               "Art.": "4215",
-              "Macchine compatibili": "Moskito 4-75",
-              "Peso Kg": "2,972"
+              "Kompatible Maschinen": "Moskito 4-75",
+              "Gewicht Kg": "2,972"
             },
             {
               "Art.": "4220",
-              "Macchine compatibili": "Moskito 6-75",
-              "Peso Kg": "4,400"
+              "Kompatible Maschinen": "Moskito 6-75",
+              "Gewicht Kg": "4,400"
             },
             {
               "Art.": "4223",
-              "Macchine compatibili": "4-80 / MK8-75",
-              "Peso Kg": "3,694"
+              "Kompatible Maschinen": "4-80 / MK8-75",
+              "Gewicht Kg": "3,694"
             },
             {
               "Art.": "4225",
-              "Macchine compatibili": "4-90 / OL90",
-              "Peso Kg": "4,680"
+              "Kompatible Maschinen": "4-90 / OL90",
+              "Gewicht Kg": "4,680"
             },
             {
               "Art.": "4228",
-              "Macchine compatibili": "5-90",
-              "Peso Kg": "5,800"
+              "Kompatible Maschinen": "5-90",
+              "Gewicht Kg": "5,800"
             },
             {
               "Art.": "4230",
-              "Macchine compatibili": "4-120",
-              "Peso Kg": "6,272"
+              "Kompatible Maschinen": "4-120",
+              "Gewicht Kg": "6,272"
             },
             {
               "Art.": "4234",
-              "Macchine compatibili": "5-120",
-              "Peso Kg": "7,720"
+              "Kompatible Maschinen": "5-120",
+              "Gewicht Kg": "7,720"
             },
             {
               "Art.": "4240",
-              "Macchine compatibili": "MK8-90",
-              "Peso Kg": "5,502"
+              "Kompatible Maschinen": "MK8-90",
+              "Gewicht Kg": "5,502"
             },
             {
               "Art.": "4238",
-              "Macchine compatibili": "MK10-90",
-              "Peso Kg": "6,880"
+              "Kompatible Maschinen": "MK10-90",
+              "Gewicht Kg": "6,880"
             },
             {
               "Art.": "4235",
-              "Macchine compatibili": "OL120 / MK8-120",
-              "Peso Kg": "7,438"
+              "Kompatible Maschinen": "OL120 / MK8-120",
+              "Gewicht Kg": "7,438"
             },
             {
               "Art.": "4239",
-              "Macchine compatibili": "MK10-120",
-              "Peso Kg": "9,300"
+              "Kompatible Maschinen": "MK10-120",
+              "Gewicht Kg": "9,300"
             },
             {
               "Art.": "4245",
-              "Macchine compatibili": "MK12-160",
-              "Peso Kg": "14,574"
+              "Kompatible Maschinen": "MK12-160",
+              "Gewicht Kg": "14,574"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/palette-combinate/",
-          "name": "Palette combi",
+          "name": "Combi-Kelle",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/4253-COMBI-SPECIAL-4_90-mini-069-700x329.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "4250",
-              "Macchine compatibili": "4-90 / OL90",
-              "Peso Kg": "5,718"
+              "Artikel": "4250",
+              "Kompatible Maschinen": "4-90 / OL90",
+              "Gewicht Kg": "5,718"
             },
             {
-              "Articolo": "4251",
-              "Macchine compatibili": "5-90",
-              "Peso Kg": "7,6000"
+              "Artikel": "4251",
+              "Kompatible Maschinen": "5-90",
+              "Gewicht Kg": "7,6000"
             },
             {
-              "Articolo": "4253",
-              "Macchine compatibili": "4-90 / OL90 / MK8-90 speciali",
-              "Peso Kg": "6,120"
+              "Artikel": "4253",
+              "Kompatible Maschinen": "4-90 / OL90 / MK8-90 Spezial",
+              "Gewicht Kg": "6,120"
             },
             {
-              "Articolo": "4255",
-              "Macchine compatibili": "4-120",
-              "Peso Kg": "7,650"
+              "Artikel": "4255",
+              "Kompatible Maschinen": "4-120",
+              "Gewicht Kg": "7,650"
             },
             {
-              "Articolo": "4256",
-              "Macchine compatibili": "4-120 speciali",
-              "Peso Kg": "7,778"
+              "Artikel": "4256",
+              "Kompatible Maschinen": "4-120 Spezial",
+              "Gewicht Kg": "7,778"
             },
             {
-              "Articolo": "4254",
-              "Macchine compatibili": "MK12-160 speciali",
-              "Peso Kg": "12,520"
+              "Artikel": "4254",
+              "Kompatible Maschinen": "MK12-160 Spezial",
+              "Gewicht Kg": "12,520"
             },
             {
-              "Articolo": "4258",
-              "Macchine compatibili": "4-80 / MK8-75",
-              "Peso Kg": "3,648"
+              "Artikel": "4258",
+              "Kompatible Maschinen": "4-80 / MK8-75",
+              "Gewicht Kg": "3,648"
             },
             {
-              "Articolo": "4260",
-              "Macchine compatibili": "OL120 / MK8-120",
-              "Peso Kg": "8,382"
+              "Artikel": "4260",
+              "Kompatible Maschinen": "OL120 / MK8-120",
+              "Gewicht Kg": "8,382"
             },
             {
-              "Articolo": "4259",
-              "Macchine compatibili": "OL120 / MK8-120 speciali",
-              "Peso Kg": "8,468"
+              "Artikel": "4259",
+              "Kompatible Maschinen": "OL120 / MK8-120 Spezial",
+              "Gewicht Kg": "8,468"
             },
             {
-              "Articolo": "4261",
-              "Macchine compatibili": "MK10-120",
-              "Peso Kg": "10,480"
+              "Artikel": "4261",
+              "Kompatible Maschinen": "MK10-120",
+              "Gewicht Kg": "10,480"
             },
             {
-              "Articolo": "4265",
-              "Macchine compatibili": "MK8-90",
-              "Peso Kg": "6,268"
+              "Artikel": "4265",
+              "Kompatible Maschinen": "MK8-90",
+              "Gewicht Kg": "6,268"
             },
             {
-              "Articolo": "4266",
-              "Macchine compatibili": "MK8-90 speciali",
-              "Peso Kg": "6,300"
+              "Artikel": "4266",
+              "Kompatible Maschinen": "MK8-90 Spezial",
+              "Gewicht Kg": "6,300"
             },
             {
-              "Articolo": "4264",
-              "Macchine compatibili": "MK10-90",
-              "Peso Kg": "7,875"
+              "Artikel": "4264",
+              "Kompatible Maschinen": "MK10-90",
+              "Gewicht Kg": "7,875"
             },
             {
-              "Articolo": "4268",
-              "Macchine compatibili": "MK12-160 speciali",
-              "Peso Kg": "12,520"
+              "Artikel": "4268",
+              "Kompatible Maschinen": "MK12-160 Spezial",
+              "Gewicht Kg": "12,520"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/golden-blades/",
-          "name": "Palette golden",
+          "name": "Golden-Kelle",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/4225-G2-GOLD-490-mini-022-700x318.jpg",
           "description_items": [],
           "models": [
             {
               "Art.": "4225G",
-              "Descrizione": "Palette 4-90",
-              "Peso Kg": "5,042"
+              "Beschreibung": "Kelle 4-90",
+              "Gewicht Kg": "5,042"
             },
             {
               "Art.": "4228G",
-              "Descrizione": "Palette 5-90",
-              "Peso Kg": "6,310"
+              "Beschreibung": "Kelle 5-90",
+              "Gewicht Kg": "6,310"
             },
             {
               "Art.": "4230G",
-              "Descrizione": "Palette 4-120",
-              "Peso Kg": "6,700"
+              "Beschreibung": "Kelle 4-120",
+              "Gewicht Kg": "6,700"
             },
             {
               "Art.": "4234G",
-              "Descrizione": "Palette 5-120",
-              "Peso Kg": "8,36"
+              "Beschreibung": "Kelle 5-120",
+              "Gewicht Kg": "8,36"
             },
             {
               "Art.": "4250G",
-              "Descrizione": "Combi 4-90",
-              "Peso Kg": "5,750"
+              "Beschreibung": "Combi 4-90",
+              "Gewicht Kg": "5,750"
             },
             {
               "Art.": "4251G",
-              "Descrizione": "Combi 5-90 speciali",
-              "Peso Kg": "7,190"
+              "Beschreibung": "Combi 5-90 Spezial",
+              "Gewicht Kg": "7,190"
             },
             {
               "Art.": "4255G",
-              "Descrizione": "Combi 4-120",
-              "Peso Kg": "7,744"
+              "Beschreibung": "Combi 4-120",
+              "Gewicht Kg": "7,744"
             },
             {
               "Art.": "4254G",
-              "Descrizione": "Combi 5-120 speciali",
-              "Peso Kg": "9,680"
+              "Beschreibung": "Combi 5-120 Spezial",
+              "Gewicht Kg": "9,680"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/frattazzi/",
-          "name": "Frattazzi Floating",
+          "name": "Floating-Frattazzi",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "4148",
-              "Macchine compatibili": "4-80 / MK-75",
-              "Spessore mm": "3",
-              "Peso Kg": "6.698"
+              "Artikel": "4148",
+              "Kompatible Maschinen": "4-80 / MK-75",
+              "Dicke mm": "3",
+              "Gewicht Kg": "6.698"
             },
             {
-              "Articolo": "4150",
-              "Macchine compatibili": "4-90 / OL90 / MK8-90 dx",
-              "Spessore mm": "3",
-              "Peso Kg": "9.300"
+              "Artikel": "4150",
+              "Kompatible Maschinen": "4-90 / OL90 / MK8-90 rechts",
+              "Dicke mm": "3",
+              "Gewicht Kg": "9.300"
             },
             {
-              "Articolo": "4155",
-              "Macchine compatibili": "OL90 / MK8-90 sx",
-              "Spessore mm": "3",
-              "Peso Kg": "9.300"
+              "Artikel": "4155",
+              "Kompatible Maschinen": "OL90 / MK8-90 links",
+              "Dicke mm": "3",
+              "Gewicht Kg": "9.300"
             },
             {
-              "Articolo": "4160",
-              "Macchine compatibili": "4-120 / OL120 / MK8-120 dx",
-              "Spessore mm": "3",
-              "Peso Kg": "12.500"
+              "Artikel": "4160",
+              "Kompatible Maschinen": "4-120 / OL120 / MK8-120 rechts",
+              "Dicke mm": "3",
+              "Gewicht Kg": "12.500"
             },
             {
-              "Articolo": "4165",
-              "Macchine compatibili": "OL120 / MK8-120 sx",
-              "Spessore mm": "3",
-              "Peso Kg": "12.500"
+              "Artikel": "4165",
+              "Kompatible Maschinen": "OL120 / MK8-120 links",
+              "Dicke mm": "3",
+              "Gewicht Kg": "12.500"
             },
             {
-              "Articolo": "4180",
-              "Macchine compatibili": "4-120 / OL120 / MK8-120 dx",
-              "Spessore mm": "4",
-              "Peso Kg": "16.500"
+              "Artikel": "4180",
+              "Kompatible Maschinen": "4-120 / OL120 / MK8-120 rechts",
+              "Dicke mm": "4",
+              "Gewicht Kg": "16.500"
             },
             {
-              "Articolo": "4185",
-              "Macchine compatibili": "OL120 / MK8-120 sx",
-              "Spessore mm": "4",
-              "Peso Kg": "16.500"
+              "Artikel": "4185",
+              "Kompatible Maschinen": "OL120 / MK8-120 links",
+              "Dicke mm": "4",
+              "Gewicht Kg": "16.500"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/dischi-frattazzo/",
-          "name": "Dischi Frattazzo",
+          "name": "Frattazzo-Scheiben",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/discofrattazzo1.jpg",
           "description_items": [],
           "models": [
             {
               "Art.": "1890",
-              "Macchine compatibili": "Moskito Sabbia e cemento",
-              "Diametro mm": "600",
-              "Peso Kg": "13.00"
+              "Kompatible Maschinen": "Moskito Sand und Zement",
+              "Durchmesser mm": "600",
+              "Gewicht Kg": "13.00"
             },
             {
               "Art.": "4100",
-              "Macchine compatibili": "Moskito sottofondi",
-              "Diametro mm": "600",
-              "Peso Kg": "5.00"
+              "Kompatible Maschinen": "Moskito Untergründe",
+              "Durchmesser mm": "600",
+              "Gewicht Kg": "5.00"
             },
             {
               "Art.": "4105",
-              "Macchine compatibili": "Moskito 4-60 4 linguette",
-              "Diametro mm": "600",
-              "Peso Kg": "5.00"
+              "Kompatible Maschinen": "Moskito 4-60 4 Flügel",
+              "Durchmesser mm": "600",
+              "Gewicht Kg": "5.00"
             },
             {
               "Art.": "4110",
-              "Macchine compatibili": "Moskito 6-60 2 linguette",
-              "Diametro mm": "600",
-              "Peso Kg": "5.00"
+              "Kompatible Maschinen": "Moskito 6-60 2 Flügel",
+              "Durchmesser mm": "600",
+              "Gewicht Kg": "5.00"
             },
             {
               "Art.": "4115",
-              "Macchine compatibili": "Moskito 75 2 linguette",
-              "Diametro mm": "750",
-              "Peso Kg": "7.80"
+              "Kompatible Maschinen": "Moskito 75 2 Flügel",
+              "Durchmesser mm": "750",
+              "Gewicht Kg": "7.80"
             },
             {
               "Art.": "4117",
-              "Macchine compatibili": "MK8-75",
-              "Diametro mm": "750",
-              "Peso Kg": "7.80"
+              "Kompatible Maschinen": "MK8-75",
+              "Durchmesser mm": "750",
+              "Gewicht Kg": "7.80"
             },
             {
               "Art.": "4120",
-              "Macchine compatibili": "4-90 / MK8-90 / MK8-90 HCS sp. 3mm",
-              "Diametro mm": "900",
-              "Peso Kg": "18.50"
+              "Kompatible Maschinen": "4-90 / MK8-90 / MK8-90 HCS Dicke 3mm",
+              "Durchmesser mm": "900",
+              "Gewicht Kg": "18.50"
             },
             {
               "Art.": "4121",
-              "Macchine compatibili": "4-90 / MK8-90 / MK8-90 HCS sp. 4mm",
-              "Diametro mm": "900",
-              "Peso Kg": "25.00"
+              "Kompatible Maschinen": "4-90 / MK8-90 / MK8-90 HCS Dicke 4mm",
+              "Durchmesser mm": "900",
+              "Gewicht Kg": "25.00"
             },
             {
               "Art.": "4133",
-              "Macchine compatibili": "5-90 / MK10-90 Hcs",
-              "Diametro mm": "90",
-              "Peso Kg": "18.70"
+              "Kompatible Maschinen": "5-90 / MK10-90 Hcs",
+              "Durchmesser mm": "90",
+              "Gewicht Kg": "18.70"
             },
             {
               "Art.": "4125",
-              "Macchine compatibili": "4-120 / MK8-120 / MK8-120 HCS sp. 3mm",
-              "Diametro mm": "1200",
-              "Peso Kg": "28.00"
+              "Kompatible Maschinen": "4-120 / MK8-120 / MK8-120 HCS Dicke 3mm",
+              "Durchmesser mm": "1200",
+              "Gewicht Kg": "28.00"
             },
             {
               "Art.": "4126",
-              "Macchine compatibili": "4-120 / MK8-120 / MK8-120 HCS sp. 4mm",
-              "Diametro mm": "1200",
-              "Peso Kg": "35.50"
+              "Kompatible Maschinen": "4-120 / MK8-120 / MK8-120 HCS Dicke 4mm",
+              "Durchmesser mm": "1200",
+              "Gewicht Kg": "35.50"
             },
             {
               "Art.": "4134",
-              "Macchine compatibili": "5-120 / MK10-120 HCS",
-              "Diametro mm": "1200",
-              "Peso Kg": "28.20"
+              "Kompatible Maschinen": "5-120 / MK10-120 HCS",
+              "Durchmesser mm": "1200",
+              "Gewicht Kg": "28.20"
             },
             {
               "Art.": "4130",
-              "Macchine compatibili": "MK12-160 spessore 3 mm",
-              "Diametro mm": "1600",
-              "Peso Kg": "55.00"
+              "Kompatible Maschinen": "MK12-160 Dicke 3 mm",
+              "Durchmesser mm": "1600",
+              "Gewicht Kg": "55.00"
             },
             {
               "Art.": "4131",
-              "Macchine compatibili": "MK12-160 spessore 4 mm",
-              "Diametro mm": "1600",
-              "Peso Kg": "58.00"
+              "Kompatible Maschinen": "MK12-160 Dicke 4 mm",
+              "Durchmesser mm": "1600",
+              "Gewicht Kg": "58.00"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/staggia-vibrante-a-1-manico/",
-          "name": "Staggia vibrante a 1 manico",
+          "name": "Rüttelbohle mit 1 Griff",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/4489-STAGGIA-UN-MANICO-700x716.jpg",
           "description_items": [],
           "models": [
             {
               "Art.": "4600",
-              "Lunghezze m": "2.00",
-              "Peso Kg": "6.2"
+              "Länge m": "2.00",
+              "Gewicht Kg": "6.2"
             },
             {
               "Art.": "4602",
-              "Lunghezze m": "2.50",
-              "Peso Kg": null
+              "Länge m": "2.50",
+              "Gewicht Kg": null
             },
             {
               "Art.": "4604",
-              "Lunghezze m": "3.00",
-              "Peso Kg": "9.3"
+              "Länge m": "3.00",
+              "Gewicht Kg": "9.3"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/staggia-vibrante-a-2-manici/",
-          "name": "Staggia vibrante a 2 manici",
+          "name": "Rüttelbohle mit 2 Griffen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/4972-STAGGIA-2-MAN-PROF-2.5-700x508.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "4976",
-              "Lunghezza m": "2.00",
-              "Peso Kg": "5.00"
+              "Artikel": "4976",
+              "Länge m": "2.00",
+              "Gewicht Kg": "5.00"
             },
             {
-              "Articolo": "4977",
-              "Lunghezza m": "2.50",
-              "Peso Kg": "6.30"
+              "Artikel": "4977",
+              "Länge m": "2.50",
+              "Gewicht Kg": "6.30"
             },
             {
-              "Articolo": "4978",
-              "Lunghezza m": "3.00",
-              "Peso Kg": "8.60"
+              "Artikel": "4978",
+              "Länge m": "3.00",
+              "Gewicht Kg": "8.60"
             },
             {
-              "Articolo": "4979",
-              "Lunghezza m": "3.50",
-              "Peso Kg": "9.30"
+              "Artikel": "4979",
+              "Länge m": "3.50",
+              "Gewicht Kg": "9.30"
             },
             {
-              "Articolo": "4982",
-              "Lunghezza m": "4.00",
-              "Peso Kg": "10.00"
+              "Artikel": "4982",
+              "Länge m": "4.00",
+              "Gewicht Kg": "10.00"
             },
             {
-              "Articolo": "4980",
-              "Lunghezza m": "4.50",
-              "Peso Kg": "10.20"
+              "Artikel": "4980",
+              "Länge m": "4.50",
+              "Gewicht Kg": "10.20"
             },
             {
-              "Articolo": "4981",
-              "Lunghezza m": "5.00",
-              "Peso Kg": "11.90"
+              "Artikel": "4981",
+              "Länge m": "5.00",
+              "Gewicht Kg": "11.90"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/big-blue-float-solo-profilo/",
-          "name": "Big blue float – Solo profilo",
+          "name": "Big Blue Float – Nur Profil",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13977-mini-027-700x443.jpg",
           "description_items": [],
           "models": [
             {
               "ART": "MT13977",
-              "DIMENSIONE PROFILO": "914X314 MM"
+              "PROFILGRÖSSE": "914X314 MM"
             },
             {
               "ART": "MT13987",
-              "DIMENSIONE PROFILO": "1219X314 MM"
+              "PROFILGRÖSSE": "1219X314 MM"
             },
             {
               "ART": "MT13988",
-              "DIMENSIONE PROFILO": "1524X314 MM"
+              "PROFILGRÖSSE": "1524X314 MM"
             },
             {
               "ART": "MT13989",
-              "DIMENSIONE PROFILO": "1829X314 MM"
+              "PROFILGRÖSSE": "1829X314 MM"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/4-90-36-inches/",
-          "name": "4-9036 inches",
+          "name": "4-9036 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3100-L-700x440.jpg",
           "description_items": [],
           "models": [
             {
-              "Motore": "Scegli un'opzione 4 5Svuota",
-              "Pale": null
+              "Motor": "Option wählen 4 5SLeer",
+              "Kellen": null
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches-monster/",
-          "name": "MK8-120HCS – Monster46 Inches",
+          "name": "MK8-120HCS – Monster46 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
-          "name": "MK8-90 HCS – Monster36 Inches",
+          "name": "MK8-90 HCS – Monster36 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/mk12-160hcs-64-inches/",
-          "name": "MK12-160 HCS 64 Inches",
+          "name": "MK12-160 HCS 64 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3384-MK-12_160-HCS-mini-028-700x353.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches/",
-          "name": "MK8-120 HCS 46 Inches",
+          "name": "MK8-120 HCS 46 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-GANCIO-700x443.jpg",
           "description_items": [],
           "models": [
             {
-              "Motore": "Scegli un'opzione 10 8Svuota",
-              "Pale": null
+              "Motor": "Option wählen 10 8SLeer",
+              "Kellen": null
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/mk8-120-46-inches/",
-          "name": "MK8-12046 Inches",
+          "name": "MK8-12046 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
           "description_items": [],
           "models": [
             {
-              "Motore": "Scegli un'opzione 10 8Svuota",
-              "Pale": null
+              "Motor": "Option wählen 10 8SLeer",
+              "Kellen": null
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches/",
-          "name": "MK8-90 HCS36 Inches",
+          "name": "MK8-90 HCS36 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MK8_90-HCS_mini-700x487.jpg",
           "description_items": [],
           "models": [
             {
-              "Motore": "Scegli un'opzione 10 8Svuota",
-              "Pale": null
+              "Motor": "Option wählen 10 8SLeer",
+              "Kellen": null
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/mk8-90-36-inches/",
-          "name": "MK8-9036 Inches",
+          "name": "MK8-9036 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/ol-120hcs-46-inches/",
-          "name": "OL-120 HCS46 Inches",
+          "name": "OL-120 HCS46 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/OL-120HCS.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/ol-120-46-inches/",
-          "name": "OL-12046 Inches",
+          "name": "OL-12046 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3295G-INT-700x439.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/ol-90-36-inches/",
-          "name": "OL-9036 Inches",
+          "name": "OL-9036 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
-          "name": "MK8-7530 Inches",
+          "name": "MK8-7530 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/giunti/",
-          "name": "Giunti",
+          "name": "Kupplungen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo Grezzo": "5150",
-              "Articolo Zincato": "5170",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "70 mm"
+              "Artikel Roh": "5150",
+              "Artikel Verzinkt": "5170",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "70 mm"
             },
             {
-              "Articolo Grezzo": "5151",
-              "Articolo Zincato": "5171",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "80 mm"
+              "Artikel Roh": "5151",
+              "Artikel Verzinkt": "5171",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "80 mm"
             },
             {
-              "Articolo Grezzo": "5152",
-              "Articolo Zincato": "5172",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "90 mm"
+              "Artikel Roh": "5152",
+              "Artikel Verzinkt": "5172",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "90 mm"
             },
             {
-              "Articolo Grezzo": "5153",
-              "Articolo Zincato": "5173",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "100 mm"
+              "Artikel Roh": "5153",
+              "Artikel Verzinkt": "5173",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "100 mm"
             },
             {
-              "Articolo Grezzo": "5154",
-              "Articolo Zincato": "5174",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "110 mm"
+              "Artikel Roh": "5154",
+              "Artikel Verzinkt": "5174",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "110 mm"
             },
             {
-              "Articolo Grezzo": "5155",
-              "Articolo Zincato": "5175",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "120 mm"
+              "Artikel Roh": "5155",
+              "Artikel Verzinkt": "5175",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "120 mm"
             },
             {
-              "Articolo Grezzo": "5156",
-              "Articolo Zincato": "5176",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "130 mm"
+              "Artikel Roh": "5156",
+              "Artikel Verzinkt": "5176",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "130 mm"
             },
             {
-              "Articolo Grezzo": "5157",
-              "Articolo Zincato": "5177",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "140 mm"
+              "Artikel Roh": "5157",
+              "Artikel Verzinkt": "5177",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "140 mm"
             },
             {
-              "Articolo Grezzo": "5158",
-              "Articolo Zincato": "5178",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "150 mm"
+              "Artikel Roh": "5158",
+              "Artikel Verzinkt": "5178",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "150 mm"
             },
             {
-              "Articolo Grezzo": "5159",
-              "Articolo Zincato": "5179",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "160 mm"
+              "Artikel Roh": "5159",
+              "Artikel Verzinkt": "5179",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "160 mm"
             },
             {
-              "Articolo Grezzo": "5160",
-              "Articolo Zincato": "5180",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "170 mm"
+              "Artikel Roh": "5160",
+              "Artikel Verzinkt": "5180",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "170 mm"
             },
             {
-              "Articolo Grezzo": "5161",
-              "Articolo Zincato": "5181",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "180 mm"
+              "Artikel Roh": "5161",
+              "Artikel Verzinkt": "5181",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "180 mm"
             },
             {
-              "Articolo Grezzo": "5162",
-              "Articolo Zincato": "5182",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "190 mm"
+              "Artikel Roh": "5162",
+              "Artikel Verzinkt": "5182",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "190 mm"
             },
             {
-              "Articolo Grezzo": "5163",
-              "Articolo Zincato": "5183",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "200 mm"
+              "Artikel Roh": "5163",
+              "Artikel Verzinkt": "5183",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "200 mm"
             },
             {
-              "Articolo Grezzo": "5164",
-              "Articolo Zincato": "5184",
-              "Descrizione": "Giunto di costruzione in lamiera doppia senza barotti",
-              "Altezza": "210 mm"
+              "Artikel Roh": "5164",
+              "Artikel Verzinkt": "5184",
+              "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+              "Höhe": "210 mm"
             },
             {
-              "Articolo": "5090",
-              "Descrizione": "Singolo barotto completo di guaina e tappo in PVC",
-              "Lunghezza": "600 mm",
-              "Diametro": "14 mm"
+              "Artikel": "5090",
+              "Beschreibung": "Einzelner Stab komplett mit PVC-Hülle und Stopfen",
+              "Länge": "600 mm",
+              "Durchmesser": "14 mm"
             },
             {
-              "Articolo": "5091",
-              "Descrizione": "Singolo barotto completo di guaina e tappo in PVC",
-              "Lunghezza": "750 mm",
-              "Diametro": "16 mm"
+              "Artikel": "5091",
+              "Beschreibung": "Einzelner Stab komplett mit PVC-Hülle und Stopfen",
+              "Länge": "750 mm",
+              "Durchmesser": "16 mm"
             },
             {
-              "Articolo": "5092",
-              "Descrizione": "Singolo barotto completo di guaina e tappo in PVC",
-              "Lunghezza": "750 mm",
-              "Diametro": "18 mm"
+              "Artikel": "5092",
+              "Beschreibung": "Einzelner Stab komplett mit PVC-Hülle und Stopfen",
+              "Länge": "750 mm",
+              "Durchmesser": "18 mm"
             },
             {
-              "Articolo": "5093",
-              "Descrizione": "Singolo barotto completo di guaina e tappo in PVC",
-              "Lunghezza": "750 mm",
-              "Diametro": "20 mm"
+              "Artikel": "5093",
+              "Beschreibung": "Einzelner Stab komplett mit PVC-Hülle und Stopfen",
+              "Länge": "750 mm",
+              "Durchmesser": "20 mm"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/medio-rendimento-cf2/",
-          "name": "Medio rendimento CF2",
+          "name": "Mittlere Leistung CF2",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/disco-taglio-copia-s-scaled-700x567.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "4085",
-              "Diametro mm": "300",
-              "Spessore mm": "2.8",
-              "Foro mm": "30 + boccola di riduzione"
+              "Artikel": "4085",
+              "Durchmesser mm": "300",
+              "Dicke mm": "2.8",
+              "Loch mm": "30 + Reduzierbuchse"
             },
             {
-              "Articolo": "4086",
-              "Diametro mm": "350",
-              "Spessore mm": "2.8",
-              "Foro mm": "30 + boccola di riduzione"
+              "Artikel": "4086",
+              "Durchmesser mm": "350",
+              "Dicke mm": "2.8",
+              "Loch mm": "30 + Reduzierbuchse"
             },
             {
-              "Articolo": "4055",
-              "Diametro mm": "350",
-              "Spessore mm": "3.2",
-              "Foro mm": "30 + boccola di riduzione"
+              "Artikel": "4055",
+              "Durchmesser mm": "350",
+              "Dicke mm": "3.2",
+              "Loch mm": "30 + Reduzierbuchse"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/alto-rendimento-cf5/",
-          "name": "Alto rendimento CF5",
+          "name": "Hohe Leistung CF5",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "4087",
-              "Diametro": "300",
-              "Spessore": "2.8",
-              "Foro": "30 + boccola di riduzione"
+              "Artikel": "4087",
+              "Durchmesser": "300",
+              "Dicke": "2.8",
+              "Loch": "30 + Reduzierbuchse"
             },
             {
-              "Articolo": "4088",
-              "Diametro": "350",
-              "Spessore": "2.8",
-              "Foro": "30 + boccola di riduzione"
+              "Artikel": "4088",
+              "Durchmesser": "350",
+              "Dicke": "2.8",
+              "Loch": "30 + Reduzierbuchse"
             },
             {
-              "Articolo": "4089",
-              "Diametro": "350",
-              "Spessore": "3.2",
-              "Foro": "30 + boccola di riduzione"
+              "Artikel": "4089",
+              "Durchmesser": "350",
+              "Dicke": "3.2",
+              "Loch": "30 + Reduzierbuchse"
             }
           ]
         },
@@ -1353,44 +1346,44 @@ export class GlobalService {
           "description_items": [],
           "models": [
             {
-              "Articolo": null,
-              "Descrizione motore": "Rato 6 cv",
-              "Potenza Cv": "6",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": null
+              "Artikel": null,
+              "Motorbeschreibung": "Rato 6 PS",
+              "Leistung PS": "6",
+              "Betriebsart": "Benzin",
+              "Starter": "Manuell",
+              "Ø Welle mm": null
             },
             {
-              "Articolo": null,
-              "Descrizione motore": "Rato 8 cv",
-              "Potenza Cv": "8",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": null
+              "Artikel": null,
+              "Motorbeschreibung": "Rato 8 PS",
+              "Leistung PS": "8",
+              "Betriebsart": "Benzin",
+              "Starter": "Manuell",
+              "Ø Welle mm": null
             },
             {
-              "Articolo": null,
-              "Descrizione motore": "Rato 12 cv",
-              "Potenza Cv": "12",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": null
+              "Artikel": null,
+              "Motorbeschreibung": "Rato 12 PS",
+              "Leistung PS": "12",
+              "Betriebsart": "Benzin",
+              "Starter": "Manuell",
+              "Ø Welle mm": null
             },
             {
-              "Articolo": null,
-              "Descrizione motore": "Rato 31 cv",
-              "Potenza Cv": "31",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": null
+              "Artikel": null,
+              "Motorbeschreibung": "Rato 31 PS",
+              "Leistung PS": "31",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": null
             },
             {
-              "Articolo": null,
-              "Descrizione motore": "Rato 999",
-              "Potenza Cv": "31",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": null
+              "Artikel": null,
+              "Motorbeschreibung": "Rato 999",
+              "Leistung PS": "31",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": null
             }
           ]
         },
@@ -1401,20 +1394,20 @@ export class GlobalService {
           "description_items": [],
           "models": [
             {
-              "Articolo": null,
-              "Descrizione motore": "Hatz 4,5 cv",
-              "Potenza Cv": "4,5",
-              "Alimentazione": "Diesel",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": null
+              "Artikel": null,
+              "Motorbeschreibung": "Hatz 4,5 PS",
+              "Leistung PS": "4,5",
+              "Betriebsart": "Diesel",
+              "Starter": "Manuell",
+              "Ø Welle mm": null
             },
             {
-              "Articolo": null,
-              "Descrizione motore": "Hatz 10 cv",
-              "Potenza Cv": "10",
-              "Alimentazione": "Diesel",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": null
+              "Artikel": null,
+              "Motorbeschreibung": "Hatz 10 PS",
+              "Leistung PS": "10",
+              "Betriebsart": "Diesel",
+              "Starter": "Manuell",
+              "Ø Welle mm": null
             }
           ]
         },
@@ -1425,28 +1418,28 @@ export class GlobalService {
           "description_items": [],
           "models": [
             {
-              "Articolo": "4476",
-              "Descrizione motore": "Kubota D 902 E4B Eu X7",
-              "Potenza Cv": "25",
-              "Alimentazione": "Diesel",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "36.50"
+              "Artikel": "4476",
+              "Motorbeschreibung": "Kubota D 902 E4B Eu X7",
+              "Leistung PS": "25",
+              "Betriebsart": "Diesel",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "36.50"
             },
             {
-              "Articolo": "4474",
-              "Descrizione motore": "Kubota D 1305 E3B Eu X1",
-              "Potenza Cv": "30",
-              "Alimentazione": "Diesel",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "36.50"
+              "Artikel": "4474",
+              "Motorbeschreibung": "Kubota D 1305 E3B Eu X1",
+              "Leistung PS": "30",
+              "Betriebsart": "Diesel",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "36.50"
             },
             {
-              "Articolo": "4473",
-              "Descrizione motore": "Kubota V 2403-M-T-E3B EU X8F",
-              "Potenza Cv": "59",
-              "Alimentazione": "Diesel",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "36.50"
+              "Artikel": "4473",
+              "Motorbeschreibung": "Kubota V 2403-M-T-E3B EU X8F",
+              "Leistung PS": "59",
+              "Betriebsart": "Diesel",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "36.50"
             }
           ]
         },
@@ -1457,36 +1450,36 @@ export class GlobalService {
           "description_items": [],
           "models": [
             {
-              "Articolo": "4430",
-              "Descrizione motore": "Lombardini 15 LD 350",
-              "Potenza Cv": "7.5",
-              "Alimentazione": "Diesel",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4430",
+              "Motorbeschreibung": "Lombardini 15 LD 350",
+              "Leistung PS": "7.5",
+              "Betriebsart": "Diesel",
+              "Starter": "Manuell",
+              "Ø Welle mm": "25.40"
             },
             {
-              "Articolo": "4435",
-              "Descrizione motore": "Lombardini 15 LD 440",
-              "Potenza Cv": "10",
-              "Alimentazione": "Diesel",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4435",
+              "Motorbeschreibung": "Lombardini 15 LD 440",
+              "Leistung PS": "10",
+              "Betriebsart": "Diesel",
+              "Starter": "Manuell",
+              "Ø Welle mm": "25.40"
             },
             {
-              "Articolo": "4477",
-              "Descrizione motore": "Lombardini 12 LD 477-2",
-              "Potenza Cv": "22",
-              "Alimentazione": "Diesel",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "Conico"
+              "Artikel": "4477",
+              "Motorbeschreibung": "Lombardini 12 LD 477-2",
+              "Leistung PS": "22",
+              "Betriebsart": "Diesel",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "Konisch"
             },
             {
-              "Articolo": "4445",
-              "Descrizione motore": "Lombardini 9 LD 625",
-              "Potenza Cv": "28",
-              "Alimentazione": "Diesel",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "38.10"
+              "Artikel": "4445",
+              "Motorbeschreibung": "Lombardini 9 LD 625",
+              "Leistung PS": "28",
+              "Betriebsart": "Diesel",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "38.10"
             }
           ]
         },
@@ -1497,68 +1490,68 @@ export class GlobalService {
           "description_items": [],
           "models": [
             {
-              "Articolo": "4400",
-              "Descrizione motore": "B&S Vanguard",
-              "Potenza Cv": "14",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4400",
+              "Motorbeschreibung": "B&S Vanguard",
+              "Leistung PS": "14",
+              "Betriebsart": "Benzin",
+              "Starter": "Manuell",
+              "Ø Welle mm": "25.40"
             },
             {
-              "Articolo": "4410",
-              "Descrizione motore": "B&S Vanguard",
-              "Potenza Cv": "18",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4410",
+              "Motorbeschreibung": "B&S Vanguard",
+              "Leistung PS": "18",
+              "Betriebsart": "Benzin",
+              "Starter": "Manuell",
+              "Ø Welle mm": "25.40"
             },
             {
-              "Articolo": "4405",
-              "Descrizione motore": "B&S Vanguard",
-              "Potenza Cv": "18",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico / Manuale",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4405",
+              "Motorbeschreibung": "B&S Vanguard",
+              "Leistung PS": "18",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch / Manuell",
+              "Ø Welle mm": "25.40"
             },
             {
-              "Articolo": "4407",
-              "Descrizione motore": "B&S Vanguard S / SERB",
-              "Potenza Cv": "18",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico / Manuale",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4407",
+              "Motorbeschreibung": "B&S Vanguard S / SERB",
+              "Leistung PS": "18",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch / Manuell",
+              "Ø Welle mm": "25.40"
             },
             {
-              "Articolo": "4413",
-              "Descrizione motore": "B&S Vanguard",
-              "Potenza Cv": "23",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4413",
+              "Motorbeschreibung": "B&S Vanguard",
+              "Leistung PS": "23",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "25.40"
             },
             {
-              "Articolo": "4415",
-              "Descrizione motore": "B&S Vanguard",
-              "Potenza Cv": "31",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "28.57"
+              "Artikel": "4415",
+              "Motorbeschreibung": "B&S Vanguard",
+              "Leistung PS": "31",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "28.57"
             },
             {
-              "Articolo": "4416",
-              "Descrizione motore": "B&S Vanguard",
-              "Potenza Cv": "35",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "28.57"
+              "Artikel": "4416",
+              "Motorbeschreibung": "B&S Vanguard",
+              "Leistung PS": "35",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "28.57"
             },
             {
-              "Articolo": "4417",
-              "Descrizione motore": "B&S Vanguard",
-              "Potenza Cv": "35",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "36.50"
+              "Artikel": "4417",
+              "Motorbeschreibung": "B&S Vanguard",
+              "Leistung PS": "35",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "36.50"
             }
           ]
         },
@@ -1569,36 +1562,36 @@ export class GlobalService {
           "description_items": [],
           "models": [
             {
-              "Articolo": "4385",
-              "Descrizione motore": "Kohler CH 730",
-              "Potenza Cv": "23.5",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "28.57"
+              "Artikel": "4385",
+              "Motorbeschreibung": "Kohler CH 730",
+              "Leistung PS": "23.5",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "28.57"
             },
             {
-              "Articolo": "4390",
-              "Descrizione motore": "Kohler CH 742",
-              "Potenza Cv": "25",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "28.57"
+              "Artikel": "4390",
+              "Motorbeschreibung": "Kohler CH 742",
+              "Leistung PS": "25",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "28.57"
             },
             {
-              "Articolo": "4395",
-              "Descrizione motore": "Kohler CH 940",
-              "Potenza Cv": "32.5",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "36.50"
+              "Artikel": "4395",
+              "Motorbeschreibung": "Kohler CH 940",
+              "Leistung PS": "32.5",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "36.50"
             },
             {
-              "Articolo": "4396",
-              "Descrizione motore": "Kohler CH 1000",
-              "Potenza Cv": "37",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "36.50"
+              "Artikel": "4396",
+              "Motorbeschreibung": "Kohler CH 1000",
+              "Leistung PS": "37",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "36.50"
             }
           ]
         },
@@ -1609,794 +1602,794 @@ export class GlobalService {
           "description_items": [],
           "models": [
             {
-              "Articolo": "4350",
-              "Descrizione motore": "Robin – Subaru EX 17",
-              "Potenza CV": "6",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": "19.05"
+              "Artikel": "4350",
+              "Motorbeschreibung": "Robin – Subaru EX 17",
+              "Leistung PS": "6",
+              "Betriebsart": "Benzin",
+              "Starter": "Manuell",
+              "Ø Welle mm": "19.05"
             },
             {
-              "Articolo": "4360",
-              "Descrizione motore": "Robin – Subaru EX 27",
-              "Potenza CV": "9",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4360",
+              "Motorbeschreibung": "Robin – Subaru EX 27",
+              "Leistung PS": "9",
+              "Betriebsart": "Benzin",
+              "Starter": "Manuell",
+              "Ø Welle mm": "25.40"
             },
             {
-              "Articolo": "4367",
-              "Descrizione motore": "Robin – Subaru EX 40",
-              "Potenza CV": "14",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Manuale",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4367",
+              "Motorbeschreibung": "Robin – Subaru EX 40",
+              "Leistung PS": "14",
+              "Betriebsart": "Benzin",
+              "Starter": "Manuell",
+              "Ø Welle mm": "25.40"
             },
             {
-              "Articolo": "4364",
-              "Descrizione motore": "Robin – Subaru EX 40",
-              "Potenza CV": "14",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4364",
+              "Motorbeschreibung": "Robin – Subaru EX 40",
+              "Leistung PS": "14",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "25.40"
             },
             {
-              "Articolo": "4366",
-              "Descrizione motore": "Robin – Subaru EH 65",
-              "Potenza CV": "22",
-              "Alimentazione": "Benzina",
-              "Avviamento": "Elettrico",
-              "Ø Albero mm": "25.40"
+              "Artikel": "4366",
+              "Motorbeschreibung": "Robin – Subaru EH 65",
+              "Leistung PS": "22",
+              "Betriebsart": "Benzin",
+              "Starter": "Elektrisch",
+              "Ø Welle mm": "25.40"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/fughe-per-rampe-2/",
-          "name": "Fughe per rampe",
+          "name": "Fugen für Rampen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14102-mini-031-700x449.jpg",
           "description_items": [],
           "models": [
             {
               "ART": "MT14102",
-              "DIMENSIONI": "152X76",
-              "LAMA": "13",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "152X76",
+              "Klinge": "13",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT14107",
-              "DIMENSIONI": "152X111",
-              "LAMA": "25",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "152X111",
+              "Klinge": "25",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT13836",
-              "DIMENSIONI": "152X76",
-              "LAMA": "13",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "152X76",
+              "Klinge": "13",
+              "Griff": "Holz"
             },
             {
               "ART": "MT10953",
-              "DIMENSIONI": "152X76",
-              "LAMA": "13",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "152X76",
+              "Klinge": "13",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT11105",
-              "DIMENSIONI": "152X76",
-              "LAMA": "13",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "152X76",
+              "Klinge": "13",
+              "Griff": "Kunststoff"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-dritti/",
-          "name": "Nasini per gradini con bordi dritti",
+          "name": "Stufennasen mit geraden Kanten",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14288-mini-010-700x467.jpg",
           "description_items": [],
           "models": [
             {
               "ART": "MT14288",
-              "DIMENSIONI": "203X152",
-              "RAGGIO": "13",
-              "MANICO E DETTAGLI": "PLASTICA"
+              "ABMESSUNGEN": "203X152",
+              "Radius": "13",
+              "Griff und Details": "Kunststoff"
             },
             {
               "ART": "MT14292",
-              "DIMENSIONI": "254X102",
-              "RAGGIO": "13",
-              "MANICO E DETTAGLI": "PLASTICA"
+              "ABMESSUNGEN": "254X102",
+              "Radius": "13",
+              "Griff und Details": "Kunststoff"
             },
             {
               "ART": "MT14294",
-              "DIMENSIONI": "254X102",
-              "RAGGIO": "19",
-              "MANICO E DETTAGLI": "PLASTICA"
+              "ABMESSUNGEN": "254X102",
+              "Radius": "19",
+              "Griff und Details": "Kunststoff"
             },
             {
               "ART": "MT14223",
-              "DIMENSIONI": "152X102",
-              "RAGGIO": "10",
-              "MANICO E DETTAGLI": "PLASTICA - BLUE STEEL"
+              "ABMESSUNGEN": "152X102",
+              "Radius": "10",
+              "Griff und Details": "Kunststoff - Blue Steel"
             },
             {
               "ART": "MT14225",
-              "DIMENSIONI": "152X102",
-              "RAGGIO": "13",
-              "MANICO E DETTAGLI": "PLASTICA - BLUE STEEL"
+              "ABMESSUNGEN": "152X102",
+              "Radius": "13",
+              "Griff und Details": "Kunststoff - Blue Steel"
             },
             {
               "ART": "MT14280",
-              "DIMENSIONI": "152X127",
-              "RAGGIO": "13",
-              "MANICO E DETTAGLI": "PLASTIC - DENTATO"
+              "ABMESSUNGEN": "152X127",
+              "Radius": "13",
+              "Griff und Details": "Kunststoff - Gezahnt"
             },
             {
               "ART": "MT13896",
-              "DIMENSIONI": "152X102",
-              "RAGGIO": "10",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "152X102",
+              "Radius": "10",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13898",
-              "DIMENSIONI": "152X102",
-              "RAGGIO": "13",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "152X102",
+              "Radius": "13",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13916",
-              "DIMENSIONI": "203X102",
-              "RAGGIO": "10",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "203X102",
+              "Radius": "10",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13918",
-              "DIMENSIONI": "203X102",
-              "RAGGIO": "13",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "203X102",
+              "Radius": "13",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13920",
-              "DIMENSIONI": "203X102",
-              "RAGGIO": "19",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "203X102",
+              "Radius": "19",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13928",
-              "DIMENSIONI": "203X152",
-              "RAGGIO": "13",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "203X152",
+              "Radius": "13",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13972",
-              "DIMENSIONI": "152X102",
-              "RAGGIO": "13",
-              "MANICO": "PLASTICA-BLUE STEEL"
+              "ABMESSUNGEN": "152X102",
+              "Radius": "13",
+              "Griff": "Kunststoff-Blue Steel"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-ricurvi/",
-          "name": "Nasini per gradini con bordi ricurvi",
+          "name": "Stufennasen mit gebogenen Kanten",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14156-mini-009-700x467.jpg",
           "description_items": [],
           "models": [
             {
               "ART": "MT14146",
-              "DIMENSIONI": "152X76",
-              "RAGGIO": "10",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "152X76",
+              "Radius": "10",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT14156",
-              "DIMENSIONI": "152X102",
-              "RAGGIO": "10",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "152X102",
+              "Radius": "10",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT14149",
-              "DIMENSIONI": "152X102",
-              "RAGGIO": "13",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "152X102",
+              "Radius": "13",
+              "Griff": "Kunststoff"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/cazzuole-bordi-squadrati/",
-          "name": "Cazzuole bordi squadrati",
+          "name": "Kellen mit quadratischen Kanten",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13229-mini-020-700x330.jpg",
           "description_items": [],
           "models": [
             {
               "ART.": "MT13229",
-              "DIMENSIONI": "356X102",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "356X102",
+              "Griff": "Kunststoff"
             },
             {
               "ART.": "MT13226",
-              "DIMENSIONI": "356X102",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "356X102",
+              "Griff": "Holz"
             },
             {
               "ART.": "MT13246",
-              "DIMENSIONI": "406X102",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "406X102",
+              "Griff": "Holz"
             },
             {
               "ART.": "MT13266",
-              "DIMENSIONI": "457X102",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "457X102",
+              "Griff": "Holz"
             },
             {
               "ART.": "MT13446",
-              "DIMENSIONI": "305X127",
-              "MANICO": "PLASTICA-GOLDEN"
+              "ABMESSUNGEN": "305X127",
+              "Griff": "Kunststoff-Golden"
             },
             {
               "ART.": "MT13249",
-              "DIMENSIONI": "406X102",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "406X102",
+              "Griff": "Kunststoff"
             },
             {
               "ART.": "MT13269",
-              "DIMENSIONI": "457X102",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "457X102",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT13818",
-              "DIMENSIONI": "356X102",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "356X102",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT13819",
-              "DIMENSIONI": "406X102",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "406X102",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT13837",
-              "DIMENSIONI": "457X102",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "457X102",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT13802",
-              "DIMENSIONI": "356X102",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "356X102",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13803",
-              "DIMENSIONI": "406X102",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "406X102",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13804",
-              "DIMENSIONI": "457X102",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "457X102",
+              "Griff": "Holz"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/cazzuole-a-1-punta-arrotondata/",
-          "name": "Cazzuole a 1 punta arrotondata",
+          "name": "Kellen mit 1 abgerundeter Spitze",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13510-mini-021-700x454.jpg",
           "description_items": [],
           "models": [
             {
               "ART.": "MT13511",
-              "DIMENSIONI": "406X102",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "406X102",
+              "Griff": "Kunststoff"
             },
             {
               "ART.": "MT13510",
-              "DIMENSIONI": "406X102",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "406X102",
+              "Griff": "Holz"
             },
             {
               "ART.": "MT13512",
-              "DIMENSIONI": "457X102",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "457X102",
+              "Griff": "Holz"
             },
             {
               "ART.": "MT13514",
-              "DIMENSIONI": "508X102",
-              "MANICO": "LEGNO"
+              "ABMESSUNGEN": "508X102",
+              "Griff": "Holz"
             },
             {
               "ART.": "MT13513",
-              "DIMENSIONI": "457X102",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "457X102",
+              "Griff": "Kunststoff"
             },
             {
               "ART.": "MT13515",
-              "DIMENSIONI": "508X102",
-              "MANICO": "PLASTICA"
+              "ABMESSUNGEN": "508X102",
+              "Griff": "Kunststoff"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/cazzuole-a-2-punte-arrotondate/",
-          "name": "Cazzuole a 2 punte arrotondate",
+          "name": "Kellen mit 2 abgerundeten Spitzen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13521-mini-005-700x467.jpg",
           "description_items": [],
           "models": [
             {
               "ART": "MT13521",
-              "DIMENSIONE": "356X102",
-              "MANICO": "PLASTICA"
+              "GRÖSSE": "356X102",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT13520",
-              "DIMENSIONE": "356X102",
-              "MANICO": "LEGNO"
+              "GRÖSSE": "356X102",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13522",
-              "DIMENSIONE": "406X102",
-              "MANICO": "LEGNO"
+              "GRÖSSE": "406X102",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13524",
-              "DIMENSIONE": "457X102",
-              "MANICO": "LEGNO"
+              "GRÖSSE": "457X102",
+              "Griff": "Holz"
             },
             {
               "ART": "MT13536",
-              "DIMENSIONE": "508X102",
-              "MANICO": "LEGNO-BLUE STEEL"
+              "GRÖSSE": "508X102",
+              "Griff": "Holz-Blue Steel"
             },
             {
               "ART": "MT13523",
-              "DIMENSIONE": "406X102",
-              "MANICO": "PLASTICA"
+              "GRÖSSE": "406X102",
+              "Griff": "Kunststoff"
             },
             {
               "ART": "MT13525",
-              "DIMENSIONE": "457X102",
-              "MANICO": "PLASTICA"
+              "GRÖSSE": "457X102",
+              "Griff": "Kunststoff"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/bull-float-solo-profilo-arrotondato/",
-          "name": "Bull float solo profilo arrotondato",
+          "name": "Bull Float nur abgerundetes Profil",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
           "description_items": [],
           "models": [
             {
               "ART": "MT14028",
-              "DIMENSIONI PROFILO": "914X203"
+              "PROFILABMESSUNGEN": "914X203"
             },
             {
               "ART": "MT14721",
-              "DIMENSIONI PROFILO": "1219X203"
+              "PROFILABMESSUNGEN": "1219X203"
             },
             {
               "ART": "MT14030",
-              "DIMENSIONI PROFILO": "1524X203"
+              "PROFILABMESSUNGEN": "1524X203"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/bull-float-arrotondato-con-manico-e-snodo/",
-          "name": "Bull float arrotondato con manico e snodo",
+          "name": "Bull Float abgerundet mit Griff und Gelenk",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
           "description_items": [],
           "models": [
             {
               "ART": "MT14028C",
-              "DIMENSIONI MANICO": "1.80MT",
-              "DIMENSIONI PROFILO": "914X203"
+              "GRIFFLÄNGE": "1.80MT",
+              "PROFILABMESSUNGEN": "914X203"
             },
             {
               "ART": "MT14721C",
-              "DIMENSIONI MANICO": "1.80MT",
-              "DIMENSIONI PROFILO": "1219X203"
+              "GRIFFLÄNGE": "1.80MT",
+              "PROFILABMESSUNGEN": "1219X203"
             },
             {
               "ART": "MT14030C",
-              "DIMENSIONI MANICO": "1.80MT",
-              "DIMENSIONI PROFILO": "1524X203"
+              "GRIFFLÄNGE": "1.80MT",
+              "PROFILABMESSUNGEN": "1524X203"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/posa-guaina/",
-          "name": "Posa guaina",
+          "name": "Bahnenverlegung",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3650-CARRELLO-SVOLGIGUAINA-700x965.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "3650",
-              "Descrizione": "Carrello svolgiguaina",
-              "Peso": "44"
+              "Artikel": "3650",
+              "Beschreibung": "Bahnenablaufwagen",
+              "Gewicht": "44"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/spolverine-br-150/",
-          "name": "Spolverine br 150",
+          "name": "Staubsauger BR 150",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3405-SPOLVERINA-BR150-700x786.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/spolverine-br100/",
-          "name": "Spolverine br100",
+          "name": "Staubsauger BR100",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3402-SPOLVERINA-BR100-mini-049-700x750.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "3402",
-              "Modello": "Manuale",
-              "Capacità di carico kg": null,
-              "Peso kg": "70"
+              "Artikel": "3402",
+              "Modell": "Manuell",
+              "Tragfähigkeit kg": null,
+              "Gewicht kg": "70"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/moskito-75-30-inches/",
-          "name": "Moskito 4-7530 Inches",
+          "name": "Moskito 4-7530 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3055-G-700x558.jpg",
           "description_items": [],
           "models": [
             {
-              "Motore": "Scegli un'opzione 4 6Svuota",
-              "Pale": null
+              "Motor": "Option wählen 4 6SLeer",
+              "Kellen": null
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/moskito-60-24-inches-pale/",
-          "name": "Moskito 4-6024 Inches",
+          "name": "Moskito 4-6024 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg",
           "description_items": [],
           "models": [
             {
-              "Motore": "Scegli un'opzione 4 6Svuota",
-              "Pale": null
+              "Motor": "Option wählen 4 6SLeer",
+              "Kellen": null
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/moskito-sabbia-cemento/",
-          "name": "Moskito Sabbia cemento",
+          "name": "Moskito Sand Zement",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3043G-SABBIA-CEMENTO-mini-038-700x668.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/4-80-32-inches/",
-          "name": "4-8032 Inches",
+          "name": "4-8032 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3093G-4-80-HEAVY-DUTY-mini-044-700x553.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/4-120-46-inches/",
-          "name": "4-12046 Inches",
+          "name": "4-12046 Zoll",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-700x470.jpg",
           "description_items": [],
           "models": [
             {
-              "Motore": "Scegli un'opzione 4 5Svuota",
-              "Pale": null
+              "Motor": "Option wählen 4 5SLeer",
+              "Kellen": null
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/mp8-90-polish/",
-          "name": "Mp8-90Polish",
+          "name": "Mp8-90Polieren",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/mp8-75-polish/",
-          "name": "Mp8-75Polish",
+          "name": "Mp8-75Polieren",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/polish-4-60/",
-          "name": "4-60Polish",
+          "name": "4-60Polieren",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3004-POLISHING-mini-010-700x629.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
-          "name": "Accessori tubo pompa calcestruzzo",
+          "name": "Zubehör für Betonpumpenschlauch",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "5290",
-              "Descrizione": "SUPPORTO PER TUBO POMPA"
+              "Artikel": "5290",
+              "Beschreibung": "HALTERUNG FÜR BETONPUMPENSCHLAUCH"
             },
             {
-              "Articolo": "5103",
-              "Descrizione": "PINZA PER SOLLEVAMENTO TUBO POMPA"
+              "Artikel": "5103",
+              "Beschreibung": "ZANGE ZUM ANHEBEN DES BETONPUMPENSCHLAUCHS"
             },
             {
-              "Articolo": "5104",
-              "Descrizione": "GANCIO PER SOLLEVAMENTO TUBO POMPA"
+              "Artikel": "5104",
+              "Beschreibung": "HAKEN ZUM ANHEBEN DES BETONPUMPENSCHLAUCHS"
             },
             {
-              "Articolo": "5105",
-              "Descrizione": "GANCIO PER SOLLEVAMENTO RETE"
+              "Artikel": "5105",
+              "Beschreibung": "HAKEN ZUM ANHEBEN VON NETZEN"
             },
             {
-              "Articolo": "5106",
-              "Descrizione": "CATENA PER SOLLEVAMENTO TUBO POMPA"
+              "Artikel": "5106",
+              "Beschreibung": "KETTE ZUM ANHEBEN DES BETONPUMPENSCHLAUCHS"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/fughe-per-rampe/",
-          "name": "Fughe per rampe",
+          "name": "Fugen für Rampen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/vari/",
-          "name": "Sottoscarpe",
+          "name": "Schuhüberzieher",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/5600-PAIO-SOTTOSCARPE-700x364.jpg",
           "description_items": [],
           "models": [
             {
               "Art.": "5600",
-              "Description": "Paio di sottoscarpe lisci"
+              "Beschreibung": "Paar glatte Schuhüberzieher"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/cazzuole/",
-          "name": "Cazzuole",
+          "name": "Kellen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
-          "name": "Fughe per rampe dentate",
+          "name": "Gezahnte Fugen für Rampen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3987-FUGA-PER-RAMPE-700x524.jpg",
           "description_items": [],
           "models": [
             {
               "Art.": "3987",
-              "Descrizione": "FUGA PER RAMPE A 9 DENTI mm   x   SPESSORE 9 mm",
-              "Manico": "Plastica"
+              "Beschreibung": "FUGE FÜR RAMPEN MIT 9 ZÄHNEN mm   x   DICKE 9 mm",
+              "Griff": "Kunststoff"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/nasini-per-gradini/",
-          "name": "Nasini per gradini",
+          "name": "Stufennasen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/NASINO_3970.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/spazza-acqua-raschietti-rastrelli/",
-          "name": "Spingiacqua",
+          "name": "Wasserschieber",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3950-SPAZZA-ACQUA-C_MANICO-2-mini-105-700x678.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "3940",
-              "Descrizione": "Spingiacqua da 0.50 metri"
+              "Artikel": "3940",
+              "Beschreibung": "Wasserschieber 0.50 Meter"
             },
             {
-              "Articolo": "3945",
-              "Descrizione": "Spingiacqua da 1.00 metro"
+              "Artikel": "3945",
+              "Beschreibung": "Wasserschieber 1.00 Meter"
             },
             {
-              "Articolo": "3950",
-              "Descrizione": "Spingiacqua da 2.00 metri"
+              "Artikel": "3950",
+              "Beschreibung": "Wasserschieber 2.00 Meter"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/raschietti/",
-          "name": "Raschietti",
+          "name": "Schaber",
           "image": "https://www.barikell.it/wp-content/uploads/2025/02/3930-RASCHIETTO-PULIP-S_MANICO-mini-119-700x576.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "3932",
-              "Descrizione": "Raschietto pulipannello"
+              "Artikel": "3932",
+              "Beschreibung": "Putzschaber"
             },
             {
-              "Articolo": "3931",
-              "Descrizione": "Solo manico in legno per raschietto 1.50 metri Ø 30mm"
+              "Artikel": "3931",
+              "Beschreibung": "Nur Holzgriff für Schaber 1.50 Meter Ø 30mm"
             },
             {
-              "Articolo": "3930",
-              "Descrizione": "Solo raschietto 300×150x1.2 mm"
+              "Artikel": "3930",
+              "Beschreibung": "Nur Schaber 300×150x1.2 mm"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/rastrelli/",
-          "name": "Rastrelli",
+          "name": "Rechen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/SPAZZA-ACQUA-RASCHIETTI-E-RASTRELLI.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "3935",
-              "Descrizione": "RASTRELLO CON MANICO E PALA IN ACCIAIO"
+              "Artikel": "3935",
+              "Beschreibung": "RECHE MIT HOLZGRIFF UND STAHLBLATT"
             },
             {
-              "Articolo": "3937",
-              "Descrizione": "SOLO MANICO IN FERRO 1,5 m ø 26 mm"
+              "Artikel": "3937",
+              "Beschreibung": "NUR EISENGRIFF 1,5 m ø 26 mm"
             },
             {
-              "Articolo": "4038",
-              "Descrizione": "SOLO PALA IN FERRO cm 50x10x0,15"
+              "Artikel": "4038",
+              "Beschreibung": "NUR STAHLBLATT cm 50x10x0,15"
             },
             {
-              "Articolo": null,
-              "Descrizione": null
+              "Artikel": null,
+              "Beschreibung": null
             },
             {
-              "Articolo": "4046",
-              "Descrizione": "RASTRELLO CON MANICO E PALA IN ALLUMINIO"
+              "Artikel": "4046",
+              "Beschreibung": "RECHE MIT HOLZGRIFF UND ALUMINIUMBLATT"
             },
             {
-              "Articolo": "4039",
-              "Descrizione": "SOLO MANICO IN ALLUMINIO m 1,5 ø 26 mm"
+              "Artikel": "4039",
+              "Beschreibung": "NUR ALUMINIUMGRIFF m 1,5 ø 26 mm"
             },
             {
-              "Articolo": "4041",
-              "Descrizione": "SOLO PALA IN ALLUMINIO cm 50x12,5x0,3"
+              "Artikel": "4041",
+              "Beschreibung": "NUR ALUMINIUMBLATT cm 50x12,5x0,3"
             },
             {
-              "Articolo": null,
-              "Descrizione": null
+              "Artikel": null,
+              "Beschreibung": null
             },
             {
-              "Articolo": "4048",
-              "Descrizione": "RASTRELLO CON MANICO IN ALLUMINIO E PALA IN ACCIAIO"
+              "Artikel": "4048",
+              "Beschreibung": "RECHE MIT ALUMINIUMGRIFF UND STAHLBLATT"
             },
             {
-              "Articolo": "4039",
-              "Descrizione": "SOLO MANICO IN ALLUMINIO 1,5 m ø 26 mm"
+              "Artikel": "4039",
+              "Beschreibung": "NUR ALUMINIUMGRIFF 1,5 m ø 26 mm"
             },
             {
-              "Articolo": "4038",
-              "Descrizione": "SOLO PALA IN ACCIAIO cm 50x10x0,15"
+              "Artikel": "4038",
+              "Beschreibung": "NUR STAHLBLATT cm 50x10x0,15"
             },
             {
-              "Articolo": null,
-              "Descrizione": null
+              "Artikel": null,
+              "Beschreibung": null
             },
             {
-              "Articolo": "4042",
-              "Descrizione": "ATTACCO INCLINATO PER RASTRELLO COD. 4046"
+              "Artikel": "4042",
+              "Beschreibung": "SCHRÄGER ANSATZ FÜR RECHE COD. 4046"
             },
             {
-              "Articolo": "4049",
-              "Descrizione": "ATTACCO DRITTO PER RASTRELLO COD. 4049"
+              "Artikel": "4049",
+              "Beschreibung": "GERADER ANSATZ FÜR RECHE COD. 4049"
             },
             {
-              "Articolo": "1192",
-              "Descrizione": "MANOPOLA IN PLASTICA PER TUTTI I TIPI DI RASTRELLI E SPINGIACQUA"
+              "Artikel": "1192",
+              "Beschreibung": "KUNSTSTOFFGRIFF FÜR ALLE ARTEN VON RECHE UND WASSERSCHIEBER"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/stagge-ultra-light-in-alluminio/",
-          "name": "Stagge ultralight in alluminio",
+          "name": "Ultra-leichte Aluminium-Rüttelbohlen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3900-STAGGIA-MT2-700x239.jpg",
           "description_items": [],
           "models": []
         },
         {
           "url": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
-          "name": "Ricambi staggia ultra leggera",
+          "name": "Ersatzteile für ultra-leichte Rüttelbohle",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "3920",
-              "Descrizione": "Manico con manopola"
+              "Artikel": "3920",
+              "Beschreibung": "Griff mit Griffknopf"
             },
             {
-              "Articolo": "3918",
-              "Descrizione": "Tappo 80x40 mm"
+              "Artikel": "3918",
+              "Beschreibung": "Deckel 80x40 mm"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/picchetti/",
-          "name": "Picchetti",
+          "name": "Pflöcke",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "5295",
-              "Descrizione": "Picchetto completo regolabile sia in altezza che in profondità"
+              "Artikel": "5295",
+              "Beschreibung": "Verstellbarer Pflock komplett, sowohl in der Höhe als auch in der Tiefe"
             },
             {
-              "Articolo": "5298",
-              "Descrizione": "Picchetto completo regolabile solo in altezza"
+              "Artikel": "5298",
+              "Beschreibung": "Pflock komplett, nur in der Höhe verstellbar"
             },
             {
-              "Articolo": "5293",
-              "Descrizione": "Staffa per picchetto codice 5295"
+              "Artikel": "5293",
+              "Beschreibung": "Halterung für Pflock Code 5295"
             },
             {
-              "Articolo": "5294",
-              "Descrizione": "Quadrotto 30x30x70 mm per picchetto regolabile codice 5295"
+              "Artikel": "5294",
+              "Beschreibung": "Viereck 30x30x70 mm für verstellbaren Pflock Code 5295"
             },
             {
-              "Articolo": "5291",
-              "Descrizione": "Golfare a vite m. 10 per picchetti codici 5295"
+              "Artikel": "5291",
+              "Beschreibung": "Schraubhaken m. 10 für Pflöcke Codes 5295"
             },
             {
-              "Articolo": "5292",
-              "Descrizione": "Picchetto a punta per picchetti regolabili codici 5295/5298"
+              "Artikel": "5292",
+              "Beschreibung": "Spitzpflock für verstellbare Pflöcke Codes 5295/5298"
             },
             {
-              "Articolo": "5297",
-              "Descrizione": "Staffa per picchetto regolabile codice 5298"
+              "Artikel": "5297",
+              "Beschreibung": "Halterung für verstellbaren Pflock Code 5298"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/tracciarighe-e-polvere/",
-          "name": "Tracciarighe e polvere",
+          "name": "Schnurmesser und Pulver",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/5300-TRACCIARIGHE-50-MT-700x486.jpg",
           "description_items": [],
           "models": [
             {
-              "Articolo": "5300",
-              "Descrizione": "Tracciarighe da 50 metri con filo in cotone"
+              "Artikel": "5300",
+              "Beschreibung": "Schnurmesser 50 Meter mit Baumwollfaden"
             },
             {
-              "Articolo": "5301",
-              "Descrizione": "Tracciarighe da 30 metri con filo in cotone"
+              "Artikel": "5301",
+              "Beschreibung": "Schnurmesser 30 Meter mit Baumwollfaden"
             },
             {
-              "Articolo": "5305",
-              "Descrizione": "Flacone di polvere blu per tracciarighe GR 200"
+              "Artikel": "5305",
+              "Beschreibung": "Flasche blaues Pulver für Schnurmesser GR 200"
             },
             {
-              "Articolo": "5304",
-              "Descrizione": "Flacone di polvere blu per tracciarighe GR 300"
+              "Artikel": "5304",
+              "Beschreibung": "Flasche blaues Pulver für Schnurmesser GR 300"
             },
             {
-              "Articolo": "5393",
-              "Descrizione": "Flacone di polvere blu per tracciarighe GR 1000"
+              "Artikel": "5393",
+              "Beschreibung": "Flasche blaues Pulver für Schnurmesser GR 1000"
             },
             {
-              "Articolo": "5394",
-              "Descrizione": "Flacone di polvere blu per tracciarighe GR 3000"
+              "Artikel": "5394",
+              "Beschreibung": "Flasche blaues Pulver für Schnurmesser GR 3000"
             },
             {
-              "Articolo": "5302",
-              "Descrizione": "Flacone di polvere rossa per tracciarighe GR 200"
+              "Artikel": "5302",
+              "Beschreibung": "Flasche rotes Pulver für Schnurmesser GR 200"
             },
             {
-              "Articolo": "5303",
-              "Descrizione": "Flacone di polvere rossa per tracciarighe GR 300"
+              "Artikel": "5303",
+              "Beschreibung": "Flasche rotes Pulver für Schnurmesser GR 300"
             },
             {
-              "Articolo": "5395",
-              "Descrizione": "Flacone di polvere rossa per tracciarighe GR 1000"
+              "Artikel": "5395",
+              "Beschreibung": "Flasche rotes Pulver für Schnurmesser GR 1000"
             },
             {
-              "Articolo": "5396",
-              "Descrizione": "Flacone di polvere rossa per tracciarighe GR 3000"
+              "Artikel": "5396",
+              "Beschreibung": "Flasche rotes Pulver für Schnurmesser GR 3000"
             }
           ]
         },
         {
           "url": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
-          "name": "Carrello trasportatore universale",
+          "name": "Universal-Transportwagen",
           "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
           "description_items": [
-            "3397 – MK8-75 / OL90 / MK8-90 / MK10-90 e OL120 / MK8-120 / MK10-120",
+            "3397 – MK8-75 / OL90 / MK8-90 / MK10-90 und OL120 / MK8-120 / MK10-120",
             "3394 – MK12-160 LIGHT"
           ],
           "models": []
@@ -2412,23 +2405,6 @@ export class GlobalService {
           "name": " Spectra LL300S ",
           "description_items": [
             "The Spectra LL300S Laser Level features a rugged design with “hard hat” rotor protection that provides superior drop and weather protection. Built to withstand severe drops of up to 3 ft (1 m) directly onto concrete, or up to 5 ft (1.5 m) when pushed over on a tripod means less downtime and cost due to damage caused by accidental drop. With the addition of the grade arrow buttons, grade matching can be performed while the other axis remains self leveled. "
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/cases",
-          "image": "https://static.wixstatic.com/media/cd4160_66386ec2a51349bf8ef9e9be83c7ca12~mv2.png/v1/fill/w_310,h_512,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Box.png",
-          "name": "Cases that protect and bundle.",
-          "description_items": [
-            "(LL100N, HV101 )"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/autolevel",
-          "image": "https://static.wixstatic.com/media/cd4160_0574ff9b5f284761810a6c75e23904e4~mv2.png/v1/crop/x_325,y_371,w_1763,h_1888/fill/w_347,h_372,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AL28A.png",
-          "name": "Spectra\nAL Auto Levels",
-          "description_items": [
           ],
           "models": []
         },
@@ -2514,56 +2490,11 @@ export class GlobalService {
           "models": []
         },
         {
-          "url": "https://www.spectraprecision.com/handheld-receivers",
-          "image": "https://static.wixstatic.com/media/cd4160_486bd616ab7d45a0a32d340255451c92~mv2.png/v1/crop/x_567,y_204,w_1217,h_2142/fill/w_151,h_266,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HR320.png",
-          "name": "Handheld Laser Receivers",
-          "description_items": [
-            "Digital Display Receivers"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/qm20",
-          "image": "https://static.wixstatic.com/media/cd4160_ea0b3f873ea94c889c61e2fc623ee002~mv2.png/v1/fill/w_600,h_455,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Pythagoras.png",
-          "name": "QM20 Laser Distance Meter",
-          "description_items": [
-            "Indirect measurements using"
-          ],
-          "models": []
-        },
-        {
           "url": "https://www.spectraprecision.com/ll500",
           "image": "https://static.wixstatic.com/media/cd4160_56ec743f28f843ecb80b5f06846e724a~mv2.png/v1/crop/x_404,y_0,w_1729,h_2500/fill/w_362,h_524,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LL500.png",
           "name": "Spectra LL500",
           "description_items": [
             "The Laser level LL500 is a one-person leveling system designed for longer range measurements across your entire site. Accurate, stable and reliable, the LL500 features a 1,650 ft (500 m) working diameter which increases productivity by reducing the need for multiple setups on a large job site."
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/line-point-lasers",
-          "image": "https://static.wixstatic.com/media/cd4160_037a12e027b441c692dd9fccbe11a138~mv2.png/v1/fill/w_85,h_43,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Spectra%20Accessories%20Graphic.png",
-          "name": "Line & Point Lasers",
-          "description_items": [
-            "Combination lasers combine the simplicity of a point with the versatility of a line lasers. Green beams are up to four times brighter to the human eye and are ideal for brighter interior conditions."
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/pipe-standard",
-          "image": "https://static.wixstatic.com/media/cd4160_add433f1019b40faaf9bd51a43ed62fb~mv2.png/v1/crop/x_504,y_600,w_1492,h_1329/fill/w_405,h_361,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DG613.png",
-          "name": "Our Standard Pipe Laser Line",
-          "description_items": [
-            "Greater"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/parts-accessories",
-          "image": "https://static.wixstatic.com/media/cd4160_a37fedcbe15646a9b7eac26327cbb9de~mv2.png/v1/fill/w_156,h_156,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/Batteries-Q104667.png",
-          "name": "Genuine Spectra Replacement Parts & Accessories.",
-          "description_items": [
-            "Choose from a wide range of clamps, vials, brackets, and adaptors."
           ],
           "models": []
         },
@@ -2622,15 +2553,6 @@ export class GlobalService {
           "models": []
         },
         {
-          "url": "https://www.spectraprecision.com/single-grade",
-          "image": "https://static.wixstatic.com/media/bd8f3e_944fca41a0a84ce6bf405b97b562f259~mv2.png/v1/crop/x_660,y_570,w_2238,h_2436/fill/w_392,h_428,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL710%20Grade%20Laser.png",
-          "name": "The power of Single Grade Laser.",
-          "description_items": [
-            "Greatest"
-          ],
-          "models": []
-        },
-        {
           "url": "https://www.spectraprecision.com/lr20",
           "image": "https://static.wixstatic.com/media/cd4160_2feaaa47e34841cf98c2c8422474341a~mv2.png/v1/crop/x_675,y_200,w_1208,h_2088/fill/w_240,h_414,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LR20.png",
           "name": "LR20",
@@ -2649,47 +2571,11 @@ export class GlobalService {
           "models": []
         },
         {
-          "url": "https://www.spectraprecision.com/dealer-landing-page",
-          "image": "https://static.wixstatic.com/media/cd4160_34e193245b83488ab655a4c17e01dd45~mv2.webp/v1/fill/w_473,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/646f1841522f1b8757216961_NEWTablet-min-p-800.webp",
-          "name": "Ready to take your business to a higher dimension?",
-          "description_items": [
-            "2D Software"
-          ],
-          "models": []
-        },
-        {
           "url": "https://www.spectraprecision.com/ul633n",
           "image": "https://static.wixstatic.com/media/bd8f3e_2ae90cd936cb46b4b6c4b05f68c27506~mv2.png/v1/crop/x_396,y_366,w_2676,h_2904/fill/w_412,h_448,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/UL633N%20Grade%20Laser.png",
           "name": "Spectra UL633N",
           "description_items": [
             "HL760 Specifications"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com",
-          "image": "https://static.wixstatic.com/media/cd4160_4de405546d3d40a690bab4837b1e5d68~mv2.png/v1/fill/w_826,h_427,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Trifecta.png",
-          "name": "Lasers. It's what we do.",
-          "description_items": [
-            "GL622N"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/rechargeable-batteries-chargers",
-          "image": "https://static.wixstatic.com/media/cd4160_66386ec2a51349bf8ef9e9be83c7ca12~mv2.png/v1/fill/w_310,h_512,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Box.png",
-          "name": "Spectra Rechargeable Batteries & Chargers",
-          "description_items": [
-            "Dealer Locator"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/stage",
-          "image": "https://static.wixstatic.com/media/cd4160_4de405546d3d40a690bab4837b1e5d68~mv2.png/v1/fill/w_826,h_427,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Trifecta.png",
-          "name": "Lasers. It's what we do.",
-          "description_items": [
-            "GL622N"
           ],
           "models": []
         },
@@ -2766,15 +2652,6 @@ export class GlobalService {
           "models": []
         },
         {
-          "url": "https://www.spectraprecision.com/laser-family",
-          "image": "https://static.wixstatic.com/media/cd4160_f204fdc451434ed99e6ab78b87a1e1ed~mv2.png/v1/fill/w_123,h_150,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV1305GC.png",
-          "name": "Lasers",
-          "description_items": [
-            "Grade"
-          ],
-          "models": []
-        },
-        {
           "url": "https://www.spectraprecision.com/hv302",
           "image": "https://static.wixstatic.com/media/cd4160_5b6eb82bd7854bb081671fe82be399a8~mv2.png/v1/crop/x_0,y_296,w_2500,h_1875/fill/w_563,h_425,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV302.png",
           "name": "HV302",
@@ -2784,83 +2661,11 @@ export class GlobalService {
           "models": []
         },
         {
-          "url": "https://www.spectraprecision.com/excavating-receivers",
-          "image": "https://static.wixstatic.com/media/cd4160_2feaaa47e34841cf98c2c8422474341a~mv2.png/v1/crop/x_675,y_200,w_1208,h_2088/fill/w_240,h_414,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LR20.png",
-          "name": "Excavating Receivers",
-          "description_items": [
-            "Greatest"
-          ],
-          "models": []
-        },
-        {
           "url": "https://www.spectraprecision.com/hr1220",
           "image": "https://static.wixstatic.com/media/cd4160_ea07618acad7433f814de19c03d3a44c~mv2.png/v1/crop/x_633,y_0,w_1258,h_2500/fill/w_236,h_471,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HR1220.png",
           "name": "HR1220",
           "description_items": [
             "The HR1220 Laser Receiver detects both red and green laser beams generated from crossline lasers including the LT52R, LT52G, LT56, and LT58G. The receiver can extend the indoor working range of these crossline lasers as well as increasing versatility by allowing outdoor use."
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/unicontrol-3d",
-          "image": "https://static.wixstatic.com/media/cd4160_6730bf861a2343019f2534b42da6aca4~mv2.webp/v1/fill/w_719,h_565,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/654a4ddbdbf669e0c6e50872_scenarios_4.webp",
-          "name": "Unicontrol3D",
-          "description_items": [
-            "We will make this simple. The following components are the core of Unicontrol3D that will increase the efficiency of your excavation projects! Unicontrol3D is a flexible, reliable, and simple 3D machine control system. With user-friendly technology, the workday becomes much easier for the operator, and the quality assurance is both faster and more accurate."
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/rotating-pro",
-          "image": "https://static.wixstatic.com/media/cd4160_33912b42ee474cb89bc327a24393479d~mv2.png/v1/crop/x_0,y_10,w_1439,h_513/fill/w_838,h_299,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1282-1981.png",
-          "name": "Professional Grade\nRotating Laser Levels",
-          "description_items": [
-            "Greater"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/distance-meters",
-          "image": "https://static.wixstatic.com/media/cd4160_037a12e027b441c692dd9fccbe11a138~mv2.png/v1/fill/w_85,h_43,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Spectra%20Accessories%20Graphic.png",
-          "name": " Laser Tape Measure",
-          "description_items": [
-            "Simply press a button to take a measurement - simple to operate and easy to use."
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/copy-of-product-support-1",
-          "image": "https://static.wixstatic.com/media/cd4160_5f340d33d39747b3874e44669744c43b~mv2.png/v1/fill/w_322,h_322,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Untitled-10.png",
-          "name": "Need a service? Need a repair? Looking to buy? Click here!",
-          "description_items": [
-            "Download product user guides and datasheets here!"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/excavating-grading",
-          "image": "https://static.wixstatic.com/media/cd4160_e94f05c32d05461a8a271583067ed74d~mv2.png/v1/crop/x_608,y_158,w_1221,h_2167/fill/w_250,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LR50.png",
-          "name": "Excavating & Grading",
-          "description_items": [
-            "Greatest"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/rotary-laser-level",
-          "image": "https://static.wixstatic.com/media/cd4160_037a12e027b441c692dd9fccbe11a138~mv2.png/v1/fill/w_852,h_426,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Spectra%20Accessories%20Graphic.png",
-          "name": "Rotary Laser Level",
-          "description_items": [
-            "Professional"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/clamps-brackets-mounts",
-          "image": "https://static.wixstatic.com/media/cd4160_66386ec2a51349bf8ef9e9be83c7ca12~mv2.png/v1/fill/w_310,h_512,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Box.png",
-          "name": "In this business, connections matter.",
-          "description_items": [
-            " "
           ],
           "models": []
         },
@@ -2883,24 +2688,6 @@ export class GlobalService {
           "models": []
         },
         {
-          "url": "https://www.spectraprecision.com/dual-grade-lasers",
-          "image": "https://static.wixstatic.com/media/cd4160_935d190ff7ba4c6ba9a2c019b230f631~mv2.png/v1/crop/x_0,y_15,w_600,h_583/fill/w_490,h_476,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL1425C.png",
-          "name": "Spectra, the best laser levelers\nand dual grade lasers.",
-          "description_items": [
-            "Greater"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/pipe-lasers",
-          "image": "https://static.wixstatic.com/media/cd4160_037a12e027b441c692dd9fccbe11a138~mv2.png/v1/fill/w_852,h_426,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Spectra%20Accessories%20Graphic.png",
-          "name": "Pipe Lasers",
-          "description_items": [
-            "If you want to step up to the best in the industry, look no further than our complete line of professional pipe lasers."
-          ],
-          "models": []
-        },
-        {
           "url": "https://www.spectraprecision.com/hv302g",
           "image": "https://static.wixstatic.com/media/cd4160_ef0cc25266bc4ad6821e89c2fa5617c4~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV302G.png",
           "name": "HV302G",
@@ -2919,56 +2706,11 @@ export class GlobalService {
           "models": []
         },
         {
-          "url": "https://www.spectraprecision.com/grade-laser",
-          "image": "https://static.wixstatic.com/media/cd4160_518ad8b3f3194bd1af30f1e8ae564401~mv2.png/v1/fill/w_206,h_249,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL1425C%20copy%203.png",
-          "name": "Rotary Grade Lasers",
-          "description_items": [
-            "Dual grade lasers have the ability to provide two slopes on separate X and Y axis at the same time. This allows you to layout a compound grade.​"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/pipe-premium",
-          "image": "https://static.wixstatic.com/media/cd4160_c0f6c3afea6f47019d60fa5019992460~mv2.png/v1/crop/x_438,y_521,w_1658,h_1454/fill/w_443,h_389,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DG813.png",
-          "name": "Our Premium Pipe Laser Line",
-          "description_items": [
-            "Greater"
-          ],
-          "models": []
-        },
-        {
           "url": "https://www.spectraprecision.com/hr320",
           "image": "https://static.wixstatic.com/media/cd4160_486bd616ab7d45a0a32d340255451c92~mv2.png/v1/crop/x_608,y_192,w_1183,h_2138/fill/w_247,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HR320.png",
           "name": "HR320",
           "description_items": [
             "The  HR320 Laser Receiver is a durable laser receiver for exterior leveling applications. LCD’s on the front and back display a 5 segment grade arrow that indicates grade position. A loud beeper is designed to be heard on noisy job sites."
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/line-lasers",
-          "image": "https://static.wixstatic.com/media/cd4160_f67aca96d9f4473cbda6060058d9dbdf~mv2.png/v1/crop/x_325,y_333,w_1883,h_2013/fill/w_371,h_397,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IT58G.png",
-          "name": "Spectra Line Lasers",
-          "description_items": [
-            "Greater"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/tripods-rods",
-          "image": "https://static.wixstatic.com/media/cd4160_66386ec2a51349bf8ef9e9be83c7ca12~mv2.png/v1/fill/w_310,h_512,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Box.png",
-          "name": "Tripods & Rods",
-          "description_items": [
-            "Dealer Locator"
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/become-a-dealer",
-          "image": "https://static.wixstatic.com/media/cd4160_9cd6d291ea0e4d4cb54671c52a82cba2~mv2.png/v1/fill/w_84,h_34,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Product%20Line.png",
-          "name": "Become a Dealer!",
-          "description_items": [
-            "​"
           ],
           "models": []
         },
@@ -3000,38 +2742,11 @@ export class GlobalService {
           "models": []
         },
         {
-          "url": "https://www.spectraprecision.com/hv-lasers",
-          "image": "https://static.wixstatic.com/media/cd4160_fad9ca5004cb4415924f17a372810ff8~mv2.png/v1/fill/w_264,h_265,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV1305C.png",
-          "name": "Horizontal & Vertical Lasers",
-          "description_items": [
-            "These lasers are capable of handling a wide variety of horizontal, vertical, and plumb applications in both interior and exterior projects."
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/standard-receivers",
-          "image": "https://static.wixstatic.com/media/cd4160_63e524d760af430cad188e40d77f64d1~mv2.png/v1/crop/x_423,y_75,w_770,h_1318/fill/w_252,h_432,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HR320.png",
-          "name": "Standard Receivers",
-          "description_items": [
-            "Greater"
-          ],
-          "models": []
-        },
-        {
           "url": "https://www.spectraprecision.com/lt52",
           "image": "https://static.wixstatic.com/media/cd4160_590c0ae51ba049c1a73df9f98129c9cb~mv2.png/v1/fill/w_498,h_498,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IT52G.png",
           "name": "LT52G & LT52R\ncross line laser.",
           "description_items": [
             "The Spectra LT52G and LT52R are the Tools for All Trades. They eliminate the need for a contractor to purchase two tools by combining a 5 beam laser pointer with a horizontal and vertical cross line laser into one product. The versatile, automatic self-leveling laser tool can be used in a wide variety of construction applications."
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/machine-receivers",
-          "image": "https://static.wixstatic.com/media/cd4160_037a12e027b441c692dd9fccbe11a138~mv2.png/v1/fill/w_85,h_43,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Spectra%20Accessories%20Graphic.png",
-          "name": "Machine Laser Receivers",
-          "description_items": [
-            "Grading Receivers"
           ],
           "models": []
         },
@@ -3068,15 +2783,6 @@ export class GlobalService {
           "name": "Spectra GL722",
           "description_items": [
             "The GL722 dual grade laser is one of the most advanced grade lasers on the market. The long range operation, advanced radio remote, grade matching, Planelok and Automatic Axis Alignment features mean that you can do quick but highly accurate set-ups for any grade application."
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/opticals",
-          "image": "https://static.wixstatic.com/media/cd4160_037a12e027b441c692dd9fccbe11a138~mv2.png/v1/fill/w_852,h_426,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Spectra%20Accessories%20Graphic.png",
-          "name": "Automatic Optical Level Solutions.",
-          "description_items": [
-            "The DET-2 Construction Theodolite is is a rugged, cost-effective theodolite designed to give accurate angle measurements in general construction applications."
           ],
           "models": []
         }
