@@ -1,10 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 import { ProductsComponent } from '../products/products.component';
 import * as AOS from 'aos';
+import { ImageSliderComponent } from "../image-slider/image-slider.component";
 
 @Component({
   selector: 'app-about',
-  imports: [ProductsComponent],
+  imports: [ProductsComponent, ImageSliderComponent],
   templateUrl: './about.component.html',
   styleUrl: './about.component.scss'
 })
