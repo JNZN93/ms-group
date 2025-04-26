@@ -2701,7 +2701,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_fb2bce3ab0114ee89a97f8a5f28269ef~mv2.png/v1/crop/x_304,y_442,w_1842,h_1696/fill/w_406,h_374,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IT56.png",
           "name": "Spectra LT56 \nself-leveling laser.",
           "description_items": [
-            "Precision."
+            "Precision"
           ],
           "models": []
         },
