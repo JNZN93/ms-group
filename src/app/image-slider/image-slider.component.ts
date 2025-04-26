@@ -6,108 +6,71 @@ import { CommonModule } from '@angular/common';
   selector: 'app-image-slider',
   standalone: true,
   imports: [CommonModule],
+
+
+
   template: `
     <div class="slider-container">
-      <div class="slider">
-        <div class="slide" *ngFor="let image of images; let i = index" [class.active]="currentIndex() === i">
-          <img [src]="image" [alt]="'Slide ' + (i + 1)">
-        </div>
-      </div>
-      
-      <button class="nav-button prev" (click)="prevSlide()">❮</button>
-      <button class="nav-button next" (click)="nextSlide()">❯</button>
-      
-      <div class="dots">
-        <span *ngFor="let image of images; let i = index" 
-              [class.active]="currentIndex() === i"
-              (click)="goToSlide(i)"></span>
-      </div>
+  <div class="slider">
+    <div class="slide" *ngFor="let image of images">
+      <img [src]="image" [alt]="'Slide'">
     </div>
+  </div>
+</div>
+
   `,
 styles: [`
   :host {
-    display: block;
-    background: #fff; /* Hellgrauer Hintergrund */
-    padding: 20px;
-  }
+  display: block;
+  background: white;
+  padding: 90px 15px; /* Bootstrap-like Padding */
+}
 
-  .slider-container {
-    position: relative;
-    max-width: 600px;
-    margin: 0 auto;
-    overflow: hidden;
-    height: 400px;
-    border-radius: 24px;
+.slider-container {
+  margin: 0 auto;
+  max-width: 1000px; /* schön breit */
+}
+
+.slider {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 Spalten standard */
+  gap: 24px;
+  justify-content: center;
+}
+
+.slide {
+  border-radius: 16px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.slide:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
+.slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Tablet - 2 Bilder pro Zeile */
+@media (max-width: 991px) {
+  .slider {
+    grid-template-columns: repeat(2, 1fr);
   }
-  
-  .slider-wrapper {
-    position: relative;
-    width: 100%;
-    height: 100%;
+}
+
+/* Handy - 1 Bild pro Zeile */
+@media (max-width: 576px) {
+  .slider {
+    grid-template-columns: 1fr;
   }
-  
-  .slide {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-    transition: opacity 0.5s ease;
-  }
-  
-  .slide.active {
-    opacity: 1;
-  }
-  
-  .slide img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .nav-button {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: rgba(0,0,0,0.5);
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    cursor: pointer;
-    font-size: 18px;
-    z-index: 10;
-  }
-  
-  .prev {
-    left: 10px;
-  }
-  
-  .next {
-    right: 10px;
-  }
-  
-  .dots {
-    position: absolute;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    display: flex;
-    gap: 10px;
-    z-index: 10;
-  }
-  
-  .dots span {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    background: rgba(255,255,255,0.5);
-    cursor: pointer;
-  }
-  
-  .dots span.active {
-    background: white;
-  }
+}
 `]
 })
 export class ImageSliderComponent implements OnInit {
