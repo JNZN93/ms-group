@@ -30,9 +30,9 @@ styles: [`
   margin: 0 auto;
   max-width: 1000px; /* schön breit */
   padding:50px;
-  background:rgba(204, 224, 232, 0.11);
+  background:rgba(233, 238, 239, 0.11);
    box-shadow:  0 10px 30px rgba(0, 0, 0, 0.1);
-   border-radius:16px;
+   border-radius:0px;
 }
 
 .slider {
