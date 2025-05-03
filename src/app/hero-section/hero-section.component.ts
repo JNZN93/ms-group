@@ -1,9 +1,10 @@
 import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { AboutComponent } from "../about/about.component";
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-hero-section',
-  imports: [AboutComponent],
+  imports: [AboutComponent, RouterModule],
   templateUrl: './hero-section.component.html',
   styleUrl: './hero-section.component.scss'
 })
