@@ -2404,16 +2404,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_04bf36766c2c497296dc6273d2b4ac62~mv2.png/v1/crop/x_0,y_317,w_2500,h_1896/fill/w_600,h_455,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LL300S.png",
           "name": " Spectra LL300S ",
           "description_items": [
-            "The Spectra LL300S Laser Level features a rugged design with “hard hat” rotor protection that provides superior drop and weather protection. Built to withstand severe drops of up to 3 ft (1 m) directly onto concrete, or up to 5 ft (1.5 m) when pushed over on a tripod means less downtime and cost due to damage caused by accidental drop. With the addition of the grade arrow buttons, grade matching can be performed while the other axis remains self leveled. "
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/machine-control",
-          "image": "https://static.wixstatic.com/media/cd4160_43efbe0a266644839ce7f1d52d2ee761~mv2.webp/v1/fill/w_221,h_149,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/646f1841522f1b8757216961_NEWTablet-min-p-800.webp",
-          "name": "Machine Control",
-          "description_items": [
-            "Our Products"
+            "Der Spectra LL300S Laserlevel zeichnet sich durch ein robustes Design mit „Hardhat“-Rotorschutz aus, der hervorragenden Schutz gegen Stürze und Witterung bietet. Konzipiert, um starke Stürze von bis zu 1 m direkt auf Beton oder bis zu 1,5 m beim Umkippen auf einem Stativ zu überstehen, bedeutet dies weniger Ausfallzeiten und Kosten durch Schäden durch versehentliche Stürze. Mit den zusätzlichen Pfeiltasten für Gefälle kann die Gefälleanpassung durchgeführt werden, während die andere Achse selbstnivellierend bleibt."
           ],
           "models": []
         },
@@ -2422,7 +2413,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_701cf328e02b461b88431322f52c553e~mv2.png/v1/crop/x_300,y_206,w_1000,h_2314/fill/w_194,h_446,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HR150.png",
           "name": "HR150U",
           "description_items": [
-            "The HR150U Laser Receiver is an excellent receiver for contractors involved in extensive interior construction and remodeling work. The dual-sided LED display and built-in magnetic mount make it ideal for interior leveling and aligning applications."
+            "Der HR150U Laserempfänger ist ein hervorragender Empfänger für Bauunternehmer, die in umfangreiche Innenbau- und Renovierungsarbeiten involviert sind. Das zweiseitige LED-Display und die integrierte Magnetbefestigung machen ihn ideal für Nivellier- und Ausrichtungsarbeiten im Innenbereich."
           ],
           "models": []
         },
@@ -2431,7 +2422,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_518ad8b3f3194bd1af30f1e8ae564401~mv2.png/v1/fill/w_438,h_529,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL1425C%20copy%203.png",
           "name": "Spectra GL1425C",
           "description_items": [
-            "The automatic self-leveling GL1425C dual grade laser is the most rugged, cost-effective laser that does three jobs - level, grade, and vertical alignment. Even in harsh job site conditions, the GL1425C delivers consistently reliable and accurate performance, enabling you to work faster (up to 900 rpm) and smarter. The GL1425C comes with Bluetooth built-in and has a dedicated Laser Remote App."
+            "Der automatisch selbstnivellierende GL1425C Dual-Grade-Laser ist der robusteste und kostengünstigste Laser, der drei Aufgaben erfüllt: Nivellieren, Gefälle einstellen und vertikale Ausrichtung. Selbst unter rauen Baustellenbedingungen liefert der GL1425C zuverlässige und präzise Leistung, sodass Sie schneller (bis zu 900 U/min) und intelligenter arbeiten können. Der GL1425C verfügt über integriertes Bluetooth und eine dedizierte Laser Remote App."
           ],
           "models": []
         },
@@ -2440,16 +2431,16 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_cc0ad0af788443578ecf6b2d27f00da9~mv2.png/v1/crop/x_0,y_317,w_2500,h_1913/fill/w_497,h_382,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV101.png",
           "name": "HV101",
           "description_items": [
-            "The automatic, self-leveling Spectra Precision® HV101 Interior Laser is a professional tool with an economical price tag. The HV101 laser is capable of handling a wide variety of horizontal, vertical, and plumb applications. It is designed for both interior applications and exterior applications with a receiver."
+            "Der automatisch selbstnivellierende Spectra Precision® HV101 Innenlaser ist ein professionelles Werkzeug mit einem wirtschaftlichen Preisschild. Der HV101 Laser kann eine Vielzahl von horizontalen, vertikalen und Lotanwendungen bewältigen. Er ist sowohl für Innen- als auch für Außenanwendungen mit einem Empfänger konzipiert."
           ],
           "models": []
         },
         {
           "url": "https://www.spectraprecision.com/theodolite",
           "image": "https://static.wixstatic.com/media/cd4160_05405ae862744250a04d7fb54f9891d3~mv2.png/v1/crop/x_638,y_104,w_1142,h_2263/fill/w_238,h_469,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DET-2%20Construction%20Theodolite.png",
-          "name": "Theodolite DET-2 ",
+          "name": "Theodolit DET-2 ",
           "description_items": [
-            "Each DET-2 comes equipped with a plumb bob, NiMH rechargeable battery pack and charger, alkaline battery pack, adjustment tools, rain hood, multi-language user guide, and hard-shell, compact, o-ring sealed, carrying case."
+            "Jeder DET-2 ist ausgestattet mit einem Lot, NiMH-Akku-Pack und Ladegerät, Alkali-Batteriepack, Justierwerkzeugen, Regenschutz, mehrsprachiger Bedienungsanleitung und einer robusten, kompakten, o-ring-geschützten Tragetasche."
           ],
           "models": []
         },
@@ -2458,7 +2449,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_ef0cc25266bc4ad6821e89c2fa5617c4~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV302G.png",
           "name": "HV1305C",
           "description_items": [
-            "The automatic self-leveling Spectra Precision® HV1305C red beam laser is the most rugged, cost-effective lasers that provide both horizontal and vertical alignment. Even in harsh job site conditions, the lasers deliver consistently reliable and accurate performance, enabling you to work faster and smarter. "
+            "Der automatisch selbstnivellierende Spectra Precision® HV1305C Rotstrahl-Laser ist der robusteste und kostengünstigste Laser, der sowohl horizontale als auch vertikale Ausrichtung bietet. Selbst unter rauen Baustellenbedingungen liefert der Laser zuverlässige und präzise Leistung, sodass Sie schneller und intelligenter arbeiten können."
           ],
           "models": []
         },
@@ -2467,7 +2458,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/bd8f3e_1fd9639eaa1c4aefa9c68817f054e95c~mv2.png/v1/crop/x_480,y_354,w_2484,h_3000/fill/w_414,h_500,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL612N%20Grade%20Laser.png",
           "name": "Spectra GL612N",
           "description_items": [
-            "The GL612N Grade Laser provides single grade capability of 25% in addition to being fully self-leveled in vertical for building axis alignment or setting 90 degree. Simple, robust and easy to use with a menu-driven interface that is replicated on the radio remote control makes the GL612N the first choice for any contractor requiring versatile grade capability."
+            "Der GL612N Gefällelaser bietet eine Einfach-Gefälle-Fähigkeit von 25 % und ist zusätzlich in der Vertikalen vollständig selbstnivellierend für Gebäudeachsenausrichtung oder 90-Grad-Einstellung. Einfach, robust und benutzerfreundlich mit einer menügesteuerten Oberfläche, die auf der Funkfernbedienung repliziert wird, macht den GL612N zur ersten Wahl für jeden Auftragnehmer, der vielseitige Gefällefähigkeiten benötigt."
           ],
           "models": []
         },
@@ -2476,7 +2467,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_ee92ad3dfe0341668eaa12e413183030~mv2.png/v1/crop/x_813,y_175,w_917,h_2063/fill/w_220,h_495,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LR60%20No%20Shadow.png",
           "name": "LR60 & LR60W",
           "description_items": [
-            "The LR60 & LR60W Laser Machine Display Receivers are designed to be used as a stand-alone display receiver on grading and excavating equipment including: dozers, excavators, backhoes, scrapers, and box blades."
+            "Die LR60 & LR60W Laser-Maschinen-Display-Empfänger sind dafür konzipiert, als eigenständige Display-Empfänger auf Planier- und Baggerausrüstung eingesetzt zu werden, einschließlich: Planierraupen, Bagger, Baggerlader, Schürfkübel und Grabenfräsen."
           ],
           "models": []
         },
@@ -2485,7 +2476,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_319da9f0b07c4fbb896a3059f5463b2f~mv2.png/v1/fill/w_476,h_481,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DG613G.png",
           "name": "DG613G",
           "description_items": [
-            "Compact and Powerful, the DG613G extra-bright green beam laser combines great performance with productivity. Advanced functions are user-friendly and allow for easy, fast set-up."
+            "Kompakt und leistungsstark, der DG613G extraheller Grünstrahl-Laser kombiniert hervorragende Leistung mit Produktivität. Fortschrittliche Funktionen sind benutzerfreundlich und ermöglichen eine einfache, schnelle Einrichtung."
           ],
           "models": []
         },
@@ -2494,16 +2485,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_56ec743f28f843ecb80b5f06846e724a~mv2.png/v1/crop/x_404,y_0,w_1729,h_2500/fill/w_362,h_524,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LL500.png",
           "name": "Spectra LL500",
           "description_items": [
-            "The Laser level LL500 is a one-person leveling system designed for longer range measurements across your entire site. Accurate, stable and reliable, the LL500 features a 1,650 ft (500 m) working diameter which increases productivity by reducing the need for multiple setups on a large job site."
-          ],
-          "models": []
-        },
-        {
-          "url": "https://www.spectraprecision.com/professional-hv",
-          "image": "https://static.wixstatic.com/media/cd4160_68ead9c43f6c47ce86dcf13f289bc737~mv2.png/v1/fill/w_456,h_465,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV1305GC%20Hat.png",
-          "name": "Professional Grade",
-          "description_items": [
-            "HV1305C\nStep up to more power"
+            "Der Laserlevel LL500 ist ein Ein-Personen-Nivelliersystem, das für längere Messungen über die gesamte Baustelle konzipiert ist. Präzise, stabil und zuverlässig, der LL500 verfügt über einen Arbeitsdurchmesser von 500 m, was die Produktivität steigert, indem der Bedarf an mehreren Aufstellungen auf einer großen Baustelle reduziert wird."
           ],
           "models": []
         },
@@ -2512,7 +2494,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_f67aca96d9f4473cbda6060058d9dbdf~mv2.png/v1/crop/x_325,y_333,w_1883,h_2013/fill/w_371,h_397,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IT58G.png",
           "name": "Spectra\nLT56 & LT58G ",
           "description_items": [
-            "The unit is compact, lightweight and easy to mount. Installations on high ceiling grids will be a quick, easy task compared to conventional heavy rotating lasers and cumbersome mounts."
+            "Das Gerät ist kompakt, leicht und einfach zu montieren. Installationen an hohen Deckenkonstruktionen werden im Vergleich zu herkömmlichen schweren Rotationslasern und umständlichen Halterungen eine schnelle, einfache Aufgabe sein."
           ],
           "models": []
         },
@@ -2521,7 +2503,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_5b291b38b91f4883b5d3515938d9b5be~mv2.png/v1/fill/w_600,h_478,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/double-vision.png",
           "name": "LR30 & LR30W",
           "description_items": [
-            "Durable."
+            "Langlebig."
           ],
           "models": []
         },
@@ -2530,16 +2512,16 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_398439b836754b6b93ad6dbf270693e0~mv2.png/v1/crop/x_750,y_83,w_1075,h_2154/fill/w_134,h_267,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/RC803.png",
           "name": "Spectra DG613",
           "description_items": [
-            "Compact and Powerful, the DG613 red beam laser combines great performance with productivity. Advanced functions are user-friendly and allow for easy, fast set-up. Simple to use, with the new menu driven user interface."
+            "Kompakt und leistungsstark, der DG613 Rotstrahl-Laser kombiniert hervorragende Leistung mit Produktivität. Fortschrittliche Funktionen sind benutzerfreundlich und ermöglichen eine einfache, schnelle Einrichtung. Einfach zu bedienen, mit der neuen menügesteuerten Benutzeroberfläche."
           ],
           "models": []
         },
         {
           "url": "https://www.spectraprecision.com/gl622n",
           "image": "https://static.wixstatic.com/media/cd4160_31951e814ee045c0a0de95a4c445cd77~mv2.png/v1/crop/x_660,y_450,w_2388,h_2706/fill/w_466,h_528,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL622N.png",
-          "name": "Spectra GL622N Grade Laser",
+          "name": "Spectra GL622N Gefällelaser",
           "description_items": [
-            "Spectra Precision®  GL622N/GL622IR Grade Lasers. Easy-To-Use, Full Featured Automatic Grade Lasers. The GL622N Dual Grade Laser is rugged, automatic self-levelling laser with grade capability from -25% to + 25% and can be used for a wide variety of grade, excavating and alignment applications by general and speciality contractors."
+            "Spectra Precision® GL622N/GL622IR Gefällelaser. Einfach zu bedienende, voll ausgestattete automatische Gefällelaser. Der GL622N Dual-Gefällelaser ist ein robuster, automatisch selbstnivellierender Laser mit einer Gefällefähigkeit von -25 % bis +25 % und kann für eine Vielzahl von Gefälle-, Aushub- und Ausrichtungsanwendungen von General- und Spezialunternehmern eingesetzt werden."
           ],
           "models": []
         },
@@ -2548,7 +2530,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/bd8f3e_23be87d6e42041008b8eb95baba1a42c~mv2.png/v1/crop/x_546,y_600,w_2556,h_2514/fill/w_492,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL412N%20Grade%20Laser.png",
           "name": "Spectra GL412N",
           "description_items": [
-            "The GL412N is a single grade laser that also offers long-range operation in addition to its grade range up to 15%. Operate the laser using longer range remote controls. With a radio remote operating at a range up to 330 feet (100 meters) you have the ability to make grade changes and to make grade changes remotely, which can significantly reduce setup time."
+            "Der GL412N ist ein Einfach-Gefällelaser, der neben seinem Gefällebereich von bis zu 15 % auch einen Langstreckenbetrieb bietet. Bedienen Sie den Laser mit Fernbedienungen mit größerer Reichweite. Mit einer Funkfernbedienung mit einer Reichweite von bis zu 100 m haben Sie die Möglichkeit, Gefälleänderungen vorzunehmen und diese aus der Ferne durchzuführen, was die Einrichtungszeit erheblich reduzieren kann."
           ],
           "models": []
         },
@@ -2557,14 +2539,14 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_2feaaa47e34841cf98c2c8422474341a~mv2.png/v1/crop/x_675,y_200,w_1208,h_2088/fill/w_240,h_414,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LR20.png",
           "name": "LR20",
           "description_items": [
-            "Head on a swivel."
+            "Kopf auf einem Schwenk."
           ],
           "models": []
         },
         {
           "url": "https://www.spectraprecision.com/hl450",
           "image": "https://static.wixstatic.com/media/cd4160_7e479f73ddfe44979ead69101f54936e~mv2.png/v1/fill/w_311,h_530,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HL450.png",
-          "name": "The HL450",
+          "name": "Der HL450",
           "description_items": [
             "CR700"
           ],
@@ -2575,7 +2557,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/bd8f3e_2ae90cd936cb46b4b6c4b05f68c27506~mv2.png/v1/crop/x_396,y_366,w_2676,h_2904/fill/w_412,h_448,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/UL633N%20Grade%20Laser.png",
           "name": "Spectra UL633N",
           "description_items": [
-            "HL760 Specifications"
+            "HL760 Spezifikationen"
           ],
           "models": []
         },
@@ -2584,7 +2566,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/bd8f3e_944fca41a0a84ce6bf405b97b562f259~mv2.png/v1/crop/x_613,y_453,w_2286,h_2629/fill/w_410,h_471,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL710%20Grade%20Laser.png",
           "name": "Spectra GL710",
           "description_items": [
-            "Built for Grade Professionals, the Spectra Precision GL700 Series of grade lasers are the most advanced grade lasers on the market. Delivering industry leading performance and accuracy, you can be sure that if you need to work with grade over long distances and require high accuracy the GL700 series will deliver."
+            "Für Gefälleprofis konzipiert, ist die Spectra Precision GL700 Serie von Gefällelasern die fortschrittlichste auf dem Markt. Mit branchenführender Leistung und Genauigkeit können Sie sicher sein, dass die GL700-Serie bei Arbeiten mit Gefälle über lange Distanzen und hohen Genauigkeitsanforderungen liefert."
           ],
           "models": []
         },
@@ -2593,7 +2575,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_c32cfe9799384f819d0c5c7095d11841~mv2.png/v1/fill/w_269,h_269,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/M402.png",
           "name": "QM10",
           "description_items": [
-            "Power On / Measure"
+            "Einschalten / Messen"
           ],
           "models": []
         },
@@ -2602,7 +2584,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_9387b15e116c4183b8697f27a9f3eafa~mv2.png/v1/fill/w_443,h_539,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LL1505C-1.png",
           "name": " Spectra LL1505C ",
           "description_items": [
-            " The automatic, self-leveling Spectra Precision® LL1505C Laser Level is the most rugged laser level available, tough enough to handle a wide variety of general and concrete construction applications. The rugged laser can withstand drops of up to 1 meter (3 feet) onto concrete and tripod tip overs up to 1.5 meters (5 feet). This strength, combined with full weatherproofing and dustproofing, reduces downtime and lowers repair costs over the life of the product. "
+            "Der automatisch selbstnivellierende Spectra Precision® LL1505C Laserlevel ist der robusteste verfügbare Laserlevel, robust genug, um eine Vielzahl von allgemeinen und Betonbauanwendungen zu bewältigen. Der robuste Laser kann Stürze von bis zu 1 m auf Beton und Stativumstürze von bis zu 1,5 m überstehen. Diese Stärke, kombiniert mit vollständiger Wetter- und Staubdichtheit, reduziert Ausfallzeiten und senkt die Reparaturkosten über die Lebensdauer des Produkts."
           ],
           "models": []
         },
@@ -2611,7 +2593,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_868d95b434e341109fbe9a46548943d2~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LL300N.png",
           "name": "Spectra LL300N",
           "description_items": [
-            "The Spectra LL300N Laser Level features a rugged design with “hard hat” rotor protection that provides superior drop and weather protection. Built to withstand severe drops of up to 3 ft (1 m) directly onto concrete, or up to 5 ft (1.5 m) when pushed over on a tripod means less downtime and cost due to damage caused by accidental drop."
+            "Der Spectra LL300N Laserlevel zeichnet sich durch ein robustes Design mit „Hardhat“-Rotorschutz aus, der hervorragenden Schutz gegen Stürze und Witterung bietet. Konzipiert, um starke Stürze von bis zu 1 m direkt auf Beton oder bis zu 1,5 m beim Umkippen auf einem Stativ zu überstehen, bedeutet dies weniger Ausfallzeiten und Kosten durch Schäden durch versehentliche Stürze."
           ],
           "models": []
         },
@@ -2627,7 +2609,7 @@ export class GlobalService {
         {
           "url": "https://www.spectraprecision.com/hl700",
           "image": "https://static.wixstatic.com/media/cd4160_e20918414d684cecb0ba90e36dfee75e~mv2.png/v1/fill/w_311,h_530,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HL700.png",
-          "name": "The HL700",
+          "name": "Der HL700",
           "description_items": [
             "CR700"
           ],
@@ -2636,9 +2618,9 @@ export class GlobalService {
         {
           "url": "https://www.spectraprecision.com/dg813",
           "image": "https://static.wixstatic.com/media/cd4160_e2a1ce7b5c7143929ebd937cc17d3fb8~mv2.png/v1/fill/w_438,h_438,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DG813.png",
-          "name": "Spectra DG813  pipe laying laser",
+          "name": "Spectra DG813 Rohrverlegungslaser",
           "description_items": [
-            "When speed, improved reliability, robustness and long lasting performance are required for Pipe Laying the DG813 is the answer. Completely waterproof, with large self-levelled grade range, the DG813 is so fast, so smart and so easy to use that it is an unsurpassed laser tool for pipe laying."
+            "Wenn Geschwindigkeit, verbesserte Zuverlässigkeit, Robustheit und langlebige Leistung für die Rohrverlegung erforderlich sind, ist der DG813 die Antwort. Vollständig wasserdicht, mit großem selbstnivellierendem Gefällebereich, ist der DG813 so schnell, so intelligent und so einfach zu bedienen, dass er ein unübertroffenes Laserwerkzeug für die Rohrverlegung ist."
           ],
           "models": []
         },
@@ -2647,7 +2629,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_f204fdc451434ed99e6ab78b87a1e1ed~mv2.png/v1/fill/w_421,h_506,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV1305GC.png",
           "name": "HV1305GC",
           "description_items": [
-            "The automatic self-leveling Spectra Precision® HV1305GC green beam laser is the most rugged, cost-effective lasers that provide both horizontal and vertical alignment. Even in harsh jobsite conditions, the lasers deliver consistently reliable and accurate performance, enabling you to work faster and smarter. "
+            "Der automatisch selbstnivellierende Spectra Precision® HV1305GC Grünstrahl-Laser ist der robusteste und kostengünstigste Laser, der sowohl horizontale als auch vertikale Ausrichtung bietet. Selbst unter rauen Baustellenbedingungen liefert der Laser zuverlässige und präzise Leistung, sodass Sie schneller und intelligenter arbeiten können."
           ],
           "models": []
         },
@@ -2656,7 +2638,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_5b6eb82bd7854bb081671fe82be399a8~mv2.png/v1/crop/x_0,y_296,w_2500,h_1875/fill/w_563,h_425,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV302.png",
           "name": "HV302",
           "description_items": [
-            "The HV302 is capable of handling a wide variety of horizontal, vertical, and plumb applications in both interior and exterior projects. Its high-visibility beam enables simultaneous rotating and 90 degree plumb references and is easy to see even in brightly lit interiors. Various configurations ensure you have the right tool for the job."
+            "Der HV302 kann eine Vielzahl von horizontalen, vertikalen und Lotanwendungen sowohl in Innen- als auch Außenprojekten bewältigen. Sein hochsichtbarer Strahl ermöglicht gleichzeitige rotierende und 90-Grad-Lotreferenzen und ist auch in hell erleuchteten Innenräumen leicht zu erkennen. Verschiedene Konfigurationen stellen sicher, dass Sie das richtige Werkzeug für die Aufgabe haben."
           ],
           "models": []
         },
@@ -2665,14 +2647,14 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_ea07618acad7433f814de19c03d3a44c~mv2.png/v1/crop/x_633,y_0,w_1258,h_2500/fill/w_236,h_471,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HR1220.png",
           "name": "HR1220",
           "description_items": [
-            "The HR1220 Laser Receiver detects both red and green laser beams generated from crossline lasers including the LT52R, LT52G, LT56, and LT58G. The receiver can extend the indoor working range of these crossline lasers as well as increasing versatility by allowing outdoor use."
+            "Der HR1220 Laserempfänger erkennt sowohl rote als auch grüne Laserstrahlen, die von Kreuzlinienlasern wie dem LT52R, LT52G, LT56 und LT58G erzeugt werden. Der Empfänger kann den Innenarbeitsbereich dieser Kreuzlinienlaser erweitern und die Vielseitigkeit erhöhen, indem er den Außeneinsatz ermöglicht."
           ],
           "models": []
         },
         {
           "url": "https://www.spectraprecision.com/cr700",
           "image": "https://static.wixstatic.com/media/cd4160_2cf7146efba248ffaea5080d45ddaaf4~mv2.png/v1/crop/x_658,y_208,w_1175,h_2025/fill/w_252,h_429,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CR700.png",
-          "name": "The CR700",
+          "name": "Der CR700",
           "description_items": [
             "HL760/HL760U"
           ],
@@ -2681,9 +2663,9 @@ export class GlobalService {
         {
           "url": "https://www.spectraprecision.com/lp51",
           "image": "https://static.wixstatic.com/media/cd4160_c13e0860489a42c8823488b5ec6472d3~mv2.png/v1/crop/x_635,y_245,w_1735,h_2350/fill/w_377,h_511,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LP51G-SHDW.png",
-          "name": "LP51 & LP51G\nLaser Pointers",
+          "name": "LP51 & LP51G\nLaserpointer",
           "description_items": [
-            "The Spectra LP51 and LP51G 5-Beam Laser Pointers are designed to handle a wide range of interior construction applications. These rugged laser pointers offers several benefits to general and interior contractors, electricians, plumbers and a variety of tradesmen."
+            "Die Spectra LP51 und LP51G 5-Strahl-Laserpointer sind für eine breite Palette von Innenbauanwendungen konzipiert. Diese robusten Laserpointer bieten mehrere Vorteile für General- und Innenausbauunternehmer, Elektriker, Klempner und eine Vielzahl von Handwerkern."
           ],
           "models": []
         },
@@ -2692,16 +2674,16 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_ef0cc25266bc4ad6821e89c2fa5617c4~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV302G.png",
           "name": "HV302G",
           "description_items": [
-            "The automatic self-leveling Spectra Precision® HV302G Horizontal/Vertical Laser offers exceptional versatility and superior green beam visibility for increased productivity at a great value. The HV302G is capable of handling a wide variety of horizontal, vertical and plumb applications optimized for interior projects. Even in brightly lit interior conditions, the high visibility green beam of the HV302G delivers consistently reliable and accurate performance, enabling you to work faster and smarter."
+            "Der automatisch selbstnivellierende Spectra Precision® HV302G Horizontal/Vertikal-Laser bietet außergewöhnliche Vielseitigkeit und überlegene Grünstrahl-Sichtbarkeit für erhöhte Produktivität zu einem großartigen Preis. Der HV302G kann eine Vielzahl von horizontalen, vertikalen und Lotanwendungen bewältigen, die für Innenprojekte optimiert sind. Selbst unter hellen Innenbedingungen liefert der hochsichtbare Grünstrahl des HV302G zuverlässige und präzise Leistung, sodass Sie schneller und intelligenter arbeiten können."
           ],
           "models": []
         },
         {
           "url": "https://www.spectraprecision.com/lt56",
           "image": "https://static.wixstatic.com/media/cd4160_fb2bce3ab0114ee89a97f8a5f28269ef~mv2.png/v1/crop/x_304,y_442,w_1842,h_1696/fill/w_406,h_374,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IT56.png",
-          "name": "Spectra LT56 \nself-leveling laser.",
+          "name": "Spectra LT56 \nselbstnivellierender Laser.",
           "description_items": [
-            "Precision"
+            "Präzision"
           ],
           "models": []
         },
@@ -2710,7 +2692,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_486bd616ab7d45a0a32d340255451c92~mv2.png/v1/crop/x_608,y_192,w_1183,h_2138/fill/w_247,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HR320.png",
           "name": "HR320",
           "description_items": [
-            "The  HR320 Laser Receiver is a durable laser receiver for exterior leveling applications. LCD’s on the front and back display a 5 segment grade arrow that indicates grade position. A loud beeper is designed to be heard on noisy job sites."
+            "Der HR320 Laserempfänger ist ein robuster Laserempfänger für Nivellieranwendungen im Außenbereich. LCDs auf der Vorder- und Rückseite zeigen einen 5-segmentigen Gefällepfeil an, der die Gefälleposition anzeigt. Ein lauter Summer ist für laute Baustellen konzipiert."
           ],
           "models": []
         },
@@ -2735,7 +2717,7 @@ export class GlobalService {
         {
           "url": "https://www.spectraprecision.com/dg211",
           "image": "https://static.wixstatic.com/media/cd4160_ef7e3c8ece124f558915145d3b45889d~mv2.png/v1/crop/x_0,y_330,w_1800,h_1209/fill/w_600,h_403,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DG211.png",
-          "name": "DG211 self-leveling\npipe laser",
+          "name": "DG211 selbstnivellierender\nRohrlaser",
           "description_items": [
             "​"
           ],
@@ -2744,9 +2726,9 @@ export class GlobalService {
         {
           "url": "https://www.spectraprecision.com/lt52",
           "image": "https://static.wixstatic.com/media/cd4160_590c0ae51ba049c1a73df9f98129c9cb~mv2.png/v1/fill/w_498,h_498,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IT52G.png",
-          "name": "LT52G & LT52R\ncross line laser.",
+          "name": "LT52G & LT52R\nKreuzlinienlaser.",
           "description_items": [
-            "The Spectra LT52G and LT52R are the Tools for All Trades. They eliminate the need for a contractor to purchase two tools by combining a 5 beam laser pointer with a horizontal and vertical cross line laser into one product. The versatile, automatic self-leveling laser tool can be used in a wide variety of construction applications."
+            "Die Spectra LT52G und LT52R sind die Werkzeuge für alle Gewerke. Sie eliminieren die Notwendigkeit für einen Auftragnehmer, zwei Werkzeuge zu kaufen, indem sie einen 5-Strahl-Laserpointer mit einem horizontalen und vertikalen Kreuzlinienlaser in einem Produkt kombinieren. Das vielseitige, automatisch selbstnivellierende Laserwerkzeug kann in einer Vielzahl von Bauanwendungen eingesetzt werden."
           ],
           "models": []
         },
@@ -2755,25 +2737,25 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/cd4160_19f32414bd9a426c80af498e357e40bb~mv2.png/v1/crop/x_138,y_108,w_956,h_1092/fill/w_478,h_546,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL422N.png",
           "name": "Spectra GL422N",
           "description_items": [
-            "The GL422N is a dual grade laser that also offers long-range operation in addition to its grade range up to 15%. Operate the laser using longer range remote controls. With a radio remote operating at a range up to 330 feet (100 meters) you have the ability to make grade changes and to make them remotely, which can significantly reduce setup time."
+            "Der GL422N ist ein Dual-Gefällelaser, der neben seinem Gefällebereich von bis zu 15 % auch einen Langstreckenbetrieb bietet. Bedienen Sie den Laser mit Fernbedienungen mit größerer Reichweite. Mit einer Funkfernbedienung mit einer Reichweite von bis zu 100 m haben Sie die Möglichkeit, Gefälleänderungen aus der Ferne vorzunehmen, was die Einrichtungszeit erheblich reduzieren kann."
           ],
           "models": []
         },
         {
           "url": "https://www.spectraprecision.com/lt20",
           "image": "https://static.wixstatic.com/media/cd4160_86337ed533674a069fc956993e81684b~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LT20.png",
-          "name": "LT20 & LT20G\nLine Laser",
+          "name": "LT20 & LT20G\nLinienlaser",
           "description_items": [
-            "The Spectra LT20 Cross Line Laser Tool is an automatic self-leveling multi-purpose tool with 1 vertical plane and 1 horizontal plane. For interior building and remodeling, the LT20 laser tool is used for horizontal and vertical alignment, wall layout, acoustical ceiling installation and finish carpentry."
+            "Der Spectra LT20 Kreuzlinienlaser ist ein automatisch selbstnivellierendes Mehrzweckwerkzeug mit 1 vertikaler Ebene und 1 horizontaler Ebene. Für den Innenausbau und Renovierungen wird der LT20 Laser für horizontale und vertikale Ausrichtung, Wandlayout, Akustikdeckeninstallation und Feinholzverarbeitung eingesetzt."
           ],
           "models": []
         },
         {
           "url": "https://www.spectraprecision.com/digital-display-receivers",
           "image": "https://static.wixstatic.com/media/cd4160_ad2cacbb4244423aae22f1a12afcaf22~mv2.png/v1/crop/x_679,y_142,w_1117,h_2192/fill/w_209,h_411,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HL760.png",
-          "name": "Digital Display Receivers",
+          "name": "Digitale Display-Empfänger",
           "description_items": [
-            "Greatest"
+            "Großartig"
           ],
           "models": []
         },
@@ -2782,7 +2764,7 @@ export class GlobalService {
           "image": "https://static.wixstatic.com/media/bd8f3e_57a6925699414d16b06b09b10d4004c6~mv2.png/v1/crop/x_373,y_170,w_735,h_1090/fill/w_388,h_577,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL722%20Grade%20Laser-S.png",
           "name": "Spectra GL722",
           "description_items": [
-            "The GL722 dual grade laser is one of the most advanced grade lasers on the market. The long range operation, advanced radio remote, grade matching, Planelok and Automatic Axis Alignment features mean that you can do quick but highly accurate set-ups for any grade application."
+            "Der GL722 Dual-Gefällelaser ist einer der fortschrittlichsten Gefällelaser auf dem Markt. Der Langstreckenbetrieb, die fortschrittliche Funkfernbedienung, Gefälleanpassung, Planelok und automatische Achsenausrichtung bedeuten, dass Sie schnelle, aber hochpräzise Einrichtungen für jede Gefälleanwendung durchführen können."
           ],
           "models": []
         }

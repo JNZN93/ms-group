@@ -1,9 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 import { RouterModule } from '@angular/router';
+import { ContactFormularComponent } from '../contact-formular/contact-formular.component';
 
 @Component({
   selector: 'app-schweisstechnik',
-  imports: [RouterModule],
+  imports: [RouterModule, ContactFormularComponent],
   templateUrl: './schweisstechnik.component.html',
   styleUrl: './schweisstechnik.component.scss'
 })
