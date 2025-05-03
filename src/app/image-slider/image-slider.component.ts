@@ -11,11 +11,11 @@ import { CommonModule } from '@angular/common';
 
   template: `
     <div class="slider-container">
-  <div class="slider">
-    <div class="slide" *ngFor="let image of images">
-      <img [src]="image" [alt]="'Slide'">
-    </div>
-  </div>
+      <div class="slider">
+        <div class="slide" *ngFor="let image of images">
+          <img [src]="image" [alt]="'Slide'">
+        </div>
+      </div>
 </div>
 
   `,
@@ -29,6 +29,10 @@ styles: [`
 .slider-container {
   margin: 0 auto;
   max-width: 1000px; /* schön breit */
+  padding:50px;
+  background:rgba(233, 238, 239, 0.11);
+   box-shadow:  0 10px 30px rgba(0, 0, 0, 0.1);
+   border-radius:0px;
 }
 
 .slider {
@@ -39,23 +43,20 @@ styles: [`
 }
 
 .slide {
-  border-radius: 16px;
+  border-radius: 1px;
   overflow: hidden;
   background: #fff;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+  box-shadow:  0 10px 16px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.slide:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
-}
 
 .slide img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
+  padding:8px;
 }
 
 /* Tablet - 2 Bilder pro Zeile */
