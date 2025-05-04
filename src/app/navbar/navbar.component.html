@@ -14,10 +14,10 @@
           <!-- MENU LINKS -->
           <div class="collapse navbar-collapse">
                <ul class="nav navbar-nav navbar-right">
-                 <li><a routerLink="/" fragment="home" class="smoothScroll">Startseite</a></li>
-                 <li><a routerLink="/" fragment="about" class="smoothScroll">Über Uns</a></li>
-                 <li><a routerLink="/" fragment="project" class="smoothScroll">Produkte</a></li>
-                 <li><a routerLink="/" fragment="contact" class="smoothScroll">Kontakt</a></li>
+                 <li><a routerLink="/" fragment="home" class="smoothScroll"> {{ 'nav.HOME' | translate }} </a></li>
+                 <li><a routerLink="/" fragment="about" class="smoothScroll">{{ 'nav.ABOUT' | translate }}</a></li>
+                 <li><a routerLink="/" fragment="project" class="smoothScroll">{{ 'nav.PRODUCTS' | translate }}</a></li>
+                 <li><a routerLink="/" fragment="contact" class="smoothScroll">{{ 'nav.CONTACT' | translate }}</a></li>
              
                  <li class="cart-wrapper">
                    <a (click)="toggleCart()" class="smoothScroll">
@@ -27,6 +27,8 @@
                      }
                    </a>
                  </li>
+                 <li><a (click)="switchLanguage('en')" class="smoothScroll margin-r-0">🇬🇧 EN</a></li>
+                 <li><a (click)="switchLanguage('de')" class="smoothScroll">🇩🇪 DE</a></li>
                </ul>
              </div>                    
 

@@ -1,0 +1,38 @@
+{
+    "nav": {
+        "HOME": "Startseite",
+        "ABOUT": "Über Uns",
+        "PRODUCTS": "Produkte",
+        "CONTACT": "Kontakt"
+    },
+    "hero": {
+        "SLOGAN": "Ihr Vertriebspartner für Baumaschinen",
+        "BTN_1": "Schweißtechnik",
+        "BTN_2": "Bauhandel"
+    },
+    "about": {
+        "HEADLINE": "Über Uns",
+        "TEXT":"Als erfahrener Bauhändler bieten wir Ihnen hochwertige Produkte für Bau- und Renovierungsprojekte. Unser Sortiment umfasst Betonglätter, Zubehör, Folien und Betonmörtel – alles aus erstklassigen Materialien. Wir legen großen Wert auf Qualität, schnelle Lieferung und umfassende Beratung, um Ihre Bauvorhaben effizient und erfolgreich umzusetzen. Vertrauen Sie auf unsere Expertise und lassen Sie sich von uns als zuverlässigem Partner für Ihre Bauprojekte unterstützen."
+    },
+    "products": {
+        "HEADLINE": "Produkte",
+        "GO_TO": "Zu den Produkten",
+        "OTHER": "Sonstige Artikel und Zubehör"
+    },
+    "contact": {
+        "HEADLINE": "Kontaktieren Sie uns!",
+        "NAME": "Name",
+        "EMAIL": "E-Mail Adresse",
+        "SUBJECT": "Betreff",
+        "MESSAGE": "Nachricht",
+        "SEND": "Nachricht senden"
+    },
+    "footer": {
+        "COUNTRY": "Deutschland",
+        "TOUCH": "In Kontakt bleiben",
+        "LOCATION": "Unser Standort",
+        "LEGAL": "Rechtliches",
+        "IMPRESS": "Impressum",
+        "PRIVACY": "Datenschutz"
+    }
+}

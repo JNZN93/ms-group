@@ -1,0 +1,38 @@
+{
+    "nav": {
+        "HOME": "Home",
+        "ABOUT": "About us",
+        "PRODUCTS": "Products",
+        "CONTACT": "Contact"
+    },
+    "hero": {
+        "SLOGAN": "Your distributor for construction machinery",
+        "BTN_1": "Welding technology",
+        "BTN_2": "Building materials trade"
+    },
+    "about": {
+        "HEADLINE": "About us",
+        "TEXT": "As an experienced construction supplier, we offer you high-quality products for construction and renovation projects. Our range includes power trowels, accessories, protective films, and concrete mortar – all made from premium materials. We place great importance on quality, fast delivery, and comprehensive advice to help you carry out your building projects efficiently and successfully. Rely on our expertise and let us support you as a dependable partner for all your construction needs."
+    },
+    "products": {
+        "HEADLINE": "Products",
+        "GO_TO":  "View Products",
+        "OTHER": "Other Items and Accessories"
+    },
+    "contact": {
+        "HEADLINE": "Contact us!",
+        "NAME": "Name",
+        "EMAIL": "Email adress",
+        "SUBJECT": "Subject",
+        "MESSAGE": "Message",
+        "SEND": "Send message"
+    },
+    "footer": {
+        "COUNTRY": "Germany",
+        "TOUCH": "Keep in touch",
+        "LOCATION": "Our Location",
+        "LEGAL": "Legal Information",
+        "IMPRESS": "Impress",
+        "PRIVACY": "Privacy"
+    }
+}

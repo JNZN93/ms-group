@@ -2,10 +2,11 @@ import { Component, inject } from '@angular/core';
 import { KontaktService, Post } from '../services/kontakt.service';
 import { FormsModule } from '@angular/forms';
 import Swal from 'sweetalert2';
+import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-contact-formular',
-  imports: [FormsModule],
+  imports: [FormsModule, TranslateModule],
   templateUrl: './contact-formular.component.html',
   styleUrl: './contact-formular.component.scss'
 })

@@ -14,10 +14,10 @@ import { FooterComponent } from "./footer/footer.component";
 })
 export class AppComponent {
 
+  title = 'ms-group';
 
   constructor() {
       window.scrollTo({ top: 0 , behavior: 'smooth' });
   }
-  title = 'ms-group';
 
 }

@@ -89,7 +89,8 @@ p {
   font-weight: normal;
   letter-spacing: 0.5px;
   padding: 0 25px;
-  width: 200px;
+  width: 250px;
+  text-wrap: nowrap;
   text-align: center;
   background: #2a5668;
   margin-bottom: 12px;
@@ -146,7 +147,7 @@ p {
   background: #c38a25;  
 }
 
-@media(max-width:459px) {
+@media(max-width:559px) {
   .section-btn {
   display: flex;
   justify-content: center;

@@ -3,10 +3,11 @@ import { ContactFormularComponent } from '../contact-formular/contact-formular.c
 import { GlobalService } from '../services/global.service';
 import { RouterModule, Router } from '@angular/router';
 import * as AOS from 'aos'; 
+import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-products',
-  imports: [ContactFormularComponent, RouterModule],
+  imports: [ContactFormularComponent, RouterModule, TranslateModule],
   templateUrl: './products.component.html',
   styleUrl: './products.component.scss'
 })
