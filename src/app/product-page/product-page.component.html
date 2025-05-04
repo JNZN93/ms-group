@@ -5,7 +5,12 @@
         <img [src]="product.image" />
         <div class="karte-content">
           <h2>{{ product.name }}</h2>
-          <p>{{ product.description_items || 'Kein Beschreibungstext verfügbar.' }}</p>
+          <div class="product-description">
+            <p>{{ product.description_items?.key1 }}</p>
+            <p>{{ product.description_items?.key2 }}</p>
+            <p>{{ product.description_items?.key3 }}</p>
+            <p>{{ product.description_items?.key4 }}</p>
+          </div>
         </div>
         <div class="karte-footer">
           <button (click)="openModal(product)">Details</button>
@@ -37,9 +42,12 @@
 
             <!-- Beschreibung & Auswahl -->
             <div class="col-md-7 modal-description">
-              <p>
-                {{selectedProduct?.description_items}}
-              </p>
+              <div class="product-details">
+                <p><strong>Motor:</strong> {{selectedProduct?.description_items?.key1}}</p>
+                <p><strong>Rotordurchmesser & Klingen:</strong> {{selectedProduct?.description_items?.key2}}</p>
+                <p><strong>Leistung:</strong> {{selectedProduct?.description_items?.key3}}</p>
+                <p><strong>Weitere Details:</strong> {{selectedProduct?.description_items?.key4}}</p>
+              </div>
 
               <!-- Drop Down Variante-->
               @if (selectedProduct?.models?.length) {

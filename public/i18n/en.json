@@ -53,5 +53,163 @@
         "LIST_2_3": "Doors, Fences, and Gates",
         "LIST_2_4": "Custom-built Structures According to Customer Specifications",
         "BACK" : "Back"
+    },
+    "manufacturers": {
+        "Somero": {
+            "products": {
+                "S-485 Laser Screed": {
+                    "name": "S-485 Laser Screed",
+                    "description_items": {
+                        "key1": "Honda GX390 engine",
+                        "key2": "90cm rotor diameter, 4 blades",
+                        "key3": "150 RPM output speed, 13 HP power",
+                        "key4": "Manual start, Gasoline fuel type, 120 kg weight"
+                    }
+                },
+                "S-22EZ Laser Screed": {
+                    "name": "S-22EZ Laser Screed",
+                    "description_items": {
+                        "key1": "Kubota D1105 engine",
+                        "key2": "120cm rotor diameter, 5 blades",
+                        "key3": "130 RPM output speed, 24.8 HP power",
+                        "key4": "Electric start, Diesel fuel type, 1450 kg weight"
+                    }
+                },
+                "CopperHead XD 3.0": {
+                    "name": "CopperHead XD 3.0",
+                    "description_items": {
+                        "key1": "Honda GX390 engine",
+                        "key2": "80cm rotor diameter, 4 blades",
+                        "key3": "140 RPM output speed, 13 HP power",
+                        "key4": "Manual start, Gasoline fuel type, 100 kg weight"
+                    }
+                },
+                "S-158C Laser Screed": {
+                    "name": "S-158C Laser Screed",
+                    "description_items": {
+                        "key1": "Kubota D902 engine",
+                        "key2": "105cm rotor diameter, 5 blades",
+                        "key3": "135 RPM output speed, 22 HP power",
+                        "key4": "Electric start, Diesel fuel type, 1300 kg weight"
+                    }
+                },
+                "Mini Screed C": {
+                    "name": "Mini Screed C",
+                    "description_items": {
+                        "key1": "Honda GX390 engine",
+                        "key2": "85cm rotor diameter, 4 blades",
+                        "key3": "150 RPM output speed, 13 HP power",
+                        "key4": "Manual start, Gasoline fuel type, 110 kg weight"
+                    }
+                },
+                "S-10A Laser Screed": {
+                    "name": "S-10A Laser Screed",
+                    "description_items": {
+                        "key1": "Kubota D1105 engine",
+                        "key2": "100cm rotor diameter, 5 blades",
+                        "key3": "145 RPM output speed, 25 HP power",
+                        "key4": "Electric start, Diesel fuel type, 1400 kg weight"
+                    }
+                }
+            }
+        },
+        "Barikell": {
+            "products": {
+                "BT900 Ride-On Trowel": {
+                    "name": "BT900 Ride-On Trowel",
+                    "description_items": {
+                        "key1": "Honda GX690 engine",
+                        "key2": "100cm rotor diameter, 4 blades",
+                        "key3": "140 RPM output speed, 22 HP power",
+                        "key4": "Electric start, Gasoline fuel type, 330 kg weight"
+                    }
+                },
+                "BT1200 Twin Rotor": {
+                    "name": "BT1200 Twin Rotor",
+                    "description_items": {
+                        "key1": "Kohler Diesel engine",
+                        "key2": "120cm rotor diameter, 5 blades",
+                        "key3": "135 RPM output speed, 25 HP power",
+                        "key4": "Electric start, Diesel fuel type, 370 kg weight"
+                    }
+                },
+                "BT75 Walk-Behind": {
+                    "name": "BT75 Walk-Behind",
+                    "description_items": {
+                        "key1": "Honda GX270 engine",
+                        "key2": "75cm rotor diameter, 4 blades",
+                        "key3": "140 RPM output speed, 9 HP power",
+                        "key4": "Manual start, Gasoline fuel type, 95 kg weight"
+                    }
+                },
+                "BT60 Walk-Behind": {
+                    "name": "BT60 Walk-Behind",
+                    "description_items": {
+                        "key1": "Honda GX200 engine",
+                        "key2": "60cm rotor diameter, 4 blades",
+                        "key3": "135 RPM output speed, 6.5 HP power",
+                        "key4": "Manual start, Gasoline fuel type, 80 kg weight"
+                    }
+                },
+                "BT100 Dual Trowel": {
+                    "name": "BT100 Dual Trowel",
+                    "description_items": {
+                        "key1": "Kohler CH730 engine",
+                        "key2": "100cm rotor diameter, 5 blades",
+                        "key3": "150 RPM output speed, 23 HP power",
+                        "key4": "Electric start, Gasoline fuel type, 360 kg weight"
+                    }
+                },
+                "BT Compact Ride-On": {
+                    "name": "BT Compact Ride-On",
+                    "description_items": {
+                        "key1": "Honda GX390 engine",
+                        "key2": "90cm rotor diameter, 4 blades",
+                        "key3": "140 RPM output speed, 13 HP power",
+                        "key4": "Manual start, Gasoline fuel type, 280 kg weight"
+                    }
+                }
+            }
+        },
+        "Husqvarna": {
+            "products": {
+                "CRT36 Ride-On Trowel": {
+                    "name": "CRT36 Ride-On Trowel",
+                    "description_items": {
+                        "key1": "Honda GX690 engine",
+                        "key2": "92cm rotor diameter, 5 blades",
+                        "key3": "160 RPM output speed, 22 HP power",
+                        "key4": "Electric start, Gasoline fuel type, 315 kg weight"
+                    }
+                },
+                "CRT48 Power Trowel": {
+                    "name": "CRT48 Power Trowel",
+                    "description_items": {
+                        "key1": "Kohler Diesel 7500 engine",
+                        "key2": "120cm rotor diameter, 6 blades",
+                        "key3": "140 RPM output speed, 25 HP power",
+                        "key4": "Electric start, Diesel fuel type, 400 kg weight"
+                    }
+                },
+                "CT48 Walk-Behind": {
+                    "name": "CT48 Walk-Behind",
+                    "description_items": {
+                        "key1": "Honda GX390 engine",
+                        "key2": "122cm rotor diameter, 4 blades",
+                        "key3": "135 RPM output speed, 13 HP power",
+                        "key4": "Manual start, Gasoline fuel type, 115 kg weight"
+                    }
+                },
+                "CT36 Walk-Behind": {
+                    "name": "CT36 Walk-Behind",
+                    "description_items": {
+                        "key1": "Honda GX270 engine",
+                        "key2": "90cm rotor diameter, 4 blades",
+                        "key3": "140 RPM output speed, 9 HP power",
+                        "key4": "Manual start, Gasoline fuel type, 95 kg weight"
+                    }
+                }
+            }
+        }
     }
 }

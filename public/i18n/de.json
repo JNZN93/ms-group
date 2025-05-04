@@ -53,5 +53,163 @@
         "LIST_2_3": "Türen, Zäune und Tore",
         "LIST_2_4": "Sonderkonstruktionen nach Kundenwunsch",
         "BACK" : "Zurück"
+    },
+    "manufacturers": {
+        "Somero": {
+            "products": {
+                "S-485 Laser Screed": {
+                    "name": "S-485 Laser Screed",
+                    "description_items": {
+                        "key1": "Honda GX390 Motor",
+                        "key2": "90cm Rotordurchmesser, 4 Klingen",
+                        "key3": "150 U/min Ausgangsdrehzahl, 13 PS Leistung",
+                        "key4": "Manueller Start, Benzin Kraftstoff, 120 kg Gewicht"
+                    }
+                },
+                "S-22EZ Laser Screed": {
+                    "name": "S-22EZ Laser Screed",
+                    "description_items": {
+                        "key1": "Kubota D1105 Motor",
+                        "key2": "120cm Rotordurchmesser, 5 Klingen",
+                        "key3": "130 U/min Ausgangsdrehzahl, 24,8 PS Leistung",
+                        "key4": "Elektrischer Start, Diesel Kraftstoff, 1450 kg Gewicht"
+                    }
+                },
+                "CopperHead XD 3.0": {
+                    "name": "CopperHead XD 3.0",
+                    "description_items": {
+                        "key1": "Honda GX390 Motor",
+                        "key2": "80cm Rotordurchmesser, 4 Klingen",
+                        "key3": "140 U/min Ausgangsdrehzahl, 13 PS Leistung",
+                        "key4": "Manueller Start, Benzin Kraftstoff, 100 kg Gewicht"
+                    }
+                },
+                "S-158C Laser Screed": {
+                    "name": "S-158C Laser Screed",
+                    "description_items": {
+                        "key1": "Kubota D902 Motor",
+                        "key2": "105cm Rotordurchmesser, 5 Klingen",
+                        "key3": "135 U/min Ausgangsdrehzahl, 22 PS Leistung",
+                        "key4": "Elektrischer Start, Diesel Kraftstoff, 1300 kg Gewicht"
+                    }
+                },
+                "Mini Screed C": {
+                    "name": "Mini Screed C",
+                    "description_items": {
+                        "key1": "Honda GX390 Motor",
+                        "key2": "85cm Rotordurchmesser, 4 Klingen",
+                        "key3": "150 U/min Ausgangsdrehzahl, 13 PS Leistung",
+                        "key4": "Manueller Start, Benzin Kraftstoff, 110 kg Gewicht"
+                    }
+                },
+                "S-10A Laser Screed": {
+                    "name": "S-10A Laser Screed",
+                    "description_items": {
+                        "key1": "Kubota D1105 Motor",
+                        "key2": "100cm Rotordurchmesser, 5 Klingen",
+                        "key3": "145 U/min Ausgangsdrehzahl, 25 PS Leistung",
+                        "key4": "Elektrischer Start, Diesel Kraftstoff, 1400 kg Gewicht"
+                    }
+                }
+            }
+        },
+        "Barikell": {
+            "products": {
+                "BT900 Ride-On Trowel": {
+                    "name": "BT900 Ride-On Trowel",
+                    "description_items": {
+                        "key1": "Honda GX690 Motor",
+                        "key2": "100cm Rotordurchmesser, 4 Klingen",
+                        "key3": "140 U/min Ausgangsdrehzahl, 22 PS Leistung",
+                        "key4": "Elektrischer Start, Benzin Kraftstoff, 330 kg Gewicht"
+                    }
+                },
+                "BT1200 Twin Rotor": {
+                    "name": "BT1200 Twin Rotor",
+                    "description_items": {
+                        "key1": "Kohler Diesel Motor",
+                        "key2": "120cm Rotordurchmesser, 5 Klingen",
+                        "key3": "135 U/min Ausgangsdrehzahl, 25 PS Leistung",
+                        "key4": "Elektrischer Start, Diesel Kraftstoff, 370 kg Gewicht"
+                    }
+                },
+                "BT75 Walk-Behind": {
+                    "name": "BT75 Walk-Behind",
+                    "description_items": {
+                        "key1": "Honda GX270 Motor",
+                        "key2": "75cm Rotordurchmesser, 4 Klingen",
+                        "key3": "140 U/min Ausgangsdrehzahl, 9 PS Leistung",
+                        "key4": "Manueller Start, Benzin Kraftstoff, 95 kg Gewicht"
+                    }
+                },
+                "BT60 Walk-Behind": {
+                    "name": "BT60 Walk-Behind",
+                    "description_items": {
+                        "key1": "Honda GX200 Motor",
+                        "key2": "60cm Rotordurchmesser, 4 Klingen",
+                        "key3": "135 U/min Ausgangsdrehzahl, 6,5 PS Leistung",
+                        "key4": "Manueller Start, Benzin Kraftstoff, 80 kg Gewicht"
+                    }
+                },
+                "BT100 Dual Trowel": {
+                    "name": "BT100 Dual Trowel",
+                    "description_items": {
+                        "key1": "Kohler CH730 Motor",
+                        "key2": "100cm Rotordurchmesser, 5 Klingen",
+                        "key3": "150 U/min Ausgangsdrehzahl, 23 PS Leistung",
+                        "key4": "Elektrischer Start, Benzin Kraftstoff, 360 kg Gewicht"
+                    }
+                },
+                "BT Compact Ride-On": {
+                    "name": "BT Compact Ride-On",
+                    "description_items": {
+                        "key1": "Honda GX390 Motor",
+                        "key2": "90cm Rotordurchmesser, 4 Klingen",
+                        "key3": "140 U/min Ausgangsdrehzahl, 13 PS Leistung",
+                        "key4": "Manueller Start, Benzin Kraftstoff, 280 kg Gewicht"
+                    }
+                }
+            }
+        },
+        "Husqvarna": {
+            "products": {
+                "CRT36 Ride-On Trowel": {
+                    "name": "CRT36 Ride-On Trowel",
+                    "description_items": {
+                        "key1": "Honda GX690 Motor",
+                        "key2": "92cm Rotordurchmesser, 5 Klingen",
+                        "key3": "160 U/min Ausgangsdrehzahl, 22 PS Leistung",
+                        "key4": "Elektrischer Start, Benzin Kraftstoff, 315 kg Gewicht"
+                    }
+                },
+                "CRT48 Power Trowel": {
+                    "name": "CRT48 Power Trowel",
+                    "description_items": {
+                        "key1": "Kohler Diesel 7500 Motor",
+                        "key2": "120cm Rotordurchmesser, 6 Klingen",
+                        "key3": "140 U/min Ausgangsdrehzahl, 25 PS Leistung",
+                        "key4": "Elektrischer Start, Diesel Kraftstoff, 400 kg Gewicht"
+                    }
+                },
+                "CT48 Walk-Behind": {
+                    "name": "CT48 Walk-Behind",
+                    "description_items": {
+                        "key1": "Honda GX390 Motor",
+                        "key2": "122cm Rotordurchmesser, 4 Klingen",
+                        "key3": "135 U/min Ausgangsdrehzahl, 13 PS Leistung",
+                        "key4": "Manueller Start, Benzin Kraftstoff, 115 kg Gewicht"
+                    }
+                },
+                "CT36 Walk-Behind": {
+                    "name": "CT36 Walk-Behind",
+                    "description_items": {
+                        "key1": "Honda GX270 Motor",
+                        "key2": "90cm Rotordurchmesser, 4 Klingen",
+                        "key3": "140 U/min Ausgangsdrehzahl, 9 PS Leistung",
+                        "key4": "Manueller Start, Benzin Kraftstoff, 95 kg Gewicht"
+                    }
+                }
+            }
+        }
     }
 }
