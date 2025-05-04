@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import { GlobalService } from '../services/global.service';
 import { ActivatedRoute } from '@angular/router';
 import { FormsModule } from '@angular/forms';
@@ -6,8 +6,8 @@ import { CommonModule } from '@angular/common';
 import { CartService, CartItem } from '../services/cart.service';
 import { Router, NavigationEnd } from '@angular/router';
 import { filter } from 'rxjs/operators';
+import { Subscription } from 'rxjs';
 import Swal from 'sweetalert2';
-
 
 declare var $: any;
 
@@ -17,37 +17,51 @@ declare var $: any;
   templateUrl: './product-page.component.html',
   styleUrl: './product-page.component.scss'
 })
-export class ProductPageComponent {
+export class ProductPageComponent implements OnInit, OnDestroy {
   selectedBrand: string = '';
   brandProducts: any[] = [];
   selectedProduct: any = null;
   selectedVariant: string = '';
   quantity: number = 1;
+  private subscriptions: Subscription[] = [];
 
   constructor(
-    public globalService:GlobalService,
+    public globalService: GlobalService,
     private route: ActivatedRoute,
     public cartService: CartService,
     private router: Router
   ) {
-
     this.router.events.pipe(
       filter(event => event instanceof NavigationEnd)
     ).subscribe(() => {
-      window.scrollTo(0, 100); // <-- hier wird gescrollt
+      window.scrollTo(0, 100);
     });
-
   }
 
   ngOnInit(): void {
-    this.route.paramMap.subscribe(params => {
-      this.selectedBrand = params.get('brand') || '';
-      this.filterProducts();
-    });
+    // Subscribe to route params
+    this.subscriptions.push(
+      this.route.paramMap.subscribe(params => {
+        this.selectedBrand = params.get('brand') || '';
+        this.filterProducts();
+      })
+    );
 
-    
+    // Subscribe to language changes
+    this.subscriptions.push(
+      this.globalService.currentLang$.subscribe(() => {
+        this.filterProducts();
+      })
+    );
+
     window.addEventListener('popstate', this.handlePopState);
     window.scrollTo(0, 0);
+  }
+
+  ngOnDestroy(): void {
+    // Clean up subscriptions
+    this.subscriptions.forEach(sub => sub.unsubscribe());
+    window.removeEventListener('popstate', this.handlePopState);
   }
 
   filterProducts() {

@@ -4,6 +4,7 @@ import { CartService } from '../services/cart.service';
 import { RouterModule } from '@angular/router';
 import { TranslateModule } from '@ngx-translate/core';
 import { TranslateService } from '@ngx-translate/core';
+import { GlobalService } from '../services/global.service';
 
 @Component({
   selector: 'app-navbar',
@@ -14,21 +15,21 @@ import { TranslateService } from '@ngx-translate/core';
 export class NavbarComponent {
   showCart = false;
 
-  constructor(public cartService: CartService, public translate: TranslateService) {
+  constructor(
+    public cartService: CartService, 
+    public translate: TranslateService,
+    private globalService: GlobalService
+  ) {
     const savedLang = localStorage.getItem('lang') || 'de';
     this.translate.setDefaultLang('de');
     this.translate.use(savedLang);
-   }
+  }
 
   toggleCart() {
     this.showCart = !this.showCart;
-    console.log(this.showCart);
-    
   }
 
   switchLanguage(lang: string) {
-    this.translate.use(lang);
-    localStorage.setItem('lang', lang);
+    this.globalService.switchLanguage(lang);
   }
-
 }
