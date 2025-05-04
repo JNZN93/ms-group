@@ -12,7 +12,7 @@
     },
     "about": {
         "HEADLINE": "Über Uns",
-        "TEXT":"Als erfahrener Bauhändler bieten wir Ihnen hochwertige Produkte für Bau- und Renovierungsprojekte. Unser Sortiment umfasst Betonglätter, Zubehör, Folien und Betonmörtel – alles aus erstklassigen Materialien. Wir legen großen Wert auf Qualität, schnelle Lieferung und umfassende Beratung, um Ihre Bauvorhaben effizient und erfolgreich umzusetzen. Vertrauen Sie auf unsere Expertise und lassen Sie sich von uns als zuverlässigem Partner für Ihre Bauprojekte unterstützen."
+        "TEXT": "Als erfahrener Bauhändler bieten wir Ihnen hochwertige Produkte für Bau- und Renovierungsprojekte. Unser Sortiment umfasst Betonglätter, Zubehör, Folien und Betonmörtel – alles aus erstklassigen Materialien. Wir legen großen Wert auf Qualität, schnelle Lieferung und umfassende Beratung, um Ihre Bauvorhaben effizient und erfolgreich umzusetzen. Vertrauen Sie auf unsere Expertise und lassen Sie sich von uns als zuverlässigem Partner für Ihre Bauprojekte unterstützen."
     },
     "products": {
         "HEADLINE": "Produkte",
@@ -34,5 +34,24 @@
         "LEGAL": "Rechtliches",
         "IMPRESS": "Impressum",
         "PRIVACY": "Datenschutz"
+    },
+    "welding": {
+        "HEADLINE": "Schweißtechnik im Metallbau – Verbindungen, die halten",
+        "DESCRIPTION_1": "In unserem Metallbau-Betrieb ist die Schweißtechnik ein zentrales Element für stabile,präzise und langlebige Konstruktionen. Ob Geländer, Treppen, Tore oder Sonderanfertigungen –wir verbinden Metall mit höchster Sorgfalt und nach aktuellen technischen Standards.",
+        "HEADLINE_2": "Unsere schweißtechnischen Leistungen:",
+        "LIST_1": "MIG/MAG-, WIG- und E-Hand-Schweißen",
+        "LIST_2": "Verarbeitung von Stahl, Edelstahl und Aluminium",
+        "LIST_3": "Maßgeschneiderte Lösungen für Innen- und Außenbereiche",
+        "LIST_4": "Fertigung von Bauteilen und Konstruktionen nach Plan oder Aufmaß",
+        "LIST_5": "Schweißarbeiten nach DIN EN 1090 und DIN EN ISO 9606",
+        "LIST_6": "Sichtprüfung und Qualitätssicherung durch geschultes Fachpersonal",
+        "HEADLINE_3": "Sicherheit & Qualität im Fokus:",
+        "DESCRIPTION_2": "Unsere Schweißer sind qualifiziert und arbeiten nach anerkannten Normen. So stellen wir sicher, dass jede Verbindung nicht nur technisch einwandfrei, sondern auch optisch sauber ausgeführt wird – für höchste Kundenzufriedenheit und langanhaltende Qualität.",
+        "HEADLINE_4": "Typische Anwendungen:",
+        "LIST_2_1": "Treppen- und Balkongeländer",
+        "LIST_2_2": "Stahlrahmen und Tragwerke",
+        "LIST_2_3": "Türen, Zäune und Tore",
+        "LIST_2_4": "Sonderkonstruktionen nach Kundenwunsch",
+        "BACK" : "Zurück"
     }
 }

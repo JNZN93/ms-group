@@ -34,5 +34,24 @@
         "LEGAL": "Legal Information",
         "IMPRESS": "Impress",
         "PRIVACY": "Privacy"
+    },
+    "welding": {
+        "HEADLINE": "Welding Technology in Metal Construction – Connections That Last",
+        "DESCRIPTION_1": "In our metal construction company, welding technology is a key element for stable, precise, and durable structures. Whether railings, staircases, gates, or custom fabrications – we join metal with the utmost care and in accordance with the latest technical standards.",
+        "HEADLINE_2": "Our Welding Services:",
+        "LIST_1": "MIG/MAG, TIG, and manual arc welding",
+        "LIST_2": "Processing of steel, stainless steel, and aluminum",
+        "LIST_3": "Custom solutions for indoor and outdoor applications",
+        "LIST_4": "Fabrication of components and structures based on plans or measurements",
+        "LIST_5": "Welding according to DIN EN 1090 and DIN EN ISO 9606 standards",
+        "LIST_6": "Visual inspection and quality assurance by trained professionals",
+        "HEADLINE_3": "Focus on Safety & Quality",
+        "DESCRIPTION_2": "Our welders are qualified and work according to recognized standards. This ensures that every joint is not only technically flawless but also aesthetically clean – for the highest customer satisfaction and long-lasting quality.",
+        "HEADLINE_4": "Typical Applications",
+        "LIST_2_1": "Stair and Balcony Railings",
+        "LIST_2_2": "Steel Frames and Load-Bearing Structures",
+        "LIST_2_3": "Doors, Fences, and Gates",
+        "LIST_2_4": "Custom-built Structures According to Customer Specifications",
+        "BACK" : "Back"
     }
 }
