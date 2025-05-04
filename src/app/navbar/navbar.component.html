@@ -27,8 +27,13 @@
                      }
                    </a>
                  </li>
-                 <li><a (click)="switchLanguage('en')" class="smoothScroll margin-r-0">🇬🇧 EN</a></li>
-                 <li><a (click)="switchLanguage('de')" class="smoothScroll">🇩🇪 DE</a></li>
+                 <li><a (click)="toggleLanguage()" class="smoothScroll">
+                   @if(currentLang === 'de') {
+                     🇬🇧 EN
+                   } @else {
+                     🇩🇪 DE
+                   }
+                 </a></li>
                </ul>
              </div>                    
 

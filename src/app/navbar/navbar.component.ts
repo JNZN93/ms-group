@@ -14,6 +14,7 @@ import { GlobalService } from '../services/global.service';
 })
 export class NavbarComponent {
   showCart = false;
+  currentLang: string;
 
   constructor(
     public cartService: CartService, 
@@ -23,6 +24,7 @@ export class NavbarComponent {
     const savedLang = localStorage.getItem('lang') || 'de';
     this.translate.setDefaultLang('de');
     this.translate.use(savedLang);
+    this.currentLang = savedLang;
   }
 
   toggleCart() {
@@ -30,6 +32,14 @@ export class NavbarComponent {
   }
 
   switchLanguage(lang: string) {
-    this.globalService.switchLanguage(lang);
+    if (this.currentLang !== lang) {
+      this.currentLang = lang;
+      this.globalService.switchLanguage(lang);
+    }
+  }
+
+  toggleLanguage() {
+    const newLang = this.currentLang === 'de' ? 'en' : 'de';
+    this.switchLanguage(newLang);
   }
 }

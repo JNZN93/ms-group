@@ -50,7 +50,10 @@ export class ProductPageComponent implements OnInit, OnDestroy {
     // Subscribe to language changes
     this.subscriptions.push(
       this.globalService.currentLang$.subscribe(() => {
-        this.filterProducts();
+        // Small delay to ensure translations are loaded
+        setTimeout(() => {
+          this.filterProducts();
+        }, 0);
       })
     );
 

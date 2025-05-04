@@ -36,6 +36,11 @@ export class GlobalService {
   }
 
   private loadManufacturers() {
+    // First ensure the language is set
+    const currentLang = this.currentLang.value;
+    this.translateService.use(currentLang);
+    
+    // Then load the manufacturers data
     this.translateService.get('manufactors').subscribe(translations => {
       if (translations && Array.isArray(translations)) {
         this.manufactors = translations;
@@ -46,18 +51,13 @@ export class GlobalService {
   }
 
   switchLanguage(lang: string) {
+    // First update the language
     this.translateService.use(lang);
     localStorage.setItem('lang', lang);
     this.currentLang.next(lang);
     
-    // Reload translations for the new language
-    this.translateService.get('manufactors').subscribe(translations => {
-      if (translations && Array.isArray(translations)) {
-        this.manufactors = translations;
-      } else {
-        console.error('Invalid manufacturers data:', translations);
-      }
-    });
+    // Then reload the manufacturers data
+    this.loadManufacturers();
   }
 
   getCurrentLang(): string {
