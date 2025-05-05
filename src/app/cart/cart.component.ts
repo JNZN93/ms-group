@@ -3,10 +3,11 @@ import { CartItem, CartService } from '../services/cart.service';
 import { FormsModule } from '@angular/forms';
 import { EmailService, Post } from '../services/email.service';
 import Swal from 'sweetalert2';
+import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-cart',
-  imports: [FormsModule],
+  imports: [FormsModule, TranslateModule],
   templateUrl: './cart.component.html',
   styleUrl: './cart.component.scss'
 })

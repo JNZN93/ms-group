@@ -54,7 +54,13 @@
         "LIST_2_4": "Sonderkonstruktionen nach Kundenwunsch",
         "BACK" : "Zurück"
     },
-
+    "cart": {
+        "TITLE": "Dein Warenkorb",
+        "DELETE": "Entfernen",
+        "EMPTY": "Dein Warenkorb ist leer.",
+        "REQUEST": "Preis Anfragen",
+        "CANCEL": "Abbrechen"
+    },
     "manufactors": [
         {
           "brand": "Somero",

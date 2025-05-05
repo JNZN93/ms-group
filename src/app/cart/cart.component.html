@@ -3,7 +3,7 @@
 </div>
 <div class="cart-container">
     <div class="cart-header">
-      <h2 class="cart-title">Dein Warenkorb</h2>
+      <h2 class="cart-title">{{ 'cart.TITLE' | translate }}</h2>
     </div>
   
     @if (cartItems.length > 0) {
@@ -24,7 +24,7 @@
               </div>
             </div>
   
-            <button (click)="remove(item)" class="remove-button">Entfernen</button>
+            <button (click)="remove(item)" class="remove-button">{{ 'cart.DELETE' | translate }}</button>
           </div>
         }
   
@@ -32,18 +32,18 @@
 
           <!--<p>Gesamt: <strong>€{{ total.toFixed(2) }}</strong></p> -->
 
-          <button class="checkout-button" (click)="showOverlay = true">Preis Anfragen</button>
+          <button class="checkout-button" (click)="showOverlay = true">{{ 'cart.REQUEST' | translate }}</button>
         </div>
       </div>
     } @else {
-      <p class="empty-message">Dein Warenkorb ist leer.</p>
+      <p class="empty-message">{{ 'cart.EMPTY' | translate }}</p>
     }
   </div>
 
   @if(showOverlay) {
     <div class="overlay-backdrop">
         <div class="overlay-container animate">
-          <h2>Angebot anfordern</h2>
+          <h2>{{ 'cart.REQUEST' | translate }}</h2>
           <form (ngSubmit)="submit()" #form="ngForm">
             <div class="form-group">
               <label for="name">Name</label>
@@ -68,8 +68,8 @@
               />
             </div>
             <div class="button-group">
-              <button type="button" class="btn cancel" (click)="closeOverlay()">Abbrechen</button>
-              <button type="submit" class="btn submit" [disabled]="form.invalid">Preis Anfragen</button>
+              <button type="button" class="btn cancel" (click)="closeOverlay()">{{ 'cart.CANCEL' | translate }}</button>
+              <button type="submit" class="btn submit" [disabled]="form.invalid">{{ 'cart.REQUEST' | translate }}</button>
             </div>
           </form>
         </div>

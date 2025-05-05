@@ -54,6 +54,13 @@
         "LIST_2_4": "Custom-built Structures According to Customer Specifications",
         "BACK" : "Back"
     },
+    "cart": {
+        "TITLE": "Your Shopping Cart",
+        "DELETE": "Delete",
+        "EMPTY": "Your cart is empty.",
+        "REQUEST": "Request a Quote",
+        "CANCEL": "Cancel"
+    },
         "manufactors": [
             {
               "brand": "Somero",
