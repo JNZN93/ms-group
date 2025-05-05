@@ -44,7 +44,7 @@
               <!-- Drop Down Variante-->
               @if (selectedProduct?.models?.length) {
                 <div class="form-group">
-                  <label for="produktVariante">Variante auswählen:</label>
+                  <label for="produktVariante">{{'products_page.VARIANT' | translate}}</label>
                   <select class="form-control" id="produktVariante" [(ngModel)]="selectedVariant" name="produktVariante" (change)="resetQuantity()">
                     @if(selectedProduct.models.length == 0) {
                       <option value="Standard">{{selectedProduct?.name}}</option>
@@ -58,7 +58,7 @@
                 </div>
               } @else {
                 <div class="form-group">
-                  <label for="produktVariante">Variante auswählen:</label>
+                  <label for="produktVariante">{{'products_page.VARIANT' | translate}}</label>
                   <select class="form-control" id="produktVariante" [(ngModel)]="selectedVariant" name="produktVariante" (change)="resetQuantity()">
                     <option [ngValue]="selectedVariant">{{selectedProduct?.name}}</option>
                   </select>
@@ -82,7 +82,7 @@
         <!-- Tabelle zu den Modellen -->
         <hr class="my-4">
 
-        <h5>Modellübersicht</h5>
+        <h5>{{ 'products_page.MODEL' | translate }}</h5>
         <div class="table-responsive" *ngIf="selectedProduct?.models?.length">
           <table class="table table-bordered table-striped model-table">
             <thead class="thead-dark">
@@ -110,7 +110,7 @@
       </div>
 
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="removeHashFromUrl()">Schließen</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="removeHashFromUrl()">{{'products_page.CLOSE' | translate}}</button>
       </div>
     </div>
   </div>

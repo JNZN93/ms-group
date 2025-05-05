@@ -17,7 +17,10 @@
     "products_page": {
         "HEADLINE": "Products",
         "GO_TO":  "View Products",
-        "OTHER": "Other Items and Accessories"
+        "OTHER": "Other Items and Accessories",
+        "VARIANT": "Select Variant:",
+        "CLOSE": "Close",
+        "MODEL": "Model Overview"
     },
     "contact": {
         "HEADLINE": "Contact us!",

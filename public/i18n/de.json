@@ -17,7 +17,10 @@
     "products_page": {
         "HEADLINE": "Produkte",
         "GO_TO": "Zu den Produkten",
-        "OTHER": "Sonstige Artikel und Zubehör"
+        "OTHER": "Sonstige Artikel und Zubehör",
+        "VARIANT": "Variante auswählen:",
+        "CLOSE": "Schließen",
+        "MODEL": "Modellübersicht"
     },
     "contact": {
         "HEADLINE": "Kontaktieren Sie uns!",

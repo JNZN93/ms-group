@@ -8,12 +8,13 @@ import { Router, NavigationEnd } from '@angular/router';
 import { filter } from 'rxjs/operators';
 import { Subscription } from 'rxjs';
 import Swal from 'sweetalert2';
+import { TranslateModule } from '@ngx-translate/core';
 
 declare var $: any;
 
 @Component({
   selector: 'app-product-page',
-  imports: [FormsModule, CommonModule],
+  imports: [FormsModule, CommonModule, TranslateModule],
   templateUrl: './product-page.component.html',
   styleUrl: './product-page.component.scss'
 })
