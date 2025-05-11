@@ -2165,5 +2165,1906 @@
       "3394 – MK12-160 LIGHT"
     ],
     "specifications": []
+  },
+
+  {
+    "brand": "Barikell",
+    "products": [
+      {
+        "url": "https://www.barikell.it/prodotto/manico-lungo/",
+        "name": "Langer Griff",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
+        "description_items": [
+          "4-90 / 4-120 Benzin Art. 1083",
+          "4-90 / 4-120 Diesel Art. 1087",
+          "4-90 / 4-120 Elektrisch Art. 1746"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/manico-pieghevole/",
+        "name": "Klappgriff",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
+        "description_items": [
+          "4-90 / 4-120 Benzin Art. 1744",
+          "4-90 / 4-120 Elektrisch Art. 1321"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
+        "name": "Öffnbarer Schutzring",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
+        "description_items": [
+          "Ø 900 Art. 1371",
+          "Ø 1200 Art. 1372"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
+        "name": "Stabilisierungsring",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
+        "description_items": [
+          "Ø 900 Art. 10112",
+          "Ø 1200 Art. 0849",
+          "5-120 Art. 10159"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/gancio-sollevamento/",
+        "name": "Hebehaken",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
+        "description_items": [
+          "4-60 / 4-75 Art. 1368",
+          "4-90 / 4-120 Art. 1302"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
+        "name": "Kurzer Quick-Pitch-Griff",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
+        "description_items": [
+          "4-90 / 4-120 Art. 1242"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
+        "name": "Langer Quick-Pitch-Griff",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
+        "description_items": [
+          "4-90 / 4-120 Art. 1244"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
+        "name": "Transportsystem",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
+        "description_items": [
+          "Art. 3129 – Mobiles Transportsystem komplett mit zwei Rädern für den Transport von 4-90 / 4-120 Betonfertigern",
+          "Art. 3130 – Nur Halterung für mobiles Transportsystem",
+          "Art. 3131 – Nur Rad für Transportsysteme",
+          "Art. 3132 – Nur Halterung für festes Transportsystem",
+          "Art. 3133 – Festes Transportsystem komplett mit zwei Rädern für den Transport von 4-90 / 4-120 Betonfertigern"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
+        "name": "Hebehaken (G)",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
+        "description_items": [
+          "3392 – OL90 / MK8-75",
+          "3398 – OL120 / MK8-90",
+          "3393 – MK8-120",
+          "3395 – OL120 HCS / MK8-90 HCS / MK8-120 HCS / MK10-90 HCS / MK10-120 HCS",
+          "3391 – MK12-160 HCS LIGHT",
+          "13099 – MK12-160 HCS HEAVY DUTY"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/telaio-di-protezione-apribile-a/",
+        "name": "Öffnbarer Schutzrahmen (A)",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/telaio-doppia.jpg",
+        "description_items": [
+          "1307 – OL90",
+          "1306 – OL120 / OL120 HCS",
+          "1305 – MK8-90 / MK8-90 HCS",
+          "0972 – MK8-120",
+          "0902 – MK8-120 HCS"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
+        "name": "Transportwagen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
+        "description_items": [
+          "3277 – OL90 / MK8-90 / MK10-90",
+          "3317 – OL120 / MK8-120 / MK10-120"
+        ],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/palette/",
+        "name": "Finish-Kelle",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/4200-PALETTE-MOSQUITO-mini-053-700x374.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Art.": "4200",
+            "Kompatible Maschinen": "Moskito 4-60",
+            "Gewicht Kg": "2,300"
+          },
+          {
+            "Art.": "4205",
+            "Kompatible Maschinen": "Moskito 6-60",
+            "Gewicht Kg": "3,240"
+          },
+          {
+            "Art.": "4210",
+            "Kompatible Maschinen": "Moskito 6-60 alter Typ",
+            "Gewicht Kg": "2,686"
+          },
+          {
+            "Art.": "4215",
+            "Kompatible Maschinen": "Moskito 4-75",
+            "Gewicht Kg": "2,972"
+          },
+          {
+            "Art.": "4220",
+            "Kompatible Maschinen": "Moskito 6-75",
+            "Gewicht Kg": "4,400"
+          },
+          {
+            "Art.": "4223",
+            "Kompatible Maschinen": "4-80 / MK8-75",
+            "Gewicht Kg": "3,694"
+          },
+          {
+            "Art.": "4225",
+            "Kompatible Maschinen": "4-90 / OL90",
+            "Gewicht Kg": "4,680"
+          },
+          {
+            "Art.": "4228",
+            "Kompatible Maschinen": "5-90",
+            "Gewicht Kg": "5,800"
+          },
+          {
+            "Art.": "4230",
+            "Kompatible Maschinen": "4-120",
+            "Gewicht Kg": "6,272"
+          },
+          {
+            "Art.": "4234",
+            "Kompatible Maschinen": "5-120",
+            "Gewicht Kg": "7,720"
+          },
+          {
+            "Art.": "4240",
+            "Kompatible Maschinen": "MK8-90",
+            "Gewicht Kg": "5,502"
+          },
+          {
+            "Art.": "4238",
+            "Kompatible Maschinen": "MK10-90",
+            "Gewicht Kg": "6,880"
+          },
+          {
+            "Art.": "4235",
+            "Kompatible Maschinen": "OL120 / MK8-120",
+            "Gewicht Kg": "7,438"
+          },
+          {
+            "Art.": "4239",
+            "Kompatible Maschinen": "MK10-120",
+            "Gewicht Kg": "9,300"
+          },
+          {
+            "Art.": "4245",
+            "Kompatible Maschinen": "MK12-160",
+            "Gewicht Kg": "14,574"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/palette-combinate/",
+        "name": "Combi-Kelle",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/4253-COMBI-SPECIAL-4_90-mini-069-700x329.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "4250",
+            "Kompatible Maschinen": "4-90 / OL90",
+            "Gewicht Kg": "5,718"
+          },
+          {
+            "Artikel": "4251",
+            "Kompatible Maschinen": "5-90",
+            "Gewicht Kg": "7,6000"
+          },
+          {
+            "Artikel": "4253",
+            "Kompatible Maschinen": "4-90 / OL90 / MK8-90 Spezial",
+            "Gewicht Kg": "6,120"
+          },
+          {
+            "Artikel": "4255",
+            "Kompatible Maschinen": "4-120",
+            "Gewicht Kg": "7,650"
+          },
+          {
+            "Artikel": "4256",
+            "Kompatible Maschinen": "4-120 Spezial",
+            "Gewicht Kg": "7,778"
+          },
+          {
+            "Artikel": "4254",
+            "Kompatible Maschinen": "MK12-160 Spezial",
+            "Gewicht Kg": "12,520"
+          },
+          {
+            "Artikel": "4258",
+            "Kompatible Maschinen": "4-80 / MK8-75",
+            "Gewicht Kg": "3,648"
+          },
+          {
+            "Artikel": "4260",
+            "Kompatible Maschinen": "OL120 / MK8-120",
+            "Gewicht Kg": "8,382"
+          },
+          {
+            "Artikel": "4259",
+            "Kompatible Maschinen": "OL120 / MK8-120 Spezial",
+            "Gewicht Kg": "8,468"
+          },
+          {
+            "Artikel": "4261",
+            "Kompatible Maschinen": "MK10-120",
+            "Gewicht Kg": "10,480"
+          },
+          {
+            "Artikel": "4265",
+            "Kompatible Maschinen": "MK8-90",
+            "Gewicht Kg": "6,268"
+          },
+          {
+            "Artikel": "4266",
+            "Kompatible Maschinen": "MK8-90 Spezial",
+            "Gewicht Kg": "6,300"
+          },
+          {
+            "Artikel": "4264",
+            "Kompatible Maschinen": "MK10-90",
+            "Gewicht Kg": "7,875"
+          },
+          {
+            "Artikel": "4268",
+            "Kompatible Maschinen": "MK12-160 Spezial",
+            "Gewicht Kg": "12,520"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/golden-blades/",
+        "name": "Golden-Kelle",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/4225-G2-GOLD-490-mini-022-700x318.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Art.": "4225G",
+            "Beschreibung": "Kelle 4-90",
+            "Gewicht Kg": "5,042"
+          },
+          {
+            "Art.": "4228G",
+            "Beschreibung": "Kelle 5-90",
+            "Gewicht Kg": "6,310"
+          },
+          {
+            "Art.": "4230G",
+            "Beschreibung": "Kelle 4-120",
+            "Gewicht Kg": "6,700"
+          },
+          {
+            "Art.": "4234G",
+            "Beschreibung": "Kelle 5-120",
+            "Gewicht Kg": "8,36"
+          },
+          {
+            "Art.": "4250G",
+            "Beschreibung": "Combi 4-90",
+            "Gewicht Kg": "5,750"
+          },
+          {
+            "Art.": "4251G",
+            "Beschreibung": "Combi 5-90 Spezial",
+            "Gewicht Kg": "7,190"
+          },
+          {
+            "Art.": "4255G",
+            "Beschreibung": "Combi 4-120",
+            "Gewicht Kg": "7,744"
+          },
+          {
+            "Art.": "4254G",
+            "Beschreibung": "Combi 5-120 Spezial",
+            "Gewicht Kg": "9,680"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/frattazzi/",
+        "name": "Floating-Frattazzi",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "4148",
+            "Kompatible Maschinen": "4-80 / MK-75",
+            "Dicke mm": "3",
+            "Gewicht Kg": "6.698"
+          },
+          {
+            "Artikel": "4150",
+            "Kompatible Maschinen": "4-90 / OL90 / MK8-90 rechts",
+            "Dicke mm": "3",
+            "Gewicht Kg": "9.300"
+          },
+          {
+            "Artikel": "4155",
+            "Kompatible Maschinen": "OL90 / MK8-90 links",
+            "Dicke mm": "3",
+            "Gewicht Kg": "9.300"
+          },
+          {
+            "Artikel": "4160",
+            "Kompatible Maschinen": "4-120 / OL120 / MK8-120 rechts",
+            "Dicke mm": "3",
+            "Gewicht Kg": "12.500"
+          },
+          {
+            "Artikel": "4165",
+            "Kompatible Maschinen": "OL120 / MK8-120 links",
+            "Dicke mm": "3",
+            "Gewicht Kg": "12.500"
+          },
+          {
+            "Artikel": "4180",
+            "Kompatible Maschinen": "4-120 / OL120 / MK8-120 rechts",
+            "Dicke mm": "4",
+            "Gewicht Kg": "16.500"
+          },
+          {
+            "Artikel": "4185",
+            "Kompatible Maschinen": "OL120 / MK8-120 links",
+            "Dicke mm": "4",
+            "Gewicht Kg": "16.500"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/dischi-frattazzo/",
+        "name": "Frattazzo-Scheiben",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/discofrattazzo1.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Art.": "1890",
+            "Kompatible Maschinen": "Moskito Sand und Zement",
+            "Durchmesser mm": "600",
+            "Gewicht Kg": "13.00"
+          },
+          {
+            "Art.": "4100",
+            "Kompatible Maschinen": "Moskito Untergründe",
+            "Durchmesser mm": "600",
+            "Gewicht Kg": "5.00"
+          },
+          {
+            "Art.": "4105",
+            "Kompatible Maschinen": "Moskito 4-60 4 Flügel",
+            "Durchmesser mm": "600",
+            "Gewicht Kg": "5.00"
+          },
+          {
+            "Art.": "4110",
+            "Kompatible Maschinen": "Moskito 6-60 2 Flügel",
+            "Durchmesser mm": "600",
+            "Gewicht Kg": "5.00"
+          },
+          {
+            "Art.": "4115",
+            "Kompatible Maschinen": "Moskito 75 2 Flügel",
+            "Durchmesser mm": "750",
+            "Gewicht Kg": "7.80"
+          },
+          {
+            "Art.": "4117",
+            "Kompatible Maschinen": "MK8-75",
+            "Durchmesser mm": "750",
+            "Gewicht Kg": "7.80"
+          },
+          {
+            "Art.": "4120",
+            "Kompatible Maschinen": "4-90 / MK8-90 / MK8-90 HCS Dicke 3mm",
+            "Durchmesser mm": "900",
+            "Gewicht Kg": "18.50"
+          },
+          {
+            "Art.": "4121",
+            "Kompatible Maschinen": "4-90 / MK8-90 / MK8-90 HCS Dicke 4mm",
+            "Durchmesser mm": "900",
+            "Gewicht Kg": "25.00"
+          },
+          {
+            "Art.": "4133",
+            "Kompatible Maschinen": "5-90 / MK10-90 Hcs",
+            "Durchmesser mm": "90",
+            "Gewicht Kg": "18.70"
+          },
+          {
+            "Art.": "4125",
+            "Kompatible Maschinen": "4-120 / MK8-120 / MK8-120 HCS Dicke 3mm",
+            "Durchmesser mm": "1200",
+            "Gewicht Kg": "28.00"
+          },
+          {
+            "Art.": "4126",
+            "Kompatible Maschinen": "4-120 / MK8-120 / MK8-120 HCS Dicke 4mm",
+            "Durchmesser mm": "1200",
+            "Gewicht Kg": "35.50"
+          },
+          {
+            "Art.": "4134",
+            "Kompatible Maschinen": "5-120 / MK10-120 HCS",
+            "Durchmesser mm": "1200",
+            "Gewicht Kg": "28.20"
+          },
+          {
+            "Art.": "4130",
+            "Kompatible Maschinen": "MK12-160 Dicke 3 mm",
+            "Durchmesser mm": "1600",
+            "Gewicht Kg": "55.00"
+          },
+          {
+            "Art.": "4131",
+            "Kompatible Maschinen": "MK12-160 Dicke 4 mm",
+            "Durchmesser mm": "1600",
+            "Gewicht Kg": "58.00"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/staggia-vibrante-a-1-manico/",
+        "name": "Rüttelbohle mit 1 Griff",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/4489-STAGGIA-UN-MANICO-700x716.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Art.": "4600",
+            "Länge m": "2.00",
+            "Gewicht Kg": "6.2"
+          },
+          {
+            "Art.": "4602",
+            "Länge m": "2.50",
+            "Gewicht Kg": null
+          },
+          {
+            "Art.": "4604",
+            "Länge m": "3.00",
+            "Gewicht Kg": "9.3"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/staggia-vibrante-a-2-manici/",
+        "name": "Rüttelbohle mit 2 Griffen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/4972-STAGGIA-2-MAN-PROF-2.5-700x508.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "4976",
+            "Länge m": "2.00",
+            "Gewicht Kg": "5.00"
+          },
+          {
+            "Artikel": "4977",
+            "Länge m": "2.50",
+            "Gewicht Kg": "6.30"
+          },
+          {
+            "Artikel": "4978",
+            "Länge m": "3.00",
+            "Gewicht Kg": "8.60"
+          },
+          {
+            "Artikel": "4979",
+            "Länge m": "3.50",
+            "Gewicht Kg": "9.30"
+          },
+          {
+            "Artikel": "4982",
+            "Länge m": "4.00",
+            "Gewicht Kg": "10.00"
+          },
+          {
+            "Artikel": "4980",
+            "Länge m": "4.50",
+            "Gewicht Kg": "10.20"
+          },
+          {
+            "Artikel": "4981",
+            "Länge m": "5.00",
+            "Gewicht Kg": "11.90"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/big-blue-float-solo-profilo/",
+        "name": "Big Blue Float – Nur Profil",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13977-mini-027-700x443.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "ART": "MT13977",
+            "PROFILGRÖSSE": "914X314 MM"
+          },
+          {
+            "ART": "MT13987",
+            "PROFILGRÖSSE": "1219X314 MM"
+          },
+          {
+            "ART": "MT13988",
+            "PROFILGRÖSSE": "1524X314 MM"
+          },
+          {
+            "ART": "MT13989",
+            "PROFILGRÖSSE": "1829X314 MM"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/4-90-36-inches/",
+        "name": "4-9036 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3100-L-700x440.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Motor": "Option wählen 4 5SLeer",
+            "Kellen": null
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches-monster/",
+        "name": "MK8-120HCS – Monster46 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
+        "name": "MK8-90 HCS – Monster36 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/mk12-160hcs-64-inches/",
+        "name": "MK12-160 HCS 64 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3384-MK-12_160-HCS-mini-028-700x353.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches/",
+        "name": "MK8-120 HCS 46 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-GANCIO-700x443.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Motor": "Option wählen 10 8SLeer",
+            "Kellen": null
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/mk8-120-46-inches/",
+        "name": "MK8-12046 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Motor": "Option wählen 10 8SLeer",
+            "Kellen": null
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches/",
+        "name": "MK8-90 HCS36 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/MK8_90-HCS_mini-700x487.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Motor": "Option wählen 10 8SLeer",
+            "Kellen": null
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/mk8-90-36-inches/",
+        "name": "MK8-9036 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/ol-120hcs-46-inches/",
+        "name": "OL-120 HCS46 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/OL-120HCS.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/ol-120-46-inches/",
+        "name": "OL-12046 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3295G-INT-700x439.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/ol-90-36-inches/",
+        "name": "OL-9036 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
+        "name": "MK8-7530 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/giunti/",
+        "name": "Kupplungen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel Roh": "5150",
+            "Artikel Verzinkt": "5170",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "70 mm"
+          },
+          {
+            "Artikel Roh": "5151",
+            "Artikel Verzinkt": "5171",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "80 mm"
+          },
+          {
+            "Artikel Roh": "5152",
+            "Artikel Verzinkt": "5172",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "90 mm"
+          },
+          {
+            "Artikel Roh": "5153",
+            "Artikel Verzinkt": "5173",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "100 mm"
+          },
+          {
+            "Artikel Roh": "5154",
+            "Artikel Verzinkt": "5174",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "110 mm"
+          },
+          {
+            "Artikel Roh": "5155",
+            "Artikel Verzinkt": "5175",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "120 mm"
+          },
+          {
+            "Artikel Roh": "5156",
+            "Artikel Verzinkt": "5176",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "130 mm"
+          },
+          {
+            "Artikel Roh": "5157",
+            "Artikel Verzinkt": "5177",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "140 mm"
+          },
+          {
+            "Artikel Roh": "5158",
+            "Artikel Verzinkt": "5178",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "150 mm"
+          },
+          {
+            "Artikel Roh": "5159",
+            "Artikel Verzinkt": "5179",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "160 mm"
+          },
+          {
+            "Artikel Roh": "5160",
+            "Artikel Verzinkt": "5180",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "170 mm"
+          },
+          {
+            "Artikel Roh": "5161",
+            "Artikel Verzinkt": "5181",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "180 mm"
+          },
+          {
+            "Artikel Roh": "5162",
+            "Artikel Verzinkt": "5182",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "190 mm"
+          },
+          {
+            "Artikel Roh": "5163",
+            "Artikel Verzinkt": "5183",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "200 mm"
+          },
+          {
+            "Artikel Roh": "5164",
+            "Artikel Verzinkt": "5184",
+            "Beschreibung": "Baukopplung aus Doppelblech ohne Stäbe",
+            "Höhe": "210 mm"
+          },
+          {
+            "Artikel": "5090",
+            "Beschreibung": "Einzelner Stab komplett mit PVC-Hülle und Stopfen",
+            "Länge": "600 mm",
+            "Durchmesser": "14 mm"
+          },
+          {
+            "Artikel": "5091",
+            "Beschreibung": "Einzelner Stab komplett mit PVC-Hülle und Stopfen",
+            "Länge": "750 mm",
+            "Durchmesser": "16 mm"
+          },
+          {
+            "Artikel": "5092",
+            "Beschreibung": "Einzelner Stab komplett mit PVC-Hülle und Stopfen",
+            "Länge": "750 mm",
+            "Durchmesser": "18 mm"
+          },
+          {
+            "Artikel": "5093",
+            "Beschreibung": "Einzelner Stab komplett mit PVC-Hülle und Stopfen",
+            "Länge": "750 mm",
+            "Durchmesser": "20 mm"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/medio-rendimento-cf2/",
+        "name": "Mittlere Leistung CF2",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/disco-taglio-copia-s-scaled-700x567.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "4085",
+            "Durchmesser mm": "300",
+            "Dicke mm": "2.8",
+            "Loch mm": "30 + Reduzierbuchse"
+          },
+          {
+            "Artikel": "4086",
+            "Durchmesser mm": "350",
+            "Dicke mm": "2.8",
+            "Loch mm": "30 + Reduzierbuchse"
+          },
+          {
+            "Artikel": "4055",
+            "Durchmesser mm": "350",
+            "Dicke mm": "3.2",
+            "Loch mm": "30 + Reduzierbuchse"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/alto-rendimento-cf5/",
+        "name": "Hohe Leistung CF5",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "4087",
+            "Durchmesser": "300",
+            "Dicke": "2.8",
+            "Loch": "30 + Reduzierbuchse"
+          },
+          {
+            "Artikel": "4088",
+            "Durchmesser": "350",
+            "Dicke": "2.8",
+            "Loch": "30 + Reduzierbuchse"
+          },
+          {
+            "Artikel": "4089",
+            "Durchmesser": "350",
+            "Dicke": "3.2",
+            "Loch": "30 + Reduzierbuchse"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/rato/",
+        "name": "Rato",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/4369-MOTORE-RATO-EHR300-8HP-mini-103-1-700x633.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": null,
+            "Motorbeschreibung": "Rato 6 PS",
+            "Leistung PS": "6",
+            "Betriebsart": "Benzin",
+            "Starter": "Manuell",
+            "Ø Welle mm": null
+          },
+          {
+            "Artikel": null,
+            "Motorbeschreibung": "Rato 8 PS",
+            "Leistung PS": "8",
+            "Betriebsart": "Benzin",
+            "Starter": "Manuell",
+            "Ø Welle mm": null
+          },
+          {
+            "Artikel": null,
+            "Motorbeschreibung": "Rato 12 PS",
+            "Leistung PS": "12",
+            "Betriebsart": "Benzin",
+            "Starter": "Manuell",
+            "Ø Welle mm": null
+          },
+          {
+            "Artikel": null,
+            "Motorbeschreibung": "Rato 31 PS",
+            "Leistung PS": "31",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": null
+          },
+          {
+            "Artikel": null,
+            "Motorbeschreibung": "Rato 999",
+            "Leistung PS": "31",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": null
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/hatz/",
+        "name": "Hatz",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/4465-MOTORE-HATZ-1B40-2-10-HP-mini-116.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": null,
+            "Motorbeschreibung": "Hatz 4,5 PS",
+            "Leistung PS": "4,5",
+            "Betriebsart": "Diesel",
+            "Starter": "Manuell",
+            "Ø Welle mm": null
+          },
+          {
+            "Artikel": null,
+            "Motorbeschreibung": "Hatz 10 PS",
+            "Leistung PS": "10",
+            "Betriebsart": "Diesel",
+            "Starter": "Manuell",
+            "Ø Welle mm": null
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/kubota/",
+        "name": "Kubota",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/4474-MOTORE-KUBOTA-D1305-30-HP-mini-120.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "4476",
+            "Motorbeschreibung": "Kubota D 902 E4B Eu X7",
+            "Leistung PS": "25",
+            "Betriebsart": "Diesel",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "36.50"
+          },
+          {
+            "Artikel": "4474",
+            "Motorbeschreibung": "Kubota D 1305 E3B Eu X1",
+            "Leistung PS": "30",
+            "Betriebsart": "Diesel",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "36.50"
+          },
+          {
+            "Artikel": "4473",
+            "Motorbeschreibung": "Kubota V 2403-M-T-E3B EU X8F",
+            "Leistung PS": "59",
+            "Betriebsart": "Diesel",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "36.50"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/lombardini/",
+        "name": "Lombardini",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/4435-MOTORE-LOMBARDINI-ED7A54C0-mini-128-700x752.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "4430",
+            "Motorbeschreibung": "Lombardini 15 LD 350",
+            "Leistung PS": "7.5",
+            "Betriebsart": "Diesel",
+            "Starter": "Manuell",
+            "Ø Welle mm": "25.40"
+          },
+          {
+            "Artikel": "4435",
+            "Motorbeschreibung": "Lombardini 15 LD 440",
+            "Leistung PS": "10",
+            "Betriebsart": "Diesel",
+            "Starter": "Manuell",
+            "Ø Welle mm": "25.40"
+          },
+          {
+            "Artikel": "4477",
+            "Motorbeschreibung": "Lombardini 12 LD 477-2",
+            "Leistung PS": "22",
+            "Betriebsart": "Diesel",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "Konisch"
+          },
+          {
+            "Artikel": "4445",
+            "Motorbeschreibung": "Lombardini 9 LD 625",
+            "Leistung PS": "28",
+            "Betriebsart": "Diesel",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "38.10"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/bes/",
+        "name": "B&S",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/4414-MOTORE-BS-23-HP-mini-055.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "4400",
+            "Motorbeschreibung": "B&S Vanguard",
+            "Leistung PS": "14",
+            "Betriebsart": "Benzin",
+            "Starter": "Manuell",
+            "Ø Welle mm": "25.40"
+          },
+          {
+            "Artikel": "4410",
+            "Motorbeschreibung": "B&S Vanguard",
+            "Leistung PS": "18",
+            "Betriebsart": "Benzin",
+            "Starter": "Manuell",
+            "Ø Welle mm": "25.40"
+          },
+          {
+            "Artikel": "4405",
+            "Motorbeschreibung": "B&S Vanguard",
+            "Leistung PS": "18",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch / Manuell",
+            "Ø Welle mm": "25.40"
+          },
+          {
+            "Artikel": "4407",
+            "Motorbeschreibung": "B&S Vanguard S / SERB",
+            "Leistung PS": "18",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch / Manuell",
+            "Ø Welle mm": "25.40"
+          },
+          {
+            "Artikel": "4413",
+            "Motorbeschreibung": "B&S Vanguard",
+            "Leistung PS": "23",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "25.40"
+          },
+          {
+            "Artikel": "4415",
+            "Motorbeschreibung": "B&S Vanguard",
+            "Leistung PS": "31",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "28.57"
+          },
+          {
+            "Artikel": "4416",
+            "Motorbeschreibung": "B&S Vanguard",
+            "Leistung PS": "35",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "28.57"
+          },
+          {
+            "Artikel": "4417",
+            "Motorbeschreibung": "B&S Vanguard",
+            "Leistung PS": "35",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "36.50"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/kohler/",
+        "name": "Kohler",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/4391-MOTORE-KOHLER-25HP-mini-073.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "4385",
+            "Motorbeschreibung": "Kohler CH 730",
+            "Leistung PS": "23.5",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "28.57"
+          },
+          {
+            "Artikel": "4390",
+            "Motorbeschreibung": "Kohler CH 742",
+            "Leistung PS": "25",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "28.57"
+          },
+          {
+            "Artikel": "4395",
+            "Motorbeschreibung": "Kohler CH 940",
+            "Leistung PS": "32.5",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "36.50"
+          },
+          {
+            "Artikel": "4396",
+            "Motorbeschreibung": "Kohler CH 1000",
+            "Leistung PS": "37",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "36.50"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/robin/",
+        "name": "Robin",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/4350-MOTORE-ROBIN-6HP-mini-057-700x622.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "4350",
+            "Motorbeschreibung": "Robin – Subaru EX 17",
+            "Leistung PS": "6",
+            "Betriebsart": "Benzin",
+            "Starter": "Manuell",
+            "Ø Welle mm": "19.05"
+          },
+          {
+            "Artikel": "4360",
+            "Motorbeschreibung": "Robin – Subaru EX 27",
+            "Leistung PS": "9",
+            "Betriebsart": "Benzin",
+            "Starter": "Manuell",
+            "Ø Welle mm": "25.40"
+          },
+          {
+            "Artikel": "4367",
+            "Motorbeschreibung": "Robin – Subaru EX 40",
+            "Leistung PS": "14",
+            "Betriebsart": "Benzin",
+            "Starter": "Manuell",
+            "Ø Welle mm": "25.40"
+          },
+          {
+            "Artikel": "4364",
+            "Motorbeschreibung": "Robin – Subaru EX 40",
+            "Leistung PS": "14",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "25.40"
+          },
+          {
+            "Artikel": "4366",
+            "Motorbeschreibung": "Robin – Subaru EH 65",
+            "Leistung PS": "22",
+            "Betriebsart": "Benzin",
+            "Starter": "Elektrisch",
+            "Ø Welle mm": "25.40"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/fughe-per-rampe-2/",
+        "name": "Fugen für Rampen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14102-mini-031-700x449.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "ART": "MT14102",
+            "ABMESSUNGEN": "152X76",
+            "Klinge": "13",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT14107",
+            "ABMESSUNGEN": "152X111",
+            "Klinge": "25",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT13836",
+            "ABMESSUNGEN": "152X76",
+            "Klinge": "13",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT10953",
+            "ABMESSUNGEN": "152X76",
+            "Klinge": "13",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT11105",
+            "ABMESSUNGEN": "152X76",
+            "Klinge": "13",
+            "Griff": "Kunststoff"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-dritti/",
+        "name": "Stufennasen mit geraden Kanten",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14288-mini-010-700x467.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "ART": "MT14288",
+            "ABMESSUNGEN": "203X152",
+            "Radius": "13",
+            "Griff und Details": "Kunststoff"
+          },
+          {
+            "ART": "MT14292",
+            "ABMESSUNGEN": "254X102",
+            "Radius": "13",
+            "Griff und Details": "Kunststoff"
+          },
+          {
+            "ART": "MT14294",
+            "ABMESSUNGEN": "254X102",
+            "Radius": "19",
+            "Griff und Details": "Kunststoff"
+          },
+          {
+            "ART": "MT14223",
+            "ABMESSUNGEN": "152X102",
+            "Radius": "10",
+            "Griff und Details": "Kunststoff - Blue Steel"
+          },
+          {
+            "ART": "MT14225",
+            "ABMESSUNGEN": "152X102",
+            "Radius": "13",
+            "Griff und Details": "Kunststoff - Blue Steel"
+          },
+          {
+            "ART": "MT14280",
+            "ABMESSUNGEN": "152X127",
+            "Radius": "13",
+            "Griff und Details": "Kunststoff - Gezahnt"
+          },
+          {
+            "ART": "MT13896",
+            "ABMESSUNGEN": "152X102",
+            "Radius": "10",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13898",
+            "ABMESSUNGEN": "152X102",
+            "Radius": "13",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13916",
+            "ABMESSUNGEN": "203X102",
+            "Radius": "10",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13918",
+            "ABMESSUNGEN": "203X102",
+            "Radius": "13",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13920",
+            "ABMESSUNGEN": "203X102",
+            "Radius": "19",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13928",
+            "ABMESSUNGEN": "203X152",
+            "Radius": "13",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13972",
+            "ABMESSUNGEN": "152X102",
+            "Radius": "13",
+            "Griff": "Kunststoff-Blue Steel"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-ricurvi/",
+        "name": "Stufennasen mit gebogenen Kanten",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14156-mini-009-700x467.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "ART": "MT14146",
+            "ABMESSUNGEN": "152X76",
+            "Radius": "10",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT14156",
+            "ABMESSUNGEN": "152X102",
+            "Radius": "10",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT14149",
+            "ABMESSUNGEN": "152X102",
+            "Radius": "13",
+            "Griff": "Kunststoff"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/cazzuole-bordi-squadrati/",
+        "name": "Kellen mit quadratischen Kanten",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13229-mini-020-700x330.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "ART.": "MT13229",
+            "ABMESSUNGEN": "356X102",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART.": "MT13226",
+            "ABMESSUNGEN": "356X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART.": "MT13246",
+            "ABMESSUNGEN": "406X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART.": "MT13266",
+            "ABMESSUNGEN": "457X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART.": "MT13446",
+            "ABMESSUNGEN": "305X127",
+            "Griff": "Kunststoff-Golden"
+          },
+          {
+            "ART.": "MT13249",
+            "ABMESSUNGEN": "406X102",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART.": "MT13269",
+            "ABMESSUNGEN": "457X102",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT13818",
+            "ABMESSUNGEN": "356X102",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT13819",
+            "ABMESSUNGEN": "406X102",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT13837",
+            "ABMESSUNGEN": "457X102",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT13802",
+            "ABMESSUNGEN": "356X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13803",
+            "ABMESSUNGEN": "406X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13804",
+            "ABMESSUNGEN": "457X102",
+            "Griff": "Holz"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/cazzuole-a-1-punta-arrotondata/",
+        "name": "Kellen mit 1 abgerundeter Spitze",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13510-mini-021-700x454.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "ART.": "MT13511",
+            "ABMESSUNGEN": "406X102",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART.": "MT13510",
+            "ABMESSUNGEN": "406X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART.": "MT13512",
+            "ABMESSUNGEN": "457X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART.": "MT13514",
+            "ABMESSUNGEN": "508X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART.": "MT13513",
+            "ABMESSUNGEN": "457X102",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART.": "MT13515",
+            "ABMESSUNGEN": "508X102",
+            "Griff": "Kunststoff"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/cazzuole-a-2-punte-arrotondate/",
+        "name": "Kellen mit 2 abgerundeten Spitzen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13521-mini-005-700x467.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "ART": "MT13521",
+            "GRÖSSE": "356X102",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT13520",
+            "GRÖSSE": "356X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13522",
+            "GRÖSSE": "406X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13524",
+            "GRÖSSE": "457X102",
+            "Griff": "Holz"
+          },
+          {
+            "ART": "MT13536",
+            "GRÖSSE": "508X102",
+            "Griff": "Holz-Blue Steel"
+          },
+          {
+            "ART": "MT13523",
+            "GRÖSSE": "406X102",
+            "Griff": "Kunststoff"
+          },
+          {
+            "ART": "MT13525",
+            "GRÖSSE": "457X102",
+            "Griff": "Kunststoff"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/bull-float-solo-profilo-arrotondato/",
+        "name": "Bull Float nur abgerundetes Profil",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "ART": "MT14028",
+            "PROFILABMESSUNGEN": "914X203"
+          },
+          {
+            "ART": "MT14721",
+            "PROFILABMESSUNGEN": "1219X203"
+          },
+          {
+            "ART": "MT14030",
+            "PROFILABMESSUNGEN": "1524X203"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/bull-float-arrotondato-con-manico-e-snodo/",
+        "name": "Bull Float abgerundet mit Griff und Gelenk",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "ART": "MT14028C",
+            "GRIFFLÄNGE": "1.80MT",
+            "PROFILABMESSUNGEN": "914X203"
+          },
+          {
+            "ART": "MT14721C",
+            "GRIFFLÄNGE": "1.80MT",
+            "PROFILABMESSUNGEN": "1219X203"
+          },
+          {
+            "ART": "MT14030C",
+            "GRIFFLÄNGE": "1.80MT",
+            "PROFILABMESSUNGEN": "1524X203"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/posa-guaina/",
+        "name": "Bahnenverlegung",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3650-CARRELLO-SVOLGIGUAINA-700x965.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "3650",
+            "Beschreibung": "Bahnenablaufwagen",
+            "Gewicht": "44"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/spolverine-br-150/",
+        "name": "Staubsauger BR 150",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3405-SPOLVERINA-BR150-700x786.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/spolverine-br100/",
+        "name": "Staubsauger BR100",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3402-SPOLVERINA-BR100-mini-049-700x750.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "3402",
+            "Modell": "Manuell",
+            "Tragfähigkeit kg": null,
+            "Gewicht kg": "70"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/moskito-75-30-inches/",
+        "name": "Moskito 4-7530 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3055-G-700x558.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Motor": "Option wählen 4 6SLeer",
+            "Kellen": null
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/moskito-60-24-inches-pale/",
+        "name": "Moskito 4-6024 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Motor": "Option wählen 4 6SLeer",
+            "Kellen": null
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/moskito-sabbia-cemento/",
+        "name": "Moskito Sand Zement",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3043G-SABBIA-CEMENTO-mini-038-700x668.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/4-80-32-inches/",
+        "name": "4-8032 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3093G-4-80-HEAVY-DUTY-mini-044-700x553.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/4-120-46-inches/",
+        "name": "4-12046 Zoll",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-700x470.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Motor": "Option wählen 4 5SLeer",
+            "Kellen": null
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/mp8-90-polish/",
+        "name": "Mp8-90Polieren",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/mp8-75-polish/",
+        "name": "Mp8-75Polieren",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/polish-4-60/",
+        "name": "4-60Polieren",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/3004-POLISHING-mini-010-700x629.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
+        "name": "Zubehör für Betonpumpenschlauch",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "5290",
+            "Beschreibung": "HALTERUNG FÜR BETONPUMPENSCHLAUCH"
+          },
+          {
+            "Artikel": "5103",
+            "Beschreibung": "ZANGE ZUM ANHEBEN DES BETONPUMPENSCHLAUCHS"
+          },
+          {
+            "Artikel": "5104",
+            "Beschreibung": "HAKEN ZUM ANHEBEN DES BETONPUMPENSCHLAUCHS"
+          },
+          {
+            "Artikel": "5105",
+            "Beschreibung": "HAKEN ZUM ANHEBEN VON NETZEN"
+          },
+          {
+            "Artikel": "5106",
+            "Beschreibung": "KETTE ZUM ANHEBEN DES BETONPUMPENSCHLAUCHS"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/fughe-per-rampe/",
+        "name": "Fugen für Rampen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/vari/",
+        "name": "Schuhüberzieher",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/5600-PAIO-SOTTOSCARPE-700x364.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Art.": "5600",
+            "Beschreibung": "Paar glatte Schuhüberzieher"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/cazzuole/",
+        "name": "Kellen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
+        "name": "Gezahnte Fugen für Rampen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3987-FUGA-PER-RAMPE-700x524.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Art.": "3987",
+            "Beschreibung": "FUGE FÜR RAMPEN MIT 9 ZÄHNEN mm   x   DICKE 9 mm",
+            "Griff": "Kunststoff"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/nasini-per-gradini/",
+        "name": "Stufennasen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/NASINO_3970.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/spazza-acqua-raschietti-rastrelli/",
+        "name": "Wasserschieber",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3950-SPAZZA-ACQUA-C_MANICO-2-mini-105-700x678.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "3940",
+            "Beschreibung": "Wasserschieber 0.50 Meter"
+          },
+          {
+            "Artikel": "3945",
+            "Beschreibung": "Wasserschieber 1.00 Meter"
+          },
+          {
+            "Artikel": "3950",
+            "Beschreibung": "Wasserschieber 2.00 Meter"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/raschietti/",
+        "name": "Schaber",
+        "image": "https://www.barikell.it/wp-content/uploads/2025/02/3930-RASCHIETTO-PULIP-S_MANICO-mini-119-700x576.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "3932",
+            "Beschreibung": "Putzschaber"
+          },
+          {
+            "Artikel": "3931",
+            "Beschreibung": "Nur Holzgriff für Schaber 1.50 Meter Ø 30mm"
+          },
+          {
+            "Artikel": "3930",
+            "Beschreibung": "Nur Schaber 300×150x1.2 mm"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/rastrelli/",
+        "name": "Rechen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/SPAZZA-ACQUA-RASCHIETTI-E-RASTRELLI.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "3935",
+            "Beschreibung": "RECHE MIT HOLZGRIFF UND STAHLBLATT"
+          },
+          {
+            "Artikel": "3937",
+            "Beschreibung": "NUR EISENGRIFF 1,5 m ø 26 mm"
+          },
+          {
+            "Artikel": "4038",
+            "Beschreibung": "NUR STAHLBLATT cm 50x10x0,15"
+          },
+          {
+            "Artikel": null,
+            "Beschreibung": null
+          },
+          {
+            "Artikel": "4046",
+            "Beschreibung": "RECHE MIT HOLZGRIFF UND ALUMINIUMBLATT"
+          },
+          {
+            "Artikel": "4039",
+            "Beschreibung": "NUR ALUMINIUMGRIFF m 1,5 ø 26 mm"
+          },
+          {
+            "Artikel": "4041",
+            "Beschreibung": "NUR ALUMINIUMBLATT cm 50x12,5x0,3"
+          },
+          {
+            "Artikel": null,
+            "Beschreibung": null
+          },
+          {
+            "Artikel": "4048",
+            "Beschreibung": "RECHE MIT ALUMINIUMGRIFF UND STAHLBLATT"
+          },
+          {
+            "Artikel": "4039",
+            "Beschreibung": "NUR ALUMINIUMGRIFF 1,5 m ø 26 mm"
+          },
+          {
+            "Artikel": "4038",
+            "Beschreibung": "NUR STAHLBLATT cm 50x10x0,15"
+          },
+          {
+            "Artikel": null,
+            "Beschreibung": null
+          },
+          {
+            "Artikel": "4042",
+            "Beschreibung": "SCHRÄGER ANSATZ FÜR RECHE COD. 4046"
+          },
+          {
+            "Artikel": "4049",
+            "Beschreibung": "GERADER ANSATZ FÜR RECHE COD. 4049"
+          },
+          {
+            "Artikel": "1192",
+            "Beschreibung": "KUNSTSTOFFGRIFF FÜR ALLE ARTEN VON RECHE UND WASSERSCHIEBER"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/stagge-ultra-light-in-alluminio/",
+        "name": "Ultra-leichte Aluminium-Rüttelbohlen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3900-STAGGIA-MT2-700x239.jpg",
+        "description_items": [],
+        "models": []
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
+        "name": "Ersatzteile für ultra-leichte Rüttelbohle",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "3920",
+            "Beschreibung": "Griff mit Griffknopf"
+          },
+          {
+            "Artikel": "3918",
+            "Beschreibung": "Deckel 80x40 mm"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/picchetti/",
+        "name": "Pflöcke",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "5295",
+            "Beschreibung": "Verstellbarer Pflock komplett, sowohl in der Höhe als auch in der Tiefe"
+          },
+          {
+            "Artikel": "5298",
+            "Beschreibung": "Pflock komplett, nur in der Höhe verstellbar"
+          },
+          {
+            "Artikel": "5293",
+            "Beschreibung": "Halterung für Pflock Code 5295"
+          },
+          {
+            "Artikel": "5294",
+            "Beschreibung": "Viereck 30x30x70 mm für verstellbaren Pflock Code 5295"
+          },
+          {
+            "Artikel": "5291",
+            "Beschreibung": "Schraubhaken m. 10 für Pflöcke Codes 5295"
+          },
+          {
+            "Artikel": "5292",
+            "Beschreibung": "Spitzpflock für verstellbare Pflöcke Codes 5295/5298"
+          },
+          {
+            "Artikel": "5297",
+            "Beschreibung": "Halterung für verstellbaren Pflock Code 5298"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/tracciarighe-e-polvere/",
+        "name": "Schnurmesser und Pulver",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/5300-TRACCIARIGHE-50-MT-700x486.jpg",
+        "description_items": [],
+        "models": [
+          {
+            "Artikel": "5300",
+            "Beschreibung": "Schnurmesser 50 Meter mit Baumwollfaden"
+          },
+          {
+            "Artikel": "5301",
+            "Beschreibung": "Schnurmesser 30 Meter mit Baumwollfaden"
+          },
+          {
+            "Artikel": "5305",
+            "Beschreibung": "Flasche blaues Pulver für Schnurmesser GR 200"
+          },
+          {
+            "Artikel": "5304",
+            "Beschreibung": "Flasche blaues Pulver für Schnurmesser GR 300"
+          },
+          {
+            "Artikel": "5393",
+            "Beschreibung": "Flasche blaues Pulver für Schnurmesser GR 1000"
+          },
+          {
+            "Artikel": "5394",
+            "Beschreibung": "Flasche blaues Pulver für Schnurmesser GR 3000"
+          },
+          {
+            "Artikel": "5302",
+            "Beschreibung": "Flasche rotes Pulver für Schnurmesser GR 200"
+          },
+          {
+            "Artikel": "5303",
+            "Beschreibung": "Flasche rotes Pulver für Schnurmesser GR 300"
+          },
+          {
+            "Artikel": "5395",
+            "Beschreibung": "Flasche rotes Pulver für Schnurmesser GR 1000"
+          },
+          {
+            "Artikel": "5396",
+            "Beschreibung": "Flasche rotes Pulver für Schnurmesser GR 3000"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
+        "name": "Universal-Transportwagen",
+        "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
+        "description_items": [
+          "3397 – MK8-75 / OL90 / MK8-90 / MK10-90 und OL120 / MK8-120 / MK10-120",
+          "3394 – MK12-160 LIGHT"
+        ],
+        "models": []
+      }
+    ]
   }
 ]
+

@@ -25,6 +25,7 @@ export class ProductPageComponent implements OnInit, OnDestroy {
   selectedVariant: string = '';
   quantity: number = 1;
   private subscriptions: Subscription[] = [];
+  selectedCategory: string = '';
 
   constructor(
     public globalService: GlobalService,
@@ -78,6 +79,10 @@ export class ProductPageComponent implements OnInit, OnDestroy {
   openModal(product:any) {
     this.selectedProduct = product;
     this.selectedVariant = product.models?.[0] || null; // ← erstes Modell vorauswählen
+    console.log(this.selectedVariant);
+    console.log(this.selectedProduct);
+    
+    
     // URL ändern, damit Browser-Zurück funktioniert
   history.pushState({ modal: true }, '', window.location.href + '#modal');
     $('#myModal').modal('show');
@@ -174,6 +179,16 @@ export class ProductPageComponent implements OnInit, OnDestroy {
 
   getFirstValue(obj: any): any {
     return obj[Object.keys(obj)[0]];
+  }
+
+  get uniqueCategories(): string[] {
+    const categories = this.brandProducts.map(p => p.category);
+    return Array.from(new Set(categories));
+  }
+
+  get filteredProducts() {
+    if (!this.selectedCategory) return this.brandProducts;
+    return this.brandProducts.filter(p => p.category === this.selectedCategory);
   }
   
 }
