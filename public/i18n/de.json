@@ -632,7 +632,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/torque-converter/",
-              "productName": "Drehmomentwandler",
+              "name": "Drehmomentwandler",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
               "description_items": [
                 "Drehmomentwandler"
@@ -642,7 +642,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
-              "productName": "Zubehör für Betonpumpenschläuche",
+              "name": "Zubehör für Betonpumpenschläuche",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
               "description_items": [
                 "Accessori Barikell"
@@ -673,7 +673,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/arresto-centrifugo/",
-              "productName": "Fliehkraftstopp",
+              "name": "Fliehkraftstopp",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/arresto-centrifugo-700x531.jpg",
               "description_items": [
                 "4-90 / 4-120 Art. 0289"
@@ -683,7 +683,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
-              "productName": "Transportwagen",
+              "name": "Transportwagen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
               "description_items": [
                 "3277 – OL90 / MK8-90 / MK10-90",
@@ -695,7 +695,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
-              "productName": "Universal-Transportwagen",
+              "name": "Universal-Transportwagen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
               "description_items": [
                 "3397 – MK8-75 / OL90 / MK8-90 / MK10-90 und OL120 / MK8-120 / MK10-120",
@@ -707,7 +707,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
-              "productName": "Öffnungsschutzring",
+              "name": "Öffnungsschutzring",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
               "description_items": [
                 "Ø 900 Art. 1371",
@@ -718,7 +718,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
-              "productName": "Stabilisatorkreis",
+              "name": "Stabilisatorkreis",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
               "description_items": [
                 "Ø 900 Art. 10112",
@@ -730,7 +730,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
-              "productName": "Hebehaken (G)",
+              "name": "Hebehaken (G)",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
               "description_items": [
                 "3392 – OL90 / MK8-75",
@@ -746,7 +746,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/gancio-sollevamento/",
-              "productName": "Hebehaken",
+              "name": "Hebehaken",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
               "description_items": [
                 "4-60 / 4-75 Art. 1368",
@@ -757,7 +757,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
-              "productName": "Quick Pitch Kurzgriff",
+              "name": "Quick Pitch Kurzgriff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
               "description_items": [
                 "4-90 / 4-120 Art. 1242"
@@ -767,7 +767,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/manico-lungo/",
-              "productName": "Langer Griff",
+              "name": "Langer Griff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
               "description_items": [
                 "4-90 / 4-120 Benzin Art. 1083",
@@ -779,7 +779,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
-              "productName": "Schnellaufstellung mit langem Griff",
+              "name": "Schnellaufstellung mit langem Griff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
               "description_items": [
                 "4-90 / 4-120 Art. 1244"
@@ -789,7 +789,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/manico-pieghevole/",
-              "productName": "Klappgriff",
+              "name": "Klappgriff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
               "description_items": [
                 "4-90 / 4-120 Benzin Art. 1744",
@@ -800,7 +800,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/picchetti/",
-              "productName": "Streikposten",
+              "name": "Streikposten",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
               "description_items": [
                 "Streikposten"
@@ -839,7 +839,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
-              "productName": "Ersatzteile für Ultraleicht-Haarglätter",
+              "name": "Ersatzteile für Ultraleicht-Haarglätter",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
               "description_items": [
                 "Accessori Barikell"
@@ -858,7 +858,7 @@
             {
               "category": "Zubehör",
               "productUrl": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
-              "productName": "Transportsystem",
+              "name": "Transportsystem",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
               "description_items": [
                 "Kunst. 3129 – Mobiles Transportsystem komplett mit zwei Rädern zum Transport von 4-90 / 4-120 Flügelglättern",
@@ -872,7 +872,7 @@
             {
               "category": "accessoriaccessori_barikell",
               "productUrl": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
-              "productName": "Zubehör für Betonpumpenschläuche",
+              "name": "Zubehör für Betonpumpenschläuche",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
               "description_items": [
                 "Accessori Barikell"
@@ -903,7 +903,7 @@
             {
               "category": "accessoriaccessori_barikell",
               "productUrl": "https://www.barikell.it/prodotto/picchetti/",
-              "productName": "Streikposten",
+              "name": "Streikposten",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
               "description_items": [
                 "Streikposten"
@@ -942,7 +942,7 @@
             {
               "category": "accessoriaccessori_barikell",
               "productUrl": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
-              "productName": "Ersatzteile für Ultraleicht-Haarglätter",
+              "name": "Ersatzteile für Ultraleicht-Haarglätter",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
               "description_items": [
                 "Accessori Barikell"
@@ -961,7 +961,7 @@
             {
               "category": "accessoriaccessori_barikell",
               "productUrl": "https://www.barikell.it/prodotto/raschietti/",
-              "productName": "Schaber",
+              "name": "Schaber",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3930-RASCHIETTO-PULIP-S_MANICO-mini-119-700x576.jpg",
               "description_items": [
                 "Schaber"
@@ -984,7 +984,7 @@
             {
               "category": "accessoriaccessori_barikell",
               "productUrl": "https://www.barikell.it/prodotto/rastrelli/",
-              "productName": "Rechen",
+              "name": "Rechen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/SPAZZA-ACQUA-RASCHIETTI-E-RASTRELLI.jpg",
               "description_items": [
                 "Rechen"
@@ -1055,7 +1055,7 @@
             {
               "category": "accessoriaccessori_barikell",
               "productUrl": "https://www.barikell.it/prodotto/spazza-acqua-raschietti-rastrelli/",
-              "productName": "Wasserschieber",
+              "name": "Wasserschieber",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3950-SPAZZA-ACQUA-C_MANICO-2-mini-105-700x678.jpg",
               "description_items": [
                 "Wasserschieber"
@@ -1078,7 +1078,7 @@
             {
               "category": "accessoriaccessori_barikell",
               "productUrl": "https://www.barikell.it/prodotto/stagge-ultra-light-in-alluminio/",
-              "productName": "Ultraleichte Aluminiumstäbe",
+              "name": "Ultraleichte Aluminiumstäbe",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3900-STAGGIA-MT2-700x239.jpg",
               "description_items": [
                 "Profilabmessungen: 80×40 mm"
@@ -1133,7 +1133,7 @@
             {
               "category": "accessoriaccessori_barikell",
               "productUrl": "https://www.barikell.it/prodotto/tracciarighe-e-polvere/",
-              "productName": "Linienspuren und Staub",
+              "name": "Linienspuren und Staub",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5300-TRACCIARIGHE-50-MT-700x486.jpg",
               "description_items": [
                 "Linienspuren und Staub"
@@ -1184,7 +1184,7 @@
             {
               "category": "accessoriaccessori_barikell",
               "productUrl": "https://www.barikell.it/prodotto/vari/",
-              "productName": "Unterschuhe",
+              "name": "Unterschuhe",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5600-PAIO-SOTTOSCARPE-700x364.jpg",
               "description_items": [
                 "Verschieden"
@@ -1199,7 +1199,7 @@
             {
               "category": "ZubehörZubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/torque-converter/",
-              "productName": "Drehmomentwandler",
+              "name": "Drehmomentwandler",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
               "description_items": [
                 "Drehmomentwandler"
@@ -1209,7 +1209,7 @@
             {
               "category": "ZubehörZubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
-              "productName": "Transportwagen",
+              "name": "Transportwagen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
               "description_items": [
                 "3277 – OL90 / MK8-90 / MK10-90",
@@ -1221,7 +1221,7 @@
             {
               "category": "ZubehörZubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
-              "productName": "Universal-Transportwagen",
+              "name": "Universal-Transportwagen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
               "description_items": [
                 "3397 – MK8-75 / OL90 / MK8-90 / MK10-90 und OL120 / MK8-120 / MK10-120",
@@ -1233,7 +1233,7 @@
             {
               "category": "ZubehörZubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
-              "productName": "Hebehaken (G)",
+              "name": "Hebehaken (G)",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
               "description_items": [
                 "3392 – OL90 / MK8-75",
@@ -1249,7 +1249,7 @@
             {
               "category": "ZubehörZubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/telaio-di-protezione-apribile-a/",
-              "productName": "Öffnungsschutzrahmen (A)",
+              "name": "Öffnungsschutzrahmen (A)",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/telaio-doppia.jpg",
               "description_items": [
                 "1307 – OL90",
@@ -1264,7 +1264,7 @@
             {
               "category": "ZubehörZubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/variatore-di-velocita-15/",
-              "productName": "Hohe Geschwindigkeit",
+              "name": "Hohe Geschwindigkeit",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/dashboard_5628701.png",
               "description_items": [
                 "Geschwindigkeitsvariator (/10)"
@@ -1274,7 +1274,7 @@
             {
               "category": "ZubehörZubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/arresto-centrifugo/",
-              "productName": "Fliehkraftstopp",
+              "name": "Fliehkraftstopp",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/arresto-centrifugo-700x531.jpg",
               "description_items": [
                 "4-90 / 4-120 Art. 0289"
@@ -1284,7 +1284,7 @@
             {
               "category": "ZubehörZubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
-              "productName": "Öffnungsschutzring",
+              "name": "Öffnungsschutzring",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
               "description_items": [
                 "Ø 900 Art. 1371",
@@ -1295,7 +1295,7 @@
             {
               "category": "ZubehörZubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
-              "productName": "Stabilisatorkreis",
+              "name": "Stabilisatorkreis",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
               "description_items": [
                 "Ø 900 Art. 10112",
@@ -1307,7 +1307,7 @@
             {
               "category": "ZubehörZubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/gancio-sollevamento/",
-              "productName": "Hebehaken",
+              "name": "Hebehaken",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
               "description_items": [
                 "4-60 / 4-75 Art. 1368",
@@ -1318,7 +1318,7 @@
             {
               "category": "ZubehörZubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
-              "productName": "Quick Pitch Kurzgriff",
+              "name": "Quick Pitch Kurzgriff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
               "description_items": [
                 "4-90 / 4-120 Art. 1242"
@@ -1328,7 +1328,7 @@
             {
               "category": "ZubehörZubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/manico-lungo/",
-              "productName": "Langer Griff",
+              "name": "Langer Griff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
               "description_items": [
                 "4-90 / 4-120 Benzin Art. 1083",
@@ -1340,7 +1340,7 @@
             {
               "category": "ZubehörZubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
-              "productName": "Schnellaufstellung mit langem Griff",
+              "name": "Schnellaufstellung mit langem Griff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
               "description_items": [
                 "4-90 / 4-120 Art. 1244"
@@ -1350,7 +1350,7 @@
             {
               "category": "ZubehörZubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/manico-pieghevole/",
-              "productName": "Klappgriff",
+              "name": "Klappgriff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
               "description_items": [
                 "4-90 / 4-120 Benzin Art. 1744",
@@ -1361,7 +1361,7 @@
             {
               "category": "ZubehörZubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
-              "productName": "Transportsystem",
+              "name": "Transportsystem",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
               "description_items": [
                 "Kunst. 3129 – Mobiles Transportsystem komplett mit zwei Rädern zum Transport von 4-90 / 4-120 Flügelglättern",
@@ -1375,7 +1375,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/moskito-60-24-inches-pale/",
-              "productName": "Mücke 4-60\n24 Zoll",
+              "name": "Mücke 4-60\n24 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg",
               "description_items": [
                 "Ideale Maschine zum Glätten und Nachbearbeiten von Rändern und zum wandbündigen Arbeiten auch in beengten Bereichen. Damit können Sie Türen und Tore von Gebäuden und Lagerhallen problemlos passieren. Der Gummischutz am Drehring ermöglicht das Gleiten an Wänden oder um Säulen herum, ohne die Maschine oder die Wand zu beschädigen.",
@@ -1465,7 +1465,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/moskito-75-30-inches/",
-              "productName": "Mücke 4-75\n30 Zoll",
+              "name": "Mücke 4-75\n30 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3055-G-700x558.jpg",
               "description_items": [
                 "Ideale Maschine zum Glätten und Nachbearbeiten von Rändern und zum wandbündigen Arbeiten auch in beengten Bereichen. Damit können Sie Türen und Tore von Gebäuden und Lagerhallen problemlos passieren. Der Gummischutz am Drehring ermöglicht das Gleiten an Wänden oder um Säulen herum, ohne die Maschine oder die Wand zu beschädigen.",
@@ -1551,7 +1551,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/4-80-32-inches/",
-              "productName": "4-80\n32 Zoll",
+              "name": "4-80\n32 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3093G-4-80-HEAVY-DUTY-mini-044-700x553.jpg",
               "description_items": [
                 "Einzelkelle Ø 800 mm zum Glätten mittelgroßer Flächen, die geringe Kosten mit hoher Leistung verbindet. Ausgestattet mit einem klappbaren Griff vom Typ „Moskito“ und einem Stabilisierungsring.",
@@ -1633,7 +1633,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/4-90-36-inches/",
-              "productName": "4-90\n36 Zoll",
+              "name": "4-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3100-L-700x440.jpg",
               "description_items": [
                 "Einzelkelle ø 900 mm mit 4 Blättern, ideal zum Glätten mittelgroßer Flächen. Ermöglicht die Einarbeitung von Härtern zum Glätten und Glätten von Frischbeton. Extrem ausgewogen für optimale Glättung.",
@@ -1794,7 +1794,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/4-120-46-inches/",
-              "productName": "4-120\n46 Zoll",
+              "name": "4-120\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-700x470.jpg",
               "description_items": [
                 "Einzelkelle ø 1200 mm mit 4 Blättern, ideal zum Glätten mittelgroßer Flächen. Das ausgewogene Design gewährleistet eine ruhige Fahrt bei jeder Geschwindigkeit.",
@@ -1922,7 +1922,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/ago-vibrante/",
-              "productName": "Lebendig vor",
+              "name": "Lebendig vor",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/TKZX-45-AGO-VIBRANTE-700x602.jpg",
               "description_items": [
                 "Hochfrequente Tauchvibrationsnadel zum Vibrieren von Beton beim Gießen. Es ist leicht und kompakt und verhindert die beim Gießen unvermeidlichen Luftblasenbildung, um maximale Homogenität und Dichtheit des Betons zu gewährleisten."
@@ -1941,7 +1941,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/asphalt-20/",
-              "productName": "Asphalt 20",
+              "name": "Asphalt 20",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
               "description_items": [
                 "Asphalt ist ein leistungsstarker selbstvorlaufender Fugenschneider mit Rückwärtsgang für tiefe Schnitte in Asphalt- und Betonböden für den professionellen Einsatz. Hydraulische Schnitttiefeneinstellung mit Handhebel (oder auf Wunsch mit Elektropumpe) für unterschiedliche Schnitttiefen. Maximal nutzbare Scheibe bis zu 450 mm Durchmesser für Asphalt 20 und 600 mm für Asphalt 30. Möglichkeit der Montage einer zweiten Scheibe auf der gegenüberliegenden Seite. Lieferung ohne CD.",
@@ -1998,7 +1998,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/asphalt-30/",
-              "productName": "Asphalt 30",
+              "name": "Asphalt 30",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
               "description_items": [
                 "Asphalt ist ein leistungsstarker selbstvorlaufender Fugenschneider mit Rückwärtsgang für tiefe Schnitte in Asphalt- und Betonböden für den professionellen Einsatz. Hydraulische Schnitttiefeneinstellung mit Handhebel (oder auf Wunsch mit Elektropumpe) für unterschiedliche Schnitttiefen. Maximal nutzbare Scheibe bis zu 450 mm Durchmesser für Asphalt 20 und 600 mm für Asphalt 30. Möglichkeit der Montage einer zweiten Scheibe auf der gegenüberliegenden Seite. Lieferung ohne CD.",
@@ -2037,7 +2037,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/floor-10/",
-              "productName": "Etage 10",
+              "name": "Etage 10",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/FLOOR-10-APERTA-DISCO-mini-058-700x586.jpg",
               "description_items": [
                 "Manuell betriebener Fugenschneider zum Schneiden von Dehnungsfugen auf Asphalt- und Betonböden für den professionellen Einsatz. 70-Liter-Wassertank aus Stahl. Carter für Scheiben mit einem Durchmesser von bis zu 450 mm ausgelegt. Auf Wunsch ist eine Gehäuseausführung für eine Scheibe mit ø 600 mm lieferbar. Möglichkeit zur Montage einer zweiten Scheibe auf der gegenüberliegenden Seite. Manuelle Schnitttiefeneinstellung mit Handrad (auf Wunsch auch hydraulisch mit Handhebel oder Elektropumpe). Lieferung ohne CD.",
@@ -2129,7 +2129,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/floor-20/",
-              "productName": "Etage 20",
+              "name": "Etage 20",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
               "description_items": [
                 "Manuell betriebener Fugenschneider zum Schneiden von Dehnungsfugen auf Asphalt- und Betonböden für den professionellen Einsatz. 80-Liter-Wassertank aus Stahl. Carter für Scheiben mit einem Durchmesser von bis zu 450 mm ausgelegt. Auf Wunsch ist eine Gehäuseausführung für eine Scheibe mit ø 600 mm lieferbar. Möglichkeit zur Montage einer zweiten Scheibe auf der gegenüberliegenden Seite. Manuelle Schnitttiefeneinstellung mit Handrad (auf Wunsch auch hydraulisch mit Handhebel oder Elektropumpe). Lieferung ohne CD.",
@@ -2186,7 +2186,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/floor-30/",
-              "productName": "Etage 30",
+              "name": "Etage 30",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
               "description_items": [
                 "Manuell betriebener Fugenschneider zum Schneiden von Dehnungsfugen auf Asphalt- und Betonböden für den professionellen Einsatz. Auch zum Abbruch von Fußböden geeignet. 90-Liter-Wassertank aus Stahl. Carter für Scheiben mit einem Durchmesser von bis zu 600 mm ausgelegt. Auf Wunsch ist eine Gehäuseausführung für eine Scheibe mit ø 800 mm lieferbar. Möglichkeit zur Montage einer zweiten Scheibe auf der gegenüberliegenden Seite. Hydraulische Schnitttiefeneinstellung mit Handhebel (oder auf Anfrage mit Elektropumpe). Lieferung ohne CD.",
@@ -2225,7 +2225,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/floor-6/",
-              "productName": "Etage 6",
+              "name": "Etage 6",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3435-FLOOR-6-MIRINO-700x858.jpg",
               "description_items": [
                 "Manuell betriebener Fugenschneider zum Schneiden von Dehnungsfugen auf Asphalt- und Betonböden. 25-Liter-Wassertank aus Kunststoff. Carter für Scheiben mit einem Durchmesser von bis zu 350 mm ausgelegt. Manuelle Schnitttiefeneinstellung mit Handrad. Lieferung ohne CD. Scheiben für Frischbeton erhältlich.",
@@ -2246,7 +2246,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
-              "productName": "MK8-75\n30 Zoll",
+              "name": "MK8-75\n30 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
               "description_items": [
                 "MK8-75 ist die kleinste Aufsitz-Doppelglättmaschine im Sortiment. Ausgestattet mit zwei Rotoren mit ø 750 mm und 8 sich nicht kreuzenden Blättern. Glätten und Finishen mit der gleichen Effizienz. Ideal für Arbeiten in Wandnähe und perfekt als Ergänzung zu großen Maschinen, die in engen Räumen nicht arbeiten können. Seine Abmessungen ermöglichen es, dass er durch eine Standardtür passt. Dank seines geringen Gewichts kann es vor schwereren Maschinen auf dem Beton platziert werden.",
@@ -2347,7 +2347,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-36-inches/",
-              "productName": "MK8-90\n36 Zoll",
+              "name": "MK8-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
               "description_items": [
                 "Doppelte Glättkelle mit Bediener an Bord, ideal zum Glätten und Fertigstellen mittlerer/großer Betonflächen. Ausgestattet mit 2 Rotoren ø 900 mm mit 8 Klingen, die sich nicht kreuzen und daher mit Glättscheiben verwendet werden.",
@@ -2453,7 +2453,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/ol-90-36-inches/",
-              "productName": "OL-90\n36 Zoll",
+              "name": "OL-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
               "description_items": [
                 "Doppelte Flügelglättermaschine mit Bediener an Bord zum Glätten mittelgroßer/großer Betonflächen. Ausgestattet mit 2 Rotoren ø 900 mm mit 8 sich kreuzenden Messern. Lieferung mit Fußbeschleuniger (oder manuell auf Anfrage) und Hochgeschwindigkeits-Kit für brillantes Glätten.",
@@ -2532,7 +2532,7 @@
             {
               "category": "Beton",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
-              "productName": "MK8-90 HCS – Monster\n36 Zoll",
+              "name": "MK8-90 HCS – Monster\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
               "description_items": [
                 "Doppelmaschine mit Bediener an Bord für die doppelte Verwendung in der industriellen Bodenbearbeitung, sowohl zum Glätten als auch zum Endbearbeiten, ideal für große Flächen. Ausgestattet mit 2 Rotoren ø 900 mm mit 8 sich nicht kreuzenden Blättern. Verwendung mit Kellenscheiben. Hydraulisches Lenksystem mit 2 Joysticks. Erhöhter Sitz für bessere Sicht."
@@ -2587,7 +2587,7 @@
             {
               "category": "Verbrauchsmaterial_Kellen_und_Nasen_barikell",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole/",
-              "productName": "Kellen",
+              "name": "Kellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
               "description_items": [
                 "Kellen"
@@ -2634,7 +2634,7 @@
             {
               "category": "Verbrauchsmaterial_Kellen_und_Nasen_barikell",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe/",
-              "productName": "Rampenflucht",
+              "name": "Rampenflucht",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
               "description_items": [
                 "Rampenflucht"
@@ -2655,7 +2655,7 @@
             {
               "category": "Verbrauchsmaterial_Kellen_und_Nasen_barikell",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
-              "productName": "Ausstiege für Zahnrampen",
+              "name": "Ausstiege für Zahnrampen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3987-FUGA-PER-RAMPE-700x524.jpg",
               "description_items": [
                 "Ausstiege für Zahnrampen"
@@ -2671,7 +2671,7 @@
             {
               "category": "Verbrauchsmaterial_Kellen_und_Nasen_barikell",
               "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini/",
-              "productName": "Nasen für Stufen",
+              "name": "Nasen für Stufen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/NASINO_3970.jpg",
               "description_items": [
                 "Nasen für Stufen"
@@ -2692,7 +2692,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/alto-rendimento-cf5/",
-              "productName": "Hochleistungs-CF5",
+              "name": "Hochleistungs-CF5",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg",
               "description_items": [
                 "Geeignet für Nassschnitte auf Oberflächen, die zwischen 24 und 48 Stunden verlegt wurden. Langsam, aber langanhaltend, eignet es sich für handgezogene Böden."
@@ -2721,7 +2721,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/big-blue-float-solo-profilo/",
-              "productName": "Großer blauer Schwimmer – Nur Profil",
+              "name": "Großer blauer Schwimmer – Nur Profil",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13977-mini-027-700x443.jpg",
               "description_items": [
                 "Marshalltown"
@@ -2748,7 +2748,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/bull-float-arrotondato-con-manico-e-snodo/",
-              "productName": "Abgerundete Bullenpose mit Griff und Gelenk",
+              "name": "Abgerundete Bullenpose mit Griff und Gelenk",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
               "description_items": [
                 "Marshalltown"
@@ -2774,7 +2774,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/bull-float-solo-profilo-arrotondato/",
-              "productName": "Bull Float nur abgerundetes Profil",
+              "name": "Bull Float nur abgerundetes Profil",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
               "description_items": [
                 "Marshalltown"
@@ -2797,7 +2797,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole/",
-              "productName": "Kellen",
+              "name": "Kellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
               "description_items": [
                 "Kellen"
@@ -2844,7 +2844,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-1-punta-arrotondata/",
-              "productName": "1 Kelle mit abgerundeter Spitze",
+              "name": "1 Kelle mit abgerundeter Spitze",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13510-mini-021-700x454.jpg",
               "description_items": [
                 "Marshalltown"
@@ -2885,7 +2885,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-2-punte-arrotondate/",
-              "productName": "2-spitzige Rundkellen",
+              "name": "2-spitzige Rundkellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13521-mini-005-700x467.jpg",
               "description_items": [
                 "Marshalltown"
@@ -2931,7 +2931,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-bordi-squadrati/",
-              "productName": "Kellen mit quadratischer Kante",
+              "name": "Kellen mit quadratischer Kante",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13229-mini-020-700x330.jpg",
               "description_items": [
                 "Mashalltown"
@@ -3007,7 +3007,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-particolari/",
-              "productName": "Spezialkellen",
+              "name": "Spezialkellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13230-mini-002-700x467.jpg",
               "description_items": [
                 "Marshalltown"
@@ -3028,7 +3028,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/dischi-frattazzo/",
-              "productName": "Kellenscheiben",
+              "name": "Kellenscheiben",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/discofrattazzo1.jpg",
               "description_items": [
                 "Schwimmscheiben"
@@ -3123,7 +3123,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/frattazzi/",
-              "productName": "Glättkellen",
+              "name": "Glättkellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
               "description_items": [
                 "Kellen"
@@ -3176,7 +3176,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-2/",
-              "productName": "Rampenflucht",
+              "name": "Rampenflucht",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14102-mini-031-700x449.jpg",
               "description_items": [
                 "Marshalltown"
@@ -3217,7 +3217,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe/",
-              "productName": "Rampenflucht",
+              "name": "Rampenflucht",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
               "description_items": [
                 "Rampenflucht"
@@ -3238,7 +3238,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
-              "productName": "Ausstiege für Zahnrampen",
+              "name": "Ausstiege für Zahnrampen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3987-FUGA-PER-RAMPE-700x524.jpg",
               "description_items": [
                 "Ausstiege für Zahnrampen"
@@ -3254,7 +3254,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/giunti/",
-              "productName": "Gelenke",
+              "name": "Gelenke",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg",
               "description_items": [
                 "Ideale Verbindungseinheit zum Zusammenfügen von Betonbodenabschnitten aus unterschiedlichen Zeiten."
@@ -3379,7 +3379,7 @@
             {
               "category": "Verbrauchsmaterial",
               "productUrl": "https://www.barikell.it/prodotto/golden-blades/",
-              "productName": "Palette golden",
+              "name": "Palette golden",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4225-G2-GOLD-490-mini-022-700x318.jpg",
               "description_items": [
                 "Goldene Klingen"
@@ -3430,7 +3430,7 @@
             {
               "category": "VerbrauchsmaterialDiamantscheiben",
               "productUrl": "https://www.barikell.it/prodotto/alto-rendimento-cf5/",
-              "productName": "Hochleistungs-CF5",
+              "name": "Hochleistungs-CF5",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg",
               "description_items": [
                 "Geeignet für Nassschnitte auf Oberflächen, die zwischen 24 und 48 Stunden verlegt wurden. Langsam, aber langanhaltend, eignet es sich für handgezogene Böden."
@@ -3459,7 +3459,7 @@
             {
               "category": "VerbrauchsmaterialDiamantscheiben",
               "productUrl": "https://www.barikell.it/prodotto/medio-rendimento-cf2/",
-              "productName": "Mittlere Ausbeute CF2",
+              "name": "Mittlere Ausbeute CF2",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/disco-taglio-copia-s-scaled-700x567.jpg",
               "description_items": [
                 "Geeignet zum Wasserschneiden auf Oberflächen, die vor mehr als 48 Stunden verlegt wurden. Schnell und präzise, eignet es sich für Böden, die mit einer vibrierenden Richtschnur geglättet wurden."
@@ -3488,7 +3488,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
-              "productName": "MK8-75\n30 Zoll",
+              "name": "MK8-75\n30 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
               "description_items": [
                 "MK8-75 ist die kleinste Aufsitz-Doppelglättmaschine im Sortiment. Ausgestattet mit zwei Rotoren mit ø 750 mm und 8 sich nicht kreuzenden Blättern. Glätten und Finishen mit der gleichen Effizienz. Ideal für Arbeiten in Wandnähe und perfekt als Ergänzung zu großen Maschinen, die in engen Räumen nicht arbeiten können. Seine Abmessungen ermöglichen es, dass er durch eine Standardtür passt. Dank seines geringen Gewichts kann es vor schwereren Maschinen auf dem Beton platziert werden.",
@@ -3589,7 +3589,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-36-inches/",
-              "productName": "MK8-90\n36 Zoll",
+              "name": "MK8-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
               "description_items": [
                 "Doppelte Glättkelle mit Bediener an Bord, ideal zum Glätten und Fertigstellen mittlerer/großer Betonflächen. Ausgestattet mit 2 Rotoren ø 900 mm mit 8 Klingen, die sich nicht kreuzen und daher mit Glättscheiben verwendet werden.",
@@ -3695,7 +3695,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/ol-90-36-inches/",
-              "productName": "OL-90\n36 Zoll",
+              "name": "OL-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
               "description_items": [
                 "Doppelte Flügelglättermaschine mit Bediener an Bord zum Glätten mittelgroßer/großer Betonflächen. Ausgestattet mit 2 Rotoren ø 900 mm mit 8 sich kreuzenden Messern. Lieferung mit Fußbeschleuniger (oder manuell auf Anfrage) und Hochgeschwindigkeits-Kit für brillantes Glätten.",
@@ -3774,7 +3774,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
-              "productName": "MK8-90 HCS – Monster\n36 Zoll",
+              "name": "MK8-90 HCS – Monster\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
               "description_items": [
                 "Doppelmaschine mit Bediener an Bord für die doppelte Verwendung in der industriellen Bodenbearbeitung, sowohl zum Glätten als auch zum Endbearbeiten, ideal für große Flächen. Ausgestattet mit 2 Rotoren ø 900 mm mit 8 sich nicht kreuzenden Blättern. Verwendung mit Kellenscheiben. Hydraulisches Lenksystem mit 2 Joysticks. Erhöhter Sitz für bessere Sicht."
@@ -3829,7 +3829,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches/",
-              "productName": "MK8-90 HCS\n36 Zoll",
+              "name": "MK8-90 HCS\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MK8_90-HCS_mini-700x487.jpg",
               "description_items": [
                 "Doppelte Glättkelle mit Bediener an Bord, ideal zum Glätten und Fertigstellen mittlerer/großer Betonflächen. Ausgestattet mit 2 Rotoren ø 900 mm mit 8 Klingen, die sich nicht kreuzen und daher mit Glättscheiben verwendet werden. Hydraulische Steuerung mit 2 Joysticks.",
@@ -3917,7 +3917,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-120-46-inches/",
-              "productName": "MK8-120\n46 Zoll",
+              "name": "MK8-120\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
               "description_items": [
                 "Aufsitzmaschine, ideal zum Glätten und Fertigstellen großer Betonflächen. Ausgestattet mit 2 Rotoren ø 1200 mm mit 8 Klingen, die sich nicht kreuzen und daher mit Glättscheiben verwendet werden. Öffnen des Schutzrahmens zur Erleichterung von Wartungsarbeiten.",
@@ -4014,7 +4014,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/ol-120-46-inches/",
-              "productName": "OL-120\n46 Zoll",
+              "name": "OL-120\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3295G-INT-700x439.jpg",
               "description_items": [
                 "Doppelkopf-Glättmaschine mit Bediener an Bord zum Glätten großer Betonflächen. Ausgestattet mit 2 Rotoren ø 1200 mm mit 8 sich kreuzenden Messern. Lieferung mit Fußbeschleuniger und Stabilisierungsringen.",
@@ -4082,7 +4082,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches-monster/",
-              "productName": "MK8-120HCS – Monster\n46 Zoll",
+              "name": "MK8-120HCS – Monster\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
               "description_items": [
                 "Doppelmaschine für Industrieböden mit doppeltem Verwendungszweck, sowohl Glätten als auch Endbearbeitung, ideal für große Flächen. Ausgestattet mit 2 Rotoren ø 1200 mm mit 8 sich nicht kreuzenden Blättern. Ausgestattet mit hydraulischer Steuerung und erhöhtem Sitz.",
@@ -4162,7 +4162,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches/",
-              "productName": "MK8-120 HCS\n46 Zoll",
+              "name": "MK8-120 HCS\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-GANCIO-700x443.jpg",
               "description_items": [
                 "Doppelschwimmer mit Bediener an Bord mit 2 Rotoren ø 1200 mm mit 8 Blättern, die sich nicht kreuzen und daher mit Schwimmerscheiben verwendet werden. Ideal zum Glätten und Veredeln großer Flächen. Hydraulisches Lenksystem mit 2 Joysticks. Öffnen des Schutzrahmens zur Erleichterung von Wartungsarbeiten.",
@@ -4257,7 +4257,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/ol-120hcs-46-inches/",
-              "productName": "OL-120 HCS\n46 Zoll",
+              "name": "OL-120 HCS\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/OL-120HCS.jpg",
               "description_items": [
                 "Doppelseitiger Flügelglätter mit Bediener an Bord und hydraulischem Antriebssystem mit zwei Joysticks zum Bearbeiten großer Flächen. Ausgestattet mit 2 Rotoren ø 1200 mm mit 8 sich kreuzenden Messern. Lieferung mit Fußbeschleuniger und Stabilisierungsringen.",
@@ -4331,7 +4331,7 @@
             {
               "category": "Betonkellen_doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk12-160hcs-64-inches/",
-              "productName": "MK12-160 HCS\n64 Zoll",
+              "name": "MK12-160 HCS\n64 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3384-MK-12_160-HCS-mini-028-700x353.jpg",
               "description_items": [
                 "MK12-160 ist die größte Aufsitz-Doppelmaschine der Reihe. Ideal zum Glätten und Veredeln großer Flächen. Ausgestattet mit 2 Rotoren ø 1600 mm mit 6 sich nicht kreuzenden Blättern. Wird mit Kellenscheiben verwendet. Hydraulisches Lenksystem mit 2 Joysticks. Öffnungsschutzrahmen und Stabilisierungsringe serienmäßig.",
@@ -4366,7 +4366,7 @@
             {
               "category": "Betonkellen einzeln",
               "productUrl": "https://www.barikell.it/prodotto/moskito-60-24-inches-pale/",
-              "productName": "Mücke 4-60\n24 Zoll",
+              "name": "Mücke 4-60\n24 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg",
               "description_items": [
                 "Ideale Maschine zum Glätten und Nachbearbeiten von Rändern und zum wandbündigen Arbeiten auch in beengten Bereichen. Damit können Sie Türen und Tore von Gebäuden und Lagerhallen problemlos passieren. Der Gummischutz am Drehring ermöglicht das Gleiten an Wänden oder um Säulen herum, ohne die Maschine oder die Wand zu beschädigen.",
@@ -4456,7 +4456,7 @@
             {
               "category": "Betonkellen einzeln",
               "productUrl": "https://www.barikell.it/prodotto/moskito-75-30-inches/",
-              "productName": "Mücke 4-75\n30 Zoll",
+              "name": "Mücke 4-75\n30 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3055-G-700x558.jpg",
               "description_items": [
                 "Ideale Maschine zum Glätten und Nachbearbeiten von Rändern und zum wandbündigen Arbeiten auch in beengten Bereichen. Damit können Sie Türen und Tore von Gebäuden und Lagerhallen problemlos passieren. Der Gummischutz am Drehring ermöglicht das Gleiten an Wänden oder um Säulen herum, ohne die Maschine oder die Wand zu beschädigen.",
@@ -4542,7 +4542,7 @@
             {
               "category": "Betonkellen einzeln",
               "productUrl": "https://www.barikell.it/prodotto/4-80-32-inches/",
-              "productName": "4-80\n32 Zoll",
+              "name": "4-80\n32 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3093G-4-80-HEAVY-DUTY-mini-044-700x553.jpg",
               "description_items": [
                 "Einzelkelle Ø 800 mm zum Glätten mittelgroßer Flächen, die geringe Kosten mit hoher Leistung verbindet. Ausgestattet mit einem faltbaren Griff vom Typ „Moskito“ und einem Stabilisierungsring.",
@@ -4624,7 +4624,7 @@
             {
               "category": "Betonkellen einzeln",
               "productUrl": "https://www.barikell.it/prodotto/4-90-36-inches/",
-              "productName": "4-90\n36 Zoll",
+              "name": "4-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3100-L-700x440.jpg",
               "description_items": [
                 "Einzelkelle ø 900 mm mit 4 Blättern, ideal zum Glätten mittelgroßer Flächen. Ermöglicht die Einarbeitung von Härtern zum Glätten und Glätten von Frischbeton. Extrem ausgewogen für optimale Glättung.",
@@ -4785,7 +4785,7 @@
             {
               "category": "Betonkellen einzeln",
               "productUrl": "https://www.barikell.it/prodotto/4-120-46-inches/",
-              "productName": "4-120\n46 Zoll",
+              "name": "4-120\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-700x470.jpg",
               "description_items": [
                 "Einzelkelle ø 1200 mm mit 4 Blättern, ideal zum Glätten mittelgroßer Flächen. Das ausgewogene Design gewährleistet eine ruhige Fahrt bei jeder Geschwindigkeit.",
@@ -4913,7 +4913,7 @@
             {
               "category": "Betonkellen einzeln",
               "productUrl": "https://www.barikell.it/prodotto/moskito-sabbia-cemento/",
-              "productName": "Mosquito Sabbia Zement",
+              "name": "Mosquito Sabbia Zement",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3043G-SABBIA-CEMENTO-mini-038-700x668.jpg",
               "description_items": [
                 "Maschine mit fester Stahlscheibe ø 600 mm zum Glätten von Sand- und Zementestrichen und zur Vorbereitung von Unterböden vor dem Verlegen des Bodenbelags. Besonders geeignet für den Betrieb in Wohnungen, Garagen, auf Gehwegen und kleinen Hofflächen.",
@@ -4979,7 +4979,7 @@
             {
               "category": "Verbrauchsmaterial Konstruktionsverbindungen",
               "productUrl": "https://www.barikell.it/prodotto/giunti/",
-              "productName": "Gelenke",
+              "name": "Gelenke",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg",
               "description_items": [
                 "Ideale Verbindungseinheit zum Zusammenfügen von Betonbodenabschnitten aus unterschiedlichen Zeiten."
@@ -5104,7 +5104,7 @@
             {
               "category": "Verbrauchsmaterialhülle",
               "productUrl": "https://www.barikell.it/prodotto/guaina/",
-              "productName": "Mantel",
+              "name": "Mantel",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3662-GUAINA-NERA-35-SOPRA-700x630.jpg",
               "description_items": [
                 "Mantel"
@@ -5185,7 +5185,7 @@
             {
               "category": "Verbrauchsmaterialhülle",
               "productUrl": "https://www.barikell.it/prodotto/guaina-a-palloncino/",
-              "productName": "Ballonhülle",
+              "name": "Ballonhülle",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/GUAINA-A-PALLONCINO-700x322.jpg",
               "description_items": [
                 "Ballonhülle, ideal zum Abdichten von Schnitten in Betonböden."
@@ -5280,7 +5280,7 @@
             {
               "category": "Verbrauchsmaterialhülle",
               "productUrl": "https://www.barikell.it/prodotto/posa-guaina/",
-              "productName": "Mantelverlegung",
+              "name": "Mantelverlegung",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3650-CARRELLO-SVOLGIGUAINA-700x965.jpg",
               "description_items": [
                 "Maschine geeignet zum Verlegen von Normal- oder Ballonummantelungen für Rollen von 250 bis 300 Metern."
@@ -5296,7 +5296,7 @@
             {
               "category": "Verbrauchsmaterial Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/big-blue-float-solo-profilo/",
-              "productName": "Großer blauer Schwimmer – Nur Profil",
+              "name": "Großer blauer Schwimmer – Nur Profil",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13977-mini-027-700x443.jpg",
               "description_items": [
                 "Marshalltown"
@@ -5323,7 +5323,7 @@
             {
               "category": "Verbrauchsmaterial Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/bull-float-arrotondato-con-manico-e-snodo/",
-              "productName": "Abgerundete Bullenpose mit Griff und Gelenk",
+              "name": "Abgerundete Bullenpose mit Griff und Gelenk",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
               "description_items": [
                 "Marshalltown"
@@ -5349,7 +5349,7 @@
             {
               "category": "Verbrauchsmaterial Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/bull-float-solo-profilo-arrotondato/",
-              "productName": "Bull Float nur abgerundetes Profil",
+              "name": "Bull Float nur abgerundetes Profil",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
               "description_items": [
                 "Marshalltown"
@@ -5372,7 +5372,7 @@
             {
               "category": "Verbrauchsmaterial Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-1-punta-arrotondata/",
-              "productName": "1 Kelle mit abgerundeter Spitze",
+              "name": "1 Kelle mit abgerundeter Spitze",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13510-mini-021-700x454.jpg",
               "description_items": [
                 "Marshalltown"
@@ -5413,7 +5413,7 @@
             {
               "category": "Verbrauchsmaterial Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-2-punte-arrotondate/",
-              "productName": "2-spitzige Rundkellen",
+              "name": "2-spitzige Rundkellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13521-mini-005-700x467.jpg",
               "description_items": [
                 "Marshalltown"
@@ -5459,7 +5459,7 @@
             {
               "category": "Verbrauchsmaterial Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-bordi-squadrati/",
-              "productName": "Kellen mit quadratischer Kante",
+              "name": "Kellen mit quadratischer Kante",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13229-mini-020-700x330.jpg",
               "description_items": [
                 "Mashalltown"
@@ -5535,7 +5535,7 @@
             {
               "category": "Verbrauchsmaterial Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-particolari/",
-              "productName": "Spezialkellen",
+              "name": "Spezialkellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13230-mini-002-700x467.jpg",
               "description_items": [
                 "Marshalltown"
@@ -5556,7 +5556,7 @@
             {
               "category": "Verbrauchsmaterial Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-2/",
-              "productName": "Rampenflucht",
+              "name": "Rampenflucht",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14102-mini-031-700x449.jpg",
               "description_items": [
                 "Marshalltown"
@@ -5597,7 +5597,7 @@
             {
               "category": "Verbrauchsmaterial Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-dritti/",
-              "productName": "Stufenkanten für Treppenstufen mit geraden Kanten",
+              "name": "Stufenkanten für Treppenstufen mit geraden Kanten",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14288-mini-010-700x467.jpg",
               "description_items": [
                 "Marshalltown"
@@ -5686,7 +5686,7 @@
             {
               "category": "Verbrauchsmaterial Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-ricurvi/",
-              "productName": "Stufennasen mit gebogenen Kanten",
+              "name": "Stufennasen mit gebogenen Kanten",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14156-mini-009-700x467.jpg",
               "description_items": [
                 "Marshalltown"
@@ -5727,7 +5727,7 @@
             {
               "category": "Motoren",
               "productUrl": "https://www.barikell.it/prodotto/bes/",
-              "productName": "B&S",
+              "name": "B&S",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/4414-MOTORE-BS-23-HP-mini-055.jpg",
               "description_items": [
                 "B&S"
@@ -5802,7 +5802,7 @@
             {
               "category": "Motoren",
               "productUrl": "https://www.barikell.it/prodotto/hatz/",
-              "productName": "Finger",
+              "name": "Finger",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/4465-MOTORE-HATZ-1B40-2-10-HP-mini-116.jpg",
               "description_items": [
                 "Finger"
@@ -5829,7 +5829,7 @@
             {
               "category": "Motoren",
               "productUrl": "https://www.barikell.it/prodotto/honda/",
-              "productName": "Honda",
+              "name": "Honda",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/4305-MOTORE-HONDA-5.5HP-QX3-mini-102-700x619.jpg",
               "description_items": [
                 "Die Liste der Motoren"
@@ -5928,7 +5928,7 @@
             {
               "category": "Motoren",
               "productUrl": "https://www.barikell.it/prodotto/kohler/",
-              "productName": "Kohler",
+              "name": "Kohler",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/4391-MOTORE-KOHLER-25HP-mini-073.jpg",
               "description_items": [
                 "Die Liste der Motoren"
@@ -5971,7 +5971,7 @@
             {
               "category": "Motoren",
               "productUrl": "https://www.barikell.it/prodotto/kubota/",
-              "productName": "Kubota",
+              "name": "Kubota",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/4474-MOTORE-KUBOTA-D1305-30-HP-mini-120.jpg",
               "description_items": [
                 "Kubota"
@@ -6006,7 +6006,7 @@
             {
               "category": "Motoren",
               "productUrl": "https://www.barikell.it/prodotto/lombardini/",
-              "productName": "Lombardini",
+              "name": "Lombardini",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/4435-MOTORE-LOMBARDINI-ED7A54C0-mini-128-700x752.jpg",
               "description_items": [
                 "Lombardini"
@@ -6049,7 +6049,7 @@
             {
               "category": "Motoren",
               "productUrl": "https://www.barikell.it/prodotto/rato/",
-              "productName": "Maus",
+              "name": "Maus",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/4369-MOTORE-RATO-EHR300-8HP-mini-103-1-700x633.jpg",
               "description_items": [
                 "Maus"
@@ -6100,7 +6100,7 @@
             {
               "category": "Motoren",
               "productUrl": "https://www.barikell.it/prodotto/robin/",
-              "productName": "Robin",
+              "name": "Robin",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/4350-MOTORE-ROBIN-6HP-mini-057-700x622.jpg",
               "description_items": [
                 "Robin"
@@ -6151,7 +6151,7 @@
             {
               "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/dischi-frattazzo/",
-              "productName": "Kellenscheiben",
+              "name": "Kellenscheiben",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/discofrattazzo1.jpg",
               "description_items": [
                 "Schwimmscheiben"
@@ -6246,7 +6246,7 @@
             {
               "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/frattazzi/",
-              "productName": "Glättkellen",
+              "name": "Glättkellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
               "description_items": [
                 "Kellen"
@@ -6299,7 +6299,7 @@
             {
               "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/golden-blades/",
-              "productName": "Palette golden",
+              "name": "Palette golden",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4225-G2-GOLD-490-mini-022-700x318.jpg",
               "description_items": [
                 "Goldene Klingen"
@@ -6350,7 +6350,7 @@
             {
               "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/palette/",
-              "productName": "Palettenoberfläche",
+              "name": "Palettenoberfläche",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4200-PALETTE-MOSQUITO-mini-053-700x374.jpg",
               "description_items": [
                 "Palette"
@@ -6436,7 +6436,7 @@
             {
               "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/palette-combinate/",
-              "productName": "Kombipalette",
+              "name": "Kombipalette",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4253-COMBI-SPECIAL-4_90-mini-069-700x329.jpg",
               "description_items": [
                 "Kombinierte Paletten"
@@ -6517,7 +6517,7 @@
             {
               "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/palette-in-teflon/",
-              "productName": "Teflonpalette",
+              "name": "Teflonpalette",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4141-PALETTA-TEFLON-120-mini-067-700x237.jpg",
               "description_items": [
                 "Palette aus Teflon"
@@ -6558,7 +6558,7 @@
             {
               "category": "Betonpolieren",
               "productUrl": "https://www.barikell.it/prodotto/polish-4-60/",
-              "productName": "4-60\nPolnisch",
+              "name": "4-60\nPolnisch",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3004-POLISHING-mini-010-700x629.jpg",
               "description_items": [
                 "Schleifmaschinen, Randpolierer für kleine Flächen und Wandkanten. Mit MP8-75 und MP8-90 können Sie bis zu 2000 m2 pro Tag behandeln. Ständer für schnellen Werkzeugwechsel auf Anfrage erhältlich.",
@@ -6581,7 +6581,7 @@
             {
               "category": "Betonpolieren",
               "productUrl": "https://www.barikell.it/prodotto/mp8-75-polish/",
-              "productName": "MP8-75\nPolnisch",
+              "name": "MP8-75\nPolnisch",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
               "description_items": [
                 "Schleifmaschinen, Randpolierer für kleine Flächen und Wandkanten. Mit MP8-75 und MP8-90 können Sie bis zu 2000 m2 pro Tag behandeln. Ständer für schnellen Werkzeugwechsel auf Anfrage erhältlich.",
@@ -6613,7 +6613,7 @@
             {
               "category": "Betonpolieren",
               "productUrl": "https://www.barikell.it/prodotto/mp8-90-polish/",
-              "productName": "MP8-90\nPolnisch",
+              "name": "MP8-90\nPolnisch",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
               "description_items": [
                 "Schleifmaschinen, Randpolierer für kleine Flächen und Wandkanten. Mit MP8-75 und MP8-90 können Sie bis zu 2000 m2 pro Tag behandeln. Ständer für schnellen Werkzeugwechsel auf Anfrage erhältlich.",
@@ -6655,7 +6655,7 @@
             {
               "category": "Betonpulver",
               "productUrl": "https://www.barikell.it/prodotto/spolverine-br-150/",
-              "productName": "Staubtücher br 150",
+              "name": "Staubtücher br 150",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3405-SPOLVERINA-BR150-700x786.jpg",
               "description_items": [
                 "Maschine zum Ausbringen von vorgemischtem Quarz mit geregelter Dosierung und motorisiertem Vorschub."
@@ -6674,7 +6674,7 @@
             {
               "category": "Betonpulver",
               "productUrl": "https://www.barikell.it/prodotto/spolverine-br100/",
-              "productName": "Staubtücher br100",
+              "name": "Staubtücher br100",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3402-SPOLVERINA-BR100-mini-049-700x750.jpg",
               "description_items": [
                 "Maschine zum Ausbringen von vorgemischtem Quarz mit geregelter Dosierung."
@@ -6689,7 +6689,7 @@
             {
               "category": "Betonstempel und Vibrationsnadel",
               "productUrl": "https://www.barikell.it/prodotto/ago-vibrante/",
-              "productName": "Lebendig vor",
+              "name": "Lebendig vor",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/TKZX-45-AGO-VIBRANTE-700x602.jpg",
               "description_items": [
                 "Hochfrequente Tauchvibrationsnadel zum Vibrieren von Beton beim Gießen. Es ist leicht und kompakt und verhindert die beim Gießen unvermeidlichen Luftblasenbildung, um maximale Homogenität und Dichtheit des Betons zu gewährleisten."
@@ -6708,7 +6708,7 @@
             {
               "category": "Betonstempel und Vibrationsnadel",
               "productUrl": "https://www.barikell.it/prodotto/staggia-vibrante-a-1-manico/",
-              "productName": "Vibrierende Richtschnur mit 1 Griff",
+              "name": "Vibrierende Richtschnur mit 1 Griff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4489-STAGGIA-UN-MANICO-700x716.jpg",
               "description_items": [
                 "Benzinbetriebene Rüttelbohle mit kippbarem Aluminiumprofil zum Einebnen von Frischbetonböden auf mittelgroßen Flächen."
@@ -6742,7 +6742,7 @@
             {
               "category": "Betonstempel und Vibrationsnadel",
               "productUrl": "https://www.barikell.it/prodotto/staggia-vibrante-a-2-manici/",
-              "productName": "Vibrationslineal mit 2 Griffen",
+              "name": "Vibrationslineal mit 2 Griffen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4972-STAGGIA-2-MAN-PROF-2.5-700x508.jpg",
               "description_items": [
                 "Rüttelbohle mit Benzinmotor, Doppelgriff mit wasserdichtem Rüttler. Konzipiert zum Verteilen von Beton, Glätten oder Fertigstellen der Oberfläche. Handlich und einfach zu bedienen. Erhältlich mit Profilen unterschiedlicher Länge."
@@ -6804,7 +6804,7 @@
             {
               "category": "Betonfugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/asphalt-20/",
-              "productName": "Asphalt 20",
+              "name": "Asphalt 20",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
               "description_items": [
                 "Asphalt ist ein leistungsstarker selbstvorlaufender Fugenschneider mit Rückwärtsgang für tiefe Schnitte in Asphalt- und Betonböden für den professionellen Einsatz. Hydraulische Schnitttiefeneinstellung mit Handhebel (oder auf Wunsch mit Elektropumpe) für unterschiedliche Schnitttiefen. Maximal nutzbare Scheibe bis zu 450 mm Durchmesser für Asphalt 20 und 600 mm für Asphalt 30. Möglichkeit der Montage einer zweiten Scheibe auf der gegenüberliegenden Seite. Lieferung ohne CD.",
@@ -6861,7 +6861,7 @@
             {
               "category": "Betonfugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/asphalt-30/",
-              "productName": "Asphalt 30",
+              "name": "Asphalt 30",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
               "description_items": [
                 "Asphalt ist ein leistungsstarker selbstvorlaufender Fugenschneider mit Rückwärtsgang für tiefe Schnitte in Asphalt- und Betonböden für den professionellen Einsatz. Hydraulische Schnitttiefeneinstellung mit Handhebel (oder auf Wunsch mit Elektropumpe) für unterschiedliche Schnitttiefen. Maximal nutzbare Scheibe bis zu 450 mm Durchmesser für Asphalt 20 und 600 mm für Asphalt 30. Möglichkeit der Montage einer zweiten Scheibe auf der gegenüberliegenden Seite. Lieferung ohne CD.",
@@ -6900,7 +6900,7 @@
             {
               "category": "Betonfugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/floor-10/",
-              "productName": "Etage 10",
+              "name": "Etage 10",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/FLOOR-10-APERTA-DISCO-mini-058-700x586.jpg",
               "description_items": [
                 "Manuell betriebener Fugenschneider zum Schneiden von Dehnungsfugen auf Asphalt- und Betonböden für den professionellen Einsatz. 70-Liter-Wassertank aus Stahl. Carter für Scheiben mit einem Durchmesser von bis zu 450 mm ausgelegt. Auf Wunsch ist eine Gehäuseausführung für eine Scheibe mit ø 600 mm lieferbar. Möglichkeit zur Montage einer zweiten Scheibe auf der gegenüberliegenden Seite. Manuelle Schnitttiefeneinstellung mit Handrad (auf Wunsch auch hydraulisch mit Handhebel oder Elektropumpe). Lieferung ohne CD.",
@@ -6992,7 +6992,7 @@
             {
               "category": "Betonfugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/floor-20/",
-              "productName": "Etage 20",
+              "name": "Etage 20",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
               "description_items": [
                 "Manuell betriebener Fugenschneider zum Schneiden von Dehnungsfugen auf Asphalt- und Betonböden für den professionellen Einsatz. 80-Liter-Wassertank aus Stahl. Carter für Scheiben mit einem Durchmesser von bis zu 450 mm ausgelegt. Auf Wunsch ist eine Gehäuseausführung für eine Scheibe mit ø 600 mm lieferbar. Möglichkeit zur Montage einer zweiten Scheibe auf der gegenüberliegenden Seite. Manuelle Schnitttiefeneinstellung mit Handrad (auf Wunsch auch hydraulisch mit Handhebel oder Elektropumpe). Lieferung ohne CD.",
@@ -7049,7 +7049,7 @@
             {
               "category": "Betonfugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/floor-30/",
-              "productName": "Etage 30",
+              "name": "Etage 30",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
               "description_items": [
                 "Manuell betriebener Fugenschneider zum Schneiden von Dehnungsfugen auf Asphalt- und Betonböden für den professionellen Einsatz. Auch zum Abbruch von Fußböden geeignet. 90-Liter-Wassertank aus Stahl. Carter für Scheiben mit einem Durchmesser von bis zu 600 mm ausgelegt. Auf Wunsch ist eine Gehäuseausführung für eine Scheibe mit ø 800 mm lieferbar. Möglichkeit zur Montage einer zweiten Scheibe auf der gegenüberliegenden Seite. Hydraulische Schnitttiefeneinstellung mit Handhebel (oder auf Anfrage mit Elektropumpe). Lieferung ohne CD.",
@@ -7088,7 +7088,7 @@
             {
               "category": "Betonfugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/floor-6/",
-              "productName": "Etage 6",
+              "name": "Etage 6",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3435-FLOOR-6-MIRINO-700x858.jpg",
               "description_items": [
                 "Manuell betriebener Fugenschneider zum Schneiden von Dehnungsfugen auf Asphalt- und Betonböden. 25-Liter-Wassertank aus Kunststoff. Carter für Scheiben mit einem Durchmesser von bis zu 350 mm ausgelegt. Manuelle Schnitttiefeneinstellung mit Handrad. Lieferung ohne CD. Scheiben für Frischbeton erhältlich.",

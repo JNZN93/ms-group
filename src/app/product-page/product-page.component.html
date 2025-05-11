@@ -11,7 +11,7 @@
         <div class="karte">
           <img [src]="product.image" />
           <div class="karte-content">
-            <h2>{{ product.productName }}</h2>
+            <h2>{{ product.name }}</h2>
             <p>{{ product.description_items || 'Kein Beschreibungstext verfügbar.' }}</p>
           </div>
           <div class="karte-footer">
@@ -30,7 +30,7 @@
   <div class="modal-dialog modal-fullscreen-custom" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">{{selectedProduct?.productName }}</h5>
+        <h5 class="modal-title">{{selectedProduct?.name }}</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Schließen" (click)="removeHashFromUrl()">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -55,7 +55,7 @@
                   <label for="produktVariante">{{'products_page.VARIANT' | translate}}</label>
                   <select class="form-control" id="produktVariante" [(ngModel)]="selectedVariant" name="produktVariante" (change)="resetQuantity()">
                     @if(selectedProduct.models.length == 0) {
-                      <option value="Standard">{{selectedProduct?.productName}}</option>
+                      <option value="Standard">{{selectedProduct?.name}}</option>
                   }
                     @for (model of selectedProduct.models; track $index) {
                         <option [ngValue]="model">

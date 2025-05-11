@@ -632,7 +632,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/torque-converter/",
-                  "productName": "Torque Converter",
+                  "name": "Torque Converter",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
                   "description_items": [
                     "Torque Converter"
@@ -642,7 +642,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
-                  "productName": "Concrete Pump Hose Accessories",
+                  "name": "Concrete Pump Hose Accessories",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
                   "description_items": [
                     "Accessori Barikell"
@@ -673,7 +673,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/arresto-centrifugo/",
-                  "productName": "Centrifugal stop",
+                  "name": "Centrifugal stop",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/arresto-centrifugo-700x531.jpg",
                   "description_items": [
                     "4-90 / 4-120 Art. 0289"
@@ -683,7 +683,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
-                  "productName": "Transport trolleys",
+                  "name": "Transport trolleys",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
                   "description_items": [
                     "3277 – OL90 / MK8-90 / MK10-90",
@@ -695,7 +695,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
-                  "productName": "Universal transport trolley",
+                  "name": "Universal transport trolley",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
                   "description_items": [
                     "3397 – MK8-75 / OL90 / MK8-90 / MK10-90 and OL120 / MK8-120 / MK10-120",
@@ -707,7 +707,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
-                  "productName": "Opening protection ring",
+                  "name": "Opening protection ring",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
                   "description_items": [
                     "Ø 900 Art. 1371",
@@ -718,7 +718,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
-                  "productName": "Stabilizer circle",
+                  "name": "Stabilizer circle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
                   "description_items": [
                     "Ø 900 Art. 10112",
@@ -730,7 +730,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
-                  "productName": "Lifting hook (G)",
+                  "name": "Lifting hook (G)",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
                   "description_items": [
                     "3392 – OL90 / MK8-75",
@@ -746,7 +746,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/gancio-sollevamento/",
-                  "productName": "Lifting hook",
+                  "name": "Lifting hook",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
                   "description_items": [
                     "4-60 / 4-75 Art. 1368",
@@ -757,7 +757,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
-                  "productName": "Quick pitch short handle",
+                  "name": "Quick pitch short handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
                   "description_items": [
                     "4-90 / 4-120 Art. 1242"
@@ -767,7 +767,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/manico-lungo/",
-                  "productName": "Long Handle",
+                  "name": "Long Handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
                   "description_items": [
                     "4-90 / 4-120 gasoline Art. 1083",
@@ -779,7 +779,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
-                  "productName": "Quick pitch long handle",
+                  "name": "Quick pitch long handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
                   "description_items": [
                     "4-90 / 4-120 Art. 1244"
@@ -789,7 +789,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/manico-pieghevole/",
-                  "productName": "Folding handle",
+                  "name": "Folding handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
                   "description_items": [
                     "4-90 / 4-120 gasoline Art. 1744",
@@ -800,7 +800,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/picchetti/",
-                  "productName": "Pickets",
+                  "name": "Pickets",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
                   "description_items": [
                     "Pickets"
@@ -839,7 +839,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
-                  "productName": "Spare parts for ultra-light straight edge",
+                  "name": "Spare parts for ultra-light straight edge",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
                   "description_items": [
                     "Accessori Barikell"
@@ -858,7 +858,7 @@
                 {
                   "category": "accessories",
                   "productUrl": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
-                  "productName": "Transport system",
+                  "name": "Transport system",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
                   "description_items": [
                     "Art. 3129 – Mobile transport system complete with two wheels for transporting 4-90 / 4-120 power trowels",
@@ -872,7 +872,7 @@
                 {
                   "category": "accessoriaccessori_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
-                  "productName": "Concrete Pump Hose Accessories",
+                  "name": "Concrete Pump Hose Accessories",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
                   "description_items": [
                     "Accessori Barikell"
@@ -903,7 +903,7 @@
                 {
                   "category": "accessoriaccessori_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/picchetti/",
-                  "productName": "Pickets",
+                  "name": "Pickets",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
                   "description_items": [
                     "Pickets"
@@ -942,7 +942,7 @@
                 {
                   "category": "accessoriaccessori_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
-                  "productName": "Spare parts for ultra-light straight edge",
+                  "name": "Spare parts for ultra-light straight edge",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
                   "description_items": [
                     "Accessori Barikell"
@@ -961,7 +961,7 @@
                 {
                   "category": "accessoriaccessori_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/raschietti/",
-                  "productName": "Scrapers",
+                  "name": "Scrapers",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3930-RASCHIETTO-PULIP-S_MANICO-mini-119-700x576.jpg",
                   "description_items": [
                     "Scrapers"
@@ -984,7 +984,7 @@
                 {
                   "category": "accessoriaccessori_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/rastrelli/",
-                  "productName": "Rakes",
+                  "name": "Rakes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/SPAZZA-ACQUA-RASCHIETTI-E-RASTRELLI.jpg",
                   "description_items": [
                     "Rakes"
@@ -1055,7 +1055,7 @@
                 {
                   "category": "accessoriaccessori_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/spazza-acqua-raschietti-rastrelli/",
-                  "productName": "Water pusher",
+                  "name": "Water pusher",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3950-SPAZZA-ACQUA-C_MANICO-2-mini-105-700x678.jpg",
                   "description_items": [
                     "Water pusher"
@@ -1078,7 +1078,7 @@
                 {
                   "category": "accessoriaccessori_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/stagge-ultra-light-in-alluminio/",
-                  "productName": "Ultralight aluminum staves",
+                  "name": "Ultralight aluminum staves",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3900-STAGGIA-MT2-700x239.jpg",
                   "description_items": [
                     "Profile dimensions: 80×40 mm"
@@ -1133,7 +1133,7 @@
                 {
                   "category": "accessoriaccessori_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/tracciarighe-e-polvere/",
-                  "productName": "Line traces and dust",
+                  "name": "Line traces and dust",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5300-TRACCIARIGHE-50-MT-700x486.jpg",
                   "description_items": [
                     "Line traces and dust"
@@ -1184,7 +1184,7 @@
                 {
                   "category": "accessoriaccessori_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/vari/",
-                  "productName": "Undershoes",
+                  "name": "Undershoes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5600-PAIO-SOTTOSCARPE-700x364.jpg",
                   "description_items": [
                     "Various"
@@ -1199,7 +1199,7 @@
                 {
                   "category": "accessoriesaccessories_for_doubles",
                   "productUrl": "https://www.barikell.it/prodotto/torque-converter/",
-                  "productName": "Torque Converter",
+                  "name": "Torque Converter",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
                   "description_items": [
                     "Torque Converter"
@@ -1209,7 +1209,7 @@
                 {
                   "category": "accessoriesaccessories_for_doubles",
                   "productUrl": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
-                  "productName": "Transport trolleys",
+                  "name": "Transport trolleys",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
                   "description_items": [
                     "3277 – OL90 / MK8-90 / MK10-90",
@@ -1221,7 +1221,7 @@
                 {
                   "category": "accessoriesaccessories_for_doubles",
                   "productUrl": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
-                  "productName": "Universal transport trolley",
+                  "name": "Universal transport trolley",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
                   "description_items": [
                     "3397 – MK8-75 / OL90 / MK8-90 / MK10-90 and OL120 / MK8-120 / MK10-120",
@@ -1233,7 +1233,7 @@
                 {
                   "category": "accessoriesaccessories_for_doubles",
                   "productUrl": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
-                  "productName": "Lifting hook (G)",
+                  "name": "Lifting hook (G)",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
                   "description_items": [
                     "3392 – OL90 / MK8-75",
@@ -1249,7 +1249,7 @@
                 {
                   "category": "accessoriesaccessories_for_doubles",
                   "productUrl": "https://www.barikell.it/prodotto/telaio-di-protezione-apribile-a/",
-                  "productName": "Opening protection frame (A)",
+                  "name": "Opening protection frame (A)",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/telaio-doppia.jpg",
                   "description_items": [
                     "1307 – OL90",
@@ -1264,7 +1264,7 @@
                 {
                   "category": "accessoriesaccessories_for_doubles",
                   "productUrl": "https://www.barikell.it/prodotto/variatore-di-velocita-15/",
-                  "productName": "High speed",
+                  "name": "High speed",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/dashboard_5628701.png",
                   "description_items": [
                     "Speed variator (/10)"
@@ -1274,7 +1274,7 @@
                 {
                   "category": "accessoriesaccessories_for_singles",
                   "productUrl": "https://www.barikell.it/prodotto/arresto-centrifugo/",
-                  "productName": "Centrifugal stop",
+                  "name": "Centrifugal stop",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/arresto-centrifugo-700x531.jpg",
                   "description_items": [
                     "4-90 / 4-120 Art. 0289"
@@ -1284,7 +1284,7 @@
                 {
                   "category": "accessoriesaccessories_for_singles",
                   "productUrl": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
-                  "productName": "Opening protection ring",
+                  "name": "Opening protection ring",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
                   "description_items": [
                     "Ø 900 Art. 1371",
@@ -1295,7 +1295,7 @@
                 {
                   "category": "accessoriesaccessories_for_singles",
                   "productUrl": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
-                  "productName": "Stabilizer circle",
+                  "name": "Stabilizer circle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
                   "description_items": [
                     "Ø 900 Art. 10112",
@@ -1307,7 +1307,7 @@
                 {
                   "category": "accessoriesaccessories_for_singles",
                   "productUrl": "https://www.barikell.it/prodotto/gancio-sollevamento/",
-                  "productName": "Lifting hook",
+                  "name": "Lifting hook",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
                   "description_items": [
                     "4-60 / 4-75 Art. 1368",
@@ -1318,7 +1318,7 @@
                 {
                   "category": "accessoriesaccessories_for_singles",
                   "productUrl": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
-                  "productName": "Quick pitch short handle",
+                  "name": "Quick pitch short handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
                   "description_items": [
                     "4-90 / 4-120 Art. 1242"
@@ -1328,7 +1328,7 @@
                 {
                   "category": "accessoriesaccessories_for_singles",
                   "productUrl": "https://www.barikell.it/prodotto/manico-lungo/",
-                  "productName": "Long Handle",
+                  "name": "Long Handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
                   "description_items": [
                     "4-90 / 4-120 gasoline Art. 1083",
@@ -1340,7 +1340,7 @@
                 {
                   "category": "accessoriesaccessories_for_singles",
                   "productUrl": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
-                  "productName": "Quick pitch long handle",
+                  "name": "Quick pitch long handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
                   "description_items": [
                     "4-90 / 4-120 Art. 1244"
@@ -1350,7 +1350,7 @@
                 {
                   "category": "accessoriesaccessories_for_singles",
                   "productUrl": "https://www.barikell.it/prodotto/manico-pieghevole/",
-                  "productName": "Folding handle",
+                  "name": "Folding handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
                   "description_items": [
                     "4-90 / 4-120 gasoline Art. 1744",
@@ -1361,7 +1361,7 @@
                 {
                   "category": "accessoriesaccessories_for_singles",
                   "productUrl": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
-                  "productName": "Transport system",
+                  "name": "Transport system",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
                   "description_items": [
                     "Art. 3129 – Mobile transport system complete with two wheels for transporting 4-90 / 4-120 power trowels",
@@ -1375,7 +1375,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/moskito-60-24-inches-pale/",
-                  "productName": "Mosquito 4-60\n24 Inches",
+                  "name": "Mosquito 4-60\n24 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg",
                   "description_items": [
                     "Ideal machine for trowelling and finishing perimeters and for working flush with the wall even in restricted areas. It allows you to easily pass through doors and gates of buildings and warehouses. The rubber protection on the rotating ring allows you to slide along walls or around columns without damaging the machine or the wall.",
@@ -1465,7 +1465,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/moskito-75-30-inches/",
-                  "productName": "Mosquito 4-75\n30 Inches",
+                  "name": "Mosquito 4-75\n30 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3055-G-700x558.jpg",
                   "description_items": [
                     "Ideal machine for trowelling and finishing perimeters and for working flush with the wall even in restricted areas. It allows you to easily pass through doors and gates of buildings and warehouses. The rubber protection on the rotating ring allows you to slide along walls or around columns without damaging the machine or the wall.",
@@ -1551,7 +1551,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/4-80-32-inches/",
-                  "productName": "4-80\n32 Inches",
+                  "name": "4-80\n32 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3093G-4-80-HEAVY-DUTY-mini-044-700x553.jpg",
                   "description_items": [
                     "Single trowel Ø 800 mm for smoothing medium-sized surfaces that combines low cost with high performance. Equipped with a foldable “moskito” type handle and stabilizing ring.",
@@ -1633,7 +1633,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/4-90-36-inches/",
-                  "productName": "4-90\n36 inches",
+                  "name": "4-90\n36 inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3100-L-700x440.jpg",
                   "description_items": [
                     "Single trowel ø 900 mm with 4 blades ideal for smoothing medium-sized surfaces. Allows the incorporation of hardeners for troweling and smoothing fresh concrete. Extremely balanced for optimal smoothing.",
@@ -1794,7 +1794,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/4-120-46-inches/",
-                  "productName": "4-120\n46 Inches",
+                  "name": "4-120\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-700x470.jpg",
                   "description_items": [
                     "Single trowel ø 1200 mm with 4 blades ideal for smoothing medium-sized surfaces. Designed to have a balance that ensures smooth driving at any speed.",
@@ -1922,7 +1922,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/ago-vibrante/",
-                  "productName": "Vibrant ago",
+                  "name": "Vibrant ago",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/TKZX-45-AGO-VIBRANTE-700x602.jpg",
                   "description_items": [
                     "High frequency immersion vibrating needle to vibrate the concrete during pouring. Lightweight and compact, it eliminates the air bubbles that inevitably form during pouring to ensure maximum homogeneity and impermeability of the concrete."
@@ -1941,7 +1941,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/asphalt-20/",
-                  "productName": "Asphalt 20",
+                  "name": "Asphalt 20",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
                   "description_items": [
                     "Asphalt is a powerful automatic advance joint cutter with reverse gear for deep cuts on asphalt and concrete floors for professional use. Hydraulic adjustment of the cutting depth with manual lever (or with electric pump on request) for different cutting depths. Maximum usable disc up to 450 mm in diameter for Asphalt 20 and 600 mm for Asphalt 30. Possibility of mounting a second disc on the opposite side. Supplied without disc.",
@@ -1998,7 +1998,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/asphalt-30/",
-                  "productName": "Asphalt 30",
+                  "name": "Asphalt 30",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
                   "description_items": [
                     "Asphalt is a powerful automatic advance joint cutter with reverse gear for deep cuts on asphalt and concrete floors for professional use. Hydraulic adjustment of the cutting depth with manual lever (or with electric pump on request) for different cutting depths. Maximum usable disc up to 450 mm in diameter for Asphalt 20 and 600 mm for Asphalt 30. Possibility of mounting a second disc on the opposite side. Supplied without disc.",
@@ -2037,7 +2037,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/floor-10/",
-                  "productName": "Floor 10",
+                  "name": "Floor 10",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/FLOOR-10-APERTA-DISCO-mini-058-700x586.jpg",
                   "description_items": [
                     "Manually operated joint cutter designed for cutting expansion joints on both asphalt and concrete floors for professional use. 70L steel water tank. Carter designed for discs up to 450 mm in diameter. On request it can be supplied with a carter for a ø 600 mm disc. Possibility of mounting a second disc on the opposite side. Manual cutting depth adjustment with handwheel (or hydraulic with manual lever or electric pump on request). Supplied without disc.",
@@ -2129,7 +2129,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/floor-20/",
-                  "productName": "Floor 20",
+                  "name": "Floor 20",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
                   "description_items": [
                     "Manually operated joint cutter designed for cutting expansion joints on both asphalt and concrete floors for professional use. 80L steel water tank. Carter designed for discs up to 450 mm in diameter. On request, it can be supplied with a carter for a ø 600 mm disc. Possibility of mounting a second disc on the opposite side. Manual cutting depth adjustment with handwheel (or hydraulic with manual lever or electric pump on request). Supplied without disc.",
@@ -2186,7 +2186,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/floor-30/",
-                  "productName": "Floor 30",
+                  "name": "Floor 30",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
                   "description_items": [
                     "Manually operated joint cutter designed for cutting expansion joints on asphalt and concrete floors for professional use. Also suitable for demolishing floors. 90L steel water tank. Carter designed for discs up to 600 mm in diameter. On request it can be supplied with a carter for a ø 800 mm disc. Possibility of mounting a second disc on the opposite side. Hydraulic adjustment of the cutting depth with a manual lever (or with an electric pump on request). Supplied without disc.",
@@ -2225,7 +2225,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/floor-6/",
-                  "productName": "Floor 6",
+                  "name": "Floor 6",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3435-FLOOR-6-MIRINO-700x858.jpg",
                   "description_items": [
                     "Manually operated joint cutter designed for cutting expansion joints on both asphalt and concrete floors. 25L plastic water tank. Carter designed for discs up to 350 mm in diameter. Manual cutting depth adjustment with handwheel. Supplied without disc. Discs for fresh concrete available.",
@@ -2246,7 +2246,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
-                  "productName": "MK8-75\n30 Inches",
+                  "name": "MK8-75\n30 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
                   "description_items": [
                     "MK8-75 is the smallest ride-on double float in the range. Equipped with two ø 750 mm rotors with 8 blades that do not cross. It floats and finishes with the same efficiency. Ideal for jobs close to walls and perfect as a complement to large machines that cannot work in tight spaces. Its dimensions allow it to pass through a standard door. Thanks to its low weight it can be positioned on the concrete before heavier machines.",
@@ -2347,7 +2347,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-90-36-inches/",
-                  "productName": "MK8-90\n36 Inches",
+                  "name": "MK8-90\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
                   "description_items": [
                     "Double float with operator on board ideal for the float and finishing of medium/large concrete surfaces. Equipped with 2 rotors ø 900 mm with 8 blades that do not cross each other therefore used with float discs.",
@@ -2453,7 +2453,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/ol-90-36-inches/",
-                  "productName": "OL-90\n36 Inches",
+                  "name": "OL-90\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
                   "description_items": [
                     "Double float with operator on board for finishing medium/large concrete surfaces. Equipped with 2 rotors ø 900 mm with 8 blades that cross. Supplied with pedal accelerator (or manual on request) and high speed kit for a brilliant smoothing.",
@@ -2532,7 +2532,7 @@
                 {
                   "category": "concrete",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
-                  "productName": "MK8-90 HCS – Monster\n36 Inches",
+                  "name": "MK8-90 HCS – Monster\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
                   "description_items": [
                     "Double machine with operator on board for industrial flooring with dual use, both troweling and finishing, ideal for large surfaces. Equipped with 2 rotors ø 900 mm with 8 blades that do not cross. Use with trowel discs. Hydraulic driving system with 2 joysticks. Raised seat for greater visibility."
@@ -2587,7 +2587,7 @@
                 {
                   "category": "consumables_trowels_and_noses_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole/",
-                  "productName": "Trowels",
+                  "name": "Trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
                   "description_items": [
                     "Trowels"
@@ -2634,7 +2634,7 @@
                 {
                   "category": "consumables_trowels_and_noses_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe/",
-                  "productName": "Ramp escapes",
+                  "name": "Ramp escapes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
                   "description_items": [
                     "Ramp escapes"
@@ -2655,7 +2655,7 @@
                 {
                   "category": "consumables_trowels_and_noses_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
-                  "productName": "Escapes for toothed ramps",
+                  "name": "Escapes for toothed ramps",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3987-FUGA-PER-RAMPE-700x524.jpg",
                   "description_items": [
                     "Escapes for toothed ramps"
@@ -2671,7 +2671,7 @@
                 {
                   "category": "consumables_trowels_and_noses_barikell",
                   "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini/",
-                  "productName": "Noses for steps",
+                  "name": "Noses for steps",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/NASINO_3970.jpg",
                   "description_items": [
                     "Noses for steps"
@@ -2692,7 +2692,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/alto-rendimento-cf5/",
-                  "productName": "High performance CF5",
+                  "name": "High performance CF5",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg",
                   "description_items": [
                     "Suitable for wet cutting on surfaces laid between 24 and 48 hours. Slow, but long-lasting, it is suitable for hand-pulled floors."
@@ -2721,7 +2721,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/big-blue-float-solo-profilo/",
-                  "productName": "Big blue float – Profile only",
+                  "name": "Big blue float – Profile only",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13977-mini-027-700x443.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -2748,7 +2748,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/bull-float-arrotondato-con-manico-e-snodo/",
-                  "productName": "Rounded bull float with handle and joint",
+                  "name": "Rounded bull float with handle and joint",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -2774,7 +2774,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/bull-float-solo-profilo-arrotondato/",
-                  "productName": "Bull float only rounded profile",
+                  "name": "Bull float only rounded profile",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -2797,7 +2797,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole/",
-                  "productName": "Trowels",
+                  "name": "Trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
                   "description_items": [
                     "Trowels"
@@ -2844,7 +2844,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-1-punta-arrotondata/",
-                  "productName": "1 rounded tip trowels",
+                  "name": "1 rounded tip trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13510-mini-021-700x454.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -2885,7 +2885,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-2-punte-arrotondate/",
-                  "productName": "2-pointed rounded trowels",
+                  "name": "2-pointed rounded trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13521-mini-005-700x467.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -2931,7 +2931,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-bordi-squadrati/",
-                  "productName": "Square edge trowels",
+                  "name": "Square edge trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13229-mini-020-700x330.jpg",
                   "description_items": [
                     "Mashalltown"
@@ -3007,7 +3007,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-particolari/",
-                  "productName": "Special trowels",
+                  "name": "Special trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13230-mini-002-700x467.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -3028,7 +3028,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/dischi-frattazzo/",
-                  "productName": "Trowel Discs",
+                  "name": "Trowel Discs",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/discofrattazzo1.jpg",
                   "description_items": [
                     "Float discs"
@@ -3123,7 +3123,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/frattazzi/",
-                  "productName": "Floating Trowels",
+                  "name": "Floating Trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
                   "description_items": [
                     "Trowels"
@@ -3176,7 +3176,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-2/",
-                  "productName": "Ramp escapes",
+                  "name": "Ramp escapes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14102-mini-031-700x449.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -3217,7 +3217,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe/",
-                  "productName": "Ramp escapes",
+                  "name": "Ramp escapes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
                   "description_items": [
                     "Ramp escapes"
@@ -3238,7 +3238,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
-                  "productName": "Escapes for toothed ramps",
+                  "name": "Escapes for toothed ramps",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3987-FUGA-PER-RAMPE-700x524.jpg",
                   "description_items": [
                     "Escapes for toothed ramps"
@@ -3254,7 +3254,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/giunti/",
-                  "productName": "Joints",
+                  "name": "Joints",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg",
                   "description_items": [
                     "Ideal connecting unit for joining sections of concrete flooring made at different times."
@@ -3379,7 +3379,7 @@
                 {
                   "category": "Consumables",
                   "productUrl": "https://www.barikell.it/prodotto/golden-blades/",
-                  "productName": "Palette golden",
+                  "name": "Palette golden",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4225-G2-GOLD-490-mini-022-700x318.jpg",
                   "description_items": [
                     "Golden blades"
@@ -3430,7 +3430,7 @@
                 {
                   "category": "consumablesdiamond_discs",
                   "productUrl": "https://www.barikell.it/prodotto/alto-rendimento-cf5/",
-                  "productName": "High performance CF5",
+                  "name": "High performance CF5",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg",
                   "description_items": [
                     "Suitable for wet cutting on surfaces laid between 24 and 48 hours. Slow, but long-lasting, it is suitable for hand-pulled floors."
@@ -3459,7 +3459,7 @@
                 {
                   "category": "consumablesdiamond_discs",
                   "productUrl": "https://www.barikell.it/prodotto/medio-rendimento-cf2/",
-                  "productName": "Medium yield CF2",
+                  "name": "Medium yield CF2",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/disco-taglio-copia-s-scaled-700x567.jpg",
                   "description_items": [
                     "Suitable for water cutting on surfaces laid more than 48 hours before. Fast and precise, it is suitable for floors pulled with a vibrating straight edge."
@@ -3488,7 +3488,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
-                  "productName": "MK8-75\n30 Inches",
+                  "name": "MK8-75\n30 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
                   "description_items": [
                     "MK8-75 is the smallest ride-on double float in the range. Equipped with two ø 750 mm rotors with 8 blades that do not cross. It floats and finishes with the same efficiency. Ideal for jobs close to walls and perfect as a complement to large machines that cannot work in tight spaces. Its dimensions allow it to pass through a standard door. Thanks to its low weight it can be positioned on the concrete before heavier machines.",
@@ -3589,7 +3589,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-90-36-inches/",
-                  "productName": "MK8-90\n36 Inches",
+                  "name": "MK8-90\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
                   "description_items": [
                     "Double float with operator on board ideal for the float and finishing of medium/large concrete surfaces. Equipped with 2 rotors ø 900 mm with 8 blades that do not cross each other therefore used with float discs.",
@@ -3695,7 +3695,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/ol-90-36-inches/",
-                  "productName": "OL-90\n36 Inches",
+                  "name": "OL-90\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
                   "description_items": [
                     "Double float with operator on board for finishing medium/large concrete surfaces. Equipped with 2 rotors ø 900 mm with 8 blades that cross. Supplied with pedal accelerator (or manual on request) and high speed kit for a brilliant smoothing.",
@@ -3774,7 +3774,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
-                  "productName": "MK8-90 HCS – Monster\n36 Inches",
+                  "name": "MK8-90 HCS – Monster\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
                   "description_items": [
                     "Double machine with operator on board for industrial flooring with dual use, both troweling and finishing, ideal for large surfaces. Equipped with 2 rotors ø 900 mm with 8 blades that do not cross. Use with trowel discs. Hydraulic driving system with 2 joysticks. Raised seat for greater visibility."
@@ -3829,7 +3829,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches/",
-                  "productName": "MK8-90 HCS\n36 Inches",
+                  "name": "MK8-90 HCS\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MK8_90-HCS_mini-700x487.jpg",
                   "description_items": [
                     "Double float with operator on board ideal for the float and finishing of medium/large concrete surfaces. Equipped with 2 rotors ø 900 mm with 8 blades that do not cross each other therefore used with float discs. Hydraulic controls with 2 joysticks.",
@@ -3917,7 +3917,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-120-46-inches/",
-                  "productName": "MK8-120\n46 Inches",
+                  "name": "MK8-120\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
                   "description_items": [
                     "Machine with operator on board ideal for the troweling and finishing of large concrete surfaces. Equipped with 2 rotors ø 1200 mm with 8 blades that do not cross each other therefore used with trowel discs. Opening protection frame to facilitate maintenance operations.",
@@ -4014,7 +4014,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/ol-120-46-inches/",
-                  "productName": "OL-120\n46 Inches",
+                  "name": "OL-120\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3295G-INT-700x439.jpg",
                   "description_items": [
                     "Double float with operator on board for finishing large concrete surfaces. Equipped with 2 rotors ø 1200 mm with 8 blades that cross. Supplied with pedal accelerator and stabilizing rings.",
@@ -4082,7 +4082,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches-monster/",
-                  "productName": "MK8-120HCS – Monster\n46 Inches",
+                  "name": "MK8-120HCS – Monster\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
                   "description_items": [
                     "Double machine for industrial flooring with dual use, both troweling and finishing, ideal for large surfaces. Equipped with 2 rotors ø 1200 mm with 8 blades that do not cross. Equipped with hydraulic controls and a raised seat.",
@@ -4162,7 +4162,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches/",
-                  "productName": "MK8-120 HCS\n46 Inches",
+                  "name": "MK8-120 HCS\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-GANCIO-700x443.jpg",
                   "description_items": [
                     "Double float with operator on board with 2 rotors ø 1200 mm with 8 blades that do not cross each other therefore used with float discs. Ideal for the float and finishing of large surfaces. Hydraulic driving system with 2 joysticks. Opening protection frame to facilitate maintenance operations.",
@@ -4257,7 +4257,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/ol-120hcs-46-inches/",
-                  "productName": "OL-120 HCS\n46 Inches",
+                  "name": "OL-120 HCS\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/OL-120HCS.jpg",
                   "description_items": [
                     "Double float with operator on board with hydraulic driving system with two joysticks for finishing large surfaces. Equipped with 2 rotors ø 1200 mm with 8 blades that cross. Supplied with pedal accelerator and stabilizing rings.",
@@ -4331,7 +4331,7 @@
                 {
                   "category": "concrete_trowels_double",
                   "productUrl": "https://www.barikell.it/prodotto/mk12-160hcs-64-inches/",
-                  "productName": "MK12-160 HCS\n64 Inches",
+                  "name": "MK12-160 HCS\n64 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3384-MK-12_160-HCS-mini-028-700x353.jpg",
                   "description_items": [
                     "MK12-160 is the largest double machine with operator on board in the range. Ideal for the troweling and finishing of large surfaces. Equipped with 2 rotors ø 1600 mm with 6 blades that do not cross. Used with trowel discs. Hydraulic driving system with 2 joysticks. Opening protection frame and stabilizing rings as standard.",
@@ -4366,7 +4366,7 @@
                 {
                   "category": "concrete_trowels_single",
                   "productUrl": "https://www.barikell.it/prodotto/moskito-60-24-inches-pale/",
-                  "productName": "Mosquito 4-60\n24 Inches",
+                  "name": "Mosquito 4-60\n24 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg",
                   "description_items": [
                     "Ideal machine for trowelling and finishing perimeters and for working flush with the wall even in restricted areas. It allows you to easily pass through doors and gates of buildings and warehouses. The rubber protection on the rotating ring allows you to slide along walls or around columns without damaging the machine or the wall.",
@@ -4456,7 +4456,7 @@
                 {
                   "category": "concrete_trowels_single",
                   "productUrl": "https://www.barikell.it/prodotto/moskito-75-30-inches/",
-                  "productName": "Mosquito 4-75\n30 Inches",
+                  "name": "Mosquito 4-75\n30 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3055-G-700x558.jpg",
                   "description_items": [
                     "Ideal machine for trowelling and finishing perimeters and for working flush with the wall even in restricted areas. It allows you to easily pass through doors and gates of buildings and warehouses. The rubber protection on the rotating ring allows you to slide along walls or around columns without damaging the machine or the wall.",
@@ -4542,7 +4542,7 @@
                 {
                   "category": "concrete_trowels_single",
                   "productUrl": "https://www.barikell.it/prodotto/4-80-32-inches/",
-                  "productName": "4-80\n32 Inches",
+                  "name": "4-80\n32 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3093G-4-80-HEAVY-DUTY-mini-044-700x553.jpg",
                   "description_items": [
                     "Single trowel Ø 800 mm for smoothing medium-sized surfaces that combines low cost with high performance. Equipped with a foldable “moskito” type handle and stabilizing ring.",
@@ -4624,7 +4624,7 @@
                 {
                   "category": "concrete_trowels_single",
                   "productUrl": "https://www.barikell.it/prodotto/4-90-36-inches/",
-                  "productName": "4-90\n36 inches",
+                  "name": "4-90\n36 inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3100-L-700x440.jpg",
                   "description_items": [
                     "Single trowel ø 900 mm with 4 blades ideal for smoothing medium-sized surfaces. Allows the incorporation of hardeners for troweling and smoothing fresh concrete. Extremely balanced for optimal smoothing.",
@@ -4785,7 +4785,7 @@
                 {
                   "category": "concrete_trowels_single",
                   "productUrl": "https://www.barikell.it/prodotto/4-120-46-inches/",
-                  "productName": "4-120\n46 Inches",
+                  "name": "4-120\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-700x470.jpg",
                   "description_items": [
                     "Single trowel ø 1200 mm with 4 blades ideal for smoothing medium-sized surfaces. Designed to have a balance that ensures smooth driving at any speed.",
@@ -4913,7 +4913,7 @@
                 {
                   "category": "concrete_trowels_single",
                   "productUrl": "https://www.barikell.it/prodotto/moskito-sabbia-cemento/",
-                  "productName": "Mosquito Sabbia cement",
+                  "name": "Mosquito Sabbia cement",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3043G-SABBIA-CEMENTO-mini-038-700x668.jpg",
                   "description_items": [
                     "Machine equipped with a fixed steel disk ø 600 mm for smoothing sand and cement screeds and for preparing subfloors before laying the flooring. Particularly suitable for working inside apartments, garages, on sidewalks and small courtyard areas.",
@@ -4979,7 +4979,7 @@
                 {
                   "category": "consumablesconstruction_joints",
                   "productUrl": "https://www.barikell.it/prodotto/giunti/",
-                  "productName": "Joints",
+                  "name": "Joints",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg",
                   "description_items": [
                     "Ideal connecting unit for joining sections of concrete flooring made at different times."
@@ -5104,7 +5104,7 @@
                 {
                   "category": "consumablesheath",
                   "productUrl": "https://www.barikell.it/prodotto/guaina/",
-                  "productName": "Sheath",
+                  "name": "Sheath",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3662-GUAINA-NERA-35-SOPRA-700x630.jpg",
                   "description_items": [
                     "Sheath"
@@ -5185,7 +5185,7 @@
                 {
                   "category": "consumablesheath",
                   "productUrl": "https://www.barikell.it/prodotto/guaina-a-palloncino/",
-                  "productName": "Balloon sheath",
+                  "name": "Balloon sheath",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/GUAINA-A-PALLONCINO-700x322.jpg",
                   "description_items": [
                     "Balloon sheath ideal for sealing cuts made in concrete floors."
@@ -5280,7 +5280,7 @@
                 {
                   "category": "consumablesheath",
                   "productUrl": "https://www.barikell.it/prodotto/posa-guaina/",
-                  "productName": "Sheath laying",
+                  "name": "Sheath laying",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3650-CARRELLO-SVOLGIGUAINA-700x965.jpg",
                   "description_items": [
                     "Machine suitable for laying normal or balloon sheathing for rolls from 250 to 300 metres."
@@ -5296,7 +5296,7 @@
                 {
                   "category": "consumabilimarshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/big-blue-float-solo-profilo/",
-                  "productName": "Big blue float – Profile only",
+                  "name": "Big blue float – Profile only",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13977-mini-027-700x443.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -5323,7 +5323,7 @@
                 {
                   "category": "consumabilimarshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/bull-float-arrotondato-con-manico-e-snodo/",
-                  "productName": "Rounded bull float with handle and joint",
+                  "name": "Rounded bull float with handle and joint",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -5349,7 +5349,7 @@
                 {
                   "category": "consumabilimarshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/bull-float-solo-profilo-arrotondato/",
-                  "productName": "Bull float only rounded profile",
+                  "name": "Bull float only rounded profile",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -5372,7 +5372,7 @@
                 {
                   "category": "consumabilimarshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-1-punta-arrotondata/",
-                  "productName": "1 rounded tip trowels",
+                  "name": "1 rounded tip trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13510-mini-021-700x454.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -5413,7 +5413,7 @@
                 {
                   "category": "consumabilimarshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-2-punte-arrotondate/",
-                  "productName": "2-pointed rounded trowels",
+                  "name": "2-pointed rounded trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13521-mini-005-700x467.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -5459,7 +5459,7 @@
                 {
                   "category": "consumabilimarshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-bordi-squadrati/",
-                  "productName": "Square edge trowels",
+                  "name": "Square edge trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13229-mini-020-700x330.jpg",
                   "description_items": [
                     "Mashalltown"
@@ -5535,7 +5535,7 @@
                 {
                   "category": "consumabilimarshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-particolari/",
-                  "productName": "Special trowels",
+                  "name": "Special trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13230-mini-002-700x467.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -5556,7 +5556,7 @@
                 {
                   "category": "consumabilimarshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-2/",
-                  "productName": "Ramp escapes",
+                  "name": "Ramp escapes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14102-mini-031-700x449.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -5597,7 +5597,7 @@
                 {
                   "category": "consumabilimarshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-dritti/",
-                  "productName": "Noses for steps with straight edges",
+                  "name": "Noses for steps with straight edges",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14288-mini-010-700x467.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -5686,7 +5686,7 @@
                 {
                   "category": "consumabilimarshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-ricurvi/",
-                  "productName": "Step Noses with Curved Edges",
+                  "name": "Step Noses with Curved Edges",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14156-mini-009-700x467.jpg",
                   "description_items": [
                     "Marshalltown"
@@ -5727,7 +5727,7 @@
                 {
                   "category": "engines",
                   "productUrl": "https://www.barikell.it/prodotto/bes/",
-                  "productName": "B&S",
+                  "name": "B&S",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/4414-MOTORE-BS-23-HP-mini-055.jpg",
                   "description_items": [
                     "B&S"
@@ -5802,7 +5802,7 @@
                 {
                   "category": "engines",
                   "productUrl": "https://www.barikell.it/prodotto/hatz/",
-                  "productName": "Finger",
+                  "name": "Finger",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/4465-MOTORE-HATZ-1B40-2-10-HP-mini-116.jpg",
                   "description_items": [
                     "Finger"
@@ -5829,7 +5829,7 @@
                 {
                   "category": "engines",
                   "productUrl": "https://www.barikell.it/prodotto/honda/",
-                  "productName": "Honda",
+                  "name": "Honda",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/4305-MOTORE-HONDA-5.5HP-QX3-mini-102-700x619.jpg",
                   "description_items": [
                     "The list of engines"
@@ -5928,7 +5928,7 @@
                 {
                   "category": "engines",
                   "productUrl": "https://www.barikell.it/prodotto/kohler/",
-                  "productName": "Kohler",
+                  "name": "Kohler",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/4391-MOTORE-KOHLER-25HP-mini-073.jpg",
                   "description_items": [
                     "The list of engines"
@@ -5971,7 +5971,7 @@
                 {
                   "category": "engines",
                   "productUrl": "https://www.barikell.it/prodotto/kubota/",
-                  "productName": "Kubota",
+                  "name": "Kubota",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/4474-MOTORE-KUBOTA-D1305-30-HP-mini-120.jpg",
                   "description_items": [
                     "Kubota"
@@ -6006,7 +6006,7 @@
                 {
                   "category": "engines",
                   "productUrl": "https://www.barikell.it/prodotto/lombardini/",
-                  "productName": "Lombardini",
+                  "name": "Lombardini",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/4435-MOTORE-LOMBARDINI-ED7A54C0-mini-128-700x752.jpg",
                   "description_items": [
                     "Lombardini"
@@ -6049,7 +6049,7 @@
                 {
                   "category": "engines",
                   "productUrl": "https://www.barikell.it/prodotto/rato/",
-                  "productName": "Mouse",
+                  "name": "Mouse",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/4369-MOTORE-RATO-EHR300-8HP-mini-103-1-700x633.jpg",
                   "description_items": [
                     "Mouse"
@@ -6100,7 +6100,7 @@
                 {
                   "category": "engines",
                   "productUrl": "https://www.barikell.it/prodotto/robin/",
-                  "productName": "Robin",
+                  "name": "Robin",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/4350-MOTORE-ROBIN-6HP-mini-057-700x622.jpg",
                   "description_items": [
                     "Robin"
@@ -6151,7 +6151,7 @@
                 {
                   "category": "consumablespalettes_trowels_and_discs",
                   "productUrl": "https://www.barikell.it/prodotto/dischi-frattazzo/",
-                  "productName": "Trowel Discs",
+                  "name": "Trowel Discs",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/discofrattazzo1.jpg",
                   "description_items": [
                     "Float discs"
@@ -6246,7 +6246,7 @@
                 {
                   "category": "consumablespalettes_trowels_and_discs",
                   "productUrl": "https://www.barikell.it/prodotto/frattazzi/",
-                  "productName": "Floating Trowels",
+                  "name": "Floating Trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
                   "description_items": [
                     "Trowels"
@@ -6299,7 +6299,7 @@
                 {
                   "category": "consumablespalettes_trowels_and_discs",
                   "productUrl": "https://www.barikell.it/prodotto/golden-blades/",
-                  "productName": "Palette golden",
+                  "name": "Palette golden",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4225-G2-GOLD-490-mini-022-700x318.jpg",
                   "description_items": [
                     "Golden blades"
@@ -6350,7 +6350,7 @@
                 {
                   "category": "consumablespalettes_trowels_and_discs",
                   "productUrl": "https://www.barikell.it/prodotto/palette/",
-                  "productName": "Palette finish",
+                  "name": "Palette finish",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4200-PALETTE-MOSQUITO-mini-053-700x374.jpg",
                   "description_items": [
                     "Palette"
@@ -6436,7 +6436,7 @@
                 {
                   "category": "consumablespalettes_trowels_and_discs",
                   "productUrl": "https://www.barikell.it/prodotto/palette-combinate/",
-                  "productName": "Combi palette",
+                  "name": "Combi palette",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4253-COMBI-SPECIAL-4_90-mini-069-700x329.jpg",
                   "description_items": [
                     "Combined palettes"
@@ -6517,7 +6517,7 @@
                 {
                   "category": "consumablespalettes_trowels_and_discs",
                   "productUrl": "https://www.barikell.it/prodotto/palette-in-teflon/",
-                  "productName": "Palette teflon",
+                  "name": "Palette teflon",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4141-PALETTA-TEFLON-120-mini-067-700x237.jpg",
                   "description_items": [
                     "Palette in teflon"
@@ -6558,7 +6558,7 @@
                 {
                   "category": "concretepolishing",
                   "productUrl": "https://www.barikell.it/prodotto/polish-4-60/",
-                  "productName": "4-60\nPolish",
+                  "name": "4-60\nPolish",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3004-POLISHING-mini-010-700x629.jpg",
                   "description_items": [
                     "Sanders, edge polishers for small surfaces and wall edges. MP8-75 and MP8-90 allow you to treat up to 2000 m2 per day. On request, stand for quick tool change.",
@@ -6581,7 +6581,7 @@
                 {
                   "category": "concretepolishing",
                   "productUrl": "https://www.barikell.it/prodotto/mp8-75-polish/",
-                  "productName": "Mp8-75\nPolish",
+                  "name": "Mp8-75\nPolish",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
                   "description_items": [
                     "Sanders, edge polishers for small surfaces and wall edges. MP8-75 and MP8-90 allow you to treat up to 2000 m2 per day. On request, stand for quick tool change.",
@@ -6613,7 +6613,7 @@
                 {
                   "category": "concretepolishing",
                   "productUrl": "https://www.barikell.it/prodotto/mp8-90-polish/",
-                  "productName": "Mp8-90\nPolish",
+                  "name": "Mp8-90\nPolish",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
                   "description_items": [
                     "Sanders, edge polishers for small surfaces and wall edges. MP8-75 and MP8-90 allow you to treat up to 2000 m2 per day. On request, stand for quick tool change.",
@@ -6655,7 +6655,7 @@
                 {
                   "category": "concretepowder",
                   "productUrl": "https://www.barikell.it/prodotto/spolverine-br-150/",
-                  "productName": "Dusters br 150",
+                  "name": "Dusters br 150",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3405-SPOLVERINA-BR150-700x786.jpg",
                   "description_items": [
                     "Machine for spreading premixed quartz with regulated dosage and motorized advancement."
@@ -6674,7 +6674,7 @@
                 {
                   "category": "concretepowder",
                   "productUrl": "https://www.barikell.it/prodotto/spolverine-br100/",
-                  "productName": "Dusters br100",
+                  "name": "Dusters br100",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3402-SPOLVERINA-BR100-mini-049-700x750.jpg",
                   "description_items": [
                     "Machine for spreading premixed quartz with regulated dosage."
@@ -6689,7 +6689,7 @@
                 {
                   "category": "concrete_stagge_and_vibrating_needle",
                   "productUrl": "https://www.barikell.it/prodotto/ago-vibrante/",
-                  "productName": "Vibrant ago",
+                  "name": "Vibrant ago",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/TKZX-45-AGO-VIBRANTE-700x602.jpg",
                   "description_items": [
                     "High frequency immersion vibrating needle to vibrate the concrete during pouring. Lightweight and compact, it eliminates the air bubbles that inevitably form during pouring to ensure maximum homogeneity and impermeability of the concrete."
@@ -6708,7 +6708,7 @@
                 {
                   "category": "concrete_stagge_and_vibrating_needle",
                   "productUrl": "https://www.barikell.it/prodotto/staggia-vibrante-a-1-manico/",
-                  "productName": "Vibrating straight edge with 1 handle",
+                  "name": "Vibrating straight edge with 1 handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4489-STAGGIA-UN-MANICO-700x716.jpg",
                   "description_items": [
                     "Petrol-powered vibrating screed with tilting aluminium profile for levelling fresh concrete floors on medium-sized surfaces."
@@ -6742,7 +6742,7 @@
                 {
                   "category": "concrete_stagge_and_vibrating_needle",
                   "productUrl": "https://www.barikell.it/prodotto/staggia-vibrante-a-2-manici/",
-                  "productName": "2-handle vibrating straightedge",
+                  "name": "2-handle vibrating straightedge",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4972-STAGGIA-2-MAN-PROF-2.5-700x508.jpg",
                   "description_items": [
                     "Petrol powered vibrating screed, double handle with watertight vibrator. Designed for spreading concrete, leveling or finishing the surface. Easy to handle and use. Available with profiles of various lengths."
@@ -6804,7 +6804,7 @@
                 {
                   "category": "concretejoint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/asphalt-20/",
-                  "productName": "Asphalt 20",
+                  "name": "Asphalt 20",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
                   "description_items": [
                     "Asphalt is a powerful automatic advance joint cutter with reverse gear for deep cuts on asphalt and concrete floors for professional use. Hydraulic adjustment of the cutting depth with manual lever (or with electric pump on request) for different cutting depths. Maximum usable disc up to 450 mm in diameter for Asphalt 20 and 600 mm for Asphalt 30. Possibility of mounting a second disc on the opposite side. Supplied without disc.",
@@ -6861,7 +6861,7 @@
                 {
                   "category": "concretejoint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/asphalt-30/",
-                  "productName": "Asphalt 30",
+                  "name": "Asphalt 30",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
                   "description_items": [
                     "Asphalt is a powerful automatic advance joint cutter with reverse gear for deep cuts on asphalt and concrete floors for professional use. Hydraulic adjustment of the cutting depth with manual lever (or with electric pump on request) for different cutting depths. Maximum usable disc up to 450 mm in diameter for Asphalt 20 and 600 mm for Asphalt 30. Possibility of mounting a second disc on the opposite side. Supplied without disc.",
@@ -6900,7 +6900,7 @@
                 {
                   "category": "concretejoint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/floor-10/",
-                  "productName": "Floor 10",
+                  "name": "Floor 10",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/FLOOR-10-APERTA-DISCO-mini-058-700x586.jpg",
                   "description_items": [
                     "Manually operated joint cutter designed for cutting expansion joints on both asphalt and concrete floors for professional use. 70L steel water tank. Carter designed for discs up to 450 mm in diameter. On request it can be supplied with a carter for a ø 600 mm disc. Possibility of mounting a second disc on the opposite side. Manual cutting depth adjustment with handwheel (or hydraulic with manual lever or electric pump on request). Supplied without disc.",
@@ -6992,7 +6992,7 @@
                 {
                   "category": "concretejoint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/floor-20/",
-                  "productName": "Floor 20",
+                  "name": "Floor 20",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
                   "description_items": [
                     "Manually operated joint cutter designed for cutting expansion joints on both asphalt and concrete floors for professional use. 80L steel water tank. Carter designed for discs up to 450 mm in diameter. On request, it can be supplied with a carter for a ø 600 mm disc. Possibility of mounting a second disc on the opposite side. Manual cutting depth adjustment with handwheel (or hydraulic with manual lever or electric pump on request). Supplied without disc.",
@@ -7049,7 +7049,7 @@
                 {
                   "category": "concretejoint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/floor-30/",
-                  "productName": "Floor 30",
+                  "name": "Floor 30",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
                   "description_items": [
                     "Manually operated joint cutter designed for cutting expansion joints on asphalt and concrete floors for professional use. Also suitable for demolishing floors. 90L steel water tank. Carter designed for discs up to 600 mm in diameter. On request it can be supplied with a carter for a ø 800 mm disc. Possibility of mounting a second disc on the opposite side. Hydraulic adjustment of the cutting depth with a manual lever (or with an electric pump on request). Supplied without disc.",
@@ -7088,7 +7088,7 @@
                 {
                   "category": "concretejoint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/floor-6/",
-                  "productName": "Floor 6",
+                  "name": "Floor 6",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3435-FLOOR-6-MIRINO-700x858.jpg",
                   "description_items": [
                     "Manually operated joint cutter designed for cutting expansion joints on both asphalt and concrete floors. 25L plastic water tank. Carter designed for discs up to 350 mm in diameter. Manual cutting depth adjustment with handwheel. Supplied without disc. Discs for fresh concrete available.",
