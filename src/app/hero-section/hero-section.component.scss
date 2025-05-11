@@ -12,6 +12,11 @@ h1 {
     font-family: "Anton", sans-serif;
 }
 
+.hero-img {
+  width: 100%;
+  max-width: 400px;
+}
+
 @keyframes slow-fade-in {
     from { opacity: 0.1; }
     to   { opacity: 1; }
