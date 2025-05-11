@@ -156,3 +156,27 @@ section {
     overflow: auto !important;
   }
   
+.video-section {
+  margin-top: 1.5rem;
+  
+  h6 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 0.8rem;
+  }
+
+  .video-wrapper {
+    position: relative;
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+    iframe {
+      border: none;
+      background: #f8f9fa;
+    }
+  }
+}
+  

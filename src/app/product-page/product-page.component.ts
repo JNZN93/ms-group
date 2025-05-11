@@ -9,12 +9,13 @@ import { filter } from 'rxjs/operators';
 import { Subscription } from 'rxjs';
 import Swal from 'sweetalert2';
 import { TranslateModule } from '@ngx-translate/core';
+import { SafePipe } from '../pipes/safe.pipe';
 
 declare var $: any;
 
 @Component({
   selector: 'app-product-page',
-  imports: [FormsModule, CommonModule, TranslateModule],
+  imports: [FormsModule, CommonModule, TranslateModule, SafePipe],
   templateUrl: './product-page.component.html',
   styleUrl: './product-page.component.scss'
 })
@@ -78,13 +79,21 @@ export class ProductPageComponent implements OnInit, OnDestroy {
 
   openModal(product:any) {
     this.selectedProduct = product;
-    this.selectedVariant = product.models?.[0] || null; // ← erstes Modell vorauswählen
-    console.log(this.selectedVariant);
-    console.log(this.selectedProduct);
+    this.selectedVariant = product.models?.[0] || null;
     
+    // Convert YouTube URL to embed URL if needed
+    if (this.selectedBrand === 'somero' && this.selectedProduct?.video) {
+      const videoUrl = this.selectedProduct.video;
+      if (videoUrl.includes('youtube.com/watch')) {
+        // Convert watch URL to embed URL
+        const videoId = videoUrl.split('v=')[1]?.split('&')[0];
+        if (videoId) {
+          this.selectedProduct.video = `https://www.youtube.com/embed/${videoId}`;
+        }
+      }
+    }
     
-    // URL ändern, damit Browser-Zurück funktioniert
-  history.pushState({ modal: true }, '', window.location.href + '#modal');
+    history.pushState({ modal: true }, '', window.location.href + '#modal');
     $('#myModal').modal('show');
   }
 
@@ -179,6 +188,18 @@ export class ProductPageComponent implements OnInit, OnDestroy {
 
   getFirstValue(obj: any): any {
     return obj[Object.keys(obj)[0]];
+  }
+
+  getVideoUrl(productName: string): string {
+    const videoMap: { [key: string]: string } = {
+      'S-485 Laser Screed': 'https://www.youtube.com/embed/your-video-id-1',
+      'S-22EZ Laser Screed': 'https://www.youtube.com/embed/your-video-id-2',
+      'CopperHead XD 3.0': 'https://www.youtube.com/embed/your-video-id-3',
+      'S-158C Laser Screed': 'https://www.youtube.com/embed/your-video-id-4',
+      'Mini Screed C': 'https://www.youtube.com/embed/your-video-id-5',
+      'S-10A Laser Screed': 'https://www.youtube.com/embed/your-video-id-6'
+    };
+    return videoMap[productName] || '';
   }
 
   get uniqueCategories(): string[] {
