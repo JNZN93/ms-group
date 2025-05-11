@@ -234,7 +234,7 @@
                     "Length Puller: 73″ / 1.8 m | Placer: 75″ / 1.9 m",
                     "Height Puller: 41.5″ / 1.1 m | Placer: 44.5″ / 1.1 m",
                     "Ground Clearance 7″–7.25″ | 0.178-0.184 m",
-                    "Steering Angle 180 deg.",
+                    "Steering Angle 180 degrees.",
                     "Engine 11.7-hp / 8.7-kW Honda GX390",
                     "Tires Carlisle 18×8.5",
                     "Clamp Opening 8.5″ | 10.22 m"
@@ -338,28 +338,6 @@
                     "Engine (Options) Kubota DH 902 T4f DieselKubota DH 972 T4f Propane",
                     "Screed Head Width (Standard) 10’ | 3.1m",
                     "Boom Length 18’ | 5.48m"
-                  ],
-                  "models": []
-                },
-                {
-                  "url": "https://www.somero.com/products/s-10a-laser-screed/",
-                  "image": "https://www.somero.com/wp-content/uploads/2024/07/S-10A_Product-Image-1.jpg",
-                  "name": "S-10A Laser Screed",
-                  "description_items": [
-                    "Improved floor quality",
-                    "Increased profitability",
-                    "Column Block Protection (optional)",
-                    "OASIS Laser Control System",
-                    "Operator positioned in center of machine for optimum 360 visibility",
-                    "Compatible with the 3-D Profiler System®",
-                    "Somero Quick GradeSet System™",
-                    "Weight 3,402 kg | 7,500 lbs",
-                    "Width 2 m | 6’ 8”",
-                    "Length (Transport Mode) 7 m | 23’",
-                    "Height 2.1 m | 6′ 10″",
-                    "Engine (Standard) 26 kW Kubota | 35 HP Diesel",
-                    "Screed Head Width (Standard) 3 m | 10’",
-                    "Boom Length 6 m | 20’"
                   ],
                   "models": []
                 },
@@ -649,23 +627,23 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "5290",
+                      "Item": "5290",
                       "Descrizione": "PUMP PIPE SUPPORT"
                     },
                     {
-                      "Articolo": "5103",
+                      "Item": "5103",
                       "Descrizione": "PUMP PIPE LIFTING CLAMP"
                     },
                     {
-                      "Articolo": "5104",
+                      "Item": "5104",
                       "Descrizione": "HOOK FOR LIFTING PUMP PIPE"
                     },
                     {
-                      "Articolo": "5105",
+                      "Item": "5105",
                       "Descrizione": "NET LIFTING HOOK"
                     },
                     {
-                      "Articolo": "5106",
+                      "Item": "5106",
                       "Descrizione": "CHAIN FOR LIFTING PUMP PIPE"
                     }
                   ]
@@ -807,31 +785,31 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "5295",
+                      "Item": "5295",
                       "Descrizione": "Complete picket adjustable in both height and depth"
                     },
                     {
-                      "Articolo": "5298",
+                      "Item": "5298",
                       "Descrizione": "Complete picket adjustable only in height"
                     },
                     {
-                      "Articolo": "5293",
+                      "Item": "5293",
                       "Descrizione": "Bracket for picket code 5295"
                     },
                     {
-                      "Articolo": "5294",
+                      "Item": "5294",
                       "Descrizione": "30x30x70 mm square for adjustable picket code 5295"
                     },
                     {
-                      "Articolo": "5291",
+                      "Item": "5291",
                       "Descrizione": "Screw eyebolt m. 10 for pegs codes 5295"
                     },
                     {
-                      "Articolo": "5292",
+                      "Item": "5292",
                       "Descrizione": "Pointed spike for adjustable pegs codes 5295/5298"
                     },
                     {
-                      "Articolo": "5297",
+                      "Item": "5297",
                       "Descrizione": "Adjustable picket bracket code 5298"
                     }
                   ]
@@ -846,11 +824,11 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "3920",
+                      "Item": "3920",
                       "Descrizione": "Handle with knob"
                     },
                     {
-                      "Articolo": "3918",
+                      "Item": "3918",
                       "Descrizione": "80x40 mm"
                     }
                   ]
@@ -879,23 +857,23 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "5290",
+                      "Item": "5290",
                       "Descrizione": "PUMP PIPE SUPPORT"
                     },
                     {
-                      "Articolo": "5103",
+                      "Item": "5103",
                       "Descrizione": "PUMP PIPE LIFTING CLAMP"
                     },
                     {
-                      "Articolo": "5104",
+                      "Item": "5104",
                       "Descrizione": "HOOK FOR LIFTING PUMP PIPE"
                     },
                     {
-                      "Articolo": "5105",
+                      "Item": "5105",
                       "Descrizione": "NET LIFTING HOOK"
                     },
                     {
-                      "Articolo": "5106",
+                      "Item": "5106",
                       "Descrizione": "CHAIN FOR LIFTING PUMP PIPE"
                     }
                   ]
@@ -910,31 +888,31 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "5295",
+                      "Item": "5295",
                       "Descrizione": "Complete picket adjustable in both height and depth"
                     },
                     {
-                      "Articolo": "5298",
+                      "Item": "5298",
                       "Descrizione": "Complete picket adjustable only in height"
                     },
                     {
-                      "Articolo": "5293",
+                      "Item": "5293",
                       "Descrizione": "Bracket for picket code 5295"
                     },
                     {
-                      "Articolo": "5294",
+                      "Item": "5294",
                       "Descrizione": "30x30x70 mm square for adjustable picket code 5295"
                     },
                     {
-                      "Articolo": "5291",
+                      "Item": "5291",
                       "Descrizione": "Screw eyebolt m. 10 for pegs codes 5295"
                     },
                     {
-                      "Articolo": "5292",
+                      "Item": "5292",
                       "Descrizione": "Pointed spike for adjustable pegs codes 5295/5298"
                     },
                     {
-                      "Articolo": "5297",
+                      "Item": "5297",
                       "Descrizione": "Adjustable picket bracket code 5298"
                     }
                   ]
@@ -949,11 +927,11 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "3920",
+                      "Item": "3920",
                       "Descrizione": "Handle with knob"
                     },
                     {
-                      "Articolo": "3918",
+                      "Item": "3918",
                       "Descrizione": "80x40 mm"
                     }
                   ]
@@ -968,15 +946,15 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "3932",
+                      "Item": "3932",
                       "Descrizione": "Panel cleaning scraper"
                     },
                     {
-                      "Articolo": "3931",
+                      "Item": "3931",
                       "Descrizione": "Only wooden handle for scraper 1.50 meters Ø 30mm"
                     },
                     {
-                      "Articolo": "3930",
+                      "Item": "3930",
                       "Descrizione": "Scraper only 300×150x1.2 mm"
                     }
                   ]
@@ -991,63 +969,63 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "3935",
+                      "Item": "3935",
                       "Descrizione": "RAKE WITH STEEL HANDLE AND SHOVEL"
                     },
                     {
-                      "Articolo": "3937",
+                      "Item": "3937",
                       "Descrizione": "IRON HANDLE ONLY 1.5 m ø 26 mm"
                     },
                     {
-                      "Articolo": "4038",
+                      "Item": "4038",
                       "Descrizione": "SOLO PALA IN FERRO cm 50x10x0,15"
                     },
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione": null
                     },
                     {
-                      "Articolo": "4046",
+                      "Item": "4046",
                       "Descrizione": "RAKE WITH ALUMINUM HANDLE AND SHOVEL"
                     },
                     {
-                      "Articolo": "4039",
+                      "Item": "4039",
                       "Descrizione": "ALUMINIUM HANDLE ONLY m 1.5 ø 26 mm"
                     },
                     {
-                      "Articolo": "4041",
+                      "Item": "4041",
                       "Descrizione": "ALUMINIUM SHOVEL ONLY 50x12.5x0.3 cm"
                     },
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione": null
                     },
                     {
-                      "Articolo": "4048",
+                      "Item": "4048",
                       "Descrizione": "RAKE WITH ALUMINUM HANDLE AND STEEL SHOVEL"
                     },
                     {
-                      "Articolo": "4039",
+                      "Item": "4039",
                       "Descrizione": "ALUMINIUM HANDLE ONLY 1.5 m ø 26 mm"
                     },
                     {
-                      "Articolo": "4038",
+                      "Item": "4038",
                       "Descrizione": "STEEL SHOVEL ONLY 50x10x0.15 cm"
                     },
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione": null
                     },
                     {
-                      "Articolo": "4042",
+                      "Item": "4042",
                       "Descrizione": "INCLINED ATTACHMENT FOR RAKE COD. 4046"
                     },
                     {
-                      "Articolo": "4049",
+                      "Item": "4049",
                       "Descrizione": "STRAIGHT ATTACHMENT FOR RAKE COD. 4049"
                     },
                     {
-                      "Articolo": "1192",
+                      "Item": "1192",
                       "Descrizione": "PLASTIC KNOB FOR ALL TYPES OF RAKES AND WATER SQUEEZERS"
                     }
                   ]
@@ -1062,15 +1040,15 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "3940",
+                      "Item": "3940",
                       "Descrizione": "0.50 meter water pusher"
                     },
                     {
-                      "Articolo": "3945",
+                      "Item": "3945",
                       "Descrizione": "1.00 meter water pusher"
                     },
                     {
-                      "Articolo": "3950",
+                      "Item": "3950",
                       "Descrizione": "2.00 meter water pusher"
                     }
                   ]
@@ -1140,43 +1118,43 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "5300",
+                      "Item": "5300",
                       "Descrizione": "50 meter line marker with cotton thread"
                     },
                     {
-                      "Articolo": "5301",
+                      "Item": "5301",
                       "Descrizione": "30 meter line marker with cotton thread"
                     },
                     {
-                      "Articolo": "5305",
+                      "Item": "5305",
                       "Descrizione": "Bottle of blue powder for line markers GR 200"
                     },
                     {
-                      "Articolo": "5304",
+                      "Item": "5304",
                       "Descrizione": "Bottle of blue powder for line markers GR 300"
                     },
                     {
-                      "Articolo": "5393",
+                      "Item": "5393",
                       "Descrizione": "Bottle of blue powder for line markers GR 1000"
                     },
                     {
-                      "Articolo": "5394",
+                      "Item": "5394",
                       "Descrizione": "Bottle of blue powder for line markers GR 3000"
                     },
                     {
-                      "Articolo": "5302",
+                      "Item": "5302",
                       "Descrizione": "Bottle of red powder for line markers GR 200"
                     },
                     {
-                      "Articolo": "5303",
+                      "Item": "5303",
                       "Descrizione": "Bottle of red powder for line markers GR 300"
                     },
                     {
-                      "Articolo": "5395",
+                      "Item": "5395",
                       "Descrizione": "Bottle of red powder for line markers GR 1000"
                     },
                     {
-                      "Articolo": "5396",
+                      "Item": "5396",
                       "Descrizione": "Bottle of red powder for line markers GR 3000"
                     }
                   ]
@@ -2699,19 +2677,19 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4087",
+                      "Item": "4087",
                       "Diametro": "300",
                       "Spessore": "2.8",
                       "Foro": "30 + reduction bushing"
                     },
                     {
-                      "Articolo": "4088",
+                      "Item": "4088",
                       "Diametro": "350",
                       "Spessore": "2.8",
                       "Foro": "30 + reduction bushing"
                     },
                     {
-                      "Articolo": "4089",
+                      "Item": "4089",
                       "Diametro": "350",
                       "Spessore": "3.2",
                       "Foro": "30 + reduction bushing"
@@ -3130,43 +3108,43 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4148",
+                      "Item": "4148",
                       "Macchine compatibili": "4-80 / MK-75",
                       "Spessore mm": "3",
                       "Peso Kg": "6.698"
                     },
                     {
-                      "Articolo": "4150",
+                      "Item": "4150",
                       "Macchine compatibili": "4-90 / OL90 / MK8-90 dx",
                       "Spessore mm": "3",
                       "Peso Kg": "9.300"
                     },
                     {
-                      "Articolo": "4155",
+                      "Item": "4155",
                       "Macchine compatibili": "OL90 / MK8-90 left",
                       "Spessore mm": "3",
                       "Peso Kg": "9.300"
                     },
                     {
-                      "Articolo": "4160",
+                      "Item": "4160",
                       "Macchine compatibili": "4-120 / OL120 / MK8-120 dx",
                       "Spessore mm": "3",
                       "Peso Kg": "12.500"
                     },
                     {
-                      "Articolo": "4165",
+                      "Item": "4165",
                       "Macchine compatibili": "OL120 / MK8-120 sx",
                       "Spessore mm": "3",
                       "Peso Kg": "12.500"
                     },
                     {
-                      "Articolo": "4180",
+                      "Item": "4180",
                       "Macchine compatibili": "4-120 / OL120 / MK8-120 dx",
                       "Spessore mm": "4",
                       "Peso Kg": "16.500"
                     },
                     {
-                      "Articolo": "4185",
+                      "Item": "4185",
                       "Macchine compatibili": "OL120 / MK8-120 sx",
                       "Spessore mm": "4",
                       "Peso Kg": "16.500"
@@ -3261,115 +3239,115 @@
                   ],
                   "models": [
                     {
-                      "Articolo Grezzo": "5150",
-                      "Articolo Zincato": "5170",
+                      "Item Grezzo": "5150",
+                      "Item Zincato": "5170",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "70 mm"
                     },
                     {
-                      "Articolo Grezzo": "5151",
-                      "Articolo Zincato": "5171",
+                      "Item Grezzo": "5151",
+                      "Item Zincato": "5171",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "80 mm"
                     },
                     {
-                      "Articolo Grezzo": "5152",
-                      "Articolo Zincato": "5172",
+                      "Item Grezzo": "5152",
+                      "Item Zincato": "5172",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "90 mm"
                     },
                     {
-                      "Articolo Grezzo": "5153",
-                      "Articolo Zincato": "5173",
+                      "Item Grezzo": "5153",
+                      "Item Zincato": "5173",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "100 mm"
                     },
                     {
-                      "Articolo Grezzo": "5154",
-                      "Articolo Zincato": "5174",
+                      "Item Grezzo": "5154",
+                      "Item Zincato": "5174",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "110 mm"
                     },
                     {
-                      "Articolo Grezzo": "5155",
-                      "Articolo Zincato": "5175",
+                      "Item Grezzo": "5155",
+                      "Item Zincato": "5175",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "120 mm"
                     },
                     {
-                      "Articolo Grezzo": "5156",
-                      "Articolo Zincato": "5176",
+                      "Item Grezzo": "5156",
+                      "Item Zincato": "5176",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "130 mm"
                     },
                     {
-                      "Articolo Grezzo": "5157",
-                      "Articolo Zincato": "5177",
+                      "Item Grezzo": "5157",
+                      "Item Zincato": "5177",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "140 mm"
                     },
                     {
-                      "Articolo Grezzo": "5158",
-                      "Articolo Zincato": "5178",
+                      "Item Grezzo": "5158",
+                      "Item Zincato": "5178",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "150 mm"
                     },
                     {
-                      "Articolo Grezzo": "5159",
-                      "Articolo Zincato": "5179",
+                      "Item Grezzo": "5159",
+                      "Item Zincato": "5179",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "160 mm"
                     },
                     {
-                      "Articolo Grezzo": "5160",
-                      "Articolo Zincato": "5180",
+                      "Item Grezzo": "5160",
+                      "Item Zincato": "5180",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "170 mm"
                     },
                     {
-                      "Articolo Grezzo": "5161",
-                      "Articolo Zincato": "5181",
+                      "Item Grezzo": "5161",
+                      "Item Zincato": "5181",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "180 mm"
                     },
                     {
-                      "Articolo Grezzo": "5162",
-                      "Articolo Zincato": "5182",
+                      "Item Grezzo": "5162",
+                      "Item Zincato": "5182",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "190 mm"
                     },
                     {
-                      "Articolo Grezzo": "5163",
-                      "Articolo Zincato": "5183",
+                      "Item Grezzo": "5163",
+                      "Item Zincato": "5183",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "200 mm"
                     },
                     {
-                      "Articolo Grezzo": "5164",
-                      "Articolo Zincato": "5184",
+                      "Item Grezzo": "5164",
+                      "Item Zincato": "5184",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "210 mm"
                     },
                     {
-                      "Articolo": "5090",
+                      "Item": "5090",
                       "Descrizione": "Single barrel complete with PVC sheath and cap",
                       "Lunghezza": "600 mm",
                       "Diametro": "14 mm"
                     },
                     {
-                      "Articolo": "5091",
+                      "Item": "5091",
                       "Descrizione": "Single barrel complete with PVC sheath and cap",
                       "Lunghezza": "750 mm",
                       "Diametro": "16 mm"
                     },
                     {
-                      "Articolo": "5092",
+                      "Item": "5092",
                       "Descrizione": "Single barrel complete with PVC sheath and cap",
                       "Lunghezza": "750 mm",
                       "Diametro": "18 mm"
                     },
                     {
-                      "Articolo": "5093",
+                      "Item": "5093",
                       "Descrizione": "Single barrel complete with PVC sheath and cap",
                       "Lunghezza": "750 mm",
                       "Diametro": "20 mm"
@@ -3437,19 +3415,19 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4087",
+                      "Item": "4087",
                       "Diametro": "300",
                       "Spessore": "2.8",
                       "Foro": "30 + reduction bushing"
                     },
                     {
-                      "Articolo": "4088",
+                      "Item": "4088",
                       "Diametro": "350",
                       "Spessore": "2.8",
                       "Foro": "30 + reduction bushing"
                     },
                     {
-                      "Articolo": "4089",
+                      "Item": "4089",
                       "Diametro": "350",
                       "Spessore": "3.2",
                       "Foro": "30 + reduction bushing"
@@ -3466,19 +3444,19 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4085",
+                      "Item": "4085",
                       "Diametro mm": "300",
                       "Spessore mm": "2.8",
                       "Foro mm": "30 + reduction bushing"
                     },
                     {
-                      "Articolo": "4086",
+                      "Item": "4086",
                       "Diametro mm": "350",
                       "Spessore mm": "2.8",
                       "Foro mm": "30 + reduction bushing"
                     },
                     {
-                      "Articolo": "4055",
+                      "Item": "4055",
                       "Diametro mm": "350",
                       "Spessore mm": "3.2",
                       "Foro mm": "30 + reduction bushing"
@@ -4986,115 +4964,115 @@
                   ],
                   "models": [
                     {
-                      "Articolo Grezzo": "5150",
-                      "Articolo Zincato": "5170",
+                      "Item Grezzo": "5150",
+                      "Item Zincato": "5170",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "70 mm"
                     },
                     {
-                      "Articolo Grezzo": "5151",
-                      "Articolo Zincato": "5171",
+                      "Item Grezzo": "5151",
+                      "Item Zincato": "5171",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "80 mm"
                     },
                     {
-                      "Articolo Grezzo": "5152",
-                      "Articolo Zincato": "5172",
+                      "Item Grezzo": "5152",
+                      "Item Zincato": "5172",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "90 mm"
                     },
                     {
-                      "Articolo Grezzo": "5153",
-                      "Articolo Zincato": "5173",
+                      "Item Grezzo": "5153",
+                      "Item Zincato": "5173",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "100 mm"
                     },
                     {
-                      "Articolo Grezzo": "5154",
-                      "Articolo Zincato": "5174",
+                      "Item Grezzo": "5154",
+                      "Item Zincato": "5174",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "110 mm"
                     },
                     {
-                      "Articolo Grezzo": "5155",
-                      "Articolo Zincato": "5175",
+                      "Item Grezzo": "5155",
+                      "Item Zincato": "5175",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "120 mm"
                     },
                     {
-                      "Articolo Grezzo": "5156",
-                      "Articolo Zincato": "5176",
+                      "Item Grezzo": "5156",
+                      "Item Zincato": "5176",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "130 mm"
                     },
                     {
-                      "Articolo Grezzo": "5157",
-                      "Articolo Zincato": "5177",
+                      "Item Grezzo": "5157",
+                      "Item Zincato": "5177",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "140 mm"
                     },
                     {
-                      "Articolo Grezzo": "5158",
-                      "Articolo Zincato": "5178",
+                      "Item Grezzo": "5158",
+                      "Item Zincato": "5178",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "150 mm"
                     },
                     {
-                      "Articolo Grezzo": "5159",
-                      "Articolo Zincato": "5179",
+                      "Item Grezzo": "5159",
+                      "Item Zincato": "5179",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "160 mm"
                     },
                     {
-                      "Articolo Grezzo": "5160",
-                      "Articolo Zincato": "5180",
+                      "Item Grezzo": "5160",
+                      "Item Zincato": "5180",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "170 mm"
                     },
                     {
-                      "Articolo Grezzo": "5161",
-                      "Articolo Zincato": "5181",
+                      "Item Grezzo": "5161",
+                      "Item Zincato": "5181",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "180 mm"
                     },
                     {
-                      "Articolo Grezzo": "5162",
-                      "Articolo Zincato": "5182",
+                      "Item Grezzo": "5162",
+                      "Item Zincato": "5182",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "190 mm"
                     },
                     {
-                      "Articolo Grezzo": "5163",
-                      "Articolo Zincato": "5183",
+                      "Item Grezzo": "5163",
+                      "Item Zincato": "5183",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "200 mm"
                     },
                     {
-                      "Articolo Grezzo": "5164",
-                      "Articolo Zincato": "5184",
+                      "Item Grezzo": "5164",
+                      "Item Zincato": "5184",
                       "Descrizione": "Double sheet metal construction joint without bars",
                       "Altezza": "210 mm"
                     },
                     {
-                      "Articolo": "5090",
+                      "Item": "5090",
                       "Descrizione": "Single barrel complete with PVC sheath and cap",
                       "Lunghezza": "600 mm",
                       "Diametro": "14 mm"
                     },
                     {
-                      "Articolo": "5091",
+                      "Item": "5091",
                       "Descrizione": "Single barrel complete with PVC sheath and cap",
                       "Lunghezza": "750 mm",
                       "Diametro": "16 mm"
                     },
                     {
-                      "Articolo": "5092",
+                      "Item": "5092",
                       "Descrizione": "Single barrel complete with PVC sheath and cap",
                       "Lunghezza": "750 mm",
                       "Diametro": "18 mm"
                     },
                     {
-                      "Articolo": "5093",
+                      "Item": "5093",
                       "Descrizione": "Single barrel complete with PVC sheath and cap",
                       "Lunghezza": "750 mm",
                       "Diametro": "20 mm"
@@ -5111,70 +5089,70 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "3660 3662",
+                      "Item": "3660 3662",
                       "Descrizione": "Grey PVC sheath Black PVC sheath",
                       "Larghezza guaina": "3.5 mm",
                       "Spessore disco": "2.4 mm",
                       "Lunghezza rotolo": "250 m"
                     },
                     {
-                      "Articolo": "3664 3666",
+                      "Item": "3664 3666",
                       "Descrizione": "Grey PVC sheath Black PVC sheath",
                       "Larghezza guaina": "3.8 mm",
                       "Spessore disco": "2.8 mm",
                       "Lunghezza rotolo": "250 m"
                     },
                     {
-                      "Articolo": "3668 3670",
+                      "Item": "3668 3670",
                       "Descrizione": "Grey PVC sheath Black PVC sheath",
                       "Larghezza guaina": "4.0 mm",
                       "Spessore disco": "2.8 mm",
                       "Lunghezza rotolo": "250 m"
                     },
                     {
-                      "Articolo": "3672 3674",
+                      "Item": "3672 3674",
                       "Descrizione": "Grey PVC sheath Black PVC sheath",
                       "Larghezza guaina": "4.2 mm",
                       "Spessore disco": "3.2 mm",
                       "Lunghezza rotolo": "250 m"
                     },
                     {
-                      "Articolo": "3676 3678",
+                      "Item": "3676 3678",
                       "Descrizione": "Grey PVC sheath Black PVC sheath",
                       "Larghezza guaina": "4.6 mm",
                       "Spessore disco": "3.2 mm",
                       "Lunghezza rotolo": "250 m"
                     },
                     {
-                      "Articolo": "3680 3682",
+                      "Item": "3680 3682",
                       "Descrizione": "Grey PVC sheath Black PVC sheath",
                       "Larghezza guaina": "4.8 mm",
                       "Spessore disco": "3.6 mm",
                       "Lunghezza rotolo": "250 m"
                     },
                     {
-                      "Articolo": "3684 3686",
+                      "Item": "3684 3686",
                       "Descrizione": "Grey PVC sheath Black PVC sheath",
                       "Larghezza guaina": "5.0 mm",
                       "Spessore disco": "3.6 mm",
                       "Lunghezza rotolo": "250 m"
                     },
                     {
-                      "Articolo": "3688 3690",
+                      "Item": "3688 3690",
                       "Descrizione": "Grey PVC sheath Black PVC sheath",
                       "Larghezza guaina": "5.2 mm",
                       "Spessore disco": "4.2 mm",
                       "Lunghezza rotolo": "250 m"
                     },
                     {
-                      "Articolo": "3692 3694",
+                      "Item": "3692 3694",
                       "Descrizione": "Grey PVC sheath Black PVC sheath",
                       "Larghezza guaina": "5.5 mm",
                       "Spessore disco": "4.2 mm",
                       "Lunghezza rotolo": "250 m"
                     },
                     {
-                      "Articolo": "3696 3698",
+                      "Item": "3696 3698",
                       "Descrizione": "Grey PVC sheath Black PVC sheath",
                       "Larghezza guaina": "6.0 mm",
                       "Spessore disco": "4.2 mm",
@@ -5192,84 +5170,84 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "3702",
+                      "Item": "3702",
                       "Descrizione": "Black balloon sheath",
                       "Larghezza guaina mm": "3,5",
                       "Spessore disco mm": "2.4",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3704",
+                      "Item": "3704",
                       "Descrizione": "Black balloon sheath",
                       "Larghezza guaina mm": "3.8",
                       "Spessore disco mm": "2.8",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3705",
+                      "Item": "3705",
                       "Descrizione": "Black balloon sheath",
                       "Larghezza guaina mm": "4.2",
                       "Spessore disco mm": "2.8",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3706",
+                      "Item": "3706",
                       "Descrizione": "Black balloon sheath",
                       "Larghezza guaina mm": "5.2",
                       "Spessore disco mm": "3.2",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3708",
+                      "Item": "3708",
                       "Descrizione": "Black balloon sheath",
                       "Larghezza guaina mm": "5.8",
                       "Spessore disco mm": "3.5 / 3.85",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3710",
+                      "Item": "3710",
                       "Descrizione": "Black balloon sheath",
                       "Larghezza guaina mm": "6",
                       "Spessore disco mm": "4.2",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3712",
+                      "Item": "3712",
                       "Descrizione": "Grey balloon sheath",
                       "Larghezza guaina mm": "3.5",
                       "Spessore disco mm": "2.4",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3714",
+                      "Item": "3714",
                       "Descrizione": "Grey balloon sheath",
                       "Larghezza guaina mm": "3.8",
                       "Spessore disco mm": "2.8",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3715",
+                      "Item": "3715",
                       "Descrizione": "Grey balloon sheath",
                       "Larghezza guaina mm": "4.2",
                       "Spessore disco mm": "2.8",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3716",
+                      "Item": "3716",
                       "Descrizione": "Grey balloon sheath",
                       "Larghezza guaina mm": "5.2",
                       "Spessore disco mm": "3.2",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3718",
+                      "Item": "3718",
                       "Descrizione": "Grey balloon sheath",
                       "Larghezza guaina mm": "5.8",
                       "Spessore disco mm": "3.5 / 3.85",
                       "Lunghezza rotolo m": "250"
                     },
                     {
-                      "Articolo": "3720",
+                      "Item": "3720",
                       "Descrizione": "Grey balloon sheath",
                       "Larghezza guaina mm": "6",
                       "Spessore disco mm": "4.2",
@@ -5287,7 +5265,7 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "3650",
+                      "Item": "3650",
                       "Descrizione": "Sheath unwinding trolley",
                       "Peso": "44"
                     }
@@ -5734,7 +5712,7 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4400",
+                      "Item": "4400",
                       "Descrizione motore": "B&S Vanguard",
                       "Potenza Cv": "14",
                       "Alimentazione": "Gas",
@@ -5742,7 +5720,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4410",
+                      "Item": "4410",
                       "Descrizione motore": "B&S Vanguard",
                       "Potenza Cv": "18",
                       "Alimentazione": "Gas",
@@ -5750,7 +5728,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4405",
+                      "Item": "4405",
                       "Descrizione motore": "B&S Vanguard",
                       "Potenza Cv": "18",
                       "Alimentazione": "Gas",
@@ -5758,7 +5736,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4407",
+                      "Item": "4407",
                       "Descrizione motore": "B&S Vanguard S / SERB",
                       "Potenza Cv": "18",
                       "Alimentazione": "Gas",
@@ -5766,7 +5744,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4413",
+                      "Item": "4413",
                       "Descrizione motore": "B&S Vanguard",
                       "Potenza Cv": "23",
                       "Alimentazione": "Gas",
@@ -5774,7 +5752,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4415",
+                      "Item": "4415",
                       "Descrizione motore": "B&S Vanguard",
                       "Potenza Cv": "31",
                       "Alimentazione": "Gas",
@@ -5782,7 +5760,7 @@
                       "Ø Albero mm": "28.57"
                     },
                     {
-                      "Articolo": "4416",
+                      "Item": "4416",
                       "Descrizione motore": "B&S Vanguard",
                       "Potenza Cv": "35",
                       "Alimentazione": "Gas",
@@ -5790,7 +5768,7 @@
                       "Ø Albero mm": "28.57"
                     },
                     {
-                      "Articolo": "4417",
+                      "Item": "4417",
                       "Descrizione motore": "B&S Vanguard",
                       "Potenza Cv": "35",
                       "Alimentazione": "Gas",
@@ -5809,7 +5787,7 @@
                   ],
                   "models": [
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione motore": "Hatz 4.5 hp",
                       "Potenza Cv": "4,5",
                       "Alimentazione": "Diesel",
@@ -5817,7 +5795,7 @@
                       "Ø Albero mm": null
                     },
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione motore": "Hatz 10 hp",
                       "Potenza Cv": "10",
                       "Alimentazione": "Diesel",
@@ -5836,7 +5814,7 @@
                   ],
                   "models": [
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione motore": null,
                       "Potenza Cv": null,
                       "Alimentazione": null,
@@ -5844,7 +5822,7 @@
                       "Ø Albero mm": null
                     },
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione motore": null,
                       "Potenza Cv": null,
                       "Alimentazione": null,
@@ -5852,7 +5830,7 @@
                       "Ø Albero mm": null
                     },
                     {
-                      "Articolo": "4305",
+                      "Item": "4305",
                       "Descrizione motore": "Honda GX 160",
                       "Potenza Cv": "5.5",
                       "Alimentazione": "Gas",
@@ -5860,7 +5838,7 @@
                       "Ø Albero mm": "19.05"
                     },
                     {
-                      "Articolo": "4307",
+                      "Item": "4307",
                       "Descrizione motore": "Honda GX 200 H",
                       "Potenza Cv": "6.5",
                       "Alimentazione": "Gas",
@@ -5868,7 +5846,7 @@
                       "Ø Albero mm": "19.05"
                     },
                     {
-                      "Articolo": "4310",
+                      "Item": "4310",
                       "Descrizione motore": "Honda GX 270 UT2",
                       "Potenza Cv": "9",
                       "Alimentazione": "Gas",
@@ -5876,7 +5854,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4315",
+                      "Item": "4315",
                       "Descrizione motore": "Honda GX 340 UT2",
                       "Potenza Cv": "11",
                       "Alimentazione": "Gas",
@@ -5884,7 +5862,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4320",
+                      "Item": "4320",
                       "Descrizione motore": "Honda GX 390 UT2 QX",
                       "Potenza Cv": "13",
                       "Alimentazione": "Gas",
@@ -5892,7 +5870,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4321",
+                      "Item": "4321",
                       "Descrizione motore": "Honda GX 390 U2 QK",
                       "Potenza Cv": "13",
                       "Alimentazione": "Gas",
@@ -5900,7 +5878,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4325",
+                      "Item": "4325",
                       "Descrizione motore": "Honda GX 630 RH",
                       "Potenza Cv": "20",
                       "Alimentazione": "Gas",
@@ -5908,7 +5886,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4331",
+                      "Item": "4331",
                       "Descrizione motore": "Honda GX 690 RH TX-F5",
                       "Potenza Cv": "20",
                       "Alimentazione": "Gas",
@@ -5916,7 +5894,7 @@
                       "Ø Albero mm": "28.57"
                     },
                     {
-                      "Articolo": "4332",
+                      "Item": "4332",
                       "Descrizione motore": "Honda GX 690 RH TX-F2",
                       "Potenza Cv": "27",
                       "Alimentazione": "Gas",
@@ -5935,7 +5913,7 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4385",
+                      "Item": "4385",
                       "Descrizione motore": "Kohler CH 730",
                       "Potenza Cv": "23.5",
                       "Alimentazione": "Gas",
@@ -5943,7 +5921,7 @@
                       "Ø Albero mm": "28.57"
                     },
                     {
-                      "Articolo": "4390",
+                      "Item": "4390",
                       "Descrizione motore": "Kohler CH 742",
                       "Potenza Cv": "25",
                       "Alimentazione": "Gas",
@@ -5951,7 +5929,7 @@
                       "Ø Albero mm": "28.57"
                     },
                     {
-                      "Articolo": "4395",
+                      "Item": "4395",
                       "Descrizione motore": "Kohler CH 940",
                       "Potenza Cv": "32.5",
                       "Alimentazione": "Gas",
@@ -5959,7 +5937,7 @@
                       "Ø Albero mm": "36.50"
                     },
                     {
-                      "Articolo": "4396",
+                      "Item": "4396",
                       "Descrizione motore": "Kohler CH 1000",
                       "Potenza Cv": "37",
                       "Alimentazione": "Gas",
@@ -5978,7 +5956,7 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4476",
+                      "Item": "4476",
                       "Descrizione motore": "Kubota D 902 E4B Eu X7",
                       "Potenza Cv": "25",
                       "Alimentazione": "Diesel",
@@ -5986,7 +5964,7 @@
                       "Ø Albero mm": "36.50"
                     },
                     {
-                      "Articolo": "4474",
+                      "Item": "4474",
                       "Descrizione motore": "Kubota D 1305 E3B Eu X1",
                       "Potenza Cv": "30",
                       "Alimentazione": "Diesel",
@@ -5994,7 +5972,7 @@
                       "Ø Albero mm": "36.50"
                     },
                     {
-                      "Articolo": "4473",
+                      "Item": "4473",
                       "Descrizione motore": "Kubota V 2403-M-T-E3B EU X8F",
                       "Potenza Cv": "59",
                       "Alimentazione": "Diesel",
@@ -6013,7 +5991,7 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4430",
+                      "Item": "4430",
                       "Descrizione motore": "Lombardini 15 LD 350",
                       "Potenza Cv": "7.5",
                       "Alimentazione": "Diesel",
@@ -6021,7 +5999,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4435",
+                      "Item": "4435",
                       "Descrizione motore": "Lombardini 15 LD 440",
                       "Potenza Cv": "10",
                       "Alimentazione": "Diesel",
@@ -6029,7 +6007,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4477",
+                      "Item": "4477",
                       "Descrizione motore": "Lombardini 12 LD 477-2",
                       "Potenza Cv": "22",
                       "Alimentazione": "Diesel",
@@ -6037,7 +6015,7 @@
                       "Ø Albero mm": "Conical"
                     },
                     {
-                      "Articolo": "4445",
+                      "Item": "4445",
                       "Descrizione motore": "Lombardini 9 LD 625",
                       "Potenza Cv": "28",
                       "Alimentazione": "Diesel",
@@ -6056,7 +6034,7 @@
                   ],
                   "models": [
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione motore": "Rato 6 hp",
                       "Potenza Cv": "6",
                       "Alimentazione": "Gas",
@@ -6064,7 +6042,7 @@
                       "Ø Albero mm": null
                     },
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione motore": "Rato 8 hp",
                       "Potenza Cv": "8",
                       "Alimentazione": "Gas",
@@ -6072,7 +6050,7 @@
                       "Ø Albero mm": null
                     },
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione motore": "Rato 12 hp",
                       "Potenza Cv": "12",
                       "Alimentazione": "Gas",
@@ -6080,7 +6058,7 @@
                       "Ø Albero mm": null
                     },
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione motore": "Rat 31 hp",
                       "Potenza Cv": "31",
                       "Alimentazione": "Gas",
@@ -6088,7 +6066,7 @@
                       "Ø Albero mm": null
                     },
                     {
-                      "Articolo": null,
+                      "Item": null,
                       "Descrizione motore": "Mouse 999",
                       "Potenza Cv": "31",
                       "Alimentazione": "Gas",
@@ -6107,7 +6085,7 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4350",
+                      "Item": "4350",
                       "Descrizione motore": "Robin – Subaru EX 17",
                       "Potenza CV": "6",
                       "Alimentazione": "Gas",
@@ -6115,7 +6093,7 @@
                       "Ø Albero mm": "19.05"
                     },
                     {
-                      "Articolo": "4360",
+                      "Item": "4360",
                       "Descrizione motore": "Robin – Subaru EX 27",
                       "Potenza CV": "9",
                       "Alimentazione": "Gas",
@@ -6123,7 +6101,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4367",
+                      "Item": "4367",
                       "Descrizione motore": "Robin – Subaru EX 40",
                       "Potenza CV": "14",
                       "Alimentazione": "Gas",
@@ -6131,7 +6109,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4364",
+                      "Item": "4364",
                       "Descrizione motore": "Robin – Subaru EX 40",
                       "Potenza CV": "14",
                       "Alimentazione": "Gas",
@@ -6139,7 +6117,7 @@
                       "Ø Albero mm": "25.40"
                     },
                     {
-                      "Articolo": "4366",
+                      "Item": "4366",
                       "Descrizione motore": "Robin – Subaru EH 65",
                       "Potenza CV": "22",
                       "Alimentazione": "Gas",
@@ -6253,43 +6231,43 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4148",
+                      "Item": "4148",
                       "Macchine compatibili": "4-80 / MK-75",
                       "Spessore mm": "3",
                       "Peso Kg": "6.698"
                     },
                     {
-                      "Articolo": "4150",
+                      "Item": "4150",
                       "Macchine compatibili": "4-90 / OL90 / MK8-90 dx",
                       "Spessore mm": "3",
                       "Peso Kg": "9.300"
                     },
                     {
-                      "Articolo": "4155",
+                      "Item": "4155",
                       "Macchine compatibili": "OL90 / MK8-90 left",
                       "Spessore mm": "3",
                       "Peso Kg": "9.300"
                     },
                     {
-                      "Articolo": "4160",
+                      "Item": "4160",
                       "Macchine compatibili": "4-120 / OL120 / MK8-120 dx",
                       "Spessore mm": "3",
                       "Peso Kg": "12.500"
                     },
                     {
-                      "Articolo": "4165",
+                      "Item": "4165",
                       "Macchine compatibili": "OL120 / MK8-120 sx",
                       "Spessore mm": "3",
                       "Peso Kg": "12.500"
                     },
                     {
-                      "Articolo": "4180",
+                      "Item": "4180",
                       "Macchine compatibili": "4-120 / OL120 / MK8-120 dx",
                       "Spessore mm": "4",
                       "Peso Kg": "16.500"
                     },
                     {
-                      "Articolo": "4185",
+                      "Item": "4185",
                       "Macchine compatibili": "OL120 / MK8-120 sx",
                       "Spessore mm": "4",
                       "Peso Kg": "16.500"
@@ -6443,72 +6421,72 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "4250",
+                      "Item": "4250",
                       "Macchine compatibili": "4-90 / OL90",
                       "Peso Kg": "5,718"
                     },
                     {
-                      "Articolo": "4251",
+                      "Item": "4251",
                       "Macchine compatibili": "5-90",
                       "Peso Kg": "7,6000"
                     },
                     {
-                      "Articolo": "4253",
+                      "Item": "4253",
                       "Macchine compatibili": "4-90 / OL90 / MK8-90 special",
                       "Peso Kg": "6,120"
                     },
                     {
-                      "Articolo": "4255",
+                      "Item": "4255",
                       "Macchine compatibili": "4-120",
                       "Peso Kg": "7,650"
                     },
                     {
-                      "Articolo": "4256",
+                      "Item": "4256",
                       "Macchine compatibili": "4-120 specials",
                       "Peso Kg": "7,778"
                     },
                     {
-                      "Articolo": "4254",
+                      "Item": "4254",
                       "Macchine compatibili": "MK12-160 speciali",
                       "Peso Kg": "12,520"
                     },
                     {
-                      "Articolo": "4258",
+                      "Item": "4258",
                       "Macchine compatibili": "4-80 / MK8-75",
                       "Peso Kg": "3,648"
                     },
                     {
-                      "Articolo": "4260",
+                      "Item": "4260",
                       "Macchine compatibili": "OL120 / MK8-120",
                       "Peso Kg": "8,382"
                     },
                     {
-                      "Articolo": "4259",
+                      "Item": "4259",
                       "Macchine compatibili": "OL120 / MK8-120 special",
                       "Peso Kg": "8,468"
                     },
                     {
-                      "Articolo": "4261",
+                      "Item": "4261",
                       "Macchine compatibili": "MK10-120",
                       "Peso Kg": "10,480"
                     },
                     {
-                      "Articolo": "4265",
+                      "Item": "4265",
                       "Macchine compatibili": "MK8-90",
                       "Peso Kg": "6,268"
                     },
                     {
-                      "Articolo": "4266",
+                      "Item": "4266",
                       "Macchine compatibili": "MK8-90 Specials",
                       "Peso Kg": "6,300"
                     },
                     {
-                      "Articolo": "4264",
+                      "Item": "4264",
                       "Macchine compatibili": "MK10-90",
                       "Peso Kg": "7,875"
                     },
                     {
-                      "Articolo": "4268",
+                      "Item": "4268",
                       "Macchine compatibili": "MK12-160 speciali",
                       "Peso Kg": "12,520"
                     }
@@ -6681,7 +6659,7 @@
                   ],
                   "models": [
                     {
-                      "Articolo": "3402",
+                      "Item": "3402",
                       "Peso kg": "70"
                     }
                   ]
@@ -6765,37 +6743,37 @@
                       "PESO Kg.": "16"
                     },
                     {
-                      "Articolo": "4976",
+                      "Item": "4976",
                       "Lunghezza m": "2.00",
                       "Peso Kg": "5.00"
                     },
                     {
-                      "Articolo": "4977",
+                      "Item": "4977",
                       "Lunghezza m": "2.50",
                       "Peso Kg": "6.30"
                     },
                     {
-                      "Articolo": "4978",
+                      "Item": "4978",
                       "Lunghezza m": "3.00",
                       "Peso Kg": "8.60"
                     },
                     {
-                      "Articolo": "4979",
+                      "Item": "4979",
                       "Lunghezza m": "3.50",
                       "Peso Kg": "9.30"
                     },
                     {
-                      "Articolo": "4982",
+                      "Item": "4982",
                       "Lunghezza m": "4.00",
                       "Peso Kg": "10.00"
                     },
                     {
-                      "Articolo": "4980",
+                      "Item": "4980",
                       "Lunghezza m": "4.50",
                       "Peso Kg": "11.20"
                     },
                     {
-                      "Articolo": "4981",
+                      "Item": "4981",
                       "Lunghezza m": "5.00",
                       "Peso Kg": "12.90"
                     }
