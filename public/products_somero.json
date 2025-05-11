@@ -3,6 +3,7 @@
     "url": "https://www.somero.com/products/sts-11hc-topping-spreader/",
     "image": "https://www.somero.com/wp-content/uploads/2025/04/Somero082724_346.jpg",
     "name": "STS-11HC Topping Spreader",
+    "category": "materials-placement",
     "description_items": [
       "6’ / 1.8m wide head",
       "20’ / 6.1m boom length (23’ / 7m reach from tires)",
@@ -30,6 +31,7 @@
     "url": "https://www.somero.com/products/srs-4e-electric-laser-screed/",
     "image": "https://www.somero.com/wp-content/uploads/2025/04/SRS-4e_0001.png",
     "name": "SRS-4e – Electric Laser Screed",
+    "category": "compact-boom-screeds",
     "description_items": [
       "Long Lasting, 3-Phase 48 VAC electric motor – whisper quiet, emission-less operation",
       "4-wheel drive for traction in any subgrade condition",
@@ -54,6 +56,7 @@
     "url": "https://www.somero.com/products/skystrip-plywood-stripping-machine/",
     "image": "https://www.somero.com/wp-content/uploads/2025/01/Sky_Strip_1.jpg",
     "name": "SkyStrip Plywood Stripping Machine",
+    "category": "stationary-laser-screeds",
     "description_items": [
       "Remote-control operation - ScanReco Remote",
       "Intelligent Steering adjusts steering angle to prevent stress and damage to components",
@@ -74,6 +77,7 @@
     "url": "https://www.somero.com/products/srs-6s-laser-screed/",
     "image": "https://www.somero.com/wp-content/uploads/2024/08/SRS-6s-machine_360_013-scaled-1.jpg",
     "name": "SRS-6S Laser Screed",
+    "category": "compact-boom-screeds",
     "description_items": [
       "Head Shift means increased flexibility in positioning; utilization of proportional hydraulics allows for precise adjustments during operation.",
       "12’ head that increases production.",
@@ -101,6 +105,7 @@
     "url": "https://www.somero.com/products/floor-levelness-system/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/Floor-Levelness-System.png",
     "name": "Floor Levelness System",
+    "category": "software-packages",
     "description_items": [
       "TRAINING TOOL FOR NEW AND EXPERIENCED OPERATORS: New operators can learn proper techniques for stabilizer adjustment, head touchdowns, and boom speed. Continuous feedback is provided reinforcing concepts and alerting the operator.",
       "MAXIMIZE LASER SCREED PERFORMANCE: Experienced operators can fine tune their techniques and know when to adjust valve speeds to optimize the screeding performance for that day’s productivity.",
@@ -112,6 +117,7 @@
     "url": "https://www.somero.com/products/siteshape-system/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/siteshape1.jpg",
     "name": "Siteshape System",
+    "category": "software-packages",
     "description_items": [
       "One-person operation",
       "Provides quick set-up with laser screed.",
@@ -127,6 +133,7 @@
     "url": "https://www.somero.com/products/3-d-concrete-profiler-system/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/3-D-Profiler.png",
     "name": "3-D Concrete Profiler System",
+    "category": "software-packages",
     "description_items": [
       "Increased profitability",
       "Automatic & accurate paving of contoured sites",
@@ -141,6 +148,7 @@
     "url": "https://www.somero.com/products/somero-line-dragon/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/products_photo_LineDragon.jpg",
     "name": "Somero Line Dragon",
+    "category": "materials-placement",
     "description_items": [
       "Remote-control operation utilizes simple AA batteries",
       "Intelligent Steering adjusts steering angle to prevent stress and damage to components",
@@ -168,6 +176,7 @@
     "url": "https://www.somero.com/products/broom-cure-machine/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/broomcurehyrid.jpg",
     "name": "Broom + Cure Machine",
+    "category": "materials-placement",
     "description_items": [
       "Built on a hybrid of a S-15R (upper) and S-22EZ (lower) frame – performance and power to tackle all your paving jobs.",
       "14’ proprietary broom + spray-bar + channel float head– precision-engineering to follow ACI curing guidelines",
@@ -189,6 +198,7 @@
     "url": "https://www.somero.com/products/skyscreed-36/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/13-Sky-Creed0013-1.jpg",
     "name": "Skyscreed 36",
+    "category": "stationary-laser-screeds",
     "description_items": [
       "36′ / 10.9m Knuckle Boom",
       "8′ / 2.4m Floating Hydraulic Vibrator Screed Head",
@@ -220,6 +230,7 @@
     "url": "https://www.somero.com/products/s-ps50-laser-screed/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/sps50_34view.jpg",
     "name": "S-PS50 Laser Screed",
+    "category": "boom-laser-screeds",
     "description_items": [
       "8′ Laser Screed Head",
       "Hydraulic Head Rotation",
@@ -243,6 +254,7 @@
     "url": "https://www.somero.com/products/srs-4-laser-screed/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/Somero-SRS4-Concrete_Machine_A__0001.jpg",
     "name": "SRS-4 Laser Screed",
+    "category": "compact-boom-screeds",
     "description_items": [
       "No lower frame and streamlined “no-nonsense” design creates 360° visibility keeping the operator safe and the machine lightweight, meaning Job site safety is increased",
       "Remote-control operation – ScanReco Remote",
@@ -286,6 +298,7 @@
     "url": "https://www.somero.com/products/s-15r-laser-screed/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/products_photo_S15R.jpg",
     "name": "S-15R Laser Screed",
+    "category": "boom-laser-screeds",
     "description_items": [
       "Improved floor quality",
       "Increased profitability",
@@ -310,6 +323,7 @@
     "url": "https://www.somero.com/products/s-22ez-advanced-laser-screed/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/S-22EZ0003.jpg",
     "name": "S-22EZ (Advanced) Laser Screed",
+    "category": "boom-laser-screeds",
     "description_items": [
       "Full Color LCD Display w/ Integrated Diagnostics",
       "EZ Clean Screed Head*",
@@ -340,6 +354,7 @@
     "url": "https://www.somero.com/products/s-28ez-laser-screed/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/s28ez_sideboom.jpg",
     "name": "S-28EZ Laser Screed",
+    "category": "boom-laser-screeds",
     "description_items": [
       "25 ft Telescopic 2-Stage Boom",
       "Over 20 new design improvements for better quality screeding",
@@ -376,6 +391,7 @@
     "url": "https://www.somero.com/products/copperhead-xd-3-0/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/1-Copperhead0005-2.jpg",
     "name": "Copperhead XD 3.0",
+    "category": "lightweight-screeds",
     "description_items": [
       "Improved floor quality",
       "Increased profitability",
@@ -404,6 +420,7 @@
     "url": "https://www.somero.com/products/mini-screed-c/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/products_photo_MiniScreedC.jpg",
     "name": "Mini Screed C",
+    "category": "lightweight-screeds",
     "description_items": [
       "Improved floor quality",
       "Increased profitability",
@@ -430,6 +447,7 @@
     "url": "https://www.somero.com/products/s-158c-laser-screed/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/5-158-C_0000-1.jpg",
     "name": "S-158C Laser Screed",
+    "category": "ride-on-laser-screeds",
     "description_items": [
       "1-man screed crew",
       "Screed in any direction",
@@ -453,6 +471,7 @@
     "url": "https://www.somero.com/products/s-940-laser-screed/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/products_photo_S940.jpg",
     "name": "S-940 Laser Screed",
+    "category": "ride-on-laser-screeds",
     "description_items": [
       "Improved floor quality",
       "Increased profitability",
@@ -484,6 +503,7 @@
     "url": "https://www.somero.com/products/s-940e-electric-laser-screed/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/s940e-img-1.png",
     "name": "S-940E Electric Laser Screed",
+    "category": "ride-on-laser-screeds",
     "description_items": [
       "8 hours of run time",
       "35,000 sq. feet on single charge* (3,250 sq m)",
@@ -510,6 +530,7 @@
     "url": "https://www.somero.com/products/s-485/",
     "image": "https://www.somero.com/wp-content/uploads/2024/07/s485-img-1.png",
     "name": "S-485 Laser Screed",
+    "category": "ride-on-laser-screeds",
     "description_items": [
       "Improved floor quality",
       "Increased profitability",
