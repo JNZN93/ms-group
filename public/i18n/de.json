@@ -2110,7 +2110,7 @@
                   "Code": "3505",
                   "Motor": "HONDA GX690",
                   "Ausgangsdrehzahl U/min": "3200",
-                  "POTENZA": "22",
+                  "Leistung": "22",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "219"
@@ -2119,7 +2119,7 @@
                   "Code": "3522",
                   "Motor": "B&S 35CV",
                   "Ausgangsdrehzahl U/min": "3200",
-                  "POTENZA": "35",
+                  "Leistung": "35",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "238"
@@ -2128,7 +2128,7 @@
                   "Code": "3519",
                   "Motor": "B&S 37CV",
                   "Ausgangsdrehzahl U/min": "3200",
-                  "POTENZA": "37",
+                  "Leistung": "37",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "238"
@@ -2137,7 +2137,7 @@
                   "Code": "3517",
                   "Motor": "KOHLER",
                   "Ausgangsdrehzahl U/min": "3200",
-                  "POTENZA": "25",
+                  "Leistung": "25",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "226"
@@ -2146,7 +2146,7 @@
                   "Code": "3513",
                   "Motor": "KOHLER",
                   "Ausgangsdrehzahl U/min": "3200",
-                  "POTENZA": "38",
+                  "Leistung": "38",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "240"
@@ -2564,40 +2564,40 @@
               ],
               "models": [
                 {
-                  "ART": "5700",
-                  "MISURA": "280x120 mm",
-                  "MANICO": "Holz",
-                  "CONFEZIONE": "6"
+                  "Art": "5700",
+                  "Maße": "280x120 mm",
+                  "Griff": "Holz",
+                  "Packung": "6"
                 },
                 {
-                  "ART": "5701",
-                  "MISURA": "300x100 mm",
-                  "MANICO": "Holz",
-                  "CONFEZIONE": "6"
+                  "Art": "5701",
+                  "Maße": "300x100 mm",
+                  "Griff": "Holz",
+                  "Packung": "6"
                 },
                 {
-                  "ART": "5702",
-                  "MISURA": "360X100 mm",
-                  "MANICO": "Holz",
-                  "CONFEZIONE": "6"
+                  "Art": "5702",
+                  "Maße": "360X100 mm",
+                  "Griff": "Holz",
+                  "Packung": "6"
                 },
                 {
-                  "ART": "5703",
-                  "MISURA": "280x120 mm",
-                  "MANICO": "Plastik",
-                  "CONFEZIONE": "6"
+                  "Art": "5703",
+                  "Maße": "280x120 mm",
+                  "Griff": "Plastik",
+                  "Packung": "6"
                 },
                 {
-                  "ART": "5704",
-                  "MISURA": "300x100 mm",
-                  "MANICO": "Plastik",
-                  "CONFEZIONE": "6"
+                  "Art": "5704",
+                  "Maße": "300x100 mm",
+                  "Griff": "Plastik",
+                  "Packung": "6"
                 },
                 {
-                  "ART": "5705",
-                  "MISURA": "360x100 mm",
-                  "MANICO": "Plastik",
-                  "CONFEZIONE": "6"
+                  "Art": "5705",
+                  "Maße": "360x100 mm",
+                  "Griff": "Plastik",
+                  "Packung": "6"
                 }
               ]
             },
@@ -2613,12 +2613,12 @@
                 {
                   "Art": "3961",
                   "Beschreibung": "mm Saum 15 mm",
-                  "Manico": "Holz"
+                  "Griff": "Holz"
                 },
                 {
                   "Art": "3968",
                   "Beschreibung": "100x200 mm Saum 25 mm",
-                  "Manico": "Holz"
+                  "Griff": "Holz"
                 }
               ]
             },
@@ -2634,7 +2634,7 @@
                 {
                   "Art.": "3987",
                   "Beschreibung": "9-ZAHN-RAMPEN ABSTAND mm x 9 mm DICKE",
-                  "Manico": "Plastik"
+                  "Griff": "Plastik"
                 }
               ]
             },
@@ -2650,12 +2650,12 @@
                 {
                   "Art": "3971",
                   "Beschreibung": "KLINGE 150 x 70 mm Radius",
-                  "Manico": "Holz"
+                  "Griff": "Holz"
                 },
                 {
                   "Art": "3975",
                   "Beschreibung": "KLINGE 200 x 100 mm Radius 20mm",
-                  "Manico": "Holz"
+                  "Griff": "Holz"
                 }
               ]
             },
@@ -2670,21 +2670,21 @@
               "models": [
                 {
                   "Artikel": "4087",
-                  "Diametro": "300",
-                  "Spessore": "2.8",
-                  "Foro": "30 + Reduzierbuchse"
+                  "Durchmesser": "300",
+                  "Stärke": "2.8",
+                  "Bohrung": "30 + Reduzierbuchse"
                 },
                 {
                   "Artikel": "4088",
-                  "Diametro": "350",
-                  "Spessore": "2.8",
-                  "Foro": "30 + Reduzierbuchse"
+                  "Durchmesser": "350",
+                  "Stärke": "2.8",
+                  "Bohrung": "30 + Reduzierbuchse"
                 },
                 {
                   "Artikel": "4089",
-                  "Diametro": "350",
-                  "Spessore": "3.2",
-                  "Foro": "30 + Reduzierbuchse"
+                  "Durchmesser": "350",
+                  "Stärke": "3.2",
+                  "Bohrung": "30 + Reduzierbuchse"
                 }
               ]
             },
@@ -2698,20 +2698,20 @@
               ],
               "models": [
                 {
-                  "ART": "MT13977",
-                  "DIMENSIONE PROFILO": "914X314 MM"
+                  "Art": "MT13977",
+                  "Profilgröße": "914X314 MM"
                 },
                 {
-                  "ART": "MT13987",
-                  "DIMENSIONE PROFILO": "1219X314 MM"
+                  "Art": "MT13987",
+                  "Profilgröße": "1219X314 MM"
                 },
                 {
-                  "ART": "MT13988",
-                  "DIMENSIONE PROFILO": "1524X314 MM"
+                  "Art": "MT13988",
+                  "Profilgröße": "1524X314 MM"
                 },
                 {
-                  "ART": "MT13989",
-                  "DIMENSIONE PROFILO": "1829X314 MM"
+                  "Art": "MT13989",
+                  "Profilgröße": "1829X314 MM"
                 }
               ]
             },
@@ -2725,19 +2725,19 @@
               ],
               "models": [
                 {
-                  "ART": "MT14028C",
-                  "DIMENSIONI MANICO": "1,80 MT",
-                  "DIMENSIONI PROFILO": "914X203"
+                  "Art": "MT14028C",
+                  "Griffabmessungen": "1,80 MT",
+                  "Profilabmessungen": "914X203"
                 },
                 {
-                  "ART": "MT14721C",
-                  "DIMENSIONI MANICO": "1,80 MT",
-                  "DIMENSIONI PROFILO": "1219 x 203"
+                  "Art": "MT14721C",
+                  "Griffabmessungen": "1,80 MT",
+                  "Profilabmessungen": "1219 x 203"
                 },
                 {
-                  "ART": "MT14030C",
-                  "DIMENSIONI MANICO": "1,80 MT",
-                  "DIMENSIONI PROFILO": "1524 x 203"
+                  "Art": "MT14030C",
+                  "Griffabmessungen": "1,80 MT",
+                  "Profilabmessungen": "1524 x 203"
                 }
               ]
             },
@@ -2751,16 +2751,16 @@
               ],
               "models": [
                 {
-                  "ART": "MT14028",
-                  "DIMENSIONI PROFILO": "914X203"
+                  "Art": "MT14028",
+                  "Profilabmessungen": "914X203"
                 },
                 {
-                  "ART": "MT14721",
-                  "DIMENSIONI PROFILO": "1219 x 203"
+                  "Art": "MT14721",
+                  "Profilabmessungen": "1219 x 203"
                 },
                 {
-                  "ART": "MT14030",
-                  "DIMENSIONI PROFILO": "1524 x 203"
+                  "Art": "MT14030",
+                  "Profilabmessungen": "1524 x 203"
                 }
               ]
             },
@@ -2774,40 +2774,40 @@
               ],
               "models": [
                 {
-                  "ART": "5700",
-                  "MISURA": "280x120 mm",
-                  "MANICO": "Holz",
-                  "CONFEZIONE": "6"
+                  "Art": "5700",
+                  "Maße": "280x120 mm",
+                  "Griff": "Holz",
+                  "Packung": "6"
                 },
                 {
-                  "ART": "5701",
-                  "MISURA": "300x100 mm",
-                  "MANICO": "Holz",
-                  "CONFEZIONE": "6"
+                  "Art": "5701",
+                  "Maße": "300x100 mm",
+                  "Griff": "Holz",
+                  "Packung": "6"
                 },
                 {
-                  "ART": "5702",
-                  "MISURA": "360X100 mm",
-                  "MANICO": "Holz",
-                  "CONFEZIONE": "6"
+                  "Art": "5702",
+                  "Maße": "360X100 mm",
+                  "Griff": "Holz",
+                  "Packung": "6"
                 },
                 {
-                  "ART": "5703",
-                  "MISURA": "280x120 mm",
-                  "MANICO": "Plastik",
-                  "CONFEZIONE": "6"
+                  "Art": "5703",
+                  "Maße": "280x120 mm",
+                  "Griff": "Plastik",
+                  "Packung": "6"
                 },
                 {
-                  "ART": "5704",
-                  "MISURA": "300x100 mm",
-                  "MANICO": "Plastik",
-                  "CONFEZIONE": "6"
+                  "Art": "5704",
+                  "Maße": "300x100 mm",
+                  "Griff": "Plastik",
+                  "Packung": "6"
                 },
                 {
-                  "ART": "5705",
-                  "MISURA": "360x100 mm",
-                  "MANICO": "Plastik",
-                  "CONFEZIONE": "6"
+                  "Art": "5705",
+                  "Maße": "360x100 mm",
+                  "Griff": "Plastik",
+                  "Packung": "6"
                 }
               ]
             },
@@ -2822,33 +2822,33 @@
               "models": [
                 {
                   "ART.": "MT13511",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "406 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
                   "ART.": "MT13510",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "HOLZ"
+                  "Maße": "406 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13512",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "HOLZ"
+                  "Maße": "457 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13514",
-                  "DIMENSIONI": "508 x 102",
-                  "MANICO": "HOLZ"
+                  "Maße": "508 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13513",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "457 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
                   "ART.": "MT13515",
-                  "DIMENSIONI": "508 x 102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "508 x 102",
+                  "Griff": "PLASTIK"
                 }
               ]
             },
@@ -2862,39 +2862,39 @@
               ],
               "models": [
                 {
-                  "ART": "MT13521",
-                  "DIMENSIONE": "356X102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13521",
+                  "Maße": "356X102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13520",
-                  "DIMENSIONE": "356X102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13520",
+                  "Maße": "356X102",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13522",
-                  "DIMENSIONE": "406 x 102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13522",
+                  "Maße": "406 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13524",
-                  "DIMENSIONE": "457 x 102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13524",
+                  "Maße": "457 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13536",
-                  "DIMENSIONE": "508 x 102",
-                  "MANICO": "HOLZ-BLAUER STAHL"
+                  "Art": "MT13536",
+                  "Maße": "508 x 102",
+                  "Griff": "HOLZ-BLAUER STAHL"
                 },
                 {
-                  "ART": "MT13523",
-                  "DIMENSIONE": "406 x 102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13523",
+                  "Maße": "406 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13525",
-                  "DIMENSIONE": "457 x 102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13525",
+                  "Maße": "457 x 102",
+                  "Griff": "PLASTIK"
                 }
               ]
             },
@@ -2909,68 +2909,68 @@
               "models": [
                 {
                   "ART.": "MT13229",
-                  "DIMENSIONI": "356X102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "356X102",
+                  "Griff": "PLASTIK"
                 },
                 {
                   "ART.": "MT13226",
-                  "DIMENSIONI": "356X102",
-                  "MANICO": "HOLZ"
+                  "Maße": "356X102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13246",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "HOLZ"
+                  "Maße": "406 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13266",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "HOLZ"
+                  "Maße": "457 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13446",
-                  "DIMENSIONI": "305X127",
-                  "MANICO": "KUNSTSTOFF-GOLD"
+                  "Maße": "305X127",
+                  "Griff": "KUNSTSTOFF-GOLD"
                 },
                 {
                   "ART.": "MT13249",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "406 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
                   "ART.": "MT13269",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "457 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13818",
-                  "DIMENSIONI": "356X102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13818",
+                  "Maße": "356X102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13819",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13819",
+                  "Maße": "406 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13837",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13837",
+                  "Maße": "457 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13802",
-                  "DIMENSIONI": "356X102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13802",
+                  "Maße": "356X102",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13803",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13803",
+                  "Maße": "406 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13804",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13804",
+                  "Maße": "457 x 102",
+                  "Griff": "HOLZ"
                 }
               ]
             },
@@ -2984,14 +2984,14 @@
               ],
               "models": [
                 {
-                  "ART": "MT13230",
-                  "DIMENSIONI": "356X102",
-                  "MANICO E CARATTERISTICHE": "KUNSTSTOFF-CARBON-NEIGUNG"
+                  "Art": "MT13230",
+                  "Maße": "356X102",
+                  "GRIFF UND FUNKTIONEN": "KUNSTSTOFF-CARBON-NEIGUNG"
                 },
                 {
-                  "ART": "MT14610",
-                  "DIMENSIONI": "406X79",
-                  "MANICO E CARATTERISTICHE": "KUNSTSTOFF-MAGNESIUM-KELLE"
+                  "Art": "MT14610",
+                  "Maße": "406X79",
+                  "GRIFF UND FUNKTIONEN": "KUNSTSTOFF-MAGNESIUM-KELLE"
                 }
               ]
             },
@@ -3006,87 +3006,87 @@
               "models": [
                 {
                   "Art.": "1890",
-                  "Macchine compatibili": "Moskito Sand und Zement",
-                  "Diametro mm": "600",
-                  "Peso Kg": "13.00"
+                  "Kompatible Maschinen": "Moskito Sand und Zement",
+                  "Durchmesser mm": "600",
+                  "Gewicht in Kg": "13.00"
                 },
                 {
                   "Art.": "4100",
-                  "Macchine compatibili": "Moskito-Hintergründe",
-                  "Diametro mm": "600",
-                  "Peso Kg": "5,00"
+                  "Kompatible Maschinen": "Moskito-Hintergründe",
+                  "Durchmesser mm": "600",
+                  "Gewicht in Kg": "5,00"
                 },
                 {
                   "Art.": "4105",
-                  "Macchine compatibili": "Moskito 4-60 4 Tabletten",
-                  "Diametro mm": "600",
-                  "Peso Kg": "5,00"
+                  "Kompatible Maschinen": "Moskito 4-60 4 Tabletten",
+                  "Durchmesser mm": "600",
+                  "Gewicht in Kg": "5,00"
                 },
                 {
                   "Art.": "4110",
-                  "Macchine compatibili": "Moskito 6-60 2 Tabletten",
-                  "Diametro mm": "600",
-                  "Peso Kg": "5,00"
+                  "Kompatible Maschinen": "Moskito 6-60 2 Tabletten",
+                  "Durchmesser mm": "600",
+                  "Gewicht in Kg": "5,00"
                 },
                 {
                   "Art.": "4115",
-                  "Macchine compatibili": "Moskito 75 2 Tabletten",
-                  "Diametro mm": "750",
-                  "Peso Kg": "7,80"
+                  "Kompatible Maschinen": "Moskito 75 2 Tabletten",
+                  "Durchmesser mm": "750",
+                  "Gewicht in Kg": "7,80"
                 },
                 {
                   "Art.": "4117",
-                  "Macchine compatibili": "MK8-75",
-                  "Diametro mm": "750",
-                  "Peso Kg": "7,80"
+                  "Kompatible Maschinen": "MK8-75",
+                  "Durchmesser mm": "750",
+                  "Gewicht in Kg": "7,80"
                 },
                 {
                   "Art.": "4120",
-                  "Macchine compatibili": "4-90 / MK8-90 / MK8-90 HCS sp. 3mm",
-                  "Diametro mm": "900",
-                  "Peso Kg": "18,50"
+                  "Kompatible Maschinen": "4-90 / MK8-90 / MK8-90 HCS sp. 3mm",
+                  "Durchmesser mm": "900",
+                  "Gewicht in Kg": "18,50"
                 },
                 {
                   "Art.": "4121",
-                  "Macchine compatibili": "4-90 / MK8-90 / MK8-90 HCS sp. 4mm",
-                  "Diametro mm": "900",
-                  "Peso Kg": "25.00"
+                  "Kompatible Maschinen": "4-90 / MK8-90 / MK8-90 HCS sp. 4mm",
+                  "Durchmesser mm": "900",
+                  "Gewicht in Kg": "25.00"
                 },
                 {
                   "Art.": "4133",
-                  "Macchine compatibili": "5-90 / MK10-90 Hcs",
-                  "Diametro mm": "90",
-                  "Peso Kg": "18,70"
+                  "Kompatible Maschinen": "5-90 / MK10-90 Hcs",
+                  "Durchmesser mm": "90",
+                  "Gewicht in Kg": "18,70"
                 },
                 {
                   "Art.": "4125",
-                  "Macchine compatibili": "4-120 / MK8-120 / MK8-120 HCS sp. 3mm",
-                  "Diametro mm": "1200",
-                  "Peso Kg": "28.00"
+                  "Kompatible Maschinen": "4-120 / MK8-120 / MK8-120 HCS sp. 3mm",
+                  "Durchmesser mm": "1200",
+                  "Gewicht in Kg": "28.00"
                 },
                 {
                   "Art.": "4126",
-                  "Macchine compatibili": "4-120 / MK8-120 / MK8-120 HCS sp. 4mm",
-                  "Diametro mm": "1200",
-                  "Peso Kg": "35,50"
+                  "Kompatible Maschinen": "4-120 / MK8-120 / MK8-120 HCS sp. 4mm",
+                  "Durchmesser mm": "1200",
+                  "Gewicht in Kg": "35,50"
                 },
                 {
                   "Art.": "4134",
-                  "Macchine compatibili": "5-120 / MK10-120 HCS",
-                  "Diametro mm": "1200",
-                  "Peso Kg": "28.20"
+                  "Kompatible Maschinen": "5-120 / MK10-120 HCS",
+                  "Durchmesser mm": "1200",
+                  "Gewicht in Kg": "28.20"
                 },
                 {
                   "Art.": "4130",
-                  "Macchine compatibili": "MK12-160 3 mm dick",
-                  "Diametro mm": "1600",
-                  "Peso Kg": "55,00"
+                  "Kompatible Maschinen": "MK12-160 3 mm dick",
+                  "Durchmesser mm": "1600",
+                  "Gewicht in Kg": "55,00"
                 },
                 {
                   "Art.": "4131",
-                  "Macchine compatibili": "MK12-160 4 mm dick",
-                  "Diametro mm": "1600",
-                  "Peso Kg": "58,00"
+                  "Kompatible Maschinen": "MK12-160 4 mm dick",
+                  "Durchmesser mm": "1600",
+                  "Gewicht in Kg": "58,00"
                 }
               ]
             },
@@ -3101,45 +3101,45 @@
               "models": [
                 {
                   "Artikel": "4148",
-                  "Macchine compatibili": "4-80 / MK-75",
-                  "Spessore mm": "3",
-                  "Peso Kg": "6.698"
+                  "Kompatible Maschinen": "4-80 / MK-75",
+                  "Dicke mm": "3",
+                  "Gewicht in Kg": "6.698"
                 },
                 {
                   "Artikel": "4150",
-                  "Macchine compatibili": "4-90 / OL90 / MK8-90 dx",
-                  "Spessore mm": "3",
-                  "Peso Kg": "9.300"
+                  "Kompatible Maschinen": "4-90 / OL90 / MK8-90 dx",
+                  "Dicke mm": "3",
+                  "Gewicht in Kg": "9.300"
                 },
                 {
                   "Artikel": "4155",
-                  "Macchine compatibili": "OL90 / MK8-90 links",
-                  "Spessore mm": "3",
-                  "Peso Kg": "9.300"
+                  "Kompatible Maschinen": "OL90 / MK8-90 links",
+                  "Dicke mm": "3",
+                  "Gewicht in Kg": "9.300"
                 },
                 {
                   "Artikel": "4160",
-                  "Macchine compatibili": "4-120 / OL120 / MK8-120 dx",
-                  "Spessore mm": "3",
-                  "Peso Kg": "12.500"
+                  "Kompatible Maschinen": "4-120 / OL120 / MK8-120 dx",
+                  "Dicke mm": "3",
+                  "Gewicht in Kg": "12.500"
                 },
                 {
                   "Artikel": "4165",
-                  "Macchine compatibili": "OL120 / MK8-120 sx",
-                  "Spessore mm": "3",
-                  "Peso Kg": "12.500"
+                  "Kompatible Maschinen": "OL120 / MK8-120 sx",
+                  "Dicke mm": "3",
+                  "Gewicht in Kg": "12.500"
                 },
                 {
                   "Artikel": "4180",
-                  "Macchine compatibili": "4-120 / OL120 / MK8-120 dx",
-                  "Spessore mm": "4",
-                  "Peso Kg": "16.500"
+                  "Kompatible Maschinen": "4-120 / OL120 / MK8-120 dx",
+                  "Dicke mm": "4",
+                  "Gewicht in Kg": "16.500"
                 },
                 {
                   "Artikel": "4185",
-                  "Macchine compatibili": "OL120 / MK8-120 sx",
-                  "Spessore mm": "4",
-                  "Peso Kg": "16.500"
+                  "Kompatible Maschinen": "OL120 / MK8-120 sx",
+                  "Dicke mm": "4",
+                  "Gewicht in Kg": "16.500"
                 }
               ]
             },
@@ -3153,34 +3153,34 @@
               ],
               "models": [
                 {
-                  "ART": "MT14102",
-                  "DIMENSIONI": "152X76",
-                  "LAMA": "13",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT14102",
+                  "Maße": "152X76",
+                  "Klinge": "13",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT14107",
-                  "DIMENSIONI": "152X111",
-                  "LAMA": "25",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT14107",
+                  "Maße": "152X111",
+                  "Klinge": "25",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13836",
-                  "DIMENSIONI": "152X76",
-                  "LAMA": "13",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13836",
+                  "Maße": "152X76",
+                  "Klinge": "13",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT10953",
-                  "DIMENSIONI": "152X76",
-                  "LAMA": "13",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT10953",
+                  "Maße": "152X76",
+                  "Klinge": "13",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT11105",
-                  "DIMENSIONI": "152X76",
-                  "LAMA": "13",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT11105",
+                  "Maße": "152X76",
+                  "Klinge": "13",
+                  "Griff": "PLASTIK"
                 }
               ]
             },
@@ -3196,12 +3196,12 @@
                 {
                   "Art": "3961",
                   "Beschreibung": "mm Saum 15 mm",
-                  "Manico": "Holz"
+                  "Griff": "Holz"
                 },
                 {
                   "Art": "3968",
                   "Beschreibung": "100x200 mm Saum 25 mm",
-                  "Manico": "Holz"
+                  "Griff": "Holz"
                 }
               ]
             },
@@ -3217,7 +3217,7 @@
                 {
                   "Art.": "3987",
                   "Beschreibung": "9-ZAHN-RAMPEN ABSTAND mm x 9 mm DICKE",
-                  "Manico": "Plastik"
+                  "Griff": "Plastik"
                 }
               ]
             },
@@ -3231,118 +3231,118 @@
               ],
               "models": [
                 {
-                  "Articolo Grezzo": "5150",
-                  "Articolo Zincato": "5170",
+                  "Rohbauteil": "5150",
+                  "Verzinktes Bauteil": "5170",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "70 mm"
+                  "Höhe": "70 mm"
                 },
                 {
-                  "Articolo Grezzo": "5151",
-                  "Articolo Zincato": "5171",
+                  "Rohbauteil": "5151",
+                  "Verzinktes Bauteil": "5171",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "80 mm"
+                  "Höhe": "80 mm"
                 },
                 {
-                  "Articolo Grezzo": "5152",
-                  "Articolo Zincato": "5172",
+                  "Rohbauteil": "5152",
+                  "Verzinktes Bauteil": "5172",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "90 mm"
+                  "Höhe": "90 mm"
                 },
                 {
-                  "Articolo Grezzo": "5153",
-                  "Articolo Zincato": "5173",
+                  "Rohbauteil": "5153",
+                  "Verzinktes Bauteil": "5173",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "100 mm"
+                  "Höhe": "100 mm"
                 },
                 {
-                  "Articolo Grezzo": "5154",
-                  "Articolo Zincato": "5174",
+                  "Rohbauteil": "5154",
+                  "Verzinktes Bauteil": "5174",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "110 mm"
+                  "Höhe": "110 mm"
                 },
                 {
-                  "Articolo Grezzo": "5155",
-                  "Articolo Zincato": "5175",
+                  "Rohbauteil": "5155",
+                  "Verzinktes Bauteil": "5175",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "120 mm"
+                  "Höhe": "120 mm"
                 },
                 {
-                  "Articolo Grezzo": "5156",
-                  "Articolo Zincato": "5176",
+                  "Rohbauteil": "5156",
+                  "Verzinktes Bauteil": "5176",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "130 mm"
+                  "Höhe": "130 mm"
                 },
                 {
-                  "Articolo Grezzo": "5157",
-                  "Articolo Zincato": "5177",
+                  "Rohbauteil": "5157",
+                  "Verzinktes Bauteil": "5177",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "140 mm"
+                  "Höhe": "140 mm"
                 },
                 {
-                  "Articolo Grezzo": "5158",
-                  "Articolo Zincato": "5178",
+                  "Rohbauteil": "5158",
+                  "Verzinktes Bauteil": "5178",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "150 mm"
+                  "Höhe": "150 mm"
                 },
                 {
-                  "Articolo Grezzo": "5159",
-                  "Articolo Zincato": "5179",
+                  "Rohbauteil": "5159",
+                  "Verzinktes Bauteil": "5179",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "160 mm"
+                  "Höhe": "160 mm"
                 },
                 {
-                  "Articolo Grezzo": "5160",
-                  "Articolo Zincato": "5180",
+                  "Rohbauteil": "5160",
+                  "Verzinktes Bauteil": "5180",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "170 mm"
+                  "Höhe": "170 mm"
                 },
                 {
-                  "Articolo Grezzo": "5161",
-                  "Articolo Zincato": "5181",
+                  "Rohbauteil": "5161",
+                  "Verzinktes Bauteil": "5181",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "180 mm"
+                  "Höhe": "180 mm"
                 },
                 {
-                  "Articolo Grezzo": "5162",
-                  "Articolo Zincato": "5182",
+                  "Rohbauteil": "5162",
+                  "Verzinktes Bauteil": "5182",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "190 mm"
+                  "Höhe": "190 mm"
                 },
                 {
-                  "Articolo Grezzo": "5163",
-                  "Articolo Zincato": "5183",
+                  "Rohbauteil": "5163",
+                  "Verzinktes Bauteil": "5183",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "200 mm"
+                  "Höhe": "200 mm"
                 },
                 {
-                  "Articolo Grezzo": "5164",
-                  "Articolo Zincato": "5184",
+                  "Rohbauteil": "5164",
+                  "Verzinktes Bauteil": "5184",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "210 mm"
+                  "Höhe": "210 mm"
                 },
                 {
                   "Artikel": "5090",
                   "Beschreibung": "Einzelzylinder komplett mit PVC-Hülle und Kappe",
                   "Lunghezza": "600 mm",
-                  "Diametro": "14 mm"
+                  "Durchmesser": "14 mm"
                 },
                 {
                   "Artikel": "5091",
                   "Beschreibung": "Einzelzylinder komplett mit PVC-Hülle und Kappe",
                   "Lunghezza": "750 mm",
-                  "Diametro": "16 mm"
+                  "Durchmesser": "16 mm"
                 },
                 {
                   "Artikel": "5092",
                   "Beschreibung": "Einzelzylinder komplett mit PVC-Hülle und Kappe",
                   "Lunghezza": "750 mm",
-                  "Diametro": "18 mm"
+                  "Durchmesser": "18 mm"
                 },
                 {
                   "Artikel": "5093",
                   "Beschreibung": "Einzelzylinder komplett mit PVC-Hülle und Kappe",
                   "Lunghezza": "750 mm",
-                  "Diametro": "20 mm"
+                  "Durchmesser": "20 mm"
                 }
               ]
             },
@@ -3358,42 +3358,42 @@
                 {
                   "Art.": "4225G",
                   "Beschreibung": "Palette 4-90",
-                  "Peso Kg": "5.042"
+                  "Gewicht in Kg": "5.042"
                 },
                 {
                   "Art.": "4228G",
                   "Beschreibung": "Palette 5-90",
-                  "Peso Kg": "6.310"
+                  "Gewicht in Kg": "6.310"
                 },
                 {
                   "Art.": "4230G",
                   "Beschreibung": "Palette 4-120",
-                  "Peso Kg": "6.700"
+                  "Gewicht in Kg": "6.700"
                 },
                 {
                   "Art.": "4234G",
                   "Beschreibung": "Palette 5-120",
-                  "Peso Kg": "8,36"
+                  "Gewicht in Kg": "8,36"
                 },
                 {
                   "Art.": "4250G",
                   "Beschreibung": "Combi 4-90",
-                  "Peso Kg": "5.750"
+                  "Gewicht in Kg": "5.750"
                 },
                 {
                   "Art.": "4251G",
                   "Beschreibung": "Combi 5-90 Spezial",
-                  "Peso Kg": "7.190"
+                  "Gewicht in Kg": "7.190"
                 },
                 {
                   "Art.": "4255G",
                   "Beschreibung": "Combi 4-120",
-                  "Peso Kg": "7.744"
+                  "Gewicht in Kg": "7.744"
                 },
                 {
                   "Art.": "4254G",
                   "Beschreibung": "Combi 5-120 Spezial",
-                  "Peso Kg": "9.680"
+                  "Gewicht in Kg": "9.680"
                 }
               ]
             },
@@ -3408,21 +3408,21 @@
               "models": [
                 {
                   "Artikel": "4087",
-                  "Diametro": "300",
-                  "Spessore": "2.8",
-                  "Foro": "30 + Reduzierbuchse"
+                  "Durchmesser": "300",
+                  "Stärke": "2.8",
+                  "Bohrung": "30 + Reduzierbuchse"
                 },
                 {
                   "Artikel": "4088",
-                  "Diametro": "350",
-                  "Spessore": "2.8",
-                  "Foro": "30 + Reduzierbuchse"
+                  "Durchmesser": "350",
+                  "Stärke": "2.8",
+                  "Bohrung": "30 + Reduzierbuchse"
                 },
                 {
                   "Artikel": "4089",
-                  "Diametro": "350",
-                  "Spessore": "3.2",
-                  "Foro": "30 + Reduzierbuchse"
+                  "Durchmesser": "350",
+                  "Stärke": "3.2",
+                  "Bohrung": "30 + Reduzierbuchse"
                 }
               ]
             },
@@ -3437,21 +3437,21 @@
               "models": [
                 {
                   "Artikel": "4085",
-                  "Diametro mm": "300",
-                  "Spessore mm": "2.8",
-                  "Foro mm": "30 + Reduzierbuchse"
+                  "Durchmesser mm": "300",
+                  "Dicke mm": "2.8",
+                  "Loch mm": "30 + Reduzierbuchse"
                 },
                 {
                   "Artikel": "4086",
-                  "Diametro mm": "350",
-                  "Spessore mm": "2.8",
-                  "Foro mm": "30 + Reduzierbuchse"
+                  "Durchmesser mm": "350",
+                  "Dicke mm": "2.8",
+                  "Loch mm": "30 + Reduzierbuchse"
                 },
                 {
                   "Artikel": "4055",
-                  "Diametro mm": "350",
-                  "Spessore mm": "3.2",
-                  "Foro mm": "30 + Reduzierbuchse"
+                  "Durchmesser mm": "350",
+                  "Dicke mm": "3.2",
+                  "Loch mm": "30 + Reduzierbuchse"
                 }
               ]
             },
@@ -3816,7 +3816,7 @@
                   "Rotordurchmesser cm": "900 x 2",
                   "Anzahl der Klingen": "8",
                   "Ausgangsdrehzahl U/min": "116",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "PS-Leistung": "21",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
@@ -3828,7 +3828,7 @@
                   "Rotordurchmesser cm": "900 x 2",
                   "Anzahl der Klingen": "8",
                   "Ausgangsdrehzahl U/min": "116",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "PS-Leistung": "22",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
@@ -3840,7 +3840,7 @@
                   "Rotordurchmesser cm": "900 x 2",
                   "Anzahl der Klingen": "8",
                   "Ausgangsdrehzahl U/min": "116",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "PS-Leistung": "25",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
@@ -3852,7 +3852,7 @@
                   "Rotordurchmesser cm": "900 x 2",
                   "Anzahl der Klingen": "8",
                   "Ausgangsdrehzahl U/min": "116",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "PS-Leistung": "35",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
@@ -3864,7 +3864,7 @@
                   "Rotordurchmesser cm": "900 x 2",
                   "Anzahl der Klingen": "8",
                   "Ausgangsdrehzahl U/min": "116",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "PS-Leistung": "23,5",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
@@ -3876,7 +3876,7 @@
                   "Rotordurchmesser cm": "900 x 2",
                   "Anzahl der Klingen": "8",
                   "Ausgangsdrehzahl U/min": "116",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "PS-Leistung": "25",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
@@ -4244,7 +4244,7 @@
                   "Ausgangsdrehzahl U/min": "116",
                   "PS-Leistung": "22",
                   "Anlasser": "Elektrisch",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "355"
                 },
@@ -4256,7 +4256,7 @@
                   "Ausgangsdrehzahl U/min": "116",
                   "PS-Leistung": "25",
                   "Anlasser": "Elektrisch",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "360"
                 },
@@ -4268,7 +4268,7 @@
                   "Ausgangsdrehzahl U/min": "116",
                   "PS-Leistung": "35",
                   "Anlasser": "Elektrisch",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "369"
                 },
@@ -4280,7 +4280,7 @@
                   "Ausgangsdrehzahl U/min": "116",
                   "PS-Leistung": "25",
                   "Anlasser": "Elektrisch",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "358"
                 },
@@ -4292,7 +4292,7 @@
                   "Ausgangsdrehzahl U/min": "116",
                   "PS-Leistung": "25",
                   "Anlasser": "Elektrisch",
-                  "COMANDI": "Klempner",
+                  "Bedienelemente": "Klempner",
                   "Kraftstoff": "Diesel",
                   "Gewicht in Kg.": "385"
                 }
@@ -4893,54 +4893,54 @@
                 {
                   "Code": "3043",
                   "Motor": "HONDA GX 160",
-                  "DIAMETRO ROTORI": "600",
-                  "VELOCITA' IN USCITA": "128",
-                  "Potenza": "5.5",
+                  "ROTORDURCHMESSER": "600",
+                  "AUSFAHRTGESCHWINDIGKEIT": "128",
+                  "Leistung": "5.5",
                   "Anlasser": "Manuell",
                   "Kraftstoff": "Gas"
                 },
                 {
                   "Code": "3046",
                   "Motor": "ROBIN 6CV",
-                  "DIAMETRO ROTORI": "600",
-                  "VELOCITA' IN USCITA": "128",
-                  "Potenza": "6",
+                  "ROTORDURCHMESSER": "600",
+                  "AUSFAHRTGESCHWINDIGKEIT": "128",
+                  "Leistung": "6",
                   "Anlasser": "Manuell",
                   "Kraftstoff": "Gas"
                 },
                 {
                   "Code": "3036",
                   "Motor": "ELEKTRISCH 220 V MIT VARIATOR",
-                  "DIAMETRO ROTORI": "600",
-                  "VELOCITA' IN USCITA": "56/168",
-                  "Potenza": "3",
+                  "ROTORDURCHMESSER": "600",
+                  "AUSFAHRTGESCHWINDIGKEIT": "56/168",
+                  "Leistung": "3",
                   "Anlasser": "Manuell",
                   "Kraftstoff": "Elektrisch"
                 },
                 {
                   "Code": "3045",
                   "Motor": "DER. 110 V 50 Hz",
-                  "DIAMETRO ROTORI": "600",
-                  "VELOCITA' IN USCITA": "105",
-                  "Potenza": "3",
+                  "ROTORDURCHMESSER": "600",
+                  "AUSFAHRTGESCHWINDIGKEIT": "105",
+                  "Leistung": "3",
                   "Anlasser": "Manuell",
                   "Kraftstoff": "Elektrisch"
                 },
                 {
                   "Code": "3049",
                   "Motor": "DER. 110 V 60 Hz",
-                  "DIAMETRO ROTORI": "600",
-                  "VELOCITA' IN USCITA": "105",
-                  "Potenza": "3",
+                  "ROTORDURCHMESSER": "600",
+                  "AUSFAHRTGESCHWINDIGKEIT": "105",
+                  "Leistung": "3",
                   "Anlasser": "Manuell",
                   "Kraftstoff": "Elektrisch"
                 },
                 {
                   "Code": "2995",
                   "Motor": "ELEKTRISCH 230V",
-                  "DIAMETRO ROTORI": "600",
-                  "VELOCITA' IN USCITA": "110",
-                  "Potenza": "3",
+                  "ROTORDURCHMESSER": "600",
+                  "AUSFAHRTGESCHWINDIGKEIT": "110",
+                  "Leistung": "3",
                   "Anlasser": "Manuell",
                   "Kraftstoff": "Elektrisch"
                 }
@@ -4956,118 +4956,118 @@
               ],
               "models": [
                 {
-                  "Articolo Grezzo": "5150",
-                  "Articolo Zincato": "5170",
+                  "Rohbauteil": "5150",
+                  "Verzinktes Bauteil": "5170",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "70 mm"
+                  "Höhe": "70 mm"
                 },
                 {
-                  "Articolo Grezzo": "5151",
-                  "Articolo Zincato": "5171",
+                  "Rohbauteil": "5151",
+                  "Verzinktes Bauteil": "5171",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "80 mm"
+                  "Höhe": "80 mm"
                 },
                 {
-                  "Articolo Grezzo": "5152",
-                  "Articolo Zincato": "5172",
+                  "Rohbauteil": "5152",
+                  "Verzinktes Bauteil": "5172",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "90 mm"
+                  "Höhe": "90 mm"
                 },
                 {
-                  "Articolo Grezzo": "5153",
-                  "Articolo Zincato": "5173",
+                  "Rohbauteil": "5153",
+                  "Verzinktes Bauteil": "5173",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "100 mm"
+                  "Höhe": "100 mm"
                 },
                 {
-                  "Articolo Grezzo": "5154",
-                  "Articolo Zincato": "5174",
+                  "Rohbauteil": "5154",
+                  "Verzinktes Bauteil": "5174",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "110 mm"
+                  "Höhe": "110 mm"
                 },
                 {
-                  "Articolo Grezzo": "5155",
-                  "Articolo Zincato": "5175",
+                  "Rohbauteil": "5155",
+                  "Verzinktes Bauteil": "5175",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "120 mm"
+                  "Höhe": "120 mm"
                 },
                 {
-                  "Articolo Grezzo": "5156",
-                  "Articolo Zincato": "5176",
+                  "Rohbauteil": "5156",
+                  "Verzinktes Bauteil": "5176",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "130 mm"
+                  "Höhe": "130 mm"
                 },
                 {
-                  "Articolo Grezzo": "5157",
-                  "Articolo Zincato": "5177",
+                  "Rohbauteil": "5157",
+                  "Verzinktes Bauteil": "5177",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "140 mm"
+                  "Höhe": "140 mm"
                 },
                 {
-                  "Articolo Grezzo": "5158",
-                  "Articolo Zincato": "5178",
+                  "Rohbauteil": "5158",
+                  "Verzinktes Bauteil": "5178",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "150 mm"
+                  "Höhe": "150 mm"
                 },
                 {
-                  "Articolo Grezzo": "5159",
-                  "Articolo Zincato": "5179",
+                  "Rohbauteil": "5159",
+                  "Verzinktes Bauteil": "5179",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "160 mm"
+                  "Höhe": "160 mm"
                 },
                 {
-                  "Articolo Grezzo": "5160",
-                  "Articolo Zincato": "5180",
+                  "Rohbauteil": "5160",
+                  "Verzinktes Bauteil": "5180",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "170 mm"
+                  "Höhe": "170 mm"
                 },
                 {
-                  "Articolo Grezzo": "5161",
-                  "Articolo Zincato": "5181",
+                  "Rohbauteil": "5161",
+                  "Verzinktes Bauteil": "5181",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "180 mm"
+                  "Höhe": "180 mm"
                 },
                 {
-                  "Articolo Grezzo": "5162",
-                  "Articolo Zincato": "5182",
+                  "Rohbauteil": "5162",
+                  "Verzinktes Bauteil": "5182",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "190 mm"
+                  "Höhe": "190 mm"
                 },
                 {
-                  "Articolo Grezzo": "5163",
-                  "Articolo Zincato": "5183",
+                  "Rohbauteil": "5163",
+                  "Verzinktes Bauteil": "5183",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "200 mm"
+                  "Höhe": "200 mm"
                 },
                 {
-                  "Articolo Grezzo": "5164",
-                  "Articolo Zincato": "5184",
+                  "Rohbauteil": "5164",
+                  "Verzinktes Bauteil": "5184",
                   "Beschreibung": "Doppelblech-Arbeitsfuge ohne Stege",
-                  "Altezza": "210 mm"
+                  "Höhe": "210 mm"
                 },
                 {
                   "Artikel": "5090",
                   "Beschreibung": "Einzelzylinder komplett mit PVC-Hülle und Kappe",
                   "Lunghezza": "600 mm",
-                  "Diametro": "14 mm"
+                  "Durchmesser": "14 mm"
                 },
                 {
                   "Artikel": "5091",
                   "Beschreibung": "Einzelzylinder komplett mit PVC-Hülle und Kappe",
                   "Lunghezza": "750 mm",
-                  "Diametro": "16 mm"
+                  "Durchmesser": "16 mm"
                 },
                 {
                   "Artikel": "5092",
                   "Beschreibung": "Einzelzylinder komplett mit PVC-Hülle und Kappe",
                   "Lunghezza": "750 mm",
-                  "Diametro": "18 mm"
+                  "Durchmesser": "18 mm"
                 },
                 {
                   "Artikel": "5093",
                   "Beschreibung": "Einzelzylinder komplett mit PVC-Hülle und Kappe",
                   "Lunghezza": "750 mm",
-                  "Diametro": "20 mm"
+                  "Durchmesser": "20 mm"
                 }
               ]
             },
@@ -5083,71 +5083,71 @@
                 {
                   "Artikel": "3660 3662",
                   "Beschreibung": "Graue PVC-Ummantelung Schwarze PVC-Ummantelung",
-                  "Larghezza guaina": "3,5 mm",
-                  "Spessore disco": "2,4 mm",
+                  "Mantelbreite": "3,5 mm",
+                  "Scheibendicke": "2,4 mm",
                   "Lunghezza rotolo": "250 m"
                 },
                 {
                   "Artikel": "3664 3666",
                   "Beschreibung": "Graue PVC-Ummantelung Schwarze PVC-Ummantelung",
-                  "Larghezza guaina": "3.8 mm",
-                  "Spessore disco": "2.8 mm",
+                  "Mantelbreite": "3.8 mm",
+                  "Scheibendicke": "2.8 mm",
                   "Lunghezza rotolo": "250 m"
                 },
                 {
                   "Artikel": "3668 3670",
                   "Beschreibung": "Graue PVC-Ummantelung Schwarze PVC-Ummantelung",
-                  "Larghezza guaina": "4.0 mm",
-                  "Spessore disco": "2.8 mm",
+                  "Mantelbreite": "4.0 mm",
+                  "Scheibendicke": "2.8 mm",
                   "Lunghezza rotolo": "250 m"
                 },
                 {
                   "Artikel": "3672 3674",
                   "Beschreibung": "Graue PVC-Ummantelung Schwarze PVC-Ummantelung",
-                  "Larghezza guaina": "4,2 mm",
-                  "Spessore disco": "3.2 mm",
+                  "Mantelbreite": "4,2 mm",
+                  "Scheibendicke": "3.2 mm",
                   "Lunghezza rotolo": "250 m"
                 },
                 {
                   "Artikel": "3676 3678",
                   "Beschreibung": "Graue PVC-Ummantelung Schwarze PVC-Ummantelung",
-                  "Larghezza guaina": "4,6 mm",
-                  "Spessore disco": "3.2 mm",
+                  "Mantelbreite": "4,6 mm",
+                  "Scheibendicke": "3.2 mm",
                   "Lunghezza rotolo": "250 m"
                 },
                 {
                   "Artikel": "3680 3682",
                   "Beschreibung": "Graue PVC-Ummantelung Schwarze PVC-Ummantelung",
-                  "Larghezza guaina": "4,8 mm",
-                  "Spessore disco": "3.6 mm",
+                  "Mantelbreite": "4,8 mm",
+                  "Scheibendicke": "3.6 mm",
                   "Lunghezza rotolo": "250 m"
                 },
                 {
                   "Artikel": "3684 3686",
                   "Beschreibung": "Graue PVC-Ummantelung Schwarze PVC-Ummantelung",
-                  "Larghezza guaina": "5.0 mm",
-                  "Spessore disco": "3.6 mm",
+                  "Mantelbreite": "5.0 mm",
+                  "Scheibendicke": "3.6 mm",
                   "Lunghezza rotolo": "250 m"
                 },
                 {
                   "Artikel": "3688 3690",
                   "Beschreibung": "Graue PVC-Ummantelung Schwarze PVC-Ummantelung",
-                  "Larghezza guaina": "5,2 mm",
-                  "Spessore disco": "4,2 mm",
+                  "Mantelbreite": "5,2 mm",
+                  "Scheibendicke": "4,2 mm",
                   "Lunghezza rotolo": "250 m"
                 },
                 {
                   "Artikel": "3692 3694",
                   "Beschreibung": "Graue PVC-Ummantelung Schwarze PVC-Ummantelung",
-                  "Larghezza guaina": "5,5 mm",
-                  "Spessore disco": "4,2 mm",
+                  "Mantelbreite": "5,5 mm",
+                  "Scheibendicke": "4,2 mm",
                   "Lunghezza rotolo": "250 m"
                 },
                 {
                   "Artikel": "3696 3698",
                   "Beschreibung": "Graue PVC-Ummantelung Schwarze PVC-Ummantelung",
-                  "Larghezza guaina": "6.0 mm",
-                  "Spessore disco": "4,2 mm",
+                  "Mantelbreite": "6.0 mm",
+                  "Scheibendicke": "4,2 mm",
                   "Lunghezza rotolo": "250 m"
                 }
               ]
@@ -5273,20 +5273,20 @@
               ],
               "models": [
                 {
-                  "ART": "MT13977",
-                  "DIMENSIONE PROFILO": "914X314 MM"
+                  "Art": "MT13977",
+                  "Profilgröße": "914X314 MM"
                 },
                 {
-                  "ART": "MT13987",
-                  "DIMENSIONE PROFILO": "1219X314 MM"
+                  "Art": "MT13987",
+                  "Profilgröße": "1219X314 MM"
                 },
                 {
-                  "ART": "MT13988",
-                  "DIMENSIONE PROFILO": "1524X314 MM"
+                  "Art": "MT13988",
+                  "Profilgröße": "1524X314 MM"
                 },
                 {
-                  "ART": "MT13989",
-                  "DIMENSIONE PROFILO": "1829X314 MM"
+                  "Art": "MT13989",
+                  "Profilgröße": "1829X314 MM"
                 }
               ]
             },
@@ -5300,19 +5300,19 @@
               ],
               "models": [
                 {
-                  "ART": "MT14028C",
-                  "DIMENSIONI MANICO": "1,80 MT",
-                  "DIMENSIONI PROFILO": "914X203"
+                  "Art": "MT14028C",
+                  "Griffabmessungen": "1,80 MT",
+                  "Profilabmessungen": "914X203"
                 },
                 {
-                  "ART": "MT14721C",
-                  "DIMENSIONI MANICO": "1,80 MT",
-                  "DIMENSIONI PROFILO": "1219 x 203"
+                  "Art": "MT14721C",
+                  "Griffabmessungen": "1,80 MT",
+                  "Profilabmessungen": "1219 x 203"
                 },
                 {
-                  "ART": "MT14030C",
-                  "DIMENSIONI MANICO": "1,80 MT",
-                  "DIMENSIONI PROFILO": "1524 x 203"
+                  "Art": "MT14030C",
+                  "Griffabmessungen": "1,80 MT",
+                  "Profilabmessungen": "1524 x 203"
                 }
               ]
             },
@@ -5326,16 +5326,16 @@
               ],
               "models": [
                 {
-                  "ART": "MT14028",
-                  "DIMENSIONI PROFILO": "914X203"
+                  "Art": "MT14028",
+                  "Profilabmessungen": "914X203"
                 },
                 {
-                  "ART": "MT14721",
-                  "DIMENSIONI PROFILO": "1219 x 203"
+                  "Art": "MT14721",
+                  "Profilabmessungen": "1219 x 203"
                 },
                 {
-                  "ART": "MT14030",
-                  "DIMENSIONI PROFILO": "1524 x 203"
+                  "Art": "MT14030",
+                  "Profilabmessungen": "1524 x 203"
                 }
               ]
             },
@@ -5350,33 +5350,33 @@
               "models": [
                 {
                   "ART.": "MT13511",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "406 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
                   "ART.": "MT13510",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "HOLZ"
+                  "Maße": "406 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13512",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "HOLZ"
+                  "Maße": "457 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13514",
-                  "DIMENSIONI": "508 x 102",
-                  "MANICO": "HOLZ"
+                  "Maße": "508 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13513",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "457 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
                   "ART.": "MT13515",
-                  "DIMENSIONI": "508 x 102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "508 x 102",
+                  "Griff": "PLASTIK"
                 }
               ]
             },
@@ -5390,39 +5390,39 @@
               ],
               "models": [
                 {
-                  "ART": "MT13521",
-                  "DIMENSIONE": "356X102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13521",
+                  "Maße": "356X102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13520",
-                  "DIMENSIONE": "356X102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13520",
+                  "Maße": "356X102",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13522",
-                  "DIMENSIONE": "406 x 102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13522",
+                  "Maße": "406 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13524",
-                  "DIMENSIONE": "457 x 102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13524",
+                  "Maße": "457 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13536",
-                  "DIMENSIONE": "508 x 102",
-                  "MANICO": "HOLZ-BLAUER STAHL"
+                  "Art": "MT13536",
+                  "Maße": "508 x 102",
+                  "Griff": "HOLZ-BLAUER STAHL"
                 },
                 {
-                  "ART": "MT13523",
-                  "DIMENSIONE": "406 x 102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13523",
+                  "Maße": "406 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13525",
-                  "DIMENSIONE": "457 x 102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13525",
+                  "Maße": "457 x 102",
+                  "Griff": "PLASTIK"
                 }
               ]
             },
@@ -5437,68 +5437,68 @@
               "models": [
                 {
                   "ART.": "MT13229",
-                  "DIMENSIONI": "356X102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "356X102",
+                  "Griff": "PLASTIK"
                 },
                 {
                   "ART.": "MT13226",
-                  "DIMENSIONI": "356X102",
-                  "MANICO": "HOLZ"
+                  "Maße": "356X102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13246",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "HOLZ"
+                  "Maße": "406 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13266",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "HOLZ"
+                  "Maße": "457 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
                   "ART.": "MT13446",
-                  "DIMENSIONI": "305X127",
-                  "MANICO": "KUNSTSTOFF-GOLD"
+                  "Maße": "305X127",
+                  "Griff": "KUNSTSTOFF-GOLD"
                 },
                 {
                   "ART.": "MT13249",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "406 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
                   "ART.": "MT13269",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "PLASTIK"
+                  "Maße": "457 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13818",
-                  "DIMENSIONI": "356X102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13818",
+                  "Maße": "356X102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13819",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13819",
+                  "Maße": "406 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13837",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT13837",
+                  "Maße": "457 x 102",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13802",
-                  "DIMENSIONI": "356X102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13802",
+                  "Maße": "356X102",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13803",
-                  "DIMENSIONI": "406 x 102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13803",
+                  "Maße": "406 x 102",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13804",
-                  "DIMENSIONI": "457 x 102",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13804",
+                  "Maße": "457 x 102",
+                  "Griff": "HOLZ"
                 }
               ]
             },
@@ -5512,14 +5512,14 @@
               ],
               "models": [
                 {
-                  "ART": "MT13230",
-                  "DIMENSIONI": "356X102",
-                  "MANICO E CARATTERISTICHE": "KUNSTSTOFF-CARBON-NEIGUNG"
+                  "Art": "MT13230",
+                  "Maße": "356X102",
+                  "GRIFF UND FUNKTIONEN": "KUNSTSTOFF-CARBON-NEIGUNG"
                 },
                 {
-                  "ART": "MT14610",
-                  "DIMENSIONI": "406X79",
-                  "MANICO E CARATTERISTICHE": "KUNSTSTOFF-MAGNESIUM-KELLE"
+                  "Art": "MT14610",
+                  "Maße": "406X79",
+                  "GRIFF UND FUNKTIONEN": "KUNSTSTOFF-MAGNESIUM-KELLE"
                 }
               ]
             },
@@ -5533,34 +5533,34 @@
               ],
               "models": [
                 {
-                  "ART": "MT14102",
-                  "DIMENSIONI": "152X76",
-                  "LAMA": "13",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT14102",
+                  "Maße": "152X76",
+                  "Klinge": "13",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT14107",
-                  "DIMENSIONI": "152X111",
-                  "LAMA": "25",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT14107",
+                  "Maße": "152X111",
+                  "Klinge": "25",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13836",
-                  "DIMENSIONI": "152X76",
-                  "LAMA": "13",
-                  "MANICO": "HOLZ"
+                  "Art": "MT13836",
+                  "Maße": "152X76",
+                  "Klinge": "13",
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT10953",
-                  "DIMENSIONI": "152X76",
-                  "LAMA": "13",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT10953",
+                  "Maße": "152X76",
+                  "Klinge": "13",
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT11105",
-                  "DIMENSIONI": "152X76",
-                  "LAMA": "13",
-                  "MANICO": "PLASTIK"
+                  "Art": "MT11105",
+                  "Maße": "152X76",
+                  "Klinge": "13",
+                  "Griff": "PLASTIK"
                 }
               ]
             },
@@ -5574,82 +5574,82 @@
               ],
               "models": [
                 {
-                  "ART": "MT14288",
-                  "DIMENSIONI": "203X152",
+                  "Art": "MT14288",
+                  "Maße": "203X152",
                   "RAGGIO": "13",
                   "MANICO E DETTAGLI": "PLASTIK"
                 },
                 {
-                  "ART": "MT14292",
-                  "DIMENSIONI": "254 x 102",
+                  "Art": "MT14292",
+                  "Maße": "254 x 102",
                   "RAGGIO": "13",
                   "MANICO E DETTAGLI": "PLASTIK"
                 },
                 {
-                  "ART": "MT14294",
-                  "DIMENSIONI": "254 x 102",
+                  "Art": "MT14294",
+                  "Maße": "254 x 102",
                   "RAGGIO": "19",
                   "MANICO E DETTAGLI": "PLASTIK"
                 },
                 {
-                  "ART": "MT14223",
-                  "DIMENSIONI": "152X102",
+                  "Art": "MT14223",
+                  "Maße": "152X102",
                   "RAGGIO": "10",
                   "MANICO E DETTAGLI": "PLASTICA - BLAUER STAHL"
                 },
                 {
-                  "ART": "MT14225",
-                  "DIMENSIONI": "152X102",
+                  "Art": "MT14225",
+                  "Maße": "152X102",
                   "RAGGIO": "13",
                   "MANICO E DETTAGLI": "PLASTICA - BLAUER STAHL"
                 },
                 {
-                  "ART": "MT14280",
-                  "DIMENSIONI": "152X127",
+                  "Art": "MT14280",
+                  "Maße": "152X127",
                   "RAGGIO": "13",
                   "MANICO E DETTAGLI": "KUNSTSTOFF - GEZAHNT"
                 },
                 {
-                  "ART": "MT13896",
-                  "DIMENSIONI": "152X102",
+                  "Art": "MT13896",
+                  "Maße": "152X102",
                   "RAGGIO": "10",
-                  "MANICO": "HOLZ"
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13898",
-                  "DIMENSIONI": "152X102",
+                  "Art": "MT13898",
+                  "Maße": "152X102",
                   "RAGGIO": "13",
-                  "MANICO": "HOLZ"
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13916",
-                  "DIMENSIONI": "203X102",
+                  "Art": "MT13916",
+                  "Maße": "203X102",
                   "RAGGIO": "10",
-                  "MANICO": "HOLZ"
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13918",
-                  "DIMENSIONI": "203X102",
+                  "Art": "MT13918",
+                  "Maße": "203X102",
                   "RAGGIO": "13",
-                  "MANICO": "HOLZ"
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13920",
-                  "DIMENSIONI": "203X102",
+                  "Art": "MT13920",
+                  "Maße": "203X102",
                   "RAGGIO": "19",
-                  "MANICO": "HOLZ"
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13928",
-                  "DIMENSIONI": "203X152",
+                  "Art": "MT13928",
+                  "Maße": "203X152",
                   "RAGGIO": "13",
-                  "MANICO": "HOLZ"
+                  "Griff": "HOLZ"
                 },
                 {
-                  "ART": "MT13972",
-                  "DIMENSIONI": "152X102",
+                  "Art": "MT13972",
+                  "Maße": "152X102",
                   "RAGGIO": "13",
-                  "MANICO": "PLASTICA-BLAUER STAHL"
+                  "Griff": "PLASTICA-BLAUER STAHL"
                 }
               ]
             },
@@ -5663,34 +5663,34 @@
               ],
               "models": [
                 {
-                  "ART": "MT14146",
-                  "DIMENSIONI": "152X76",
+                  "Art": "MT14146",
+                  "Maße": "152X76",
                   "RAGGIO": "10",
-                  "MANICO": "PLASTIK"
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT14156",
-                  "DIMENSIONI": "152X102",
+                  "Art": "MT14156",
+                  "Maße": "152X102",
                   "RAGGIO": "10",
-                  "MANICO": "PLASTIK"
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT14149",
-                  "DIMENSIONI": "152X102",
+                  "Art": "MT14149",
+                  "Maße": "152X102",
                   "RAGGIO": "13",
-                  "MANICO": "PLASTIK"
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT10929",
-                  "DIMENSIONI": "152X76",
+                  "Art": "MT10929",
+                  "Maße": "152X76",
                   "RAGGIO": "10",
-                  "MANICO": "PLASTIK"
+                  "Griff": "PLASTIK"
                 },
                 {
-                  "ART": "MT13824",
-                  "DIMENSIONI": "152X102",
+                  "Art": "MT13824",
+                  "Maße": "152X102",
                   "RAGGIO": "10",
-                  "MANICO": "HOLZ"
+                  "Griff": "HOLZ"
                 }
               ]
             },
@@ -6129,87 +6129,87 @@
               "models": [
                 {
                   "Art.": "1890",
-                  "Macchine compatibili": "Moskito Sand und Zement",
-                  "Diametro mm": "600",
-                  "Peso Kg": "13.00"
+                  "Kompatible Maschinen": "Moskito Sand und Zement",
+                  "Durchmesser mm": "600",
+                  "Gewicht in Kg": "13.00"
                 },
                 {
                   "Art.": "4100",
-                  "Macchine compatibili": "Moskito-Hintergründe",
-                  "Diametro mm": "600",
-                  "Peso Kg": "5,00"
+                  "Kompatible Maschinen": "Moskito-Hintergründe",
+                  "Durchmesser mm": "600",
+                  "Gewicht in Kg": "5,00"
                 },
                 {
                   "Art.": "4105",
-                  "Macchine compatibili": "Moskito 4-60 4 Tabletten",
-                  "Diametro mm": "600",
-                  "Peso Kg": "5,00"
+                  "Kompatible Maschinen": "Moskito 4-60 4 Tabletten",
+                  "Durchmesser mm": "600",
+                  "Gewicht in Kg": "5,00"
                 },
                 {
                   "Art.": "4110",
-                  "Macchine compatibili": "Moskito 6-60 2 Tabletten",
-                  "Diametro mm": "600",
-                  "Peso Kg": "5,00"
+                  "Kompatible Maschinen": "Moskito 6-60 2 Tabletten",
+                  "Durchmesser mm": "600",
+                  "Gewicht in Kg": "5,00"
                 },
                 {
                   "Art.": "4115",
-                  "Macchine compatibili": "Moskito 75 2 Tabletten",
-                  "Diametro mm": "750",
-                  "Peso Kg": "7,80"
+                  "Kompatible Maschinen": "Moskito 75 2 Tabletten",
+                  "Durchmesser mm": "750",
+                  "Gewicht in Kg": "7,80"
                 },
                 {
                   "Art.": "4117",
-                  "Macchine compatibili": "MK8-75",
-                  "Diametro mm": "750",
-                  "Peso Kg": "7,80"
+                  "Kompatible Maschinen": "MK8-75",
+                  "Durchmesser mm": "750",
+                  "Gewicht in Kg": "7,80"
                 },
                 {
                   "Art.": "4120",
-                  "Macchine compatibili": "4-90 / MK8-90 / MK8-90 HCS sp. 3mm",
-                  "Diametro mm": "900",
-                  "Peso Kg": "18,50"
+                  "Kompatible Maschinen": "4-90 / MK8-90 / MK8-90 HCS sp. 3mm",
+                  "Durchmesser mm": "900",
+                  "Gewicht in Kg": "18,50"
                 },
                 {
                   "Art.": "4121",
-                  "Macchine compatibili": "4-90 / MK8-90 / MK8-90 HCS sp. 4mm",
-                  "Diametro mm": "900",
-                  "Peso Kg": "25.00"
+                  "Kompatible Maschinen": "4-90 / MK8-90 / MK8-90 HCS sp. 4mm",
+                  "Durchmesser mm": "900",
+                  "Gewicht in Kg": "25.00"
                 },
                 {
                   "Art.": "4133",
-                  "Macchine compatibili": "5-90 / MK10-90 Hcs",
-                  "Diametro mm": "90",
-                  "Peso Kg": "18,70"
+                  "Kompatible Maschinen": "5-90 / MK10-90 Hcs",
+                  "Durchmesser mm": "90",
+                  "Gewicht in Kg": "18,70"
                 },
                 {
                   "Art.": "4125",
-                  "Macchine compatibili": "4-120 / MK8-120 / MK8-120 HCS sp. 3mm",
-                  "Diametro mm": "1200",
-                  "Peso Kg": "28.00"
+                  "Kompatible Maschinen": "4-120 / MK8-120 / MK8-120 HCS sp. 3mm",
+                  "Durchmesser mm": "1200",
+                  "Gewicht in Kg": "28.00"
                 },
                 {
                   "Art.": "4126",
-                  "Macchine compatibili": "4-120 / MK8-120 / MK8-120 HCS sp. 4mm",
-                  "Diametro mm": "1200",
-                  "Peso Kg": "35,50"
+                  "Kompatible Maschinen": "4-120 / MK8-120 / MK8-120 HCS sp. 4mm",
+                  "Durchmesser mm": "1200",
+                  "Gewicht in Kg": "35,50"
                 },
                 {
                   "Art.": "4134",
-                  "Macchine compatibili": "5-120 / MK10-120 HCS",
-                  "Diametro mm": "1200",
-                  "Peso Kg": "28.20"
+                  "Kompatible Maschinen": "5-120 / MK10-120 HCS",
+                  "Durchmesser mm": "1200",
+                  "Gewicht in Kg": "28.20"
                 },
                 {
                   "Art.": "4130",
-                  "Macchine compatibili": "MK12-160 3 mm dick",
-                  "Diametro mm": "1600",
-                  "Peso Kg": "55,00"
+                  "Kompatible Maschinen": "MK12-160 3 mm dick",
+                  "Durchmesser mm": "1600",
+                  "Gewicht in Kg": "55,00"
                 },
                 {
                   "Art.": "4131",
-                  "Macchine compatibili": "MK12-160 4 mm dick",
-                  "Diametro mm": "1600",
-                  "Peso Kg": "58,00"
+                  "Kompatible Maschinen": "MK12-160 4 mm dick",
+                  "Durchmesser mm": "1600",
+                  "Gewicht in Kg": "58,00"
                 }
               ]
             },
@@ -6224,45 +6224,45 @@
               "models": [
                 {
                   "Artikel": "4148",
-                  "Macchine compatibili": "4-80 / MK-75",
-                  "Spessore mm": "3",
-                  "Peso Kg": "6.698"
+                  "Kompatible Maschinen": "4-80 / MK-75",
+                  "Dicke mm": "3",
+                  "Gewicht in Kg": "6.698"
                 },
                 {
                   "Artikel": "4150",
-                  "Macchine compatibili": "4-90 / OL90 / MK8-90 dx",
-                  "Spessore mm": "3",
-                  "Peso Kg": "9.300"
+                  "Kompatible Maschinen": "4-90 / OL90 / MK8-90 dx",
+                  "Dicke mm": "3",
+                  "Gewicht in Kg": "9.300"
                 },
                 {
                   "Artikel": "4155",
-                  "Macchine compatibili": "OL90 / MK8-90 links",
-                  "Spessore mm": "3",
-                  "Peso Kg": "9.300"
+                  "Kompatible Maschinen": "OL90 / MK8-90 links",
+                  "Dicke mm": "3",
+                  "Gewicht in Kg": "9.300"
                 },
                 {
                   "Artikel": "4160",
-                  "Macchine compatibili": "4-120 / OL120 / MK8-120 dx",
-                  "Spessore mm": "3",
-                  "Peso Kg": "12.500"
+                  "Kompatible Maschinen": "4-120 / OL120 / MK8-120 dx",
+                  "Dicke mm": "3",
+                  "Gewicht in Kg": "12.500"
                 },
                 {
                   "Artikel": "4165",
-                  "Macchine compatibili": "OL120 / MK8-120 sx",
-                  "Spessore mm": "3",
-                  "Peso Kg": "12.500"
+                  "Kompatible Maschinen": "OL120 / MK8-120 sx",
+                  "Dicke mm": "3",
+                  "Gewicht in Kg": "12.500"
                 },
                 {
                   "Artikel": "4180",
-                  "Macchine compatibili": "4-120 / OL120 / MK8-120 dx",
-                  "Spessore mm": "4",
-                  "Peso Kg": "16.500"
+                  "Kompatible Maschinen": "4-120 / OL120 / MK8-120 dx",
+                  "Dicke mm": "4",
+                  "Gewicht in Kg": "16.500"
                 },
                 {
                   "Artikel": "4185",
-                  "Macchine compatibili": "OL120 / MK8-120 sx",
-                  "Spessore mm": "4",
-                  "Peso Kg": "16.500"
+                  "Kompatible Maschinen": "OL120 / MK8-120 sx",
+                  "Dicke mm": "4",
+                  "Gewicht in Kg": "16.500"
                 }
               ]
             },
@@ -6278,42 +6278,42 @@
                 {
                   "Art.": "4225G",
                   "Beschreibung": "Palette 4-90",
-                  "Peso Kg": "5.042"
+                  "Gewicht in Kg": "5.042"
                 },
                 {
                   "Art.": "4228G",
                   "Beschreibung": "Palette 5-90",
-                  "Peso Kg": "6.310"
+                  "Gewicht in Kg": "6.310"
                 },
                 {
                   "Art.": "4230G",
                   "Beschreibung": "Palette 4-120",
-                  "Peso Kg": "6.700"
+                  "Gewicht in Kg": "6.700"
                 },
                 {
                   "Art.": "4234G",
                   "Beschreibung": "Palette 5-120",
-                  "Peso Kg": "8,36"
+                  "Gewicht in Kg": "8,36"
                 },
                 {
                   "Art.": "4250G",
                   "Beschreibung": "Combi 4-90",
-                  "Peso Kg": "5.750"
+                  "Gewicht in Kg": "5.750"
                 },
                 {
                   "Art.": "4251G",
                   "Beschreibung": "Combi 5-90 Spezial",
-                  "Peso Kg": "7.190"
+                  "Gewicht in Kg": "7.190"
                 },
                 {
                   "Art.": "4255G",
                   "Beschreibung": "Combi 4-120",
-                  "Peso Kg": "7.744"
+                  "Gewicht in Kg": "7.744"
                 },
                 {
                   "Art.": "4254G",
                   "Beschreibung": "Combi 5-120 Spezial",
-                  "Peso Kg": "9.680"
+                  "Gewicht in Kg": "9.680"
                 }
               ]
             },
@@ -6328,78 +6328,78 @@
               "models": [
                 {
                   "Art.": "4200",
-                  "Macchine compatibili": "Mücke 4-60",
-                  "Peso Kg": "2.300"
+                  "Kompatible Maschinen": "Mücke 4-60",
+                  "Gewicht in Kg": "2.300"
                 },
                 {
                   "Art.": "4205",
-                  "Macchine compatibili": "Mücke 6-60",
-                  "Peso Kg": "3.240"
+                  "Kompatible Maschinen": "Mücke 6-60",
+                  "Gewicht in Kg": "3.240"
                 },
                 {
                   "Art.": "4210",
-                  "Macchine compatibili": "Moskito 6-60 alter Typ",
-                  "Peso Kg": "2.686"
+                  "Kompatible Maschinen": "Moskito 6-60 alter Typ",
+                  "Gewicht in Kg": "2.686"
                 },
                 {
                   "Art.": "4215",
-                  "Macchine compatibili": "Mücke 4-75",
-                  "Peso Kg": "2.972"
+                  "Kompatible Maschinen": "Mücke 4-75",
+                  "Gewicht in Kg": "2.972"
                 },
                 {
                   "Art.": "4220",
-                  "Macchine compatibili": "Mücke 6-75",
-                  "Peso Kg": "4.400"
+                  "Kompatible Maschinen": "Mücke 6-75",
+                  "Gewicht in Kg": "4.400"
                 },
                 {
                   "Art.": "4223",
-                  "Macchine compatibili": "4-80 / MK8-75",
-                  "Peso Kg": "3.694"
+                  "Kompatible Maschinen": "4-80 / MK8-75",
+                  "Gewicht in Kg": "3.694"
                 },
                 {
                   "Art.": "4225",
-                  "Macchine compatibili": "4-90 / OL90",
-                  "Peso Kg": "4.680"
+                  "Kompatible Maschinen": "4-90 / OL90",
+                  "Gewicht in Kg": "4.680"
                 },
                 {
                   "Art.": "4228",
-                  "Macchine compatibili": "5-90",
-                  "Peso Kg": "5.800"
+                  "Kompatible Maschinen": "5-90",
+                  "Gewicht in Kg": "5.800"
                 },
                 {
                   "Art.": "4230",
-                  "Macchine compatibili": "4-120",
-                  "Peso Kg": "6.272"
+                  "Kompatible Maschinen": "4-120",
+                  "Gewicht in Kg": "6.272"
                 },
                 {
                   "Art.": "4234",
-                  "Macchine compatibili": "5-120",
-                  "Peso Kg": "7.720"
+                  "Kompatible Maschinen": "5-120",
+                  "Gewicht in Kg": "7.720"
                 },
                 {
                   "Art.": "4240",
-                  "Macchine compatibili": "MK8-90",
-                  "Peso Kg": "5.502"
+                  "Kompatible Maschinen": "MK8-90",
+                  "Gewicht in Kg": "5.502"
                 },
                 {
                   "Art.": "4238",
-                  "Macchine compatibili": "MK10-90",
-                  "Peso Kg": "6.880"
+                  "Kompatible Maschinen": "MK10-90",
+                  "Gewicht in Kg": "6.880"
                 },
                 {
                   "Art.": "4235",
-                  "Macchine compatibili": "OL120 / MK8-120",
-                  "Peso Kg": "7.438"
+                  "Kompatible Maschinen": "OL120 / MK8-120",
+                  "Gewicht in Kg": "7.438"
                 },
                 {
                   "Art.": "4239",
-                  "Macchine compatibili": "MK10-120",
-                  "Peso Kg": "9.300"
+                  "Kompatible Maschinen": "MK10-120",
+                  "Gewicht in Kg": "9.300"
                 },
                 {
                   "Art.": "4245",
-                  "Macchine compatibili": "MK12-160",
-                  "Peso Kg": "14.574"
+                  "Kompatible Maschinen": "MK12-160",
+                  "Gewicht in Kg": "14.574"
                 }
               ]
             },
@@ -6414,73 +6414,73 @@
               "models": [
                 {
                   "Artikel": "4250",
-                  "Macchine compatibili": "4-90 / OL90",
-                  "Peso Kg": "5.718"
+                  "Kompatible Maschinen": "4-90 / OL90",
+                  "Gewicht in Kg": "5.718"
                 },
                 {
                   "Artikel": "4251",
-                  "Macchine compatibili": "5-90",
-                  "Peso Kg": "7.6000"
+                  "Kompatible Maschinen": "5-90",
+                  "Gewicht in Kg": "7.6000"
                 },
                 {
                   "Artikel": "4253",
-                  "Macchine compatibili": "4-90 / OL90 / MK8-90 Spezial",
-                  "Peso Kg": "6.120"
+                  "Kompatible Maschinen": "4-90 / OL90 / MK8-90 Spezial",
+                  "Gewicht in Kg": "6.120"
                 },
                 {
                   "Artikel": "4255",
-                  "Macchine compatibili": "4-120",
-                  "Peso Kg": "7.650"
+                  "Kompatible Maschinen": "4-120",
+                  "Gewicht in Kg": "7.650"
                 },
                 {
                   "Artikel": "4256",
-                  "Macchine compatibili": "4-120 Spezial",
-                  "Peso Kg": "7.778"
+                  "Kompatible Maschinen": "4-120 Spezial",
+                  "Gewicht in Kg": "7.778"
                 },
                 {
                   "Artikel": "4254",
-                  "Macchine compatibili": "MK12-160 Spezial",
-                  "Peso Kg": "12.520"
+                  "Kompatible Maschinen": "MK12-160 Spezial",
+                  "Gewicht in Kg": "12.520"
                 },
                 {
                   "Artikel": "4258",
-                  "Macchine compatibili": "4-80 / MK8-75",
-                  "Peso Kg": "3.648"
+                  "Kompatible Maschinen": "4-80 / MK8-75",
+                  "Gewicht in Kg": "3.648"
                 },
                 {
                   "Artikel": "4260",
-                  "Macchine compatibili": "OL120 / MK8-120",
-                  "Peso Kg": "8.382"
+                  "Kompatible Maschinen": "OL120 / MK8-120",
+                  "Gewicht in Kg": "8.382"
                 },
                 {
                   "Artikel": "4259",
-                  "Macchine compatibili": "OL120 / MK8-120 Spezial",
-                  "Peso Kg": "8.468"
+                  "Kompatible Maschinen": "OL120 / MK8-120 Spezial",
+                  "Gewicht in Kg": "8.468"
                 },
                 {
                   "Artikel": "4261",
-                  "Macchine compatibili": "MK10-120",
-                  "Peso Kg": "10.480"
+                  "Kompatible Maschinen": "MK10-120",
+                  "Gewicht in Kg": "10.480"
                 },
                 {
                   "Artikel": "4265",
-                  "Macchine compatibili": "MK8-90",
-                  "Peso Kg": "6.268"
+                  "Kompatible Maschinen": "MK8-90",
+                  "Gewicht in Kg": "6.268"
                 },
                 {
                   "Artikel": "4266",
-                  "Macchine compatibili": "MK8-90 Spezial",
-                  "Peso Kg": "6.300"
+                  "Kompatible Maschinen": "MK8-90 Spezial",
+                  "Gewicht in Kg": "6.300"
                 },
                 {
                   "Artikel": "4264",
-                  "Macchine compatibili": "MK10-90",
-                  "Peso Kg": "7.875"
+                  "Kompatible Maschinen": "MK10-90",
+                  "Gewicht in Kg": "7.875"
                 },
                 {
                   "Artikel": "4268",
-                  "Macchine compatibili": "MK12-160 Spezial",
-                  "Peso Kg": "12.520"
+                  "Kompatible Maschinen": "MK12-160 Spezial",
+                  "Gewicht in Kg": "12.520"
                 }
               ]
             },
@@ -6495,33 +6495,33 @@
               "models": [
                 {
                   "Art.": "4135",
-                  "Macchine compatibili": "Mücke 4-60",
-                  "Peso Kg": "2.232"
+                  "Kompatible Maschinen": "Mücke 4-60",
+                  "Gewicht in Kg": "2.232"
                 },
                 {
                   "Art.": "4137",
-                  "Macchine compatibili": "Mücke 4-75",
-                  "Peso Kg": "2.940"
+                  "Kompatible Maschinen": "Mücke 4-75",
+                  "Gewicht in Kg": "2.940"
                 },
                 {
                   "Art.": "4139",
-                  "Macchine compatibili": "4-90 / OL90",
-                  "Peso Kg": "4.120"
+                  "Kompatible Maschinen": "4-90 / OL90",
+                  "Gewicht in Kg": "4.120"
                 },
                 {
                   "Art.": "4141",
-                  "Macchine compatibili": "4-120",
-                  "Peso Kg": "5.376"
+                  "Kompatible Maschinen": "4-120",
+                  "Gewicht in Kg": "5.376"
                 },
                 {
                   "Art.": "4143",
-                  "Macchine compatibili": "Kombiniert 4-90 / OL90",
-                  "Peso Kg": "4.472"
+                  "Kompatible Maschinen": "Kombiniert 4-90 / OL90",
+                  "Gewicht in Kg": "4.472"
                 },
                 {
                   "Art.": "4145",
-                  "Macchine compatibili": "Kombiniert 4-120",
-                  "Peso Kg": "6.000"
+                  "Kompatible Maschinen": "Kombiniert 4-120",
+                  "Gewicht in Kg": "6.000"
                 }
               ]
             },
@@ -6652,7 +6652,7 @@
               "models": [
                 {
                   "Artikel": "3402",
-                  "Peso kg": "70"
+                  "Gewicht in Kg": "70"
                 }
               ]
             },
@@ -6695,17 +6695,17 @@
                 {
                   "Art.": "4600",
                   "Lunghezze m": "2,00",
-                  "Peso Kg": "6.2"
+                  "Gewicht in Kg": "6.2"
                 },
                 {
                   "Art.": "4602",
                   "Lunghezze m": "2,50",
-                  "Peso Kg": null
+                  "Gewicht in Kg": null
                 },
                 {
                   "Art.": "4604",
                   "Lunghezze m": "3,00",
-                  "Peso Kg": "9.3"
+                  "Gewicht in Kg": "9.3"
                 }
               ]
             },
@@ -6737,37 +6737,37 @@
                 {
                   "Artikel": "4976",
                   "Lunghezza m": "2,00",
-                  "Peso Kg": "5,00"
+                  "Gewicht in Kg": "5,00"
                 },
                 {
                   "Artikel": "4977",
                   "Lunghezza m": "2,50",
-                  "Peso Kg": "6.30"
+                  "Gewicht in Kg": "6.30"
                 },
                 {
                   "Artikel": "4978",
                   "Lunghezza m": "3,00",
-                  "Peso Kg": "8,60"
+                  "Gewicht in Kg": "8,60"
                 },
                 {
                   "Artikel": "4979",
                   "Lunghezza m": "3,50",
-                  "Peso Kg": "9.30"
+                  "Gewicht in Kg": "9.30"
                 },
                 {
                   "Artikel": "4982",
                   "Lunghezza m": "4,00",
-                  "Peso Kg": "10.00"
+                  "Gewicht in Kg": "10.00"
                 },
                 {
                   "Artikel": "4980",
                   "Lunghezza m": "4,50",
-                  "Peso Kg": "11.20"
+                  "Gewicht in Kg": "11.20"
                 },
                 {
                   "Artikel": "4981",
                   "Lunghezza m": "5,00",
-                  "Peso Kg": "12,90"
+                  "Gewicht in Kg": "12,90"
                 }
               ]
             },
@@ -6973,7 +6973,7 @@
                   "Code": "3505",
                   "Motor": "HONDA GX690",
                   "Ausgangsdrehzahl U/min": "3200",
-                  "POTENZA": "22",
+                  "Leistung": "22",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "219"
@@ -6982,7 +6982,7 @@
                   "Code": "3522",
                   "Motor": "B&S 35CV",
                   "Ausgangsdrehzahl U/min": "3200",
-                  "POTENZA": "35",
+                  "Leistung": "35",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "238"
@@ -6991,7 +6991,7 @@
                   "Code": "3519",
                   "Motor": "B&S 37CV",
                   "Ausgangsdrehzahl U/min": "3200",
-                  "POTENZA": "37",
+                  "Leistung": "37",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "238"
@@ -7000,7 +7000,7 @@
                   "Code": "3517",
                   "Motor": "KOHLER",
                   "Ausgangsdrehzahl U/min": "3200",
-                  "POTENZA": "25",
+                  "Leistung": "25",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "226"
@@ -7009,7 +7009,7 @@
                   "Code": "3513",
                   "Motor": "KOHLER",
                   "Ausgangsdrehzahl U/min": "3200",
-                  "POTENZA": "38",
+                  "Leistung": "38",
                   "Anlasser": "Elektrisch",
                   "Kraftstoff": "Gas",
                   "Gewicht in Kg.": "240"
