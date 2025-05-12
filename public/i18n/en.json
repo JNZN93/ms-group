@@ -7111,6 +7111,7 @@
                 "products": [
                   {
                     "url": "https://www.spectraprecision.com/ll300s",
+                    "category": "Other",
                     "image": "https://static.wixstatic.com/media/cd4160_04bf36766c2c497296dc6273d2b4ac62~mv2.png/v1/crop/x_0,y_317,w_2500,h_1896/fill/w_600,h_455,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LL300S.png",
                     "name": "Spectra LL300S",
                     "description_items": [
@@ -7150,6 +7151,7 @@
                   },
                   {
                     "url": "https://www.spectraprecision.com/theodolite",
+                    "category": "Other",
                     "image": "https://static.wixstatic.com/media/cd4160_05405ae862744250a04d7fb54f9891d3~mv2.png/v1/crop/x_638,y_104,w_1142,h_2263/fill/w_238,h_469,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DET-2%20Construction%20Theodolite.png",
                     "name": "Theodolite DET-2",
                     "description_items": [
@@ -7229,6 +7231,7 @@
                   },
                   {
                     "url": "https://www.spectraprecision.com/dg613",
+                    "category": "Other",
                     "image": "https://static.wixstatic.com/media/cd4160_398439b836754b6b93ad6dbf270693e0~mv2.png/v1/crop/x_750,y_83,w_1075,h_2154/fill/w_134,h_267,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/RC803.png",
                     "name": "Spectra DG613",
                     "description_items": [
@@ -7278,6 +7281,7 @@
                   },
                   {
                     "url": "https://www.spectraprecision.com/ul633n",
+                    "category": "Other",
                     "image": "https://static.wixstatic.com/media/bd8f3e_2ae90cd936cb46b4b6c4b05f68c27506~mv2.png/v1/crop/x_396,y_366,w_2676,h_2904/fill/w_412,h_448,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/UL633N%20Grade%20Laser.png",
                     "name": "Spectra UL633N",
                     "description_items": [
@@ -7477,6 +7481,7 @@
                   },
                   {
                     "url": "https://www.spectraprecision.com/gl422n",
+                    "category": "Dual grade laser",
                     "image": "https://static.wixstatic.com/media/cd4160_19f32414bd9a426c80af498e357e40bb~mv2.png/v1/crop/x_138,y_108,w_956,h_1092/fill/w_478,h_546,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL422N.png",
                     "name": "Spectra GL422N",
                     "description_items": [
@@ -7486,6 +7491,7 @@
                   },
                   {
                     "url": "https://www.spectraprecision.com/lt20",
+                    "category": "Line laser",
                     "image": "https://static.wixstatic.com/media/cd4160_86337ed533674a069fc956993e81684b~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LT20.png",
                     "name": "LT20 & LT20G Line Lasers",
                     "description_items": [
@@ -7495,6 +7501,7 @@
                   },
                   {
                     "url": "https://www.spectraprecision.com/digital-display-receivers",
+                    "category": "Digital display receivers",
                     "image": "https://static.wixstatic.com/media/cd4160_ad2cacbb4244423aae22f1a12afcaf22~mv2.png/v1/crop/x_679,y_142,w_1117,h_2192/fill/w_209,h_411,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HL760.png",
                     "name": "Digital Display Receivers",
                     "description_items": [
