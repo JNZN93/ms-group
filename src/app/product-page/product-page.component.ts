@@ -74,7 +74,7 @@ export class ProductPageComponent implements OnInit, OnDestroy {
     const brandData = this.globalService.manufactors.find(
       p => p.brand.toLowerCase() === this.selectedBrand.toLowerCase()
     );
-    this.brandProducts = brandData ? brandData.products : [];
+    this.brandProducts = brandData ? brandData.products.sort((a:any, b:any) => a.category.localeCompare(b.category)) : [];
   }
 
   openModal(product:any) {
