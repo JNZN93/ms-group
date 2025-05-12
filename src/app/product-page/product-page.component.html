@@ -1,7 +1,7 @@
 
   <section>
     <select [(ngModel)]="selectedCategory" class="category-select">
-      <option value="">Alle Kategorien</option>
+      <option value="">{{'products_page.CATEGORIES' | translate}}</option>
       <option *ngFor="let category of uniqueCategories" [value]="category">
         {{ category }}
       </option>

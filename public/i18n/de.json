@@ -20,7 +20,8 @@
         "OTHER": "Sonstige Artikel und Zubehör",
         "VARIANT": "Variante auswählen:",
         "CLOSE": "Schließen",
-        "MODEL": "Modellübersicht"
+        "MODEL": "Modellübersicht",
+        "CATEGORIES": "Alle Kategorien"
     },
     "contact": {
         "HEADLINE": "Kontaktieren Sie uns!",
@@ -869,7 +870,7 @@
               "models": []
             },
             {
-              "category": "accessoriaccessori_barikell",
+              "category": "Zubehör Barikell",
               "productUrl": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
               "name": "Zubehör für Betonpumpenschläuche",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
@@ -900,7 +901,7 @@
               ]
             },
             {
-              "category": "accessoriaccessori_barikell",
+              "category": "Zubehör Barikell",
               "productUrl": "https://www.barikell.it/prodotto/picchetti/",
               "name": "Streikposten",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
@@ -939,7 +940,7 @@
               ]
             },
             {
-              "category": "accessoriaccessori_barikell",
+              "category": "Zubehör Barikell",
               "productUrl": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
               "name": "Ersatzteile für Ultraleicht-Haarglätter",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
@@ -958,7 +959,7 @@
               ]
             },
             {
-              "category": "accessoriaccessori_barikell",
+              "category": "Zubehör Barikell",
               "productUrl": "https://www.barikell.it/prodotto/raschietti/",
               "name": "Schaber",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3930-RASCHIETTO-PULIP-S_MANICO-mini-119-700x576.jpg",
@@ -981,7 +982,7 @@
               ]
             },
             {
-              "category": "accessoriaccessori_barikell",
+              "category": "Zubehör Barikell",
               "productUrl": "https://www.barikell.it/prodotto/rastrelli/",
               "name": "Rechen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/SPAZZA-ACQUA-RASCHIETTI-E-RASTRELLI.jpg",
@@ -1052,7 +1053,7 @@
               ]
             },
             {
-              "category": "accessoriaccessori_barikell",
+              "category": "Zubehör Barikell",
               "productUrl": "https://www.barikell.it/prodotto/spazza-acqua-raschietti-rastrelli/",
               "name": "Wasserschieber",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3950-SPAZZA-ACQUA-C_MANICO-2-mini-105-700x678.jpg",
@@ -1075,7 +1076,7 @@
               ]
             },
             {
-              "category": "accessoriaccessori_barikell",
+              "category": "Zubehör Barikell",
               "productUrl": "https://www.barikell.it/prodotto/stagge-ultra-light-in-alluminio/",
               "name": "Ultraleichte Aluminiumstäbe",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3900-STAGGIA-MT2-700x239.jpg",
@@ -1130,7 +1131,7 @@
               ]
             },
             {
-              "category": "accessoriaccessori_barikell",
+              "category": "Zubehör Barikell",
               "productUrl": "https://www.barikell.it/prodotto/tracciarighe-e-polvere/",
               "name": "Linienspuren und Staub",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5300-TRACCIARIGHE-50-MT-700x486.jpg",
@@ -1181,7 +1182,7 @@
               ]
             },
             {
-              "category": "accessoriaccessori_barikell",
+              "category": "Zubehör Barikell",
               "productUrl": "https://www.barikell.it/prodotto/vari/",
               "name": "Unterschuhe",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5600-PAIO-SOTTOSCARPE-700x364.jpg",
@@ -1196,7 +1197,7 @@
               ]
             },
             {
-              "category": "ZubehörZubehör für Doppel",
+              "category": "Zubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/torque-converter/",
               "name": "Drehmomentwandler",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
@@ -1206,7 +1207,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Doppel",
+              "category": "Zubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
               "name": "Transportwagen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
@@ -1218,7 +1219,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Doppel",
+              "category": "Zubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
               "name": "Universal-Transportwagen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
@@ -1230,7 +1231,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Doppel",
+              "category": "Zubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
               "name": "Hebehaken (G)",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
@@ -1246,7 +1247,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Doppel",
+              "category": "Zubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/telaio-di-protezione-apribile-a/",
               "name": "Öffnungsschutzrahmen (A)",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/telaio-doppia.jpg",
@@ -1261,7 +1262,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Doppel",
+              "category": "Zubehör für Doppel",
               "productUrl": "https://www.barikell.it/prodotto/variatore-di-velocita-15/",
               "name": "Hohe Geschwindigkeit",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/dashboard_5628701.png",
@@ -1271,7 +1272,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Singles",
+              "category": "Zubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/arresto-centrifugo/",
               "name": "Fliehkraftstopp",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/arresto-centrifugo-700x531.jpg",
@@ -1281,7 +1282,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Singles",
+              "category": "Zubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
               "name": "Öffnungsschutzring",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
@@ -1292,7 +1293,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Singles",
+              "category": "Zubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
               "name": "Stabilisatorkreis",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
@@ -1304,7 +1305,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Singles",
+              "category": "Zubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/gancio-sollevamento/",
               "name": "Hebehaken",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
@@ -1315,7 +1316,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Singles",
+              "category": "Zubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
               "name": "Quick Pitch Kurzgriff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
@@ -1325,7 +1326,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Singles",
+              "category": "Zubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/manico-lungo/",
               "name": "Langer Griff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
@@ -1337,7 +1338,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Singles",
+              "category": "Zubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
               "name": "Schnellaufstellung mit langem Griff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
@@ -1347,7 +1348,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Singles",
+              "category": "Zubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/manico-pieghevole/",
               "name": "Klappgriff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
@@ -1358,7 +1359,7 @@
               "models": []
             },
             {
-              "category": "ZubehörZubehör für Singles",
+              "category": "Zubehör für Singles",
               "productUrl": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
               "name": "Transportsystem",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
@@ -2576,7 +2577,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial_Kellen_und_Nasen_barikell",
+              "category": "Verbrauchsmaterial Kellen und Nasen Barikell",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole/",
               "name": "Kellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
@@ -2623,7 +2624,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial_Kellen_und_Nasen_barikell",
+              "category": "Verbrauchsmaterial Kellen und Nasen Barikell",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe/",
               "name": "Rampenflucht",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
@@ -2644,7 +2645,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial_Kellen_und_Nasen_barikell",
+              "category": "Verbrauchsmaterial Kellen und Nasen Barikell",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
               "name": "Ausstiege für Zahnrampen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3987-FUGA-PER-RAMPE-700x524.jpg",
@@ -2660,7 +2661,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial_Kellen_und_Nasen_barikell",
+              "category": "Verbrauchsmaterial Kellen und Nasen Barikell",
               "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini/",
               "name": "Nasen für Stufen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/NASINO_3970.jpg",
@@ -3477,7 +3478,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
               "name": "MK8-75\n30 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
@@ -3578,7 +3579,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-36-inches/",
               "name": "MK8-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
@@ -3684,7 +3685,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/ol-90-36-inches/",
               "name": "OL-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
@@ -3763,7 +3764,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
               "name": "MK8-90 HCS – Monster\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
@@ -3818,7 +3819,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches/",
               "name": "MK8-90 HCS\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MK8_90-HCS_mini-700x487.jpg",
@@ -3906,7 +3907,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-120-46-inches/",
               "name": "MK8-120\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
@@ -4003,7 +4004,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/ol-120-46-inches/",
               "name": "OL-120\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3295G-INT-700x439.jpg",
@@ -4071,7 +4072,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches-monster/",
               "name": "MK8-120HCS – Monster\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
@@ -4151,7 +4152,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches/",
               "name": "MK8-120 HCS\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-GANCIO-700x443.jpg",
@@ -4246,7 +4247,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/ol-120hcs-46-inches/",
               "name": "OL-120 HCS\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/OL-120HCS.jpg",
@@ -4320,7 +4321,7 @@
               ]
             },
             {
-              "category": "Betonkellen_doppelt",
+              "category": "Betonkellen doppelt",
               "productUrl": "https://www.barikell.it/prodotto/mk12-160hcs-64-inches/",
               "name": "MK12-160 HCS\n64 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3384-MK-12_160-HCS-mini-028-700x353.jpg",
@@ -6140,7 +6141,7 @@
               ]
             },
             {
-              "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
+              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/dischi-frattazzo/",
               "name": "Kellenscheiben",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/discofrattazzo1.jpg",
@@ -6235,7 +6236,7 @@
               ]
             },
             {
-              "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
+              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/frattazzi/",
               "name": "Glättkellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
@@ -6288,7 +6289,7 @@
               ]
             },
             {
-              "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
+              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/golden-blades/",
               "name": "Palette golden",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4225-G2-GOLD-490-mini-022-700x318.jpg",
@@ -6339,7 +6340,7 @@
               ]
             },
             {
-              "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
+              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/palette/",
               "name": "Palettenoberfläche",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4200-PALETTE-MOSQUITO-mini-053-700x374.jpg",
@@ -6425,7 +6426,7 @@
               ]
             },
             {
-              "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
+              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/palette-combinate/",
               "name": "Kombipalette",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4253-COMBI-SPECIAL-4_90-mini-069-700x329.jpg",
@@ -6506,7 +6507,7 @@
               ]
             },
             {
-              "category": "VerbrauchsmaterialPaletten_Kellen_und_Scheiben",
+              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/palette-in-teflon/",
               "name": "Teflonpalette",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4141-PALETTA-TEFLON-120-mini-067-700x237.jpg",
