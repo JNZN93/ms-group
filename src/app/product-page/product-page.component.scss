@@ -14,94 +14,109 @@ section {
 
 }
 
+
 .category-select {
-  padding: 10px 14px;
-  font-size: 17px;
+  width: 300px !important;
+  height: 44px;
+  padding: 8px 14px;
+  font-size: 16px;
   border: 1px solid #ccc;
   border-radius: 8px;
   background-color: #fff;
   color: #333;
   outline: none;
-  transition: border 0.2s ease, box-shadow 0.2s ease;
-  margin-bottom: 1.5rem;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 .category-select:hover {
-  border-color: #888;
+  border-color: #999;
 }
 
 .category-select:focus {
   border-color: #007bff;
-  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.2);
+}
+
+.main-card-container {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* oder space-between / space-around */
+  gap: 24px; /* Abstand zwischen den Karten */
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 
 .karte {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    padding: 16px;
-    width: 280px;
-    height: 340px;
-    /* feste Höhe für ALLE Karten */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    box-sizing: border-box;
-    background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* oben + unten platzieren */
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 16px;
+  width: 280px;
+  height: 380px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  background-color: #fff;
+  flex: 0 1 auto;
 }
 
 .karte-content {
-    flex-grow: 1;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -webkit-box;
-    -webkit-line-clamp: 4;
-    /* wie viele Zeilen du erlaubst */
-    -webkit-box-orient: vertical;
+  flex-grow: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  margin-bottom: 12px;
+}
 
+.karte-content p {
+  font-size: 14px;
+  color: rgb(170, 170, 170);
+  margin: 0;
+}
 
-    p {
-        font-size: 14px;
-        color: rgb(170, 170, 170);
-    }
-
-    h2 {
-      font-size: 1.5rem;
-      font-weight: bold;
-      color: #2c3e50;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
+.karte-content h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #2c3e50;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0 0 8px 0;
 }
 
 .karte img {
-    max-width: 100%;
-    border-radius: 8px;
-    height: 140px;
-    object-fit: contain;
-    margin-bottom: 12px;
-    padding-top: 20px;
+  max-width: 100%;
+  border-radius: 8px;
+  height: 140px;
+  object-fit: contain;
+  margin-bottom: 12px;
 }
 
 .karte-footer {
-    margin-top: 16px;
+  margin-top: auto; /* schiebt den Footer ganz nach unten */
+  display: flex;
+  justify-content: center;
 }
 
 .karte button {
-    margin-top: 10px;
-    background: #3498db;
-    color: white;
-    border: none;
-    padding: 10px 16px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: 0.3s;
-    width: 160px;
+  background: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  width: 160px;
+  align-self: center;
 }
 
 .karte button:hover {
-    background: #c0903d;
+  background: #c0903d;
 }
 
 .modal-fullscreen-custom {

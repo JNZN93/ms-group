@@ -7,18 +7,20 @@
       </option>
     </select>
     @if (filteredProducts.length > 0) {
-      @for (product of filteredProducts; track $index) {
-        <div class="karte">
-          <img [src]="product.image" />
-          <div class="karte-content">
-            <h2>{{ product.name }}</h2>
-            <p>{{ product.description_items || 'Kein Beschreibungstext verfügbar.' }}</p>
-          </div>
-          <div class="karte-footer">
-            <button (click)="openModal(product)">Details</button>
-          </div>
-        </div>
-      }
+      <div class="main-card-container">
+          @for (product of filteredProducts; track $index) {
+            <div class="karte">
+              <img [src]="product.image" />
+              <div class="karte-content">
+                <h2>{{ product.name }}</h2>
+                <p>{{ product.description_items || 'Kein Beschreibungstext verfügbar.' }}</p>
+              </div>
+              <div class="karte-footer">
+                <button (click)="openModal(product)">Details</button>
+              </div>
+            </div>
+          }
+      </div>
     } @else {
       <p>Keine Produkte in dieser Kategorie gefunden.</p>
     }
