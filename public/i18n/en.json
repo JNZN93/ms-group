@@ -628,7 +628,7 @@
               "brand": "Barikell",
               "products": [
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/torque-converter/",
                   "name": "Torque Converter",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
@@ -638,7 +638,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
                   "name": "Concrete Pump Hose Accessories",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
@@ -669,7 +669,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/arresto-centrifugo/",
                   "name": "Centrifugal stop",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/arresto-centrifugo-700x531.jpg",
@@ -679,7 +679,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
                   "name": "Transport trolleys",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
@@ -691,7 +691,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
                   "name": "Universal transport trolley",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
@@ -703,7 +703,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
                   "name": "Opening protection ring",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
@@ -714,7 +714,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
                   "name": "Stabilizer circle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
@@ -726,7 +726,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
                   "name": "Lifting hook (G)",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
@@ -742,7 +742,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/gancio-sollevamento/",
                   "name": "Lifting hook",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
@@ -753,7 +753,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
                   "name": "Quick pitch short handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
@@ -763,7 +763,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/manico-lungo/",
                   "name": "Long Handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
@@ -775,7 +775,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
                   "name": "Quick pitch long handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
@@ -785,7 +785,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/manico-pieghevole/",
                   "name": "Folding handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
@@ -796,7 +796,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/picchetti/",
                   "name": "Pickets",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
@@ -835,7 +835,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
                   "name": "Spare parts for ultra-light straight edge",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
@@ -854,7 +854,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories",
+                  "category": "Parts",
                   "productUrl": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
                   "name": "Transport system",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
@@ -868,7 +868,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories Barikell",
+                  "category": "Parts Barikell",
                   "productUrl": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
                   "name": "Concrete Pump Hose Accessories",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
@@ -899,7 +899,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories Barikell",
+                  "category": "Parts Barikell",
                   "productUrl": "https://www.barikell.it/prodotto/picchetti/",
                   "name": "Pickets",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
@@ -938,7 +938,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories Barikell",
+                  "category": "Parts Barikell",
                   "productUrl": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
                   "name": "Spare parts for ultra-light straight edge",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
@@ -957,7 +957,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories Barikell",
+                  "category": "Parts Barikell",
                   "productUrl": "https://www.barikell.it/prodotto/raschietti/",
                   "name": "Scrapers",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3930-RASCHIETTO-PULIP-S_MANICO-mini-119-700x576.jpg",
@@ -980,7 +980,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories Barikell",
+                  "category": "Parts Barikell",
                   "productUrl": "https://www.barikell.it/prodotto/rastrelli/",
                   "name": "Rakes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/SPAZZA-ACQUA-RASCHIETTI-E-RASTRELLI.jpg",
@@ -1051,7 +1051,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories Barikell",
+                  "category": "Parts Barikell",
                   "productUrl": "https://www.barikell.it/prodotto/spazza-acqua-raschietti-rastrelli/",
                   "name": "Water pusher",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3950-SPAZZA-ACQUA-C_MANICO-2-mini-105-700x678.jpg",
@@ -1074,7 +1074,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories Barikell",
+                  "category": "Parts Barikell",
                   "productUrl": "https://www.barikell.it/prodotto/stagge-ultra-light-in-alluminio/",
                   "name": "Ultralight aluminum staves",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3900-STAGGIA-MT2-700x239.jpg",
@@ -1129,7 +1129,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories Barikell",
+                  "category": "Parts Barikell",
                   "productUrl": "https://www.barikell.it/prodotto/tracciarighe-e-polvere/",
                   "name": "Line traces and dust",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5300-TRACCIARIGHE-50-MT-700x486.jpg",
@@ -1180,7 +1180,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories Barikell",
+                  "category": "Parts Barikell",
                   "productUrl": "https://www.barikell.it/prodotto/vari/",
                   "name": "Undershoes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5600-PAIO-SOTTOSCARPE-700x364.jpg",
@@ -1195,7 +1195,7 @@
                   ]
                 },
                 {
-                  "category": "Accessories for doubles",
+                  "category": "Parts for doubles",
                   "productUrl": "https://www.barikell.it/prodotto/torque-converter/",
                   "name": "Torque Converter",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
@@ -1205,7 +1205,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for doubles",
+                  "category": "Parts for doubles",
                   "productUrl": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
                   "name": "Transport trolleys",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
@@ -1217,7 +1217,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for doubles",
+                  "category": "Parts for doubles",
                   "productUrl": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
                   "name": "Universal transport trolley",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
@@ -1229,7 +1229,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for doubles",
+                  "category": "Parts for doubles",
                   "productUrl": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
                   "name": "Lifting hook (G)",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
@@ -1245,7 +1245,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for doubles",
+                  "category": "Parts for doubles",
                   "productUrl": "https://www.barikell.it/prodotto/telaio-di-protezione-apribile-a/",
                   "name": "Opening protection frame (A)",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/telaio-doppia.jpg",
@@ -1260,7 +1260,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for doubles",
+                  "category": "Parts for doubles",
                   "productUrl": "https://www.barikell.it/prodotto/variatore-di-velocita-15/",
                   "name": "High speed",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/dashboard_5628701.png",
@@ -1270,7 +1270,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for singles",
+                  "category": "Parts for singles",
                   "productUrl": "https://www.barikell.it/prodotto/arresto-centrifugo/",
                   "name": "Centrifugal stop",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/arresto-centrifugo-700x531.jpg",
@@ -1280,7 +1280,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for singles",
+                  "category": "Parts for singles",
                   "productUrl": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
                   "name": "Opening protection ring",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
@@ -1291,7 +1291,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for singles",
+                  "category": "Parts for singles",
                   "productUrl": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
                   "name": "Stabilizer circle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
@@ -1303,7 +1303,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for singles",
+                  "category": "Parts for singles",
                   "productUrl": "https://www.barikell.it/prodotto/gancio-sollevamento/",
                   "name": "Lifting hook",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
@@ -1314,7 +1314,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for singles",
+                  "category": "Parts for singles",
                   "productUrl": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
                   "name": "Quick pitch short handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
@@ -1324,7 +1324,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for singles",
+                  "category": "Parts for singles",
                   "productUrl": "https://www.barikell.it/prodotto/manico-lungo/",
                   "name": "Long Handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
@@ -1336,7 +1336,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for singles",
+                  "category": "Parts for singles",
                   "productUrl": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
                   "name": "Quick pitch long handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
@@ -1346,7 +1346,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for singles",
+                  "category": "Parts for singles",
                   "productUrl": "https://www.barikell.it/prodotto/manico-pieghevole/",
                   "name": "Folding handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
@@ -1357,7 +1357,7 @@
                   "models": []
                 },
                 {
-                  "category": "Accessories for singles",
+                  "category": "Parts for singles",
                   "productUrl": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
                   "name": "Transport system",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
@@ -1920,7 +1920,7 @@
                 {
                   "category": "Concrete",
                   "productUrl": "https://www.barikell.it/prodotto/ago-vibrante/",
-                  "name": "Vibrant ago",
+                  "name": "Vibrating poker",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/TKZX-45-AGO-VIBRANTE-700x602.jpg",
                   "description_items": [
                     "High frequency immersion vibrating needle to vibrate the concrete during pouring. Lightweight and compact, it eliminates the air bubbles that inevitably form during pouring to ensure maximum homogeneity and impermeability of the concrete."
@@ -5800,10 +5800,10 @@
                 {
                   "category": "Engines",
                   "productUrl": "https://www.barikell.it/prodotto/hatz/",
-                  "name": "Finger",
+                  "name": "Hatz",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/4465-MOTORE-HATZ-1B40-2-10-HP-mini-116.jpg",
                   "description_items": [
-                    "Finger"
+                    "Hatz"
                   ],
                   "models": [
                     {
@@ -6047,10 +6047,10 @@
                 {
                   "category": "Engines",
                   "productUrl": "https://www.barikell.it/prodotto/rato/",
-                  "name": "Mouse",
+                  "name": "Rato",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/4369-MOTORE-RATO-EHR300-8HP-mini-103-1-700x633.jpg",
                   "description_items": [
-                    "Mouse"
+                    "Rato"
                   ],
                   "models": [
                     {
@@ -6687,7 +6687,7 @@
                 {
                   "category": "Concrete stagge and vibrating needle",
                   "productUrl": "https://www.barikell.it/prodotto/ago-vibrante/",
-                  "name": "Vibrant ago",
+                  "name": "Vibrating poker",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/TKZX-45-AGO-VIBRANTE-700x602.jpg",
                   "description_items": [
                     "High frequency immersion vibrating needle to vibrate the concrete during pouring. Lightweight and compact, it eliminates the air bubbles that inevitably form during pouring to ensure maximum homogeneity and impermeability of the concrete."

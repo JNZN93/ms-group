@@ -8,6 +8,9 @@
     cursor: pointer;
 }
 
+.navbar-logo {
+  filter: brightness(0) invert(1);
+}
 
 .cart-overlay {
     position: fixed;

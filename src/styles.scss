@@ -363,6 +363,13 @@ a:hover, a:active, a:focus {
     background-color: #000000e7;
     padding: 15px 0;
   }
+
+}
+
+@media(max-width:768px) {
+  .navbar-header {
+    margin-left: 0 !important;
+  }
 }
 
 
