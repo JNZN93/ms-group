@@ -56,7 +56,7 @@ export class ProductPageComponent implements OnInit, OnDestroy {
         // Small delay to ensure translations are loaded
         setTimeout(() => {
           this.filterProducts();
-        }, 0);
+        }, 1000);
       })
     );
 
