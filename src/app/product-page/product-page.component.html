@@ -1,13 +1,22 @@
 
   <section>
-    <select [(ngModel)]="selectedCategory" class="category-select">
-      <option value="">{{'products_page.CATEGORIES' | translate}}</option>
-      <option *ngFor="let category of uniqueCategories" [value]="category">
-        {{ category }}
-      </option>
-    </select>
-    @if (filteredProducts.length > 0) {
-      <div class="main-card-container">
+    @if (!selectedCategory) {
+      <div class="category-grid">
+        @for (category of uniqueCategories; track category) {
+          <div class="category-card" (click)="selectCategory(category)">
+            <div class="category-content">
+              <h2>{{ category }}</h2>
+              <p>{{ 'products_page.CLICK_TO_VIEW' | translate }}</p>
+            </div>
+          </div>
+        }
+      </div>
+    } @else {
+      <div class="products-container">
+        <button class="back-button" (click)="goBack()">
+          <i class="fas fa-arrow-left"></i> {{ 'products_page.BACK_TO_CATEGORIES' | translate }}
+        </button>
+        <div class="main-card-container">
           @for (product of filteredProducts; track $index) {
             <div class="karte">
               <img [src]="product.image" />
@@ -20,9 +29,8 @@
               </div>
             </div>
           }
+        </div>
       </div>
-    } @else {
-      <p>Produkte werden geladen...</p>
     }
   </section>
 

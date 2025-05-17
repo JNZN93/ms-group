@@ -212,4 +212,13 @@ export class ProductPageComponent implements OnInit, OnDestroy {
     return this.brandProducts.filter(p => p.category === this.selectedCategory);
   }
   
+  selectCategory(category: string) {
+    this.selectedCategory = category;
+    window.scrollTo(0, 0);
+  }
+
+  goBack() {
+    this.selectedCategory = '';
+    window.scrollTo(0, 0);
+  }
 }
