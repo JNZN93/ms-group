@@ -37,7 +37,7 @@ styles: [`
 
 .slider {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 4 Spalten standard */
+  grid-template-columns: repeat(4, 1fr); /* 4 Spalten standard */
   gap: 24px;
   justify-content: center;
 }
@@ -75,7 +75,7 @@ styles: [`
 `]
 })
 export class ImageSliderComponent implements OnInit {
-  @Input() images: string[] = ['images/team-image1.jpg', 'images/team-image2.jpg', 'images/team-image3.jpg'];
+  @Input() images: string[] = ['images/team-image1.jpg', 'images/team-image2.jpg', 'images/team-image3.JPG', 'images/team-image4.jpg'];
   @Input() autoPlay = true;
   @Input() interval = 7000; // ms
 
