@@ -207,6 +207,31 @@ export class ProductPageComponent implements OnInit, OnDestroy {
     return Array.from(new Set(categories));
   }
 
+  getCategoryImage(category: string): string {
+    const categoryMap: { [key: string]: string } = {
+      'Beton': 'https://images.unsplash.com/photo-1605100804763-247f67b3557e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Betonfugenschneider': 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Betonkellen doppelt': 'https://images.pexels.com/photos/209235/pexels-photo-209235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+      'Betonkellen einzeln': 'https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Betonpolieren': 'https://images.unsplash.com/photo-1600585152220-90363fe7e115?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Betonpulver': 'https://images.unsplash.com/photo-1605000797499-95a51c5269ae?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Betonstempel und Vibrationsnadel': 'https://images.unsplash.com/photo-1605152276897-4f618f831968?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Motoren': 'https://images.unsplash.com/photo-1581094271901-8022df4466f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Vebrauchsmaterial': 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Verbrauchsmaterial Kellen und Nasen Barikell': 'https://images.pexels.com/photos/221027/pexels-photo-221027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+      'Verbrauchsmaterial Konstruktionsverbindungen': 'https://images.unsplash.com/photo-1594041680534-e8c8cdebd659?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Verbrauchsmaterial Marshalltown': 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Verbrauchsmaterial Ketten Schellen und Scheiben': 'https://images.unsplash.com/photo-1581094271901-8022df4466f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'VerbrauchsmaterialDiamantscheiben': 'https://images.unsplash.com/photo-1581094271901-8022df4466f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Verbrauchsmaterialmaterialhülle': 'https://images.unsplash.com/photo-1581094271901-8022df4466f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Zubehör': 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Zubehör Barikell': 'https://images.pexels.com/photos/221027/pexels-photo-221027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+      'Zubehör für Doppel': 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      'Zubehör für Singel': 'https://images.unsplash.com/photo-1581093057305-3ecb60a72147?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    };
+    return categoryMap[category] || 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'; // Fallback-Bild
+  }
+
   get filteredProducts() {
     if (!this.selectedCategory) return this.brandProducts;
     return this.brandProducts.filter(p => p.category === this.selectedCategory);
@@ -220,5 +245,9 @@ export class ProductPageComponent implements OnInit, OnDestroy {
   goBack() {
     this.selectedCategory = '';
     window.scrollTo(0, 0);
+  }
+
+  goBackToHome() {
+    this.router.navigate(['/']);
   }
 }
