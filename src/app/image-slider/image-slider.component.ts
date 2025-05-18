@@ -2,6 +2,13 @@
 import { Component, Input, OnInit, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
+interface Slide {
+  url: string;
+  alt: string;
+  title: string;
+  description: string;
+}
+
 @Component({
   selector: 'app-image-slider',
   standalone: true,
@@ -9,200 +16,233 @@ import { CommonModule } from '@angular/common';
   template: `
     <div class="slider-container">
       <div class="slider">
-        <div class="slide" *ngFor="let image of images">
-          <img [src]="image" [alt]="'Slide'" (click)="openImagePreview(image)">
+        <div class="slide" *ngFor="let slide of slides">
+          <div class="image-wrapper">
+            <img [src]="slide.url" [alt]="slide.alt" (click)="openPreview(slide)">
+          </div>
+          <div class="content">
+            <h3 class="title">{{ slide.title }}</h3>
+            <p class="description">{{ slide.description }}</p>
+          </div>
         </div>
       </div>
     </div>
 
-    <!-- Image Preview Modal -->
-    @if (previewImage) {
-      <div class="image-preview-overlay" (click)="closeImagePreview()">
-        <div class="image-preview-container" (click)="$event.stopPropagation()">
-          <button class="close-preview" (click)="closeImagePreview()">&times;</button>
-          <img [src]="previewImage" alt="Vergrößerte Ansicht" class="preview-image" (click)="closeImagePreview()">
-        </div>
+    <!-- Preview Modal -->
+    @if (activeSlide) {
+      <div class="preview-overlay" (click)="closePreview()">
+        <button class="close-btn" (click)="closePreview()">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+          </svg>
+        </button>
+        <img [src]="activeSlide.url" [alt]="activeSlide.alt" class="preview-image" (click)="$event.stopPropagation()">
       </div>
     }
   `,
   styles: [`
     :host {
       display: block;
-      background: white;
-      padding: 90px 15px;
+      padding: 60px 20px;
+      background-color: #f9f9f9;
     }
 
     .slider-container {
-      margin: 0 auto;
       max-width: 1200px;
-      padding: 50px;
-      background: rgba(233, 238, 239, 0.11);
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-      border-radius: 0px;
+      margin: 0 auto;
     }
 
     .slider {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 24px;
-      justify-content: center;
-      align-items: center;
-      place-items: center;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 10px;
     }
 
     .slide {
-      border-radius: 1px;
-      width: 250px;
-      height: 250px;
+      background: white;
+      border-radius: 2px;
       overflow: hidden;
-      background: #fff;
-      box-shadow: 0 10px 16px rgba(0, 0, 0, 0.2);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-
-    .slide img {
-      width: 100%;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
       height: 100%;
-      display: block;
-      object-fit: cover;
-      object-position: center;
-      padding: 8px;
-      cursor: zoom-in;
-      transition: transform 0.2s ease;
 
       &:hover {
-        transform: scale(1.05);
+        box-shadow: 0 8px 30px rgba(0,0,0,0.1);
       }
     }
 
-    .image-preview-overlay {
+    .image-wrapper {
+      position: relative;
+      width: 100%;
+      height: 350px;
+      aspect-ratio: 4/3; /* Beliebiges Seitenverhältnis (z.B. 1/1 für quadratisch) */
+      overflow: hidden;
+      cursor: zoom-in;
+    }
+
+    .image-wrapper img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+
+
+    .content {
+      padding: 20px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .title {
+      font-size: 1.1rem;
+      font-weight: 500;
+      color: #333;
+      margin-bottom: 8px;
+      line-height: 1.3;
+    }
+
+    .description {
+      font-size: 0.9rem;
+      color: #666;
+      line-height: 1.5;
+      margin: 0;
+    }
+
+    /* Preview Modal Styles */
+    .preview-overlay {
       position: fixed;
       top: 0;
       left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.9);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 2000;
-      opacity: 0;
-      animation: fadeIn 0.3s ease forwards;
-    }
-
-    .image-preview-container {
-      position: relative;
-      max-width: 90%;
-      max-height: 90vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      transform: scale(0.9);
-      animation: zoomIn 0.3s ease forwards;
-    }
-
-    .preview-image {
-      max-width: 100%;
-      max-height: 90vh;
-      object-fit: contain;
-      cursor: zoom-out;
-    }
-
-    .close-preview {
-      position: absolute;
-      top: -40px;
       right: 0;
-      background: none;
-      border: none;
-      color: white;
-      font-size: 2rem;
+      bottom: 0;
+      background: rgba(0,0,0,0.95);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      animation: fadeIn 0.3s ease;
       cursor: pointer;
-      padding: 5px 10px;
-      opacity: 0.7;
-      transition: opacity 0.2s ease;
+    }
+
+    .close-btn {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      background: rgba(0,0,0,0.5);
+      border: none;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 10;
+      transition: all 0.2s ease;
+
+      svg {
+        fill: white;
+        width: 20px;
+        height: 20px;
+      }
 
       &:hover {
-        opacity: 1;
+        background: rgba(0,0,0,0.7);
       }
     }
 
+    .preview-image {
+      max-width: 90%;
+      max-height: 90vh;
+      object-fit: contain;
+      cursor: default;
+    }
+
+    /* Animations */
     @keyframes fadeIn {
       from { opacity: 0; }
       to { opacity: 1; }
     }
 
-    @keyframes zoomIn {
-      from { transform: scale(0.9); }
-      to { transform: scale(1); }
+    @keyframes slideUp {
+      from { transform: translateY(20px); opacity: 0.9; }
+      to { transform: translateY(0); opacity: 1; }
     }
 
-    /* Tablet - 2 Bilder pro Zeile */
-    @media (max-width: 991px) {
+    /* Responsive */
+    @media (max-width: 768px) {
       .slider {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      }
+
+      .preview-content {
+        width: 95%;
       }
     }
 
-    /* Handy - 1 Bild pro Zeile */
-    @media (max-width: 576px) {
+    @media (max-width: 480px) {
+      :host {
+        padding: 40px 15px;
+      }
+
       .slider {
         grid-template-columns: 1fr;
+        gap: 20px;
+      }
+
+      .preview-text {
+        padding: 15px;
+      }
+
+      .preview-title {
+        font-size: 1.3rem;
       }
     }
   `]
 })
 export class ImageSliderComponent implements OnInit {
-  @Input() images: string[] = ['images/team-image1.jpg', 'images/team-image2.jpg', 'images/team-image3.jpg', 'images/team-image4.jpg'];
-  @Input() autoPlay = true;
-  @Input() interval = 7000; // ms
-
-  currentIndex = signal(0);
-  private intervalId: any;
-  previewImage: string | null = null;
-
-  ngOnInit() {
-    if (this.autoPlay) {
-      this.startAutoPlay();
+  @Input() slides: Slide[] = [
+    {
+      url: 'images/team-image1.jpg',
+      alt: 'Team meeting',
+      title: 'Team Collaboration',
+      description: 'Our team working together on innovative solutions in our modern office space.'
+    },
+    {
+      url: 'images/team-image2.jpg',
+      alt: 'Product workshop',
+      title: 'Product Development',
+      description: 'Brainstorming session for our latest product features and improvements.'
+    },
+    {
+      url: 'images/team-image3.jpg',
+      alt: 'Client presentation',
+      title: 'Client Engagement',
+      description: 'Presenting our solutions to valued clients in a collaborative environment.'
+    },
+    {
+      url: 'images/team-image4.jpg',
+      alt: 'Office environment',
+      title: 'Work Environment',
+      description: 'Our spacious and creative workspace designed for productivity and comfort.'
     }
+  ];
+
+  activeSlide: Slide | null = null;
+
+  ngOnInit() {}
+
+  openPreview(slide: Slide) {
+    this.activeSlide = slide;
+    document.body.style.overflow = 'hidden';
   }
 
-  openImagePreview(imageUrl: string) {
-    this.previewImage = imageUrl;
-  }
-
-  closeImagePreview() {
-    this.previewImage = null;
-  }
-
-  nextSlide() {
-    this.currentIndex.update(current => 
-      current === this.images.length - 1 ? 0 : current + 1
-    );
-    this.resetAutoPlay();
-  }
-
-  prevSlide() {
-    this.currentIndex.update(current => 
-      current === 0 ? this.images.length - 1 : current - 1
-    );
-    this.resetAutoPlay();
-  }
-
-  goToSlide(index: number) {
-    this.currentIndex.set(index);
-    this.resetAutoPlay();
-  }
-
-  private startAutoPlay() {
-    this.intervalId = setInterval(() => {
-      this.nextSlide();
-    }, this.interval);
-  }
-
-  private resetAutoPlay() {
-    if (this.autoPlay) {
-      clearInterval(this.intervalId);
-      this.startAutoPlay();
-    }
+  closePreview() {
+    this.activeSlide = null;
+    document.body.style.overflow = '';
   }
 }
