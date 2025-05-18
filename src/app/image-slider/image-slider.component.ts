@@ -28,7 +28,7 @@ styles: [`
 
 .slider-container {
   margin: 0 auto;
-  max-width: 1000px; /* schön breit */
+  max-width: 1200px; /* schön breit */
   padding:50px;
   background:rgba(233, 238, 239, 0.11);
    box-shadow:  0 10px 30px rgba(0, 0, 0, 0.1);
@@ -40,12 +40,14 @@ styles: [`
   grid-template-columns: repeat(4, 1fr); /* 4 Spalten standard */
   gap: 24px;
   justify-content: center;
+  align-items: center;
+  place-items: center;
 }
 
 .slide {
   border-radius: 1px;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   overflow: hidden;
   background: #fff;
   box-shadow:  0 10px 16px rgba(0, 0, 0, 0.2);
