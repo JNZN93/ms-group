@@ -23,8 +23,9 @@ export class ProductPageComponent implements OnInit, OnDestroy {
   selectedBrand: string = '';
   brandProducts: any[] = [];
   selectedProduct: any = null;
-  selectedVariant: string = '';
+  selectedVariant: any = null;
   quantity: number = 1;
+  previewImage: string | null = null;
   private subscriptions: Subscription[] = [];
   selectedCategory: string = '';
 
@@ -245,5 +246,13 @@ export class ProductPageComponent implements OnInit, OnDestroy {
 
   goBackToHome() {
     this.router.navigate(['/']);
+  }
+
+  openImagePreview(imageUrl: string) {
+    this.previewImage = imageUrl;
+  }
+
+  closeImagePreview() {
+    this.previewImage = null;
   }
 }
