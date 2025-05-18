@@ -44,6 +44,8 @@ styles: [`
 
 .slide {
   border-radius: 1px;
+  width: 300px;
+  height: 300px;
   overflow: hidden;
   background: #fff;
   box-shadow:  0 10px 16px rgba(0, 0, 0, 0.2);
@@ -54,8 +56,9 @@ styles: [`
 .slide img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
   display: block;
+  object-fit: cover;     /* Füllt den Container, schneidet überstehende Teile */
+  object-position: center; /* Zentriert den Bildausschnitt */
   padding:8px;
 }
 
