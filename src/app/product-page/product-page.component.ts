@@ -93,15 +93,11 @@ export class ProductPageComponent implements OnInit, OnDestroy {
       }
     }
     
-    history.pushState({ modal: true }, '', window.location.href + '#modal');
     $('#myModal').modal('show');
   }
 
   closeModal():void {
     this.selectedProduct = null;
-    const url = new URL(window.location.href);
-    console.log(url);
-    url.hash = ''; // Fragment entfernen
     $('#myModal').modal('hide');
   }
 
