@@ -238,7 +238,23 @@ export class ProductPageComponent implements OnInit, OnDestroy {
       "Consumable material sleeve": "https://www.barikell.it/wp-content/uploads/2019/05/3662-GUAINA-NERA-35-SOPRA-700x630.jpg",
       "Barikell accessories": "https://www.barikell.it/wp-content/uploads/2019/05/5300-TRACCIARIGHE-50-MT-700x486.jpg",
       "Ride-on trowel accessories": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
-      "Hand trowel accessories": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg"
+      "Hand trowel accessories": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
+      //Somero DEUTSCH
+      "Aufsitz Laser Bohle": "https://www.somero.com/wp-content/uploads/2024/07/products_photo_S940.jpg",
+      "Ausleger Laser Estriche": "https://www.somero.com/wp-content/uploads/2025/01/Sky_Strip_1.jpg",
+      "Kompaktauslegerbohlen": "https://www.somero.com/wp-content/uploads/2025/04/SRS-4e_0001.png",
+      "Leichtestriche": "https://www.somero.com/wp-content/uploads/2024/07/1-Copperhead0005-2.jpg",
+      "Materialplatzierung": "https://www.somero.com/wp-content/uploads/2024/07/products_photo_LineDragon.jpg",
+      "Softwarepakete": "https://www.somero.com/wp-content/uploads/2024/07/siteshape1.jpg",
+      "Stationäre Laser Estriche": "https://www.somero.com/wp-content/uploads/2025/01/Sky_Strip_1.jpg",
+      // Somero ENGLISH
+      "boom-laser-screeds": "https://www.somero.com/wp-content/uploads/2024/07/sps50_34view.jpg",
+      "compact-boom-screeds": "https://www.somero.com/wp-content/uploads/2025/04/SRS-4e_0001.png",
+      "lightweight-screeds": "https://www.somero.com/wp-content/uploads/2024/07/1-Copperhead0005-2.jpg",
+      "materials-placement": "https://www.somero.com/wp-content/uploads/2024/07/broomcurehyrid.jpg",
+      "ride-on-laser-screeds": "https://www.somero.com/wp-content/uploads/2024/07/5-158-C_0000-1.jpg",
+      "software-packages": "https://www.somero.com/wp-content/uploads/2024/07/siteshape1.jpg",
+      "stationary-laser-screeds": "https://www.somero.com/wp-content/uploads/2025/01/Sky_Strip_1.jpg",
     };
     return categoryMap[category] || 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'; // Fallback-Bild
   }
