@@ -255,6 +255,33 @@ export class ProductPageComponent implements OnInit, OnDestroy {
       "ride-on-laser-screeds": "https://www.somero.com/wp-content/uploads/2024/07/5-158-C_0000-1.jpg",
       "software-packages": "https://www.somero.com/wp-content/uploads/2024/07/siteshape1.jpg",
       "stationary-laser-screeds": "https://www.somero.com/wp-content/uploads/2025/01/Sky_Strip_1.jpg",
+      // Spectra DEUTSCH
+      "Digitalanzeige Empfänger": "https://static.wixstatic.com/media/cd4160_7e479f73ddfe44979ead69101f54936e~mv2.png/v1/fill/w_311,h_530,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HL450.png",
+      "Dual Grade Laser": "https://static.wixstatic.com/media/cd4160_518ad8b3f3194bd1af30f1e8ae564401~mv2.png/v1/fill/w_438,h_529,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL1425C%20copy%203.png",
+      "Empfänger für Erdarbeiten": "https://static.wixstatic.com/media/cd4160_ee92ad3dfe0341668eaa12e413183030~mv2.png/v1/crop/x_813,y_175,w_917,h_2063/fill/w_220,h_495,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LR60%20No%20Shadow.png",
+      "Grading Empfänger": "https://static.wixstatic.com/media/cd4160_5b291b38b91f4883b5d3515938d9b5be~mv2.png/v1/fill/w_600,h_478,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/double-vision.png",
+      "Horizontal- und Vertikallaser": "https://static.wixstatic.com/media/cd4160_cc0ad0af788443578ecf6b2d27f00da9~mv2.png/v1/crop/x_0,y_317,w_2500,h_1913/fill/w_497,h_382,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV101.png",
+      "Laser Messband": "https://static.wixstatic.com/media/cd4160_c32cfe9799384f819d0c5c7095d11841~mv2.png/v1/fill/w_269,h_269,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/M402.png",
+      "Linienlaser": "https://static.wixstatic.com/media/cd4160_f67aca96d9f4473cbda6060058d9dbdf~mv2.png/v1/crop/x_325,y_333,w_1883,h_2013/fill/w_371,h_397,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IT58G.png",
+      "Rohrlaser": "https://static.wixstatic.com/media/cd4160_319da9f0b07c4fbb896a3059f5463b2f~mv2.png/v1/fill/w_476,h_481,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DG613G.png",
+      "Rotationslaser": "https://static.wixstatic.com/media/cd4160_56ec743f28f843ecb80b5f06846e724a~mv2.png/v1/crop/x_404,y_0,w_1729,h_2500/fill/w_362,h_524,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LL500.png",
+      "Single Grade Laser": "https://static.wixstatic.com/media/bd8f3e_1fd9639eaa1c4aefa9c68817f054e95c~mv2.png/v1/crop/x_480,y_354,w_2484,h_3000/fill/w_414,h_500,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL612N%20Grade%20Laser.png",
+      "Sonstiges": "https://static.wixstatic.com/media/cd4160_398439b836754b6b93ad6dbf270693e0~mv2.png/v1/crop/x_750,y_83,w_1075,h_2154/fill/w_134,h_267,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/RC803.png",
+      "Standard Empfänger": "https://static.wixstatic.com/media/cd4160_701cf328e02b461b88431322f52c553e~mv2.png/v1/crop/x_300,y_206,w_1000,h_2314/fill/w_194,h_446,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HR150.png",
+      "Universallaser": "https://static.wixstatic.com/media/bd8f3e_2ae90cd936cb46b4b6c4b05f68c27506~mv2.png/v1/crop/x_396,y_366,w_2676,h_2904/fill/w_412,h_448,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/UL633N%20Grade%20Laser.png",
+      // Spectra ENGLISH
+      "Digital display receivers": "https://static.wixstatic.com/media/cd4160_7e479f73ddfe44979ead69101f54936e~mv2.png/v1/fill/w_311,h_530,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HL450.png",
+      "Dual grade laser": "https://static.wixstatic.com/media/cd4160_518ad8b3f3194bd1af30f1e8ae564401~mv2.png/v1/fill/w_438,h_529,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL1425C%20copy%203.png",
+      "Excavating receivers": "https://static.wixstatic.com/media/cd4160_ee92ad3dfe0341668eaa12e413183030~mv2.png/v1/crop/x_813,y_175,w_917,h_2063/fill/w_220,h_495,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LR60%20No%20Shadow.png",
+      "Grading receivers": "https://static.wixstatic.com/media/cd4160_5b291b38b91f4883b5d3515938d9b5be~mv2.png/v1/fill/w_600,h_478,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/double-vision.png",
+      "Horizontal and vertical laser": "https://static.wixstatic.com/media/cd4160_cc0ad0af788443578ecf6b2d27f00da9~mv2.png/v1/crop/x_0,y_317,w_2500,h_1913/fill/w_497,h_382,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HV101.png",
+      "Lasert tape measure": "https://static.wixstatic.com/media/cd4160_c32cfe9799384f819d0c5c7095d11841~mv2.png/v1/fill/w_269,h_269,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/M402.png",
+      "Line laser": "https://static.wixstatic.com/media/cd4160_f67aca96d9f4473cbda6060058d9dbdf~mv2.png/v1/crop/x_325,y_333,w_1883,h_2013/fill/w_371,h_397,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IT58G.png",
+      "Other": "https://static.wixstatic.com/media/cd4160_04bf36766c2c497296dc6273d2b4ac62~mv2.png/v1/crop/x_0,y_317,w_2500,h_1896/fill/w_600,h_455,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LL300S.png",
+      "Pipe laser": "https://static.wixstatic.com/media/cd4160_319da9f0b07c4fbb896a3059f5463b2f~mv2.png/v1/fill/w_476,h_481,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DG613G.png",
+      "Rotary laser level": "https://static.wixstatic.com/media/cd4160_56ec743f28f843ecb80b5f06846e724a~mv2.png/v1/crop/x_404,y_0,w_1729,h_2500/fill/w_362,h_524,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LL500.png",
+      "Single grade laser": "https://static.wixstatic.com/media/bd8f3e_1fd9639eaa1c4aefa9c68817f054e95c~mv2.png/v1/crop/x_480,y_354,w_2484,h_3000/fill/w_414,h_500,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GL612N%20Grade%20Laser.png",
+      "Standard receivers": "https://static.wixstatic.com/media/cd4160_701cf328e02b461b88431322f52c553e~mv2.png/v1/crop/x_300,y_206,w_1000,h_2314/fill/w_194,h_446,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/HR150.png",
     };
     return categoryMap[category] || 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'; // Fallback-Bild
   }
