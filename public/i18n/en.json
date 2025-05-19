@@ -628,17 +628,7 @@
               "brand": "Barikell",
               "products": [
                 {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/torque-converter/",
-                  "name": "Torque Converter",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
-                  "description_items": [
-                    "Torque Converter"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
+                  "category": "Barikell accessories",
                   "productUrl": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
                   "name": "Concrete Pump Hose Accessories",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
@@ -669,134 +659,7 @@
                   ]
                 },
                 {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/arresto-centrifugo/",
-                  "name": "Centrifugal stop",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/arresto-centrifugo-700x531.jpg",
-                  "description_items": [
-                    "4-90 / 4-120 Art. 0289"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
-                  "name": "Transport trolleys",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
-                  "description_items": [
-                    "3277 – OL90 / MK8-90 / MK10-90",
-                    "3317 – OL120 / MK8-120 / MK10-120",
-                    "Machines on which it is to be mounted"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
-                  "name": "Universal transport trolley",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
-                  "description_items": [
-                    "3397 – MK8-75 / OL90 / MK8-90 / MK10-90 and OL120 / MK8-120 / MK10-120",
-                    "3394 – MK12-160 LIGHT",
-                    "Machines on which it is to be mounted"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
-                  "name": "Opening protection ring",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
-                  "description_items": [
-                    "Ø 900 Art. 1371",
-                    "Ø 1200 Art. 1372"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
-                  "name": "Stabilizer circle",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
-                  "description_items": [
-                    "Ø 900 Art. 10112",
-                    "Ø 1200 Art. 0849",
-                    "5-120 Art. 10159"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
-                  "name": "Lifting hook (G)",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
-                  "description_items": [
-                    "3392 – OL90 / MK8-75",
-                    "3398 – OL120 / MK8-90",
-                    "3393 – MK8-120",
-                    "3395 – OL120 HCS / MK8-90 HCS / MK8-120 HCS / MK10-90 HCS / MK10-120 HCS",
-                    "3391 – MK12-160 HCS LIGHT",
-                    "13099 – MK12-160 HCS HEAVY DUTY",
-                    "Machines on which it is to be mounted"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/gancio-sollevamento/",
-                  "name": "Lifting hook",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
-                  "description_items": [
-                    "4-60 / 4-75 Art. 1368",
-                    "4-90 / 4-120 Art. 1302"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
-                  "name": "Quick pitch short handle",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
-                  "description_items": [
-                    "4-90 / 4-120 Art. 1242"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/manico-lungo/",
-                  "name": "Long Handle",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
-                  "description_items": [
-                    "4-90 / 4-120 gasoline Art. 1083",
-                    "4-90 / 4-120 diesel Art. 1087",
-                    "4-90 / 4-120 electric Art. 1746"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
-                  "name": "Quick pitch long handle",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
-                  "description_items": [
-                    "4-90 / 4-120 Art. 1244"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/manico-pieghevole/",
-                  "name": "Folding handle",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
-                  "description_items": [
-                    "4-90 / 4-120 gasoline Art. 1744",
-                    "4-90 / 4-120 electric Art. 1321"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts",
+                  "category": "Barikell accessories",
                   "productUrl": "https://www.barikell.it/prodotto/picchetti/",
                   "name": "Pickets",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
@@ -835,7 +698,7 @@
                   ]
                 },
                 {
-                  "category": "Parts",
+                  "category": "Barikell accessories",
                   "productUrl": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
                   "name": "Spare parts for ultra-light straight edge",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
@@ -854,110 +717,7 @@
                   ]
                 },
                 {
-                  "category": "Parts",
-                  "productUrl": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
-                  "name": "Transport system",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
-                  "description_items": [
-                    "Art. 3129 – Mobile transport system complete with two wheels for transporting 4-90 / 4-120 power trowels",
-                    "Art. 3130 – Attachment only for mobile transport system",
-                    "Art. 3131 – Wheel only for transport systems",
-                    "Art. 3132 – Only attachment for fixed lifting system",
-                    "Art. 3133 – Fixed transport system complete with two wheels for transporting 4-90 / 4-120 power trowels"
-                  ],
-                  "models": []
-                },
-                {
-                  "category": "Parts Barikell",
-                  "productUrl": "https://www.barikell.it/prodotto/accessori-tubo-pompa/",
-                  "name": "Concrete Pump Hose Accessories",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/accessorivari.jpg",
-                  "description_items": [
-                    "Accessori Barikell"
-                  ],
-                  "models": [
-                    {
-                      "Item": "5290",
-                      "Description": "PUMP PIPE SUPPORT"
-                    },
-                    {
-                      "Item": "5103",
-                      "Description": "PUMP PIPE LIFTING CLAMP"
-                    },
-                    {
-                      "Item": "5104",
-                      "Description": "HOOK FOR LIFTING PUMP PIPE"
-                    },
-                    {
-                      "Item": "5105",
-                      "Description": "NET LIFTING HOOK"
-                    },
-                    {
-                      "Item": "5106",
-                      "Description": "CHAIN FOR LIFTING PUMP PIPE"
-                    }
-                  ]
-                },
-                {
-                  "category": "Parts Barikell",
-                  "productUrl": "https://www.barikell.it/prodotto/picchetti/",
-                  "name": "Pickets",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/5295-PICCHETTO-COMPLETO-2-mini-085-700x742.jpg",
-                  "description_items": [
-                    "Pickets"
-                  ],
-                  "models": [
-                    {
-                      "Item": "5295",
-                      "Description": "Complete picket adjustable in both height and depth"
-                    },
-                    {
-                      "Item": "5298",
-                      "Description": "Complete picket adjustable only in height"
-                    },
-                    {
-                      "Item": "5293",
-                      "Description": "Bracket for picket code 5295"
-                    },
-                    {
-                      "Item": "5294",
-                      "Description": "30x30x70 mm square for adjustable picket code 5295"
-                    },
-                    {
-                      "Item": "5291",
-                      "Description": "Screw eyebolt m. 10 for pegs codes 5295"
-                    },
-                    {
-                      "Item": "5292",
-                      "Description": "Pointed spike for adjustable pegs codes 5295/5298"
-                    },
-                    {
-                      "Item": "5297",
-                      "Description": "Adjustable picket bracket code 5298"
-                    }
-                  ]
-                },
-                {
-                  "category": "Parts Barikell",
-                  "productUrl": "https://www.barikell.it/prodotto/ricambi-staggia-ultra-leggera/",
-                  "name": "Spare parts for ultra-light straight edge",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3920-MANICO-PER-STAGGIA-mini-066-700x467.jpg",
-                  "description_items": [
-                    "Accessori Barikell"
-                  ],
-                  "models": [
-                    {
-                      "Item": "3920",
-                      "Description": "Handle with knob"
-                    },
-                    {
-                      "Item": "3918",
-                      "Description": "80x40 mm"
-                    }
-                  ]
-                },
-                {
-                  "category": "Parts Barikell",
+                  "category": "Barikell accessories",
                   "productUrl": "https://www.barikell.it/prodotto/raschietti/",
                   "name": "Scrapers",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3930-RASCHIETTO-PULIP-S_MANICO-mini-119-700x576.jpg",
@@ -980,7 +740,7 @@
                   ]
                 },
                 {
-                  "category": "Parts Barikell",
+                  "category": "Barikell accessories",
                   "productUrl": "https://www.barikell.it/prodotto/rastrelli/",
                   "name": "Rakes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/SPAZZA-ACQUA-RASCHIETTI-E-RASTRELLI.jpg",
@@ -1051,7 +811,7 @@
                   ]
                 },
                 {
-                  "category": "Parts Barikell",
+                  "category": "Barikell accessories",
                   "productUrl": "https://www.barikell.it/prodotto/spazza-acqua-raschietti-rastrelli/",
                   "name": "Water pusher",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3950-SPAZZA-ACQUA-C_MANICO-2-mini-105-700x678.jpg",
@@ -1074,7 +834,7 @@
                   ]
                 },
                 {
-                  "category": "Parts Barikell",
+                  "category": "Barikell accessories",
                   "productUrl": "https://www.barikell.it/prodotto/stagge-ultra-light-in-alluminio/",
                   "name": "Ultralight aluminum staves",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3900-STAGGIA-MT2-700x239.jpg",
@@ -1129,7 +889,7 @@
                   ]
                 },
                 {
-                  "category": "Parts Barikell",
+                  "category": "Barikell accessories",
                   "productUrl": "https://www.barikell.it/prodotto/tracciarighe-e-polvere/",
                   "name": "Line traces and dust",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5300-TRACCIARIGHE-50-MT-700x486.jpg",
@@ -1180,7 +940,7 @@
                   ]
                 },
                 {
-                  "category": "Parts Barikell",
+                  "category": "Barikell accessories",
                   "productUrl": "https://www.barikell.it/prodotto/vari/",
                   "name": "Undershoes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5600-PAIO-SOTTOSCARPE-700x364.jpg",
@@ -1195,7 +955,7 @@
                   ]
                 },
                 {
-                  "category": "Parts for doubles",
+                  "category": "Ride-on trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/torque-converter/",
                   "name": "Torque Converter",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
@@ -1205,7 +965,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for doubles",
+                  "category": "Ride-on trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/carrelli-trasportatori/",
                   "name": "Transport trolleys",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3277-carrello-trasportatore.jpg",
@@ -1217,7 +977,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for doubles",
+                  "category": "Ride-on trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/carrello-trasportatore-universale/",
                   "name": "Universal transport trolley",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3397-CARRELLO-UNIVERSALE-mini-075.jpg",
@@ -1229,7 +989,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for doubles",
+                  "category": "Ride-on trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/gancio-di-sollevamento-g/",
                   "name": "Lifting hook (G)",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-PART-GANCIO-mini-040-700x467.jpg",
@@ -1245,7 +1005,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for doubles",
+                  "category": "Ride-on trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/telaio-di-protezione-apribile-a/",
                   "name": "Opening protection frame (A)",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/telaio-doppia.jpg",
@@ -1260,7 +1020,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for doubles",
+                  "category": "Ride-on trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/variatore-di-velocita-15/",
                   "name": "High speed",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/dashboard_5628701.png",
@@ -1270,7 +1030,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for singles",
+                  "category": "Hand trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/arresto-centrifugo/",
                   "name": "Centrifugal stop",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/arresto-centrifugo-700x531.jpg",
@@ -1280,7 +1040,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for singles",
+                  "category": "Hand trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/cerchio-di-protezione-apribile/",
                   "name": "Opening protection ring",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg",
@@ -1291,7 +1051,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for singles",
+                  "category": "Hand trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/cerchio-stabilizzatore/",
                   "name": "Stabilizer circle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/0849-CERCHIO-STAB-4-120-1-700x787.jpg",
@@ -1303,7 +1063,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for singles",
+                  "category": "Hand trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/gancio-sollevamento/",
                   "name": "Lifting hook",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/ganciosollevamento.jpg",
@@ -1314,7 +1074,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for singles",
+                  "category": "Hand trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/manico-corto-quick-pitch/",
                   "name": "Quick pitch short handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
@@ -1324,7 +1084,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for singles",
+                  "category": "Hand trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/manico-lungo/",
                   "name": "Long Handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1083-MANICO-LUNGO-mini-023.jpg",
@@ -1336,7 +1096,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for singles",
+                  "category": "Hand trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/manico-lungo-quick-pitch/",
                   "name": "Quick pitch long handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1-MANICO-b-QUICK-PITCH-scaled-700x467.jpg",
@@ -1346,7 +1106,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for singles",
+                  "category": "Hand trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/manico-pieghevole/",
                   "name": "Folding handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/1744-MANICO-PIEGHEVOLE-1.jpg",
@@ -1357,7 +1117,7 @@
                   "models": []
                 },
                 {
-                  "category": "Parts for singles",
+                  "category": "Hand trowel accessories",
                   "productUrl": "https://www.barikell.it/prodotto/sistema-di-trasporto/",
                   "name": "Transport system",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-KIT-RUOTE-mini-016-700x600.jpg",
@@ -1371,1219 +1131,7 @@
                   "models": []
                 },
                 {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/moskito-60-24-inches-pale/",
-                  "name": "Mosquito 4-60\n24 Inches",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg",
-                  "description_items": [
-                    "Ideal machine for trowelling and finishing perimeters and for working flush with the wall even in restricted areas. It allows you to easily pass through doors and gates of buildings and warehouses. The rubber protection on the rotating ring allows you to slide along walls or around columns without damaging the machine or the wall.",
-                    "Available with a diameter of 600 or 750 mm and with 4 or 6 blades (suitable for finishing epoxy resin floors).",
-                    "Folding handle",
-                    "Palette",
-                    "Stabilizer circle",
-                    "Float disc"
-                  ],
-                  "models": [
-                    {
-                      "Engine" : "Choose an option 4 6Clear",
-                      "Blade": null
-                    },
-                    {
-                      "Code": "3005",
-                      "Engine" : "HONDA GX 160",
-                      "Rotor diameter (cm)": "600",
-                      "Number of blades": "4",
-                      "Output speed rpm": "128",
-                      "Power Hp": "5.5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas"
-                    },
-                    {
-                      "Code": "3006",
-                      "Engine" : "B&S VANGUARD 160",
-                      "Rotor diameter (cm)": "600",
-                      "Number of blades": "4",
-                      "Output speed rpm": "128",
-                      "Power Hp": "5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas"
-                    },
-                    {
-                      "Code": "3018",
-                      "Engine" : "B&S VANGUARD 200",
-                      "Rotor diameter (cm)": "600",
-                      "Number of blades": "4",
-                      "Output speed rpm": "128",
-                      "Power Hp": "6.5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas"
-                    },
-                    {
-                      "Code": "3012",
-                      "Engine" : "ROBIN EX 17",
-                      "Rotor diameter (cm)": "600",
-                      "Number of blades": "4",
-                      "Output speed rpm": "128",
-                      "Power Hp": "6",
-                      "Starting": "Manual",
-                      "Power supply": "Gas"
-                    },
-                    {
-                      "Code": "3016",
-                      "Engine" : "ELECTRIC 220V W/VARIATOR",
-                      "Rotor diameter (cm)": "600",
-                      "Number of blades": "4",
-                      "Output speed rpm": "56/168",
-                      "Power Hp": "3",
-                      "Starting": "Manual",
-                      "Power supply": "Electric"
-                    },
-                    {
-                      "Code": "3014",
-                      "Engine" : "EL. 110V 50 hz",
-                      "Rotor diameter (cm)": "600",
-                      "Number of blades": "4",
-                      "Output speed rpm": "105",
-                      "Power Hp": "3",
-                      "Starting": "Manual",
-                      "Power supply": "Electric"
-                    },
-                    {
-                      "Code": "3017",
-                      "Engine" : "EL. 110V 60 hz",
-                      "Rotor diameter (cm)": "600",
-                      "Number of blades": "4",
-                      "Output speed rpm": "105",
-                      "Power Hp": "3",
-                      "Starting": "Manual",
-                      "Power supply": "Electric"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/moskito-75-30-inches/",
-                  "name": "Mosquito 4-75\n30 Inches",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3055-G-700x558.jpg",
-                  "description_items": [
-                    "Ideal machine for trowelling and finishing perimeters and for working flush with the wall even in restricted areas. It allows you to easily pass through doors and gates of buildings and warehouses. The rubber protection on the rotating ring allows you to slide along walls or around columns without damaging the machine or the wall.",
-                    "Available with a diameter of 600 or 750 mm and with 4 or 6 blades (suitable for finishing epoxy resin floors).",
-                    "Folding handle",
-                    "Palette",
-                    "Stabilizer circle",
-                    "Float disc"
-                  ],
-                  "models": [
-                    {
-                      "Engine" : "Choose an option 4 6Clear",
-                      "Blade": null
-                    },
-                    {
-                      "Code": "3055",
-                      "Engine" : "HONDA GX 160",
-                      "Rotor diameter (cm)": "750",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "128",
-                      "Power Hp": "5.5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "54"
-                    },
-                    {
-                      "Code": "3057",
-                      "Engine" : "HONDA GX 200",
-                      "Rotor diameter (cm)": "750",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "128",
-                      "Power Hp": "6.5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "56"
-                    },
-                    {
-                      "Code": "3061",
-                      "Engine" : "B&S 5HP",
-                      "Rotor diameter (cm)": "750",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "128",
-                      "Power Hp": "5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "54"
-                    },
-                    {
-                      "Code": "3063",
-                      "Engine" : "B&S 6.5HP",
-                      "Rotor diameter (cm)": "750",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "128",
-                      "Power Hp": "6.5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "56"
-                    },
-                    {
-                      "Code": "3065",
-                      "Engine" : "ROBIN 6CV",
-                      "Rotor diameter (cm)": "750",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "128",
-                      "Power Hp": "6",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "56"
-                    },
-                    {
-                      "Code": "3071",
-                      "Engine" : "VARIATOR/EL",
-                      "Rotor diameter (cm)": "750",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "56/168",
-                      "Power Hp": "3",
-                      "Starting": "Manual",
-                      "Power supply": "Electric",
-                      "WEIGHT (kg)": "61"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/4-80-32-inches/",
-                  "name": "4-80\n32 Inches",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3093G-4-80-HEAVY-DUTY-mini-044-700x553.jpg",
-                  "description_items": [
-                    "Single trowel Ø 800 mm for smoothing medium-sized surfaces that combines low cost with high performance. Equipped with a foldable “moskito” type handle and stabilizing ring.",
-                    "The “HD” version is supplied with a rigid handle and an efficient reducer for heavy duty applications.",
-                    "Folding handle",
-                    "Stabilizer circle",
-                    "Palette",
-                    "Trowel"
-                  ],
-                  "models": [
-                    {
-                      "Code": "3092",
-                      "Engine" : "HONDA GX 160",
-                      "Rotor diameter (cm)": "800",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "5.5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "58"
-                    },
-                    {
-                      "Code": "3094",
-                      "Engine" : "ROBIN 6CV",
-                      "Rotor diameter (cm)": "800",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "6",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "58"
-                    },
-                    {
-                      "Code": "3095",
-                      "Engine" : "VARIATOR/EL",
-                      "Rotor diameter (cm)": "800",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "56/168",
-                      "Power Hp": "3",
-                      "Starting": "Manual",
-                      "Power supply": "Electric",
-                      "WEIGHT (kg)": "66"
-                    },
-                    {
-                      "Code": "3099",
-                      "Engine" : "ELECTRIC 110V 60HZ",
-                      "Rotor diameter (cm)": "800",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "105",
-                      "Power Hp": "3",
-                      "Starting": "Manual",
-                      "Power supply": "Electric",
-                      "WEIGHT (kg)": "64"
-                    },
-                    {
-                      "Code": "3093",
-                      "Engine" : "HONDA GX 160",
-                      "Rotor diameter (cm)": "800",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "5.5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "78"
-                    },
-                    {
-                      "Code": "3089",
-                      "Engine" : "HONDA GX 200",
-                      "Rotor diameter (cm)": "800",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "6",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "78"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/4-90-36-inches/",
-                  "name": "4-90\n36 inches",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3100-L-700x440.jpg",
-                  "description_items": [
-                    "Single trowel ø 900 mm with 4 blades ideal for smoothing medium-sized surfaces. Allows the incorporation of hardeners for troweling and smoothing fresh concrete. Extremely balanced for optimal smoothing.",
-                    "Also available with 5 blades.",
-                    "Palette",
-                    "Trowel"
-                  ],
-                  "models": [
-                    {
-                      "Engine" : "Choose an option 4 5Clear",
-                      "Blade": null
-                    },
-                    {
-                      "Code": "3100F",
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "5,5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "74"
-                    },
-                    {
-                      "Code": "3103F",
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "6.5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "76"
-                    },
-                    {
-                      "Code": "3105F",
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "9",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "86"
-                    },
-                    {
-                      "Code": "3107F",
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "11",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "92"
-                    },
-                    {
-                      "Code": "3106F",
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "13",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "94"
-                    },
-                    {
-                      "Code": "3115F",
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "6",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "76"
-                    },
-                    {
-                      "Code": "3117F",
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "9",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "85"
-                    },
-                    {
-                      "Code": "3104F",
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "74"
-                    },
-                    {
-                      "Code": "3124F",
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "6.5",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "76"
-                    },
-                    {
-                      "Code": "3125F",
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "10",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "90"
-                    },
-                    {
-                      "Code": "3114",
-                      "Engine" : "1400/4200",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "56/168",
-                      "Power Hp": "3",
-                      "Starting": "Manual",
-                      "Power supply": "Electric",
-                      "WEIGHT (kg)": "84"
-                    },
-                    {
-                      "Code": "3121",
-                      "Engine" : "1400/4200",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "56/168",
-                      "Power Hp": "3",
-                      "Starting": "Manual",
-                      "Power supply": "Electric",
-                      "WEIGHT (kg)": "84"
-                    },
-                    {
-                      "Code": "3122",
-                      "Engine" : "2840",
-                      "Rotor diameter (cm)": "900",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "105",
-                      "Power Hp": "3",
-                      "Starting": "Manual",
-                      "Power supply": "Electric",
-                      "WEIGHT (kg)": "84"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/4-120-46-inches/",
-                  "name": "4-120\n46 Inches",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-700x470.jpg",
-                  "description_items": [
-                    "Single trowel ø 1200 mm with 4 blades ideal for smoothing medium-sized surfaces. Designed to have a balance that ensures smooth driving at any speed.",
-                    "Also available with 5 blades.",
-                    "Palette",
-                    "Trowel"
-                  ],
-                  "models": [
-                    {
-                      "Engine" : "Choose an option 4 5Clear",
-                      "Blade": null
-                    },
-                    {
-                      "Code": "3155F",
-                      "Engine" : "HONDA GX 270",
-                      "Rotor diameter (cm)": "1200",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "9",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "99"
-                    },
-                    {
-                      "Code": "3160F",
-                      "Engine" : "HONDA GX 340",
-                      "Rotor diameter (cm)": "1200",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "11",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "101"
-                    },
-                    {
-                      "Code": "3165F",
-                      "Engine" : "HONDA GX 390",
-                      "Rotor diameter (cm)": "1200",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "13",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "104"
-                    },
-                    {
-                      "Code": "3180F",
-                      "Engine" : "ROBIN 9CV",
-                      "Rotor diameter (cm)": "1200",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "9",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "98"
-                    },
-                    {
-                      "Code": "3183F",
-                      "Engine" : "ROBIN 14CV",
-                      "Rotor diameter (cm)": "1200",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "14",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "99"
-                    },
-                    {
-                      "Code": "3158F",
-                      "Engine" : "B&S 10HP",
-                      "Rotor diameter (cm)": "1200",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "10",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "100"
-                    },
-                    {
-                      "Code": "3159F",
-                      "Engine" : "B&S 14HP",
-                      "Rotor diameter (cm)": "1200",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "14",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "105"
-                    },
-                    {
-                      "Code": "3171F",
-                      "Engine" : "B&S 16CV",
-                      "Rotor diameter (cm)": "1200",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "16",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "105"
-                    },
-                    {
-                      "Code": "3190F",
-                      "Engine" : "LOMBARDINI 7.5HP",
-                      "Rotor diameter (cm)": "1200",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "7,5",
-                      "Starting": "Manual",
-                      "Power supply": "Diesel",
-                      "WEIGHT (kg)": "103"
-                    },
-                    {
-                      "Code": "3195F",
-                      "Engine" : "LOMBARDINI 10HP",
-                      "Rotor diameter (cm)": "1200",
-                      "Number of blades": "4",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "10",
-                      "Starting": "Manual",
-                      "Power supply": "Diesel",
-                      "WEIGHT (kg)": "120"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/ago-vibrante/",
-                  "name": "Vibrating poker",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/TKZX-45-AGO-VIBRANTE-700x602.jpg",
-                  "description_items": [
-                    "High frequency immersion vibrating needle to vibrate the concrete during pouring. Lightweight and compact, it eliminates the air bubbles that inevitably form during pouring to ensure maximum homogeneity and impermeability of the concrete."
-                  ],
-                  "models": [
-                    {
-                      "Code": "TKZX-45",
-                      "Engine" : "HONDA GX35",
-                      "Power Hp": "1,3",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "16"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/asphalt-20/",
-                  "name": "Asphalt 20",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
-                  "description_items": [
-                    "Asphalt is a powerful automatic advance joint cutter with reverse gear for deep cuts on asphalt and concrete floors for professional use. Hydraulic adjustment of the cutting depth with manual lever (or with electric pump on request) for different cutting depths. Maximum usable disc up to 450 mm in diameter for Asphalt 20 and 600 mm for Asphalt 30. Possibility of mounting a second disc on the opposite side. Supplied without disc.",
-                    "Lifting hook"
-                  ],
-                  "models": [
-                    {
-                      "Code": "3539",
-                      "Engine" : "HONDA GX690",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "22",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "240"
-                    },
-                    {
-                      "Code": "3543",
-                      "Engine" : "B&S 35CV",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "35",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "268"
-                    },
-                    {
-                      "Code": "3550",
-                      "Engine" : "B&S 37CV (EFI)",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "37",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "264"
-                    },
-                    {
-                      "Code": "3540",
-                      "Engine" : "KOHLER 23,5 CV",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "23.5",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "236"
-                    },
-                    {
-                      "Code": "3546",
-                      "Engine" : "KOHLER 38 CV",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "38",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": null
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/asphalt-30/",
-                  "name": "Asphalt 30",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
-                  "description_items": [
-                    "Asphalt is a powerful automatic advance joint cutter with reverse gear for deep cuts on asphalt and concrete floors for professional use. Hydraulic adjustment of the cutting depth with manual lever (or with electric pump on request) for different cutting depths. Maximum usable disc up to 450 mm in diameter for Asphalt 20 and 600 mm for Asphalt 30. Possibility of mounting a second disc on the opposite side. Supplied without disc.",
-                    "Lifting hook"
-                  ],
-                  "models": [
-                    {
-                      "Code": "3557",
-                      "Engine" : "B.& S.",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "35",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "348"
-                    },
-                    {
-                      "Code": "3562",
-                      "Engine" : "B.& S. (EFI)",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "37",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "348"
-                    },
-                    {
-                      "Code": "3563",
-                      "Engine" : "KOHLER",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "38",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "350"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/floor-10/",
-                  "name": "Floor 10",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/FLOOR-10-APERTA-DISCO-mini-058-700x586.jpg",
-                  "description_items": [
-                    "Manually operated joint cutter designed for cutting expansion joints on both asphalt and concrete floors for professional use. 70L steel water tank. Carter designed for discs up to 450 mm in diameter. On request it can be supplied with a carter for a ø 600 mm disc. Possibility of mounting a second disc on the opposite side. Manual cutting depth adjustment with handwheel (or hydraulic with manual lever or electric pump on request). Supplied without disc.",
-                    "Lifting hook"
-                  ],
-                  "models": [
-                    {
-                      "Code": "3444",
-                      "Engine" : "HONDA GX 390",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "": null,
-                      "Power Hp": "13",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "185"
-                    },
-                    {
-                      "Code": "3445",
-                      "Engine" : "HONDA GX 390",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "": null,
-                      "Power Hp": "13",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "185"
-                    },
-                    {
-                      "Code": "3450",
-                      "Engine" : "HONDA GX 630",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "": null,
-                      "Power Hp": "21",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "192"
-                    },
-                    {
-                      "Code": "3452",
-                      "Engine" : "HONDA GX 690",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "": null,
-                      "Power Hp": "22",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "198"
-                    },
-                    {
-                      "Code": "3455",
-                      "Engine" : "B.& S. 18CV avv el",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "": null,
-                      "Power Hp": "18",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "193"
-                    },
-                    {
-                      "Code": "3460",
-                      "Engine" : "B.& S. 18CV",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "": null,
-                      "Power Hp": "18",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "193"
-                    },
-                    {
-                      "Code": "3472",
-                      "Engine" : "KOHLER 23,5CV",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "": null,
-                      "Power Hp": "23.5",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "193"
-                    },
-                    {
-                      "Code": "3474",
-                      "Engine" : "KOHLER 25CV",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "": null,
-                      "Power Hp": "25",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "201"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/floor-20/",
-                  "name": "Floor 20",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
-                  "description_items": [
-                    "Manually operated joint cutter designed for cutting expansion joints on both asphalt and concrete floors for professional use. 80L steel water tank. Carter designed for discs up to 450 mm in diameter. On request, it can be supplied with a carter for a ø 600 mm disc. Possibility of mounting a second disc on the opposite side. Manual cutting depth adjustment with handwheel (or hydraulic with manual lever or electric pump on request). Supplied without disc.",
-                    "Lifting hook"
-                  ],
-                  "models": [
-                    {
-                      "Code": "3505",
-                      "Engine" : "HONDA GX690",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "POWER": "22",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "219"
-                    },
-                    {
-                      "Code": "3522",
-                      "Engine" : "B&S 35CV",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "POWER": "35",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "238"
-                    },
-                    {
-                      "Code": "3519",
-                      "Engine" : "B&S 37CV",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "POWER": "37",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "238"
-                    },
-                    {
-                      "Code": "3517",
-                      "Engine" : "KOHLER",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "POWER": "25",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "226"
-                    },
-                    {
-                      "Code": "3513",
-                      "Engine" : "KOHLER",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "POWER": "38",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "240"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/floor-30/",
-                  "name": "Floor 30",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
-                  "description_items": [
-                    "Manually operated joint cutter designed for cutting expansion joints on asphalt and concrete floors for professional use. Also suitable for demolishing floors. 90L steel water tank. Carter designed for discs up to 600 mm in diameter. On request it can be supplied with a carter for a ø 800 mm disc. Possibility of mounting a second disc on the opposite side. Hydraulic adjustment of the cutting depth with a manual lever (or with an electric pump on request). Supplied without disc.",
-                    "Lifting hook"
-                  ],
-                  "models": [
-                    {
-                      "Code": "3529",
-                      "Engine" : "B&S 35 CV",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "35",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "316"
-                    },
-                    {
-                      "Code": "3535",
-                      "Engine" : "B&S 37 CV",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "37",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "316"
-                    },
-                    {
-                      "Code": "3536",
-                      "Engine" : "KOHLER",
-                      "OUTPUT SPEED (rpm)": "3200",
-                      "Power Hp": "38",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "320"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/floor-6/",
-                  "name": "Floor 6",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3435-FLOOR-6-MIRINO-700x858.jpg",
-                  "description_items": [
-                    "Manually operated joint cutter designed for cutting expansion joints on both asphalt and concrete floors. 25L plastic water tank. Carter designed for discs up to 350 mm in diameter. Manual cutting depth adjustment with handwheel. Supplied without disc. Discs for fresh concrete available.",
-                    "Lifting hook"
-                  ],
-                  "models": [
-                    {
-                      "Code": "3435",
-                      "Engine" : "HONDA GX 390",
-                      "OUTPUT SPEED (rpm)": "2950",
-                      "Power Hp": "13",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "102"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
-                  "name": "MK8-75\n30 Inches",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
-                  "description_items": [
-                    "MK8-75 is the smallest ride-on double float in the range. Equipped with two ø 750 mm rotors with 8 blades that do not cross. It floats and finishes with the same efficiency. Ideal for jobs close to walls and perfect as a complement to large machines that cannot work in tight spaces. Its dimensions allow it to pass through a standard door. Thanks to its low weight it can be positioned on the concrete before heavier machines.",
-                    "Float disc",
-                    "Palette"
-                  ],
-                  "models": [
-                    {
-                      "Code": "3205",
-                      "Engine" : "HONDA GX 390",
-                      "Rotor diameter (cm)": "750x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "13",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "205"
-                    },
-                    {
-                      "Code": "3206",
-                      "Engine" : "HONDA GX 390",
-                      "Rotor diameter (cm)": "750x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "13",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "206"
-                    },
-                    {
-                      "Code": "3210",
-                      "Engine" : "B&S.18HP s/serb",
-                      "Rotor diameter (cm)": "750x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "18",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "212"
-                    },
-                    {
-                      "Code": "3229",
-                      "Engine" : "B&S.18HP c/serb",
-                      "Rotor diameter (cm)": "750x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "23",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "212"
-                    },
-                    {
-                      "Code": "3209",
-                      "Engine" : "B&S 23HP FILTER CYCLE",
-                      "Rotor diameter (cm)": "750x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "23",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "212"
-                    },
-                    {
-                      "Code": "3211",
-                      "Engine" : "B&S 23HP AVV.EL.",
-                      "Rotor diameter (cm)": "750x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "23",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "212"
-                    },
-                    {
-                      "Code": "3208",
-                      "Engine" : "ROBIN 14CV",
-                      "Rotor diameter (cm)": "750x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "14",
-                      "Starting": "Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "208"
-                    },
-                    {
-                      "Code": "3207",
-                      "Engine" : "ROBIN 14CV EL.AVV.",
-                      "Rotor diameter (cm)": "750x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "133",
-                      "Power Hp": "14",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "212"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/mk8-90-36-inches/",
-                  "name": "MK8-90\n36 Inches",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
-                  "description_items": [
-                    "Double float with operator on board ideal for the float and finishing of medium/large concrete surfaces. Equipped with 2 rotors ø 900 mm with 8 blades that do not cross each other therefore used with float discs.",
-                    "Also available with 10 blades.",
-                    "Palette",
-                    "Float disc"
-                  ],
-                  "models": [
-                    {
-                      "Engine" : "Choose an option 10 8Clear",
-                      "Blade": null
-                    },
-                    {
-                      "Code": "3260",
-                      "Engine" : "HONDA GX 630",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "21",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "283"
-                    },
-                    {
-                      "Code": "3265",
-                      "Engine" : "HONDA GX 690",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "22",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "290"
-                    },
-                    {
-                      "Code": "3240",
-                      "Engine" : "HONDA GX 800",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "25",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "295"
-                    },
-                    {
-                      "Code": "3271",
-                      "Engine" : "B&S 23CV",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "23",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "296"
-                    },
-                    {
-                      "Code": "3272",
-                      "Engine" : "B&S 35CV",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "35",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "304"
-                    },
-                    {
-                      "Code": "3255",
-                      "Engine" : "KOHLER 23,5CV",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "23.5",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "286"
-                    },
-                    {
-                      "Code": "3257",
-                      "Engine" : "KOHLER 25CV",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "25",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "293"
-                    },
-                    {
-                      "Code": "3269",
-                      "Engine" : "KUBOTA 25CV",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "25",
-                      "Starting": "Electric",
-                      "Power supply": "Diesel",
-                      "WEIGHT (kg)": "320"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/ol-90-36-inches/",
-                  "name": "OL-90\n36 Inches",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
-                  "description_items": [
-                    "Double float with operator on board for finishing medium/large concrete surfaces. Equipped with 2 rotors ø 900 mm with 8 blades that cross. Supplied with pedal accelerator (or manual on request) and high speed kit for a brilliant smoothing.",
-                    "High speed",
-                    "Palette"
-                  ],
-                  "models": [
-                    {
-                      "Code": "3235",
-                      "Engine" : "HONDA GX 630",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "199",
-                      "Power Hp": "21",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "253"
-                    },
-                    {
-                      "Code": "3236",
-                      "Engine" : "HONDA GX 690",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "199",
-                      "Power Hp": "22",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "255"
-                    },
-                    {
-                      "Code": "3225",
-                      "Engine" : "B&S 18CV c/serb",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "199",
-                      "Power Hp": "18",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "250"
-                    },
-                    {
-                      "Code": "3226",
-                      "Engine" : "B&S 23CV",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "199",
-                      "Power Hp": "23",
-                      "Starting": "Electric/Manual",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "250"
-                    },
-                    {
-                      "Code": "3222",
-                      "Engine" : "KOHLER 23,5CV",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "199",
-                      "Power Hp": "23.5",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "255"
-                    },
-                    {
-                      "Code": "3224",
-                      "Engine" : "KOHLER 25CV",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "199",
-                      "Power Hp": "25",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": "258"
-                    }
-                  ]
-                },
-                {
-                  "category": "Concrete",
-                  "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
-                  "name": "MK8-90 HCS – Monster\n36 Inches",
-                  "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
-                  "description_items": [
-                    "Double machine with operator on board for industrial flooring with dual use, both troweling and finishing, ideal for large surfaces. Equipped with 2 rotors ø 900 mm with 8 blades that do not cross. Use with trowel discs. Hydraulic driving system with 2 joysticks. Raised seat for greater visibility."
-                  ],
-                  "models": [
-                    {
-                      "Code": null,
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "16",
-                      "Power Hp": "27",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": null
-                    },
-                    {
-                      "Code": null,
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "30",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": null
-                    },
-                    {
-                      "Code": null,
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "31",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": null
-                    },
-                    {
-                      "Code": null,
-                      "Engine" : "3600",
-                      "Rotor diameter (cm)": "900x2",
-                      "Number of blades": "8",
-                      "OUTPUT SPEED (rpm)": "116",
-                      "Power Hp": "35",
-                      "Starting": "Electric",
-                      "Power supply": "Gas",
-                      "WEIGHT (kg)": null
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables trowels and noses barikell",
+                  "category": "Trowels",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole/",
                   "name": "Trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
@@ -2630,7 +1178,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables trowels and noses barikell",
+                  "category": "Trowels",
                   "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe/",
                   "name": "Ramp escapes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
@@ -2651,7 +1199,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables trowels and noses barikell",
+                  "category": "Trowels",
                   "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
                   "name": "Escapes for toothed ramps",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3987-FUGA-PER-RAMPE-700x524.jpg",
@@ -2667,7 +1215,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables trowels and noses barikell",
+                  "category": "Trowels",
                   "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini/",
                   "name": "Noses for steps",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/NASINO_3970.jpg",
@@ -2688,7 +1236,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables",
+                  "category": "Diamond blades",
                   "productUrl": "https://www.barikell.it/prodotto/alto-rendimento-cf5/",
                   "name": "High performance CF5",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg",
@@ -2717,745 +1265,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/big-blue-float-solo-profilo/",
-                  "name": "Big blue float – Profile only",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13977-mini-027-700x443.jpg",
-                  "description_items": [
-                    "Marshalltown"
-                  ],
-                  "models": [
-                    {
-                      "ART": "MT13977",
-                      "PROFILE SIZE": "914X314 MM"
-                    },
-                    {
-                      "ART": "MT13987",
-                      "PROFILE SIZE": "1219X314 MM"
-                    },
-                    {
-                      "ART": "MT13988",
-                      "PROFILE SIZE": "1524X314 MM"
-                    },
-                    {
-                      "ART": "MT13989",
-                      "PROFILE SIZE": "1829X314 MM"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/bull-float-arrotondato-con-manico-e-snodo/",
-                  "name": "Rounded bull float with handle and joint",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
-                  "description_items": [
-                    "Marshalltown"
-                  ],
-                  "models": [
-                    {
-                      "ART": "MT14028C",
-                      "HANDLE DIMENSIONS": "1.80MT",
-                      "PROFILE DIMENSIONS": "914X203"
-                    },
-                    {
-                      "ART": "MT14721C",
-                      "HANDLE DIMENSIONS": "1.80MT",
-                      "PROFILE DIMENSIONS": "1219X203"
-                    },
-                    {
-                      "ART": "MT14030C",
-                      "HANDLE DIMENSIONS": "1.80MT",
-                      "PROFILE DIMENSIONS": "1524X203"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/bull-float-solo-profilo-arrotondato/",
-                  "name": "Bull float only rounded profile",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
-                  "description_items": [
-                    "Marshalltown"
-                  ],
-                  "models": [
-                    {
-                      "ART": "MT14028",
-                      "PROFILE DIMENSIONS": "914X203"
-                    },
-                    {
-                      "ART": "MT14721",
-                      "PROFILE DIMENSIONS": "1219X203"
-                    },
-                    {
-                      "ART": "MT14030",
-                      "PROFILE DIMENSIONS": "1524X203"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/cazzuole/",
-                  "name": "Trowels",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
-                  "description_items": [
-                    "Trowels"
-                  ],
-                  "models": [
-                    {
-                      "ART": "5700",
-                      "MEASUREMENT": "280x120 mm",
-                      "HANDLE": "wood",
-                      "PACKAGING": "6"
-                    },
-                    {
-                      "ART": "5701",
-                      "MEASUREMENT": "300x100 mm",
-                      "HANDLE": "wood",
-                      "PACKAGING": "6"
-                    },
-                    {
-                      "ART": "5702",
-                      "MEASUREMENT": "360X100 mm",
-                      "HANDLE": "wood",
-                      "PACKAGING": "6"
-                    },
-                    {
-                      "ART": "5703",
-                      "MEASUREMENT": "280x120 mm",
-                      "HANDLE": "plastic",
-                      "PACKAGING": "6"
-                    },
-                    {
-                      "ART": "5704",
-                      "MEASUREMENT": "300x100 mm",
-                      "HANDLE": "plastic",
-                      "PACKAGING": "6"
-                    },
-                    {
-                      "ART": "5705",
-                      "MEASUREMENT": "360x100 mm",
-                      "HANDLE": "plastic",
-                      "PACKAGING": "6"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-1-punta-arrotondata/",
-                  "name": "1 rounded tip trowels",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13510-mini-021-700x454.jpg",
-                  "description_items": [
-                    "Marshalltown"
-                  ],
-                  "models": [
-                    {
-                      "ART.": "MT13511",
-                      "DIMENSIONS": "406X102",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART.": "MT13510",
-                      "DIMENSIONS": "406X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART.": "MT13512",
-                      "DIMENSIONS": "457X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART.": "MT13514",
-                      "DIMENSIONS": "508X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART.": "MT13513",
-                      "DIMENSIONS": "457X102",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART.": "MT13515",
-                      "DIMENSIONS": "508X102",
-                      "HANDLE": "PLASTIC"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-2-punte-arrotondate/",
-                  "name": "2-pointed rounded trowels",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13521-mini-005-700x467.jpg",
-                  "description_items": [
-                    "Marshalltown"
-                  ],
-                  "models": [
-                    {
-                      "ART": "MT13521",
-                      "DIMENSIONS": "356X102",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART": "MT13520",
-                      "DIMENSIONS": "356X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART": "MT13522",
-                      "DIMENSIONS": "406X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART": "MT13524",
-                      "DIMENSIONS": "457X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART": "MT13536",
-                      "DIMENSIONS": "508X102",
-                      "HANDLE": "WOOD-BLUE STEEL"
-                    },
-                    {
-                      "ART": "MT13523",
-                      "DIMENSIONS": "406X102",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART": "MT13525",
-                      "DIMENSIONS": "457X102",
-                      "HANDLE": "PLASTIC"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/cazzuole-bordi-squadrati/",
-                  "name": "Square edge trowels",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13229-mini-020-700x330.jpg",
-                  "description_items": [
-                    "Mashalltown"
-                  ],
-                  "models": [
-                    {
-                      "ART.": "MT13229",
-                      "DIMENSIONS": "356X102",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART.": "MT13226",
-                      "DIMENSIONS": "356X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART.": "MT13246",
-                      "DIMENSIONS": "406X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART.": "MT13266",
-                      "DIMENSIONS": "457X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART.": "MT13446",
-                      "DIMENSIONS": "305X127",
-                      "HANDLE": "PLASTIC-GOLDEN"
-                    },
-                    {
-                      "ART.": "MT13249",
-                      "DIMENSIONS": "406X102",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART.": "MT13269",
-                      "DIMENSIONS": "457X102",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART": "MT13818",
-                      "DIMENSIONS": "356X102",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART": "MT13819",
-                      "DIMENSIONS": "406X102",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART": "MT13837",
-                      "DIMENSIONS": "457X102",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART": "MT13802",
-                      "DIMENSIONS": "356X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART": "MT13803",
-                      "DIMENSIONS": "406X102",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART": "MT13804",
-                      "DIMENSIONS": "457X102",
-                      "HANDLE": "WOOD"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/cazzuole-particolari/",
-                  "name": "Special trowels",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13230-mini-002-700x467.jpg",
-                  "description_items": [
-                    "Marshalltown"
-                  ],
-                  "models": [
-                    {
-                      "ART": "MT13230",
-                      "DIMENSIONS": "356X102",
-                      "HANDLE AND FEATURES": "PLASTIC- CARBON INCLINED"
-                    },
-                    {
-                      "ART": "MT14610",
-                      "DIMENSIONS": "406X79",
-                      "HANDLE AND FEATURES": "PLASTIC-MAGNESIUM TROWEL"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/dischi-frattazzo/",
-                  "name": "Trowel Discs",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/discofrattazzo1.jpg",
-                  "description_items": [
-                    "Float discs"
-                  ],
-                  "models": [
-                    {
-                      "Art.": "1890",
-                      "Compatible machines": "Moskito Sand and cement",
-                      "Diameter (mm)": "600",
-                      "Weight kg": "13.00"
-                    },
-                    {
-                      "Art.": "4100",
-                      "Compatible machines": "Moskito backgrounds",
-                      "Diameter (mm)": "600",
-                      "Weight kg": "5.00"
-                    },
-                    {
-                      "Art.": "4105",
-                      "Compatible machines": "Moskito 4-60 4 tabs",
-                      "Diameter (mm)": "600",
-                      "Weight kg": "5.00"
-                    },
-                    {
-                      "Art.": "4110",
-                      "Compatible machines": "Moskito 6-60 2 tabs",
-                      "Diameter (mm)": "600",
-                      "Weight kg": "5.00"
-                    },
-                    {
-                      "Art.": "4115",
-                      "Compatible machines": "Moskito 75 2 tabs",
-                      "Diameter (mm)": "750",
-                      "Weight kg": "7.80"
-                    },
-                    {
-                      "Art.": "4117",
-                      "Compatible machines": "MK8-75",
-                      "Diameter (mm)": "750",
-                      "Weight kg": "7.80"
-                    },
-                    {
-                      "Art.": "4120",
-                      "Compatible machines": "4-90 / MK8-90 / MK8-90 HCS sp. 3mm",
-                      "Diameter (mm)": "900",
-                      "Weight kg": "18.50"
-                    },
-                    {
-                      "Art.": "4121",
-                      "Compatible machines": "4-90 / MK8-90 / MK8-90 HCS sp. 4mm",
-                      "Diameter (mm)": "900",
-                      "Weight kg": "25.00"
-                    },
-                    {
-                      "Art.": "4133",
-                      "Compatible machines": "5-90 / MK10-90 Hcs",
-                      "Diameter (mm)": "90",
-                      "Weight kg": "18.70"
-                    },
-                    {
-                      "Art.": "4125",
-                      "Compatible machines": "4-120 / MK8-120 / MK8-120 HCS sp. 3mm",
-                      "Diameter (mm)": "1200",
-                      "Weight kg": "28.00"
-                    },
-                    {
-                      "Art.": "4126",
-                      "Compatible machines": "4-120 / MK8-120 / MK8-120 HCS sp. 4mm",
-                      "Diameter (mm)": "1200",
-                      "Weight kg": "35.50"
-                    },
-                    {
-                      "Art.": "4134",
-                      "Compatible machines": "5-120 / MK10-120 HCS",
-                      "Diameter (mm)": "1200",
-                      "Weight kg": "28.20"
-                    },
-                    {
-                      "Art.": "4130",
-                      "Compatible machines": "MK12-160 spessore 3 mm",
-                      "Diameter (mm)": "1600",
-                      "Weight kg": "55.00"
-                    },
-                    {
-                      "Art.": "4131",
-                      "Compatible machines": "MK12-160 spessore 4 mm",
-                      "Diameter (mm)": "1600",
-                      "Weight kg": "58.00"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/frattazzi/",
-                  "name": "Floating Trowels",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
-                  "description_items": [
-                    "Trowels"
-                  ],
-                  "models": [
-                    {
-                      "Item": "4148",
-                      "Compatible machines": "4-80 / MK-75",
-                      "Thickness (mm)": "3",
-                      "Weight kg": "6.698"
-                    },
-                    {
-                      "Item": "4150",
-                      "Compatible machines": "4-90 / OL90 / MK8-90 dx",
-                      "Thickness (mm)": "3",
-                      "Weight kg": "9.300"
-                    },
-                    {
-                      "Item": "4155",
-                      "Compatible machines": "OL90 / MK8-90 left",
-                      "Thickness (mm)": "3",
-                      "Weight kg": "9.300"
-                    },
-                    {
-                      "Item": "4160",
-                      "Compatible machines": "4-120 / OL120 / MK8-120 dx",
-                      "Thickness (mm)": "3",
-                      "Weight kg": "12.500"
-                    },
-                    {
-                      "Item": "4165",
-                      "Compatible machines": "OL120 / MK8-120 sx",
-                      "Thickness (mm)": "3",
-                      "Weight kg": "12.500"
-                    },
-                    {
-                      "Item": "4180",
-                      "Compatible machines": "4-120 / OL120 / MK8-120 dx",
-                      "Thickness (mm)": "4",
-                      "Weight kg": "16.500"
-                    },
-                    {
-                      "Item": "4185",
-                      "Compatible machines": "OL120 / MK8-120 sx",
-                      "Thickness (mm)": "4",
-                      "Weight kg": "16.500"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-2/",
-                  "name": "Ramp escapes",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14102-mini-031-700x449.jpg",
-                  "description_items": [
-                    "Marshalltown"
-                  ],
-                  "models": [
-                    {
-                      "ART": "MT14102",
-                      "DIMENSIONS": "152X76",
-                      "BLADE": "13",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART": "MT14107",
-                      "DIMENSIONS": "152X111",
-                      "BLADE": "25",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART": "MT13836",
-                      "DIMENSIONS": "152X76",
-                      "BLADE": "13",
-                      "HANDLE": "WOOD"
-                    },
-                    {
-                      "ART": "MT10953",
-                      "DIMENSIONS": "152X76",
-                      "BLADE": "13",
-                      "HANDLE": "PLASTIC"
-                    },
-                    {
-                      "ART": "MT11105",
-                      "DIMENSIONS": "152X76",
-                      "BLADE": "13",
-                      "HANDLE": "PLASTIC"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe/",
-                  "name": "Ramp escapes",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
-                  "description_items": [
-                    "Ramp escapes"
-                  ],
-                  "models": [
-                    {
-                      "Art": "3961",
-                      "Description": "mm HEM 15 mm",
-                      "HANDLE": "Wood"
-                    },
-                    {
-                      "Art": "3968",
-                      "Description": "100x200 mm HEM 25 mm",
-                      "HANDLE": "Wood"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
-                  "name": "Escapes for toothed ramps",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/3987-FUGA-PER-RAMPE-700x524.jpg",
-                  "description_items": [
-                    "Escapes for toothed ramps"
-                  ],
-                  "models": [
-                    {
-                      "Art.": "3987",
-                      "Description": "9-TOOTH RAMPS GAP mm x 9 mm THICKNESS",
-                      "HANDLE": "Plastic"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/giunti/",
-                  "name": "Joints",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg",
-                  "description_items": [
-                    "Ideal connecting unit for joining sections of concrete flooring made at different times."
-                  ],
-                  "models": [
-                    {
-                      "Raw Item": "5150",
-                      "Zinc-Plated Item": "5170",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "70 mm"
-                    },
-                    {
-                      "Raw Item": "5151",
-                      "Zinc-Plated Item": "5171",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "80 mm"
-                    },
-                    {
-                      "Raw Item": "5152",
-                      "Zinc-Plated Item": "5172",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "90 mm"
-                    },
-                    {
-                      "Raw Item": "5153",
-                      "Zinc-Plated Item": "5173",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "100 mm"
-                    },
-                    {
-                      "Raw Item": "5154",
-                      "Zinc-Plated Item": "5174",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "110 mm"
-                    },
-                    {
-                      "Raw Item": "5155",
-                      "Zinc-Plated Item": "5175",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "120 mm"
-                    },
-                    {
-                      "Raw Item": "5156",
-                      "Zinc-Plated Item": "5176",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "130 mm"
-                    },
-                    {
-                      "Raw Item": "5157",
-                      "Zinc-Plated Item": "5177",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "140 mm"
-                    },
-                    {
-                      "Raw Item": "5158",
-                      "Zinc-Plated Item": "5178",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "150 mm"
-                    },
-                    {
-                      "Raw Item": "5159",
-                      "Zinc-Plated Item": "5179",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "160 mm"
-                    },
-                    {
-                      "Raw Item": "5160",
-                      "Zinc-Plated Item": "5180",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "170 mm"
-                    },
-                    {
-                      "Raw Item": "5161",
-                      "Zinc-Plated Item": "5181",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "180 mm"
-                    },
-                    {
-                      "Raw Item": "5162",
-                      "Zinc-Plated Item": "5182",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "190 mm"
-                    },
-                    {
-                      "Raw Item": "5163",
-                      "Zinc-Plated Item": "5183",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "200 mm"
-                    },
-                    {
-                      "Raw Item": "5164",
-                      "Zinc-Plated Item": "5184",
-                      "Description": "Double sheet metal construction joint without bars",
-                      "Height": "210 mm"
-                    },
-                    {
-                      "Item": "5090",
-                      "Description": "Single barrel complete with PVC sheath and cap",
-                      "Length": "600 mm",
-                      "Diameter": "14 mm"
-                    },
-                    {
-                      "Item": "5091",
-                      "Description": "Single barrel complete with PVC sheath and cap",
-                      "Length": "750 mm",
-                      "Diameter": "16 mm"
-                    },
-                    {
-                      "Item": "5092",
-                      "Description": "Single barrel complete with PVC sheath and cap",
-                      "Length": "750 mm",
-                      "Diameter": "18 mm"
-                    },
-                    {
-                      "Item": "5093",
-                      "Description": "Single barrel complete with PVC sheath and cap",
-                      "Length": "750 mm",
-                      "Diameter": "20 mm"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables",
-                  "productUrl": "https://www.barikell.it/prodotto/golden-blades/",
-                  "name": "Palette golden",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/4225-G2-GOLD-490-mini-022-700x318.jpg",
-                  "description_items": [
-                    "Golden blades"
-                  ],
-                  "models": [
-                    {
-                      "Art.": "4225G",
-                      "Description": "Palette 4-90",
-                      "Weight kg": "5,042"
-                    },
-                    {
-                      "Art.": "4228G",
-                      "Description": "Palette 5-90",
-                      "Weight kg": "6,310"
-                    },
-                    {
-                      "Art.": "4230G",
-                      "Description": "Palette 4-120",
-                      "Weight kg": "6,700"
-                    },
-                    {
-                      "Art.": "4234G",
-                      "Description": "Palette 5-120",
-                      "Weight kg": "8,36"
-                    },
-                    {
-                      "Art.": "4250G",
-                      "Description": "Combi 4-90",
-                      "Weight kg": "5,750"
-                    },
-                    {
-                      "Art.": "4251G",
-                      "Description": "Combi 5-90 special",
-                      "Weight kg": "7,190"
-                    },
-                    {
-                      "Art.": "4255G",
-                      "Description": "Combi 4-120",
-                      "Weight kg": "7,744"
-                    },
-                    {
-                      "Art.": "4254G",
-                      "Description": "Combi 5-120 special",
-                      "Weight kg": "9,680"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables diamond discs",
-                  "productUrl": "https://www.barikell.it/prodotto/alto-rendimento-cf5/",
-                  "name": "High performance CF5",
-                  "image": "https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg",
-                  "description_items": [
-                    "Suitable for wet cutting on surfaces laid between 24 and 48 hours. Slow, but long-lasting, it is suitable for hand-pulled floors."
-                  ],
-                  "models": [
-                    {
-                      "Item": "4087",
-                      "Diameter": "300",
-                      "Thickness": "2.8",
-                      "Bore": "30 + reduction bushing"
-                    },
-                    {
-                      "Item": "4088",
-                      "Diameter": "350",
-                      "Thickness": "2.8",
-                      "Bore": "30 + reduction bushing"
-                    },
-                    {
-                      "Item": "4089",
-                      "Diameter": "350",
-                      "Thickness": "3.2",
-                      "Bore": "30 + reduction bushing"
-                    }
-                  ]
-                },
-                {
-                  "category": "Consumables diamond discs",
+                  "category": "Diamond blades",
                   "productUrl": "https://www.barikell.it/prodotto/medio-rendimento-cf2/",
                   "name": "Medium yield CF2",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/disco-taglio-copia-s-scaled-700x567.jpg",
@@ -3484,7 +1294,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
                   "name": "MK8-75\n30 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
@@ -3585,7 +1395,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-90-36-inches/",
                   "name": "MK8-90\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
@@ -3691,7 +1501,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/ol-90-36-inches/",
                   "name": "OL-90\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
@@ -3770,7 +1580,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
                   "name": "MK8-90 HCS – Monster\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
@@ -3825,7 +1635,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches/",
                   "name": "MK8-90 HCS\n36 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MK8_90-HCS_mini-700x487.jpg",
@@ -3913,7 +1723,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-120-46-inches/",
                   "name": "MK8-120\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
@@ -4010,7 +1820,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/ol-120-46-inches/",
                   "name": "OL-120\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3295G-INT-700x439.jpg",
@@ -4078,7 +1888,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches-monster/",
                   "name": "MK8-120HCS – Monster\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
@@ -4158,7 +1968,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches/",
                   "name": "MK8-120 HCS\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-GANCIO-700x443.jpg",
@@ -4253,7 +2063,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/ol-120hcs-46-inches/",
                   "name": "OL-120 HCS\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/OL-120HCS.jpg",
@@ -4327,7 +2137,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels double",
+                  "category": "Ride-on trowel",
                   "productUrl": "https://www.barikell.it/prodotto/mk12-160hcs-64-inches/",
                   "name": "MK12-160 HCS\n64 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3384-MK-12_160-HCS-mini-028-700x353.jpg",
@@ -4362,7 +2172,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels single",
+                  "category": "Hand trowel",
                   "productUrl": "https://www.barikell.it/prodotto/moskito-60-24-inches-pale/",
                   "name": "Mosquito 4-60\n24 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg",
@@ -4452,7 +2262,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels single",
+                  "category": "Hand trowel",
                   "productUrl": "https://www.barikell.it/prodotto/moskito-75-30-inches/",
                   "name": "Mosquito 4-75\n30 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3055-G-700x558.jpg",
@@ -4538,7 +2348,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels single",
+                  "category": "Hand trowel",
                   "productUrl": "https://www.barikell.it/prodotto/4-80-32-inches/",
                   "name": "4-80\n32 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3093G-4-80-HEAVY-DUTY-mini-044-700x553.jpg",
@@ -4620,7 +2430,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels single",
+                  "category": "Hand trowel",
                   "productUrl": "https://www.barikell.it/prodotto/4-90-36-inches/",
                   "name": "4-90\n36 inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3100-L-700x440.jpg",
@@ -4781,7 +2591,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels single",
+                  "category": "Hand trowel",
                   "productUrl": "https://www.barikell.it/prodotto/4-120-46-inches/",
                   "name": "4-120\n46 Inches",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-700x470.jpg",
@@ -4909,7 +2719,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete trowels single",
+                  "category": "Hand trowel",
                   "productUrl": "https://www.barikell.it/prodotto/moskito-sabbia-cemento/",
                   "name": "Mosquito Sabbia cement",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3043G-SABBIA-CEMENTO-mini-038-700x668.jpg",
@@ -4975,7 +2785,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables construction joints",
+                  "category": "Construction joints",
                   "productUrl": "https://www.barikell.it/prodotto/giunti/",
                   "name": "Joints",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg",
@@ -5100,7 +2910,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables heath",
+                  "category": "Consumable material sleeve",
                   "productUrl": "https://www.barikell.it/prodotto/guaina/",
                   "name": "Sheath",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3662-GUAINA-NERA-35-SOPRA-700x630.jpg",
@@ -5181,7 +2991,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables heath",
+                  "category": "Consumable material sleeve",
                   "productUrl": "https://www.barikell.it/prodotto/guaina-a-palloncino/",
                   "name": "Balloon sheath",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/GUAINA-A-PALLONCINO-700x322.jpg",
@@ -5276,7 +3086,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables heath",
+                  "category": "Consumable material sleeve",
                   "productUrl": "https://www.barikell.it/prodotto/posa-guaina/",
                   "name": "Sheath laying",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3650-CARRELLO-SVOLGIGUAINA-700x965.jpg",
@@ -5292,7 +3102,7 @@
                   ]
                 },
                 {
-                  "category": "consumabilimarshalltown",
+                  "category": "Marshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/big-blue-float-solo-profilo/",
                   "name": "Big blue float – Profile only",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13977-mini-027-700x443.jpg",
@@ -5319,7 +3129,7 @@
                   ]
                 },
                 {
-                  "category": "consumabilimarshalltown",
+                  "category": "Marshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/bull-float-arrotondato-con-manico-e-snodo/",
                   "name": "Rounded bull float with handle and joint",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
@@ -5345,7 +3155,7 @@
                   ]
                 },
                 {
-                  "category": "consumabilimarshalltown",
+                  "category": "Marshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/bull-float-solo-profilo-arrotondato/",
                   "name": "Bull float only rounded profile",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
@@ -5368,7 +3178,7 @@
                   ]
                 },
                 {
-                  "category": "consumabilimarshalltown",
+                  "category": "Marshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-1-punta-arrotondata/",
                   "name": "1 rounded tip trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13510-mini-021-700x454.jpg",
@@ -5409,7 +3219,7 @@
                   ]
                 },
                 {
-                  "category": "consumabilimarshalltown",
+                  "category": "Marshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-2-punte-arrotondate/",
                   "name": "2-pointed rounded trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13521-mini-005-700x467.jpg",
@@ -5455,7 +3265,7 @@
                   ]
                 },
                 {
-                  "category": "consumabilimarshalltown",
+                  "category": "Marshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-bordi-squadrati/",
                   "name": "Square edge trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13229-mini-020-700x330.jpg",
@@ -5531,7 +3341,7 @@
                   ]
                 },
                 {
-                  "category": "consumabilimarshalltown",
+                  "category": "Marshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/cazzuole-particolari/",
                   "name": "Special trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13230-mini-002-700x467.jpg",
@@ -5552,7 +3362,7 @@
                   ]
                 },
                 {
-                  "category": "consumabilimarshalltown",
+                  "category": "Marshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-2/",
                   "name": "Ramp escapes",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14102-mini-031-700x449.jpg",
@@ -5593,7 +3403,7 @@
                   ]
                 },
                 {
-                  "category": "consumabilimarshalltown",
+                  "category": "Marshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-dritti/",
                   "name": "Noses for steps with straight edges",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14288-mini-010-700x467.jpg",
@@ -5682,7 +3492,7 @@
                   ]
                 },
                 {
-                  "category": "consumabilimarshalltown",
+                  "category": "Marshalltown",
                   "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-ricurvi/",
                   "name": "Step Noses with Curved Edges",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14156-mini-009-700x467.jpg",
@@ -6147,7 +3957,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables palettes trowels and discs",
+                  "category": "Chains, clamps, and discs",
                   "productUrl": "https://www.barikell.it/prodotto/dischi-frattazzo/",
                   "name": "Trowel Discs",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/discofrattazzo1.jpg",
@@ -6242,7 +4052,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables palettes trowels and discs",
+                  "category": "Chains, clamps, and discs",
                   "productUrl": "https://www.barikell.it/prodotto/frattazzi/",
                   "name": "Floating Trowels",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
@@ -6295,7 +4105,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables palettes trowels and discs",
+                  "category": "Chains, clamps, and discs",
                   "productUrl": "https://www.barikell.it/prodotto/golden-blades/",
                   "name": "Palette golden",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4225-G2-GOLD-490-mini-022-700x318.jpg",
@@ -6346,7 +4156,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables palettes trowels and discs",
+                  "category": "Chains, clamps, and discs",
                   "productUrl": "https://www.barikell.it/prodotto/palette/",
                   "name": "Palette finish",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4200-PALETTE-MOSQUITO-mini-053-700x374.jpg",
@@ -6432,7 +4242,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables palettes trowels and discs",
+                  "category": "Chains, clamps, and discs",
                   "productUrl": "https://www.barikell.it/prodotto/palette-combinate/",
                   "name": "Combi palette",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4253-COMBI-SPECIAL-4_90-mini-069-700x329.jpg",
@@ -6513,7 +4323,7 @@
                   ]
                 },
                 {
-                  "category": "Consumables palettes trowels and discs",
+                  "category": "Chains, clamps, and discs",
                   "productUrl": "https://www.barikell.it/prodotto/palette-in-teflon/",
                   "name": "Palette teflon",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4141-PALETTA-TEFLON-120-mini-067-700x237.jpg",
@@ -6554,7 +4364,7 @@
                   ]
                 },
                 {
-                  "category": "Concretepolishing",
+                  "category": "Edge polisher",
                   "productUrl": "https://www.barikell.it/prodotto/polish-4-60/",
                   "name": "4-60\nPolish",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3004-POLISHING-mini-010-700x629.jpg",
@@ -6577,7 +4387,7 @@
                   ]
                 },
                 {
-                  "category": "Concretepolishing",
+                  "category": "Edge polisher",
                   "productUrl": "https://www.barikell.it/prodotto/mp8-75-polish/",
                   "name": "Mp8-75\nPolish",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
@@ -6609,7 +4419,7 @@
                   ]
                 },
                 {
-                  "category": "Concretepolishing",
+                  "category": "Edge polisher",
                   "productUrl": "https://www.barikell.it/prodotto/mp8-90-polish/",
                   "name": "Mp8-90\nPolish",
                   "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
@@ -6651,7 +4461,7 @@
                   ]
                 },
                 {
-                  "category": "Concretepowder",
+                  "category": "Spreader cart",
                   "productUrl": "https://www.barikell.it/prodotto/spolverine-br-150/",
                   "name": "Dusters br 150",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3405-SPOLVERINA-BR150-700x786.jpg",
@@ -6670,7 +4480,7 @@
                   ]
                 },
                 {
-                  "category": "Concretepowder",
+                  "category": "Spreader cart",
                   "productUrl": "https://www.barikell.it/prodotto/spolverine-br100/",
                   "name": "Dusters br100",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3402-SPOLVERINA-BR100-mini-049-700x750.jpg",
@@ -6685,7 +4495,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete stagge and vibrating needle",
+                  "category": "Screed and concrete vibrator",
                   "productUrl": "https://www.barikell.it/prodotto/ago-vibrante/",
                   "name": "Vibrating poker",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/TKZX-45-AGO-VIBRANTE-700x602.jpg",
@@ -6704,7 +4514,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete stagge and vibrating needle",
+                  "category": "Screed and concrete vibrator",
                   "productUrl": "https://www.barikell.it/prodotto/staggia-vibrante-a-1-manico/",
                   "name": "Vibrating straight edge with 1 handle",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4489-STAGGIA-UN-MANICO-700x716.jpg",
@@ -6738,7 +4548,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete stagge and vibrating needle",
+                  "category": "Screed and concrete vibrator",
                   "productUrl": "https://www.barikell.it/prodotto/staggia-vibrante-a-2-manici/",
                   "name": "2-handle vibrating straightedge",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/4972-STAGGIA-2-MAN-PROF-2.5-700x508.jpg",
@@ -6800,7 +4610,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete joint cutter",
+                  "category": "Joint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/asphalt-20/",
                   "name": "Asphalt 20",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
@@ -6857,7 +4667,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete joint cutter",
+                  "category": "Joint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/asphalt-30/",
                   "name": "Asphalt 30",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
@@ -6896,7 +4706,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete joint cutter",
+                  "category": "Joint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/floor-10/",
                   "name": "Floor 10",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/FLOOR-10-APERTA-DISCO-mini-058-700x586.jpg",
@@ -6988,7 +4798,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete joint cutter",
+                  "category": "Joint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/floor-20/",
                   "name": "Floor 20",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
@@ -7045,7 +4855,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete joint cutter",
+                  "category": "Joint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/floor-30/",
                   "name": "Floor 30",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
@@ -7084,7 +4894,7 @@
                   ]
                 },
                 {
-                  "category": "Concrete joint cutter",
+                  "category": "Joint cutter",
                   "productUrl": "https://www.barikell.it/prodotto/floor-6/",
                   "name": "Floor 6",
                   "image": "https://www.barikell.it/wp-content/uploads/2019/05/3435-FLOOR-6-MIRINO-700x858.jpg",

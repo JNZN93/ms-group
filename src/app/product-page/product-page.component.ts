@@ -206,7 +206,7 @@ export class ProductPageComponent implements OnInit, OnDestroy {
 
   getCategoryImage(category: string): string {
     const categoryMap: { [key: string]: string } = {
-      'Beton': 'https://images.unsplash.com/photo-1605100804763-247f67b3557e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+      //Barikell DEUTSCH
       'Fugenschneider': 'https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg',
       'Aufsitzglätter': 'https://www.barikell.it/wp-content/uploads/2019/05/OL-120HCS.jpg',
       'Handglätter': 'https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg',
@@ -214,17 +214,31 @@ export class ProductPageComponent implements OnInit, OnDestroy {
       'Einstreuwagen': 'https://www.barikell.it/wp-content/uploads/2019/05/3405-SPOLVERINA-BR150-700x786.jpg',
       'Abziehpatsche und Betoninnenrüttler': 'https://www.barikell.it/wp-content/uploads/2019/05/4489-STAGGIA-UN-MANICO-700x716.jpg',
       'Motoren': 'https://www.barikell.it/wp-content/uploads/2025/02/4414-MOTORE-BS-23-HP-mini-055.jpg',
-      'Vebrauchsmaterial': 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
       'Kellen': 'https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg',
       'Konstruktionsverbindungen': 'https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg',
       'Marshalltown': 'https://www.barikell.it/wp-content/uploads/2019/05/MT13977-mini-027-700x443.jpg',
       'Ketten Schellen und Scheiben': 'https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg',
       'Diamantscheiben': 'https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg',
-      'Verbrauchsmaterialmaterialhülle': 'https://images.unsplash.com/photo-1581094271901-8022df4466f9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-      'Zubehör': 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-      'Zubehör Barikell': 'https://images.pexels.com/photos/221027/pexels-photo-221027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
-      'Zubehör für Doppel': 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-      'Zubehör für Singel': 'https://images.unsplash.com/photo-1581093057305-3ecb60a72147?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+      'Verbrauchsmaterialhülle': 'https://www.barikell.it/wp-content/uploads/2019/05/3662-GUAINA-NERA-35-SOPRA-700x630.jpg',
+      'Zubehör Barikell': 'https://www.barikell.it/wp-content/uploads/2019/05/5300-TRACCIARIGHE-50-MT-700x486.jpg',
+      'Zubehör für Aufsitzglätter': 'https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg',
+      'Zubehör für Handglätter': 'https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg',
+      //Barikell ENGLISH
+      "Joint cutter": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
+      "Ride-on trowel": "https://www.barikell.it/wp-content/uploads/2019/05/OL-120HCS.jpg",
+      "Hand trowel": "https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg",
+      "Edge polisher": "https://www.barikell.it/wp-content/uploads/2025/02/3004-POLISHING-mini-010-700x629.jpg",
+      "Spreader cart": "https://www.barikell.it/wp-content/uploads/2019/05/3405-SPOLVERINA-BR150-700x786.jpg",
+      "Screed and concrete vibrator": "https://www.barikell.it/wp-content/uploads/2019/05/4489-STAGGIA-UN-MANICO-700x716.jpg",
+      "Engines": "https://www.barikell.it/wp-content/uploads/2025/02/4414-MOTORE-BS-23-HP-mini-055.jpg",
+      "Trowels": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
+      "Construction joints": "https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg",
+      "Chains, clamps, and discs": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
+      "Diamond blades": "https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg",
+      "Consumable material sleeve": "https://www.barikell.it/wp-content/uploads/2019/05/3662-GUAINA-NERA-35-SOPRA-700x630.jpg",
+      "Barikell accessories": "https://www.barikell.it/wp-content/uploads/2019/05/5300-TRACCIARIGHE-50-MT-700x486.jpg",
+      "Ride-on trowel accessories": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-TORQUE-CONV-mini-041-700x467.jpg",
+      "Hand trowel accessories": "https://www.barikell.it/wp-content/uploads/2019/05/cerchioapribile-700x525.jpg"
     };
     return categoryMap[category] || 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'; // Fallback-Bild
   }
