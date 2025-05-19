@@ -2577,7 +2577,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Kellen und Nasen Barikell",
+              "category": "Kellen",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole/",
               "name": "Kellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/5702-CAZZUOLA-MANICO-LEGNO-700x257.jpg",
@@ -2624,7 +2624,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Kellen und Nasen Barikell",
+              "category": "Kellen",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe/",
               "name": "Rampenflucht",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3960-FUGA.jpg",
@@ -2645,7 +2645,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Kellen und Nasen Barikell",
+              "category": "Kellen",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-dentate/",
               "name": "Ausstiege für Zahnrampen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3987-FUGA-PER-RAMPE-700x524.jpg",
@@ -2661,7 +2661,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Kellen und Nasen Barikell",
+              "category": "Kellen",
               "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini/",
               "name": "Nasen für Stufen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/NASINO_3970.jpg",
@@ -3420,7 +3420,7 @@
               ]
             },
             {
-              "category": "VerbrauchsmaterialDiamantscheiben",
+              "category": "Diamantscheiben",
               "productUrl": "https://www.barikell.it/prodotto/alto-rendimento-cf5/",
               "name": "Hochleistungs-CF5",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/DISCO-DIAMANTATO.jpg",
@@ -3449,7 +3449,7 @@
               ]
             },
             {
-              "category": "VerbrauchsmaterialDiamantscheiben",
+              "category": "Diamantscheiben",
               "productUrl": "https://www.barikell.it/prodotto/medio-rendimento-cf2/",
               "name": "Mittlere Ausbeute CF2",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/disco-taglio-copia-s-scaled-700x567.jpg",
@@ -3478,7 +3478,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/mk8-75-30-inches/",
               "name": "MK8-75\n30 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3205-MK8_75GX390-700x510.jpg",
@@ -3579,7 +3579,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-36-inches/",
               "name": "MK8-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
@@ -3685,7 +3685,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/ol-90-36-inches/",
               "name": "OL-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3236G-700x482.jpg",
@@ -3764,7 +3764,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches-monster/",
               "name": "MK8-90 HCS – Monster\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
@@ -3819,7 +3819,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/mk8-90-hcs-36-inches/",
               "name": "MK8-90 HCS\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MK8_90-HCS_mini-700x487.jpg",
@@ -3907,7 +3907,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/mk8-120-46-inches/",
               "name": "MK8-120\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3265G-INT-700x466.jpg",
@@ -4004,7 +4004,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/ol-120-46-inches/",
               "name": "OL-120\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3295G-INT-700x439.jpg",
@@ -4072,7 +4072,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches-monster/",
               "name": "MK8-120HCS – Monster\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3314_15_23-MONSTER-120-BS37-mini-093-700x474.jpg",
@@ -4152,7 +4152,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/mk8-120hcs-46-inches/",
               "name": "MK8-120 HCS\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3316Y_15-GANCIO-700x443.jpg",
@@ -4247,7 +4247,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/ol-120hcs-46-inches/",
               "name": "OL-120 HCS\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/OL-120HCS.jpg",
@@ -4321,7 +4321,7 @@
               ]
             },
             {
-              "category": "Betonkellen doppelt",
+              "category": "Aufsitzglätter",
               "productUrl": "https://www.barikell.it/prodotto/mk12-160hcs-64-inches/",
               "name": "MK12-160 HCS\n64 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3384-MK-12_160-HCS-mini-028-700x353.jpg",
@@ -4356,7 +4356,7 @@
               ]
             },
             {
-              "category": "Betonkellen einzeln",
+              "category": "Handglätter",
               "productUrl": "https://www.barikell.it/prodotto/moskito-60-24-inches-pale/",
               "name": "Moskito 4-60\n24 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3005-GB-MOSKITO-700x549.jpg",
@@ -4446,7 +4446,7 @@
               ]
             },
             {
-              "category": "Betonkellen einzeln",
+              "category": "Handglätter",
               "productUrl": "https://www.barikell.it/prodotto/moskito-75-30-inches/",
               "name": "Moskito 4-75\n30 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3055-G-700x558.jpg",
@@ -4532,7 +4532,7 @@
               ]
             },
             {
-              "category": "Betonkellen einzeln",
+              "category": "Handglätter",
               "productUrl": "https://www.barikell.it/prodotto/4-80-32-inches/",
               "name": "4-80\n32 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3093G-4-80-HEAVY-DUTY-mini-044-700x553.jpg",
@@ -4614,7 +4614,7 @@
               ]
             },
             {
-              "category": "Betonkellen einzeln",
+              "category": "Handglätter",
               "productUrl": "https://www.barikell.it/prodotto/4-90-36-inches/",
               "name": "4-90\n36 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3100-L-700x440.jpg",
@@ -4775,7 +4775,7 @@
               ]
             },
             {
-              "category": "Betonkellen einzeln",
+              "category": "Handglätter",
               "productUrl": "https://www.barikell.it/prodotto/4-120-46-inches/",
               "name": "4-120\n46 Zoll",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3165-L-700x470.jpg",
@@ -4903,7 +4903,7 @@
               ]
             },
             {
-              "category": "Betonkellen einzeln",
+              "category": "Handglätter",
               "productUrl": "https://www.barikell.it/prodotto/moskito-sabbia-cemento/",
               "name": "Mosquito Sabbia Zement",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3043G-SABBIA-CEMENTO-mini-038-700x668.jpg",
@@ -4969,7 +4969,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Konstruktionsverbindungen",
+              "category": "Konstruktionsverbindungen",
               "productUrl": "https://www.barikell.it/prodotto/giunti/",
               "name": "Gelenke",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/giuntibarotti.jpg",
@@ -5286,7 +5286,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Marshalltown",
+              "category": "Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/big-blue-float-solo-profilo/",
               "name": "Großer blauer Schwimmer – Nur Profil",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13977-mini-027-700x443.jpg",
@@ -5313,7 +5313,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Marshalltown",
+              "category": "Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/bull-float-arrotondato-con-manico-e-snodo/",
               "name": "Abgerundete Bullenpose mit Griff und Gelenk",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
@@ -5339,7 +5339,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Marshalltown",
+              "category": "Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/bull-float-solo-profilo-arrotondato/",
               "name": "Bull Float nur abgerundetes Profil",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14030-mini-030-700x327.jpg",
@@ -5362,7 +5362,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Marshalltown",
+              "category": "Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-1-punta-arrotondata/",
               "name": "1 Kelle mit abgerundeter Spitze",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13510-mini-021-700x454.jpg",
@@ -5403,7 +5403,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Marshalltown",
+              "category": "Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-a-2-punte-arrotondate/",
               "name": "2-spitzige Rundkellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13521-mini-005-700x467.jpg",
@@ -5449,7 +5449,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Marshalltown",
+              "category": "Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-bordi-squadrati/",
               "name": "Kellen mit quadratischer Kante",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13229-mini-020-700x330.jpg",
@@ -5525,7 +5525,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Marshalltown",
+              "category": "Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/cazzuole-particolari/",
               "name": "Spezialkellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT13230-mini-002-700x467.jpg",
@@ -5546,7 +5546,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Marshalltown",
+              "category": "Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/fughe-per-rampe-2/",
               "name": "Rampenflucht",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14102-mini-031-700x449.jpg",
@@ -5587,7 +5587,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Marshalltown",
+              "category": "Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-dritti/",
               "name": "Stufenkanten für Treppenstufen mit geraden Kanten",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14288-mini-010-700x467.jpg",
@@ -5676,7 +5676,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Marshalltown",
+              "category": "Marshalltown",
               "productUrl": "https://www.barikell.it/prodotto/nasini-per-gradini-con-bordi-ricurvi/",
               "name": "Stufennasen mit gebogenen Kanten",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/MT14156-mini-009-700x467.jpg",
@@ -6141,7 +6141,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
+              "category": "Ketten Schellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/dischi-frattazzo/",
               "name": "Kellenscheiben",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/discofrattazzo1.jpg",
@@ -6236,7 +6236,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
+              "category": "Ketten Schellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/frattazzi/",
               "name": "Glättkellen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4165-FRATTAZZO-120-SX-mini-052-700x347.jpg",
@@ -6289,7 +6289,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
+              "category": "Ketten Schellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/golden-blades/",
               "name": "Palette golden",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4225-G2-GOLD-490-mini-022-700x318.jpg",
@@ -6340,7 +6340,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
+              "category": "Ketten Schellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/palette/",
               "name": "Palettenoberfläche",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4200-PALETTE-MOSQUITO-mini-053-700x374.jpg",
@@ -6426,7 +6426,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
+              "category": "Ketten Schellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/palette-combinate/",
               "name": "Kombipalette",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4253-COMBI-SPECIAL-4_90-mini-069-700x329.jpg",
@@ -6507,7 +6507,7 @@
               ]
             },
             {
-              "category": "Verbrauchsmaterial Paletten Kellen und Scheiben",
+              "category": "Ketten Schellen und Scheiben",
               "productUrl": "https://www.barikell.it/prodotto/palette-in-teflon/",
               "name": "Teflonpalette",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4141-PALETTA-TEFLON-120-mini-067-700x237.jpg",
@@ -6548,7 +6548,7 @@
               ]
             },
             {
-              "category": "Betonpolieren",
+              "category": "Randpolierer",
               "productUrl": "https://www.barikell.it/prodotto/polish-4-60/",
               "name": "4-60\nPolierer",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3004-POLISHING-mini-010-700x629.jpg",
@@ -6571,7 +6571,7 @@
               ]
             },
             {
-              "category": "Betonpolieren",
+              "category": "Randpolierer",
               "productUrl": "https://www.barikell.it/prodotto/mp8-75-polish/",
               "name": "MP8-75\nPolierer",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
@@ -6603,7 +6603,7 @@
               ]
             },
             {
-              "category": "Betonpolieren",
+              "category": "Randpolierer",
               "productUrl": "https://www.barikell.it/prodotto/mp8-90-polish/",
               "name": "MP8-90\nPolierer",
               "image": "https://www.barikell.it/wp-content/uploads/2025/02/3254-G_10-MP8_90-POLISHING-mini-088-700x477.jpg",
@@ -6645,7 +6645,7 @@
               ]
             },
             {
-              "category": "Betonpulver",
+              "category": "Einstreuwagen",
               "productUrl": "https://www.barikell.it/prodotto/spolverine-br-150/",
               "name": "Staubabzugsgerät br 150",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3405-SPOLVERINA-BR150-700x786.jpg",
@@ -6664,7 +6664,7 @@
               ]
             },
             {
-              "category": "Betonpulver",
+              "category": "Einstreuwagen",
               "productUrl": "https://www.barikell.it/prodotto/spolverine-br100/",
               "name": "Staubabzugsgerät br100",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3402-SPOLVERINA-BR100-mini-049-700x750.jpg",
@@ -6679,7 +6679,7 @@
               ]
             },
             {
-              "category": "Betonstempel und Vibrationsnadel",
+              "category": "Abziehpatsche und Betoninnenrüttler",
               "productUrl": "https://www.barikell.it/prodotto/ago-vibrante/",
               "name": "Vibrationsstab",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/TKZX-45-AGO-VIBRANTE-700x602.jpg",
@@ -6698,7 +6698,7 @@
               ]
             },
             {
-              "category": "Betonstempel und Vibrationsnadel",
+              "category": "Abziehpatsche und Betoninnenrüttler",
               "productUrl": "https://www.barikell.it/prodotto/staggia-vibrante-a-1-manico/",
               "name": "Vibrierende Richtschnur mit 1 Griff",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4489-STAGGIA-UN-MANICO-700x716.jpg",
@@ -6732,7 +6732,7 @@
               ]
             },
             {
-              "category": "Betonstempel und Vibrationsnadel",
+              "category": "Abziehpatsche und Betoninnenrüttler",
               "productUrl": "https://www.barikell.it/prodotto/staggia-vibrante-a-2-manici/",
               "name": "Vibrationslineal mit 2 Griffen",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/4972-STAGGIA-2-MAN-PROF-2.5-700x508.jpg",
@@ -6794,7 +6794,7 @@
               ]
             },
             {
-              "category": "Betonfugenschneider",
+              "category": "Fugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/asphalt-20/",
               "name": "Asphalt 20",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
@@ -6851,7 +6851,7 @@
               ]
             },
             {
-              "category": "Betonfugenschneider",
+              "category": "Fugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/asphalt-30/",
               "name": "Asphalt 30",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3543-HEF-ASPHALT-mini-019-700x582.jpg",
@@ -6890,7 +6890,7 @@
               ]
             },
             {
-              "category": "Betonfugenschneider",
+              "category": "Fugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/floor-10/",
               "name": "Floor 10",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/FLOOR-10-APERTA-DISCO-mini-058-700x586.jpg",
@@ -6974,7 +6974,7 @@
               ]
             },
             {
-              "category": "Betonfugenschneider",
+              "category": "Fugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/floor-20/",
               "name": "Floor 20",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
@@ -7031,7 +7031,7 @@
               ]
             },
             {
-              "category": "Betonfugenschneider",
+              "category": "Fugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/floor-30/",
               "name": "Floor 30",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3529-HEF-FLOOR-30-mini-025-700x518.jpg",
@@ -7070,7 +7070,7 @@
               ]
             },
             {
-              "category": "Betonfugenschneider",
+              "category": "Fugenschneider",
               "productUrl": "https://www.barikell.it/prodotto/floor-6/",
               "name": "Floor 6",
               "image": "https://www.barikell.it/wp-content/uploads/2019/05/3435-FLOOR-6-MIRINO-700x858.jpg",
